@@ -721,7 +721,7 @@ function toggleInlineMode() {
 function buildInlineHTML(cn, py) {
     if (!py) return `<span class="char-group"><span class="char-py">&nbsp;</span><span class="char-cn">${cn}</span></span>`;
     const pyParts = py.trim().split(/\s+/);
-    const cnClean = cn.replace(/^[①②③④⑤⑥⑦⑧⑨⑩\[【副歌\]】\(\)（）]+\s*/, '');
+    const cnClean = cn.replace(/^[⑤⑥⑦⑧⑨⑩\[【副歌\]】\(\)（）]+\s*/, '');
     const cnChars = cnClean.match(/[\u4e00-\u9fff][，。；：？！、""''「」『』（）…—～·]?|[^\u4e00-\u9fff]+/g) || [cnClean];
     let html = '', pyIdx = 0;
     for (const ch of cnChars) {
