@@ -1,5 +1,336 @@
 const hymns_cn = [
   {
+    id: 91,
+    title: "想念主爱",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { 
+            cn: "我昼夜常纪念祢的爱，耶稣！不能测长阔与高深，取不尽，用不竭，离不开，耶稣！祢爱真充满在我心；", 
+            py: "wǒ zhòu yè cháng jì niàn nǐ de ài, yē sū! bù néng cè cháng kuò yǔ gāo shēn, qǔ bù jìn, yòng bù jié, lí bù kāi, yē sū! nǐ ài zhēn chōng mǎn zài wǒ xīn;" 
+          },
+          { 
+            cn: "祢因爱肯降世成肉身，耶稣！舍弃祢荣光大宝座，竟生在律法下为人子，耶稣！甘心受贫寒无枕所。", 
+            py: "nǐ yīn ài kěn jiàng shì chéng ròu shēn, yē sū! shě qì nǐ róng guāng dà bǎo zuò, jìng shēng zài lǜ fǎ xià wéi rén zǐ, yē sū! gān xīn shòu pín hán wú zhěn suǒ。" 
+          },
+          { 
+            cn: "我的爱都奉献祢脚前，耶稣！因祢比万有满我意；", 
+            py: "wǒ de ài dōu fèng xiàn nǐ jiǎo qián, yē sū! yīn nǐ bǐ wàn yǒu mǎn wǒ yì;" 
+          },
+          { 
+            cn: "祢永远又尽美又尽善，耶稣！我心欢喜住祢怀里。", 
+            py: "nǐ yǒng yuǎn yòu jìn měi yòu jìn shàn, yē sū! wǒ xīn huān xǐ zhù nǐ huái lǐ。" 
+          }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { 
+            cn: "祢的爱如筵席气味香，耶稣！让我蒙恩人来饱尝，多亏祢在十架代死亡，耶稣！甘愿受咒诅挂木上；", 
+            py: "nǐ de ài rú yán xí qì wèi xiāng, yē sū! ràng wǒ méng ēn rén lái bǎo cháng, duō kuī nǐ zài shí jià dài sǐ wáng, yē sū! gān yuàn shòu zhòu zǔ guà mù shàng;" 
+          },
+          { 
+            cn: "救赎我出死亡、脱罪孽，耶稣！祢血洗净我白于雪，又差遣保惠师训诲我，耶稣！祢爱在我身永不缺。", 
+            py: "jiù shú wǒ chū sǐ wáng、 tuō zuì niè, yē sū! nǐ xuè xǐ jìng wǒ bái yú xuè, yòu chāi qiǎn bǎo huì shī xùn huì wǒ, yē sū! nǐ ài zài wǒ shēn yǒng bù quē。" 
+          },
+          { 
+            cn: "我的爱都奉献祢脚前，耶稣！因祢比万有满我意；", 
+            py: "wǒ de ài dōu fèng xiàn nǐ jiǎo qián, yē sū! yīn nǐ bǐ wàn yǒu mǎn wǒ yì;" 
+          },
+          { 
+            cn: "祢永远又尽美又尽善，耶稣！我心欢喜住祢怀里。", 
+            py: "nǐ yǒng yuǎn yòu jìn měi yòu jìn shàn, yē sū! wǒ xīn huān xǐ zhù nǐ huái lǐ。" 
+          }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { 
+            cn: "我昼夜常羡慕祢的家，耶稣！在天为圣徒预备好，黄金街、碧玉城，乐无涯，耶稣！不再有痛苦与烦恼；", 
+            py: "wǒ zhòu yè cháng xiàn mù nǐ de jiā, yē sū! zài tiān wéi shèng tú yù bèi hǎo, huáng jīn jiē、 bì yù chéng, lè wú yá, yē sū! bù zài yǒu tòng kǔ yǔ fán nǎo;" 
+          },
+          { 
+            cn: "得常在祢脚前享爱情，耶稣！普世所有福难较量，祢的爱至永远不变更，耶稣！将来必使我得荣耀。", 
+            py: "dé cháng zài nǐ jiǎo qián xiǎng ài qíng, yē sū! pǔ shì suǒ yǒu fú nán jiào liàng, nǐ de ài zhì yǒng yuǎn bù biàn gēng, yē sū! jiāng lái bì shǐ wǒ dé róng yào。" 
+          },
+          { 
+            cn: "我的爱都奉献祢脚前，耶稣！因祢比万有满我意；", 
+            py: "wǒ de ài dōu fèng xiàn nǐ jiǎo qián, yē sū! yīn nǐ bǐ wàn yǒu mǎn wǒ yì;" 
+          },
+          { 
+            cn: "祢永远又尽美又尽善，耶稣！我心欢喜住祢怀里。", 
+            py: "nǐ yǒng yuǎn yòu jìn měi yòu jìn shàn, yē sū! wǒ xīn huān xǐ zhù nǐ huái lǐ。" 
+          }
+        ]
+      }
+    ]
+  }，
+  {
+    id: 303,
+    title: "天国来了",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { 
+            cn: "天国来了，时候到了！当悔改，须及早；", 
+            py: "tiān guó lái le, shí hòu dào le! dāng huǐ gǎi, xū jí zǎo;" 
+          },
+          { 
+            cn: "要做好树，结出好果，免斧头砍倒。", 
+            py: "yào zuò hǎo shù, jié chū hǎo guǒ, miǎn fǔ tóu kǎn dǎo。" 
+          },
+          { 
+            cn: "耶稣功比天更高，信者罪赦，福气多；", 
+            py: "yē sū gōng bǐ tiān gèng gāo, xìn zhě zuì shè, fú qì duō;" 
+          },
+          { 
+            cn: "得真平安，乐陶陶，必永远唱歌。", 
+            py: "dé zhēn píng ān, lè táo táo, bì yǒng yuǎn chàng gē。" 
+          }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { 
+            cn: "假神去了，真神来了！合家人，福不小；", 
+            py: "jiǎ shén qù le, zhēn shén lái le! hé jiā rén, fú bù xiǎo;" 
+          },
+          { 
+            cn: "明白天道，蒙主恩召，领洗入圣教。", 
+            py: "míng bái tiān dào, méng zhǔ ēn zhào, lǐng xǐ rù shèng jiào。" 
+          },
+          { 
+            cn: "耶稣功比天更高，信者罪赦，福气多；", 
+            py: "yē sū gōng bǐ tiān gèng gāo, xìn zhě zuì shè, fú qì duō;" 
+          },
+          { 
+            cn: "得真平安，乐陶陶，必永远唱歌。", 
+            py: "dé zhēn píng ān, lè táo táo, bì yǒng yuǎn chàng gē。" 
+          }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { 
+            cn: "罪孽赦了，疾病好了！当感谢，常祈祷；", 
+            py: "zuì niè shè le, jí bìng hǎo le! dāng gǎn xiè, cháng qí dǎo;" 
+          },
+          { 
+            cn: "主是中保，流血、代祷，使与神和好。", 
+            py: "zhǔ shì zhōng bǎo, liú xuè、 dài dǎo, shǐ yǔ shén hé hǎo。" 
+          },
+          { 
+            cn: "耶稣功比天更高，信者罪赦，福气多；", 
+            py: "yē sū gōng bǐ tiān gèng gāo, xìn zhě zuì shè, fú qì duō;" 
+          },
+          {
+            cn: "得真平安，乐陶陶，必永远唱歌。", 
+            py: "dé zhēn píng ān, lè táo táo, bì yǒng yuǎn chàng gē。" 
+          }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { 
+            cn: "圣灵得了，心眼开了！有真光，常内照；", 
+            py: "shèng líng dé le, xīn yǎn kāi le! yǒu zhēn guāng, cháng nèi zhào;" 
+          },
+          { 
+            cn: "救主引导，天路力跑，天国必能到。", 
+            py: "jiù zhǔ yǐn dǎo, tiān lù lì pǎo, tiān guó bì néng dào。" 
+          },
+          {
+            cn: "耶稣功比天更高，信者罪赦，福气多；", 
+            py: "yē sū gōng bǐ tiān gèng gāo, xìn zhě zuì shè, fú qì duō;" 
+          },
+          {
+            cn: "得真平安，乐陶陶，必永远唱歌。", 
+            py: "dé zhēn píng ān, lè táo táo, bì yǒng yuǎn chàng gē。" 
+          }
+        ]
+      }
+    ]
+  },
+  {
+    id: 281,
+    title: "叹未得人",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { 
+            cn: "主若今日接我灵魂，能否欢然进乐园？", 
+            py: "zhǔ ruò jīn rì jiē wǒ líng hún, néng fǒu huān rán jìn lè yuán?" 
+          },
+          { 
+            cn: "缺少珍果向主献陈，岂非白受主大恩？", 
+            py: "quē shǎo zhēn guǒ xiàng zhǔ xiàn chén, qǐ fēi bái shòu zhǔ dà ēn?" 
+          },
+          { 
+            cn: "工作未成我即去乎？何能如此见恩主？", 
+            py: "gōng zuò wèi chéng wǒ jí qù hū? hé néng rú cǐ jiàn ēn zhǔ?" 
+          },
+          {  
+            cn: "未领一人来归耶稣，岂可空手回天府？", 
+            py: "wèi lǐng yī rén lái guī yē sū, qǐ kě kōng shǒu huí tiān fǔ?" 
+          }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { 
+            cn: "此时离世本无忧惧，因主耶稣已救我；", 
+            py: "cǐ shí lí shì běn wú yōu jù, yīn zhǔ yē sū yǐ jiù wǒ;" 
+          },
+          { 
+            cn: "惟有一事使我怀愁，空占地土未结果。", 
+            py: "wéi yǒu yī shì shǐ wǒ huái chóu, kōng zhàn dì tǔ wèi jié guǒ。" 
+          },
+          { 
+            cn: "工作未成我即去乎？何能如此见恩主？", 
+            py: "gōng zuò wèi chéng wǒ jí qù hū? hé néng rú cǐ jiàn ēn zhǔ?" 
+          },
+          {  
+            cn: "未领一人来归耶稣，岂可空手回天府？", 
+            py: "wèi lǐng yī rén lái guī yē sū, qǐ kě kōng shǒu huí tiān fǔ?" 
+          }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { 
+            cn: "我们务当竭尽心力，殷勤做工趁白昼；", 
+            py: "wǒ men wù dāng jié jìn xīn lì, yīn qín zuò gōng chèn bái zhòu;" 
+          },
+          { 
+            cn: "不多时候黑夜就来，当快引人蒙拯救。", 
+            py: "bù duō shí hòu hēi yè jiù lái, dāng kuài yǐn rén méng zhěng jiù。" 
+          },
+          {  
+            cn: "工作未成我即去乎？何能如此见恩主？", 
+            py: "gōng zuò wèi chéng wǒ jí qù hū? hé néng rú cǐ jiàn ēn zhǔ?" 
+          },
+          { 
+            cn: "未领一人来归耶稣，岂可空手回天府？", 
+            py: "wèi lǐng yī rén lái guī yē sū, qǐ kě kōng shǒu huí tiān fǔ?" 
+          }
+        ]
+      }
+    ]
+  },
+  {
+    id: 260,
+    title: "清晨颂主",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { 
+            cn: "①倚靠天父时常保护，一夜平安歇息；", 
+            py: "yǐ kào tiān fù shí cháng bǎo hù, yī yè píng ān xiē xī;" 
+          },
+          { 
+            cn: "于今我要恭敬称颂，感谢天父恩德，感谢天父恩德。", 
+            py: "yú jīn wǒ yào gōng jìng chēng sòng, gǎn xiè tiān fù ēn dé, gǎn xiè tiān fù ēn dé。" 
+          }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { 
+            cn: "②恳求天父今日照顾，样样所做顺利；", 
+            py: "kěn qiú tiān fù jīn rì zhào gù, yàng yàng suǒ zuò shùn lì;" 
+          },
+          { 
+            cn: "救我免罪，保我免祸，常常遵主旨意，常常遵主旨意。", 
+            py: "jiù wǒ miǎn zuì, bǎo wǒ miǎn huò, cháng cháng zūn zhǔ zhǐ yì, cháng cháng zūn zhǔ zhǐ yì。" 
+          }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { 
+            cn: "③慈悲圣灵住我里面，使我身心安泰；", 
+            py: "cí bēi shèng líng zhù wǒ lǐ miàn, shǐ wǒ shēn xīn ān tài;" 
+          },
+          { 
+            cn: "赐我力量，助我事奉，预备迎主再来，预备迎主再来。", 
+            py: "cì wǒ lì liàng, zhù wǒ shì fèng, yù bèi yíng zhǔ zài lái, yù bèi yíng zhǔ zài lái。" 
+          }
+        ]
+      }
+    ]
+  },
+  {
+    id: 266,
+    title: "传扬福音",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { 
+            cn: "①奉主差遣，传扬福音，当做仆役服事人，百般劳苦，十分谦逊，一点骄傲不敢存。", 
+            py: "fèng zhǔ chāi qiǎn, chuán yáng fú yīn, dāng zuò pú yì fú shì rén, bǎi bān láo kǔ, shí fēn qiān xùn, yī diǎn jiāo ào bù gǎn cún。" 
+          },
+          { 
+            cn: "谨慎战兢，谨慎战兢，仿佛羊羔入狼群，谨慎战兢，谨慎战兢，仿佛羊羔入狼群。", 
+            py: "jǐn shèn zhàn jīng, jǐn shèn zhàn jīng, fǎng fó yáng gāo rù láng qún, jǐn shèn zhàn jīng, jǐn shèn zhàn jīng, fǎng fó yáng gāo rù láng qún。" 
+          }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { 
+            cn: "②我若畏难，退缩因循，恐怕主怒临我身，努力进前，寻找亡羊，权柄、能力靠圣灵。", 
+            py: "wǒ ruò wèi nán, tuì suō yīn xún, kǒng pà zhǔ nù lín wǒ shēn, nǔ lì jìn qián, xún zhǎo wáng yáng, quán bǐng、 néng lì kào shèng líng。" 
+          },
+          { 
+            cn: "放胆宣讲，放胆宣讲，证明耶稣的救恩，放胆宣讲，放胆宣讲，证明耶稣的救恩。", 
+            py: "fàng dǎn xuān jiǎng, fàng dǎn xuān jiǎng, zhèng míng yē sū de jiù ēn, fàng dǎn xuān jiǎng, fàng dǎn xuān jiǎng, zhèng míng yē sū de jiù ēn。" 
+          }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { 
+            cn: "③劝人悔改，弃假归真，魔鬼敌挡直到今，为道争战，不畏艰辛，忍受试炼火锻金。", 
+            py: "quàn rén huǐ gǎi, qì jiǎ guī zhēn, mó guǐ dí dǎng zhí dào jīn, wéi dào zhēng zhàn, bú wèi jiān xīn, rěn shòu shì liàn huǒ duàn jīn。" 
+          },
+          { 
+            cn: "驯良、灵巧，驯良、灵巧，防备诡计要儆醒，驯良、灵巧，驯良、灵巧，防备诡计要儆醒。", 
+            py: "xùn liáng、 líng qiǎo, xùn liáng、 líng qiǎo, fáng bèi guǐ jì yào jǐng xǐng, xùn liáng、 líng qiǎo, xùn liáng、 líng qiǎo, fáng bèi guǐ jì yào jǐng xǐng。" 
+          }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { 
+            cn: "④两个两个，主派出去，同工、同劳又同心，兄弟手足，联络合作，须知独木不成林。", 
+            py: "liǎng gè liǎng gè, zhǔ pài chū qù, tóng gōng、 tóng láo yòu tóng xīn, xiōng dì shǒu zú, lián luò hé zuò, xū zhī dú mù bù chéng lín。" 
+          },
+          { 
+            cn: "彼此相爱，彼此相爱，救主命令当遵凭，彼此相爱，彼此相爱，救主命令当遵凭。", 
+            py: "bǐ cǐ xiāng ài, bǐ cǐ xiāng ài, jiù zhǔ mìng lìng dāng zūn píng, bǐ cǐ xiāng ài, bǐ cǐ xiāng ài, jiù zhǔ mìng lìng dāng zūn píng。" 
+          }
+        ]
+      }
+    ]
+  },
+  {
     id: 296,
     title: "纪念主死",
     sections: [
