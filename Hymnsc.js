@@ -1,5 +1,63 @@
 const hymns_cn = [
   {
+    id: 33,
+    title: "到新耶路撒冷",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { 
+            cn: "这等是何人，处处传福音？祈祷并歌颂，日日亲近神？他是耶稣的子民，凡他所行靠主名。", 
+            py: "zhè děng shì hé rén, chù chù chuán fú yīn? qí dǎo bìng gē sòng, rì rì qīn jìn shén? tā shì yē sū de zǐ mín, fán tā suǒ xíng kào zhǔ míng。" 
+          },
+          { 
+            cn: "耶稣召我等前往新耶路撒冷，蒙主引导进天城，耶稣召我等前往新耶路撒冷，蒙主引导进天城。", 
+            py: "yē sū zhào wǒ děng qián wǎng xīn yē lù sà lěng, méng zhǔ yǐn dǎo jìn tiān chéng, yē sū zhào wǒ děng qián wǎng xīn yē lù sà lěng, méng zhǔ yǐn dǎo jìn tiān chéng。" 
+          }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { 
+            cn: "这人有何功，盼望到高天？岂能无罪过，已成圣完全？他靠主血洗罪愆，得成圣洁到主前。", 
+            py: "zhè rén yǒu hé gōng, pàn wàng dào gāo tiān? qǐ néng wú zuì guò, yǐ chéng shèng wán quán? tā kào zhǔ xuè xǐ zuì qiān, dé chéng shèng jié dào zhǔ qián。" 
+          },
+          { 
+            cn: "耶稣召我等前往新耶路撒冷，我靠其功福无边，耶稣召我等前往新耶路撒冷，我靠其功福无边。", 
+            py: "yē sū zhào wǒ děng qián wǎng xīn yē lù sà lěng, wǒ kào qí gōng fú wú biān, yē sū zhào wǒ děng qián wǎng xīn yē lù sà lěng, wǒ kào qí gōng fú wú biān。" 
+          }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { 
+            cn: "这人的德行，究竟是如何？他焉有能力，得胜众鬼魔？他受圣灵的恩膏，心性、行为改变多。", 
+            py: "zhè rén de dé xíng, jiū jìng shì rú hé? tā yān yǒu néng lì, dé shèng zhòng guǐ mó? tā shòu shèng líng de ēn gāo, xīn xìng、 xíng wéi gǎi biàn duō。" 
+          },
+          { 
+            cn: "耶稣召我等前往新耶路撒冷，我靠其力唱凯歌，耶稣召我等前往新耶路撒冷，我靠其力唱凯歌。", 
+            py: "yē sū zhào wǒ děng qián wǎng xīn yē lù sà lěng, wǒ kào qí lì chàng kǎi gē, yē sū zhào wǒ děng qián wǎng xīn yē lù sà lěng, wǒ kào qí lì chàng kǎi gē。" 
+          }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { 
+            cn: "这人到危时，为何不畏难？岂能无惧怕，临死仍平安？他得永生满心欢，能进天国戴华冕。", 
+            py: "zhè rén dào wēi shí, wèi hé bù wèi nán? qǐ néng wú jù pà, lín sǐ réng píng ān? tā dé yǒng shēng mǎn xīn huān, néng jìn tiān guó dài huá miǎn。" 
+          },
+          { 
+            cn: "耶稣召我等前往新耶路撒冷，颂主奇恩永欢颜，耶稣召我等前往新耶路撒冷，颂主奇恩永欢颜。", 
+            py: "yē sū zhào wǒ děng qián wǎng xīn yē lù sà lěng, sòng zhǔ qí ēn yǒng huān yán, yē sū zhào wǒ děng qián wǎng xīn yē lù sà lěng, sòng zhǔ qí ēn yǒng huān yán。" 
+          }
+        ]
+      }
+    ]
+  },
+  {
     id: 104,
     title: "深爱耶稣",
     sections: [
