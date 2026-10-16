@@ -1,5 +1,121 @@
 const hymns_cn = [
   {
+    id: 104,
+    title: "深爱耶稣",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { 
+            cn: "我深爱主耶稣，因主先爱我，在十架替我死，赦免众罪过；", 
+            py: "wǒ shēn ài zhǔ yē sū, yīn zhǔ xiān ài wǒ, zài shí jià tì wǒ sǐ, shè miǎn zhòng zuì guò;" 
+          },
+          { 
+            cn: "主为我戴荆冠，受羞辱、陷害，若我曾爱救主，于今更亲爱。", 
+            py: "zhǔ wèi wǒ dài jīng guān, shòu xiū rǔ、 xiàn hài, ruò wǒ céng ài jiù zhǔ, yú jīn gèng qīn ài。" 
+          }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { 
+            cn: "我深爱主耶稣，我已归属祢，世上一切享乐愿为祢丢弃；", 
+            py: "wǒ shēn ài zhǔ yē sū, wǒ yǐ guī shǔ nǐ, shì shàng yī qiè xiǎng lè yuàn wèi nǐ diū qì;" 
+          },
+          { 
+            cn: "祢是我的救主，还清我罪债，若我曾爱救主，于今更亲爱。", 
+            py: "nǐ shì wǒ de jiù zhǔ, huán qīng wǒ zuì zhài, ruò wǒ céng ài jiù zhǔ, yú jīn gèng qīn ài。" 
+          }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { 
+            cn: "我深爱主耶稣，永不离开主，虽受困苦、逼迫，还要爱我主；", 
+            py: "wǒ shēn ài zhǔ yē sū, yǒng bù lí kāi zhǔ, suī shòu kùn kǔ、 bī pò, hái yào ài wǒ zhǔ;" 
+          },
+          { 
+            cn: "直到主再降临，必儆醒等待，若我曾爱救主，于今更亲爱。", 
+            py: "zhí dào zhǔ zài jiàng lín, bì jǐng xǐng děng dài, ruò wǒ céng ài jiù zhǔ, yú jīn gèng qīn ài。" 
+          }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { 
+            cn: "主再来迎接我，永住荣耀中，那时仍要赞美我主大恩功；", 
+            py: "zhǔ zài lái yíng jiē wǒ, yǒng zhù róng yào zhōng, nà shí réng yào zàn měi wǒ zhǔ dà ēn gōng;" 
+          },
+          { 
+            cn: "戴荣耀的冠冕，是格外奖赏，若我曾爱救主，于今更亲爱。", 
+            py: "dài róng yào de guān miǎn, shì gé wài jiǎng shǎng, ruò wǒ céng ài jiù zhǔ, yú jīn gèng qīn ài。" 
+          }
+        ]
+      }
+    ]
+  },
+  {
+    id: 99,
+    title: "爱主更深",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { 
+            cn: "切愿深爱我主，爱主更深，念主为我舍命，感恩不尽；", 
+            py: "qiè yuàn shēn ài wǒ zhǔ, ài zhǔ gèng shēn, niàn zhǔ wèi wǒ shě mìng, gǎn ēn bù jìn;" 
+          },
+          { 
+            cn: "乐意奉献身心，因为深爱我主，爱主更深，爱主更深。", 
+            py: "lè yì fèng xiàn shēn xīn, yīn wèi shēn ài wǒ zhǔ, ài zhǔ gèng shēn, ài zhǔ gèng shēn。" 
+          }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { 
+            cn: "昔谋世上喜乐，贪慕虚荣，今以主为至宝，万事看轻；", 
+            py: "xī móu shì shàng xǐ lè, tān mù xū róng, jīn yǐ zhǔ wéi zhì bǎo, wàn shì kàn qīng;" 
+          },
+          { 
+            cn: "迫切祈求我父，使我深爱我主，爱主更深，爱主更深。", 
+            py: "pò qiè qí qiú wǒ fù, shǐ wǒ shēn ài wǒ zhǔ, ài zhǔ gèng shēn, ài zhǔ gèng shēn。" 
+          }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { 
+            cn: "福乐若变患难，痛苦在心，转思主爱无断，难中见怜；", 
+            py: "fú lè ruò biàn huàn nàn, tòng kǔ zài xīn, zhuǎn sī zhǔ ài wú duàn, nàn zhōng jiàn lián;" 
+          },
+          { 
+            cn: "歌唱且忘我苦，总望深爱我主，爱主更深，爱主更深。", 
+            py: "gē chàng qiě wàng wǒ kǔ, zǒng wàng shēn ài wǒ zhǔ, ài zhǔ gèng shēn, ài zhǔ gèng shēn。" 
+          }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { 
+            cn: "现在末日将到，灾祸频仍，高声迫切祷告，求主速临；", 
+            py: "xiàn zài mò rì jiāng dào, zāi huò pín réng, gāo shēng pò qiè dǎo gào, qiú zhǔ sù lín;" 
+          },
+          { 
+            cn: "切望目睹主荣，至终深爱我主，爱主更深，爱主更深。", 
+            py: "qiè wàng mù dǔ zhǔ róng, zhì zhōng shēn ài wǒ zhǔ, ài zhǔ gèng shēn, ài zhǔ gèng shēn。" 
+          }
+        ]
+      }
+    ]
+  },
+  {
     id: 91,
     title: "想念主爱",
     sections: [
@@ -67,7 +183,7 @@ const hymns_cn = [
         ]
       }
     ]
-  }，
+  },
   {
     id: 303,
     title: "天国来了",
