@@ -1,5 +1,74 @@
 const hymns_cn = [
   {
+    id: 172,
+    title: "你该得胜",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { 
+            cn: "你该为得胜者，勿胆怯、张惶，勇敢御仇敌于战场之上；", 
+            py: "nǐ gāi wéi dé shèng zhě, wù dǎn qiè、 zhāng huáng, yǒng gǎn yù chóu dí yú zhàn chǎng zhī shàng;" 
+          },
+          { 
+            cn: "救主流出宝血所赎的子民，不当惧怕，亦不当离战场。", 
+            py: "jiù zhǔ liú chū bǎo xuè suǒ shú de zǐ mín, bù dāng jù pà, yì bù dāng lí zhàn chǎng。" 
+          },
+          { 
+            cn: "胜仇敌，胜仇敌，仇敌全败退；", 
+            py: "shèng chóu dí, shèng chóu dí, chóu dí quán bài tuì;" 
+          },
+          { 
+            cn: "因主有能力，你可戴永生冠冕在末日。", 
+            py: "yīn zhǔ yǒu néng lì, nǐ kě dài yǒng shēng guān miǎn zài mò rì。" 
+          }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { 
+            cn: "你该为得胜者，为真理奋斗，要穿戴全副军装制仇敌；", 
+            py: "nǐ gāi wéi dé shèng zhě, wèi zhēn lǐ fèn dòu, yào chuān dài quán fù jūn zhuāng zhì chóu dí;" 
+          },
+          { 
+            cn: "向前勇往，进迫扫荡，莫迟疑，仇敌败退，仍儆醒常防备。", 
+            py: "xiàng qián yǒng wǎng, jìn pò sǎo dàng, mò chí yí, chóu dí bài tuì, réng jǐng xǐng cháng fáng bèi。" 
+          },
+          { 
+            cn: "胜仇敌，胜仇敌，仇敌全败退；", 
+            py: "shèng chóu dí, shèng chóu dí, chóu dí quán bài tuì;" 
+          },
+          { 
+            cn: "因主有能力，你可戴永生冠冕在末日。", 
+            py: "yīn zhǔ yǒu néng lì, nǐ kě dài yǒng shēng guān miǎn zài mò rì。" 
+          }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { 
+            cn: "你该为得胜者，主与你同在，祂是不改变全能大主宰；", 
+            py: "nǐ gāi wéi dé shèng zhě, zhǔ yǔ nǐ tóng zài, tā shì bù gǎi biàn quán néng dà zhǔ zǎi;" 
+          },
+          { 
+            cn: "每逢与敌交战，你必得全胜，直到在天上领受奖赏时。", 
+            py: "měi féng yǔ dí jiāo zhàn, nǐ bì dé quán shèng, zhí dào zài tiān shàng lǐng shòu jiǎng shǎng shí。" 
+          },
+          { 
+            cn: "胜仇敌，胜仇敌，仇敌全败退；", 
+            py: "shèng chóu dí, shèng chóu dí, chóu dí quán bài tuì;" 
+          },
+          { 
+            cn: "因主有能力，你可戴永生冠冕在末日。", 
+            py: "yīn zhǔ yǒu néng lì, nǐ kě dài yǒng shēng guān miǎn zài mò rì。" 
+          }
+        ]
+      }
+    ]
+  },
+  {
     id: 33,
     title: "到新耶路撒冷",
     sections: [
