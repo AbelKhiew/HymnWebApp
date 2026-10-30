@@ -1,5 +1,74 @@
 const hymns_cn = [
   {
+    id: 180,
+    title: "永生门路",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { 
+            cn: "凡人听见福音，须当相信，天上的喜信，关系天下人；", 
+            py: "fán rén tīng jiàn fú yīn xū dāng xiāng xìn, tiān shàng lái de xǐ xìn guān xì tiān xià rén;" 
+          },
+          { 
+            cn: "引到永生天国，只有此窄门，凡欲得救者当进。", 
+            py: "yǐn dào yǒng shēng tiān guó zhǐ yǒu cǐ zhǎi mén, fán yù dé jiù zhě dāng jìn。" 
+          },
+          { 
+            cn: "无论何人来，可以进天门，此乃真神赐给世人的大恩；", 
+            py: "wú lùn hé rén lái kě yǐ jìn tiān mén, cǐ nǎi zhēn shén cì gěi shì rén de dà ēn;" 
+          },
+          { 
+            cn: "信而悔改受洗，圣灵必引领，凡欲得救者快进。", 
+            py: "xìn ér huǐ gǎi shòu xǐ shèng líng bì yǐn lǐng, fán yù dé jiù zhě kuài jìn。" 
+          }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { 
+            cn: "凡人领受真理，须当遵行，放下一切重担，越走越光明；", 
+            py: "fán rén lǐng shòu zhēn lǐ xū dāng zūn xíng, fàng xià yī qiè zhòng dān yuè zǒu yuè guāng míng;" 
+          },
+          { 
+            cn: "引到永生天国，只有此小路，凡欲得救者当行。", 
+            py: "yǐn dào yǒng shēng tiān guó zhǐ yǒu cǐ xiǎo lù, fán yù dé jiù zhě dāng xíng。" 
+          },
+          { 
+            cn: "无论何人来，可以进天门，此乃真神赐给世人的大恩；", 
+            py: "wú lùn hé rén lái kě yǐ jìn tiān mén, cǐ nǎi zhēn shén cì gěi shì rén de dà ēn;" 
+          },
+          { 
+            cn: "信而悔改受洗，圣灵必引领，凡欲得救者快进。", 
+            py: "xìn ér huǐ gǎi shòu xǐ shèng líng bì yǐn lǐng, fán yù dé jiù zhě kuài jìn。" 
+          }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { 
+            cn: "耶稣警戒的话，切不可忘，许多宽门大路，引人到灭亡；", 
+            py: "yē sū jǐng jiè de huà qiè bù kě wàng, xǔ duō kuān mén dà lù yǐn rén dào miè wáng;" 
+          },
+          { 
+            cn: "应当恒心忍耐，进入真门路，必能享福在天堂。", 
+            py: "yīng dāng héng xīn rěn nài jìn rù zhēn mén lù, bì néng xiǎng fú zài tiān táng。" 
+          },
+          { 
+            cn: "无论何人来，可以进天门，此乃真神赐给世人的大恩；", 
+            py: "wú lùn hé rén lái kě yǐ jìn tiān mén, cǐ nǎi zhēn shén cì gěi shì rén de dà ēn;" 
+          },
+          { 
+            cn: "信而悔改受洗，圣灵必引领，凡欲得救者快进。", 
+            py: "xìn ér huǐ gǎi shòu xǐ shèng líng bì yǐn lǐng, fán yù dé jiù zhě kuài jìn。" 
+          }
+        ]
+      }
+    ]
+  },
+  {
     id: 172,
     title: "你该得胜",
     sections: [
