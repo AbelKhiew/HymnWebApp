@@ -4197,7 +4197,7 @@ const hymns_cn = [
           { cn: "圣哉, 圣哉, 圣哉, 全能大主宰", py: "shèng zāi, shèng zāi, shèng zāi, quán néng dà zhǔ zǎi! " },
           { cn: "天上、地下、海中万物, 颂主高名", py: "tiān shàng, dì xià, hǎi zhōng wàn wù, sòng zhǔ gāo míng; " },
           { cn: "圣善、恩慈、诚实, 自古永无更改", py: "shèng shàn, ēn cí, chéng shí, zì gǔ yǒng wú gèng gǎi. " },
-          { cn: "独一的真神, 应当受赞美。", py: "dú yī de zhēn shén, yīng dāng shòu zàn měi. " }
+          { cn: "独一的真神, 应当受赞美。test", py: "dú yī de zhēn shén, yīng dāng shòu zàn měi. " }
         ]
       },
       {
