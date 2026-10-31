@@ -5135,5 +5135,7461 @@ const hymns_cn = [
         ]
       }
     ]
+  },
+  {
+    id: 7,
+    title: "万有齐颂主",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "欢乐，欢乐，属主之人，赞美至尊独一神；", py: "huān lè, huān lè, shǔ zhǔ zhī rén, zàn měi zhì zūn dú yī shén;" },
+          { cn: "心花开放，灵命更新，齐向朝阳吐清馨。", py: "xīn huā kāi fàng, líng mìng gèng xīn, qí xiàng cháo yáng tǔ qīng xīn。" },
+          { cn: "罪瘴、恶氛，求主扫尽，愁雾、疑云俱廓清！", py: "zuì zhàng, è fēn, qiú zhǔ sǎo jìn, chóu wù, yí yún jù kuò qīng!" },
+          { cn: "我们当以颂赞为祭，结出美果在嘴唇。", py: "wǒ men dāng yǐ sòng zàn wéi jì, jié chū měi guǒ zài zuǐ chún。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "宇宙，万有，太空无际，一同显映主荣光；", py: "yǔ zhòu, wàn yǒu, tài kōng wú jì, yī tóng xiǎn yìng zhǔ róng guāng;" },
+          { cn: "千万天使，灿烂群星，排列环绕齐颂扬。", py: "qiān wàn tiān shǐ, càn làn qún xīng, pái liè huán rào qí sòng yáng。" },
+          { cn: "高山、茂林、清风、明月，好鸟吟叫，百花香；", py: "gāo shān, mào lín, qīng fēng, míng yuè, hǎo niǎo yín jiào, bǎi huā xiāng;" },
+          { cn: "鸣泉漱石，海浪拍岸，都在颂主而欢唱。", py: "míng quán shù shí, hǎi làng pāi àn, dōu zài sòng zhǔ ér huān chàng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "永存怜悯，广行赦免，万恩万福出天宫；", py: "yǒng cún lián mǐn, guǎng háng shè miǎn, wàn ēn wàn fú chū tiān gōng;" },
+          { cn: "平安泉源，欢乐江河，一切福气永充丰。", py: "píng ān quán yuán, huān lè jiāng hé, yī qiè fú qì yǒng chōng fēng。" },
+          { cn: "慈爱天父！养育群生，活命存留祢爱中；", py: "cí ài tiān fù! yǎng yù qún shēng, huó mìng cún liú nǐ ài zhōng;" },
+          { cn: "我等圣民蒙主救赎，属灵福气更无穷！", py: "wǒ děng shèng mín méng zhǔ jiù shú, shǔ líng fú qì gèng wú qióng!" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "天父大爱，自天显明，阳光、雨、露、常照临；", py: "tiān fù dà ài, zì tiān xiǎn míng, yáng guāng, yǔ, lù, cháng zhào lín;" },
+          { cn: "诸天欢乐，万有称颂，荣耀归与主圣名！", py: "zhū tiān huān lè, wàn yǒu chēng sòng, róng yào guī yǔ zhǔ shèng míng!" },
+          { cn: "受造之物服在虚空，一同叹息到如今；", py: "shòu zào zhī wù fú zài xū kōng, yī tóng tàn xī dào rú jīn;" },
+          { cn: "切望神子显现出来，脱离辖制庆复兴！", py: "qiè wàng shén zǐ xiǎn xiàn chū lái, tuō lí xiá zhì qìng fù xīng!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 10,
+    title: "荣耀归耶稣",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "荣耀归耶稣，大权能的主，荣耀归耶稣，我的主；", py: "róng yào guī yē sū, dà quán néng de zhǔ, róng yào guī yē sū, wǒ de zhǔ;" },
+          { cn: "哈利路亚，哈利路亚！荣耀归耶稣，我的主！", py: "hā lì lù yà, hā lì lù yà! róng yào guī yē sū, wǒ de zhǔ!" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "荣耀归耶稣，永不改的主，荣耀归耶稣，我的主；", py: "róng yào guī yē sū, yǒng bú gǎi de zhǔ, róng yào guī yē sū, wǒ de zhǔ;" },
+          { cn: "哈利路亚，哈利路亚！荣耀归耶稣，我的主！", py: "hā lì lù yà, hā lì lù yà! róng yào guī yē sū, wǒ de zhǔ!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "荣耀归耶稣，快要来的主，荣耀归耶稣，我的主；", py: "róng yào guī yē sū, kuài yào lái de zhǔ, róng yào guī yē sū, wǒ de zhǔ;" },
+          { cn: "哈利路亚，哈利路亚！荣耀归耶稣，我的主！", py: "hā lì lù yà, hā lì lù yà! róng yào guī yē sū, wǒ de zhǔ!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 11,
+    title: "在主内顶快乐",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我在耶稣身边，快乐顶快乐！", py: "wǒ zài yē sū shēn biān, kuài lè dǐng kuài lè!" },
+          { cn: "我和祂一同走，心里顶知足！", py: "wǒ hé tā yī tóng zǒu, xīn lǐ dǐng zhī zú!" },
+          { cn: "哈利路亚哈利路亚！", py: "hā lì lù yà, hā lì lù yà!" },
+          { cn: "我和祂一同走，心里顶知足！", py: "wǒ hé tā yī tóng zǒu, xīn lǐ dǐng zhī zú!" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我在生命河边，可喝生命水，", py: "wǒ zài shēng mìng hé biān, kě hē shēng mìng shuǐ," },
+          { cn: "常蒙耶稣赐福，心里好满足！", py: "cháng méng yē sū cì fú, xīn lǐ hǎo mǎn zú!" },
+          { cn: "哈利路亚哈利路亚！", py: "hā lì lù yà, hā lì lù yà!" },
+          { cn: "常蒙耶稣赐福，心里好满足！", py: "cháng méng yē sū cì fú, xīn lǐ hǎo mǎn zú!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我心要赞美主，医好我疾病，", py: "wǒ xīn yào zàn měi zhǔ, yī hǎo wǒ jí bìng," },
+          { cn: "我也要感谢主，和我灵相通；", py: "wǒ yě yào gǎn xiè zhǔ, hé wǒ líng xiāng tōng;" },
+          { cn: "哈利路亚哈利路亚！", py: "hā lì lù yà, hā lì lù yà!" },
+          { cn: "我也要感谢主，和我灵相通。", py: "wǒ yě yào gǎn xiè zhǔ, hé wǒ líng xiāng tōng。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "我已得主应许，要领拢总路，", py: "wǒ yǐ dé zhǔ yīng xǔ, yào lǐng lǒng zǒng lù," },
+          { cn: "盼望将来能到天国好地方；", py: "pàn wàng jiāng lái néng dào tiān guó hǎo dì fāng;" },
+          { cn: "哈利路亚哈利路亚！", py: "hā lì lù yà, hā lì lù yà!" },
+          { cn: "盼望将来能到天国好地方。", py: "pàn wàng jiāng lái néng dào tiān guó hǎo dì fāng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 13,
+    title: "无人能比耶稣",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "没有人能比全能的耶稣，没有人，没有人；", py: "méi yǒu rén néng bǐ quán néng de yē sū, méi yǒu rén, méi yǒu rén;" },
+          { cn: "没有人能医我灵魂疾病，没有人，没有人。", py: "méi yǒu rén néng yī wǒ líng hún jí bìng, méi yǒu rén, méi yǒu rén。" },
+          { cn: "主耶稣全能、全智、全爱，祂终日肯与我相亲；", py: "zhǔ yē sū quán néng, quán zhì, quán ài, tā zhōng rì kěn yǔ wǒ xiāng qīn;" },
+          { cn: "没有人能比完全的耶稣，没有人，没有人。", py: "méi yǒu rén néng bǐ wán quán de yē sū, méi yǒu rén, méi yǒu rén。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "没有人能比我主的圣洁，没有人，没有人；", py: "méi yǒu rén néng bǐ wǒ zhǔ de shèng jié, méi yǒu rén, méi yǒu rén;" },
+          { cn: "没有人能比主柔和、谦卑，没有人，没有人。", py: "méi yǒu rén néng bǐ zhǔ róu hé, qiān bēi, méi yǒu rén, méi yǒu rén。" },
+          { cn: "主耶稣全能、全智、全爱，祂终日肯与我相亲；", py: "zhǔ yē sū quán néng, quán zhì, quán ài, tā zhōng rì kěn yǔ wǒ xiāng qīn;" },
+          { cn: "没有人能比完全的耶稣，没有人，没有人。", py: "méi yǒu rén néng bǐ wán quán de yē sū, méi yǒu rén, méi yǒu rén。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "没有人能比我主的慈爱，没有人，没有人；", py: "méi yǒu rén néng bǐ wǒ zhǔ de cí ài, méi yǒu rén, méi yǒu rén;" },
+          { cn: "有何罪人信主不蒙赦免？没有人，没有人。", py: "yǒu hé zuì rén xìn zhǔ bú méng shè miǎn? méi yǒu rén, méi yǒu rén。" },
+          { cn: "主耶稣全能、全智、全爱，祂终日肯与我相亲；", py: "zhǔ yē sū quán néng, quán zhì, quán ài, tā zhōng rì kěn yǔ wǒ xiāng qīn;" },
+          { cn: "没有人能比完全的耶稣，没有人，没有人。", py: "méi yǒu rén néng bǐ wán quán de yē sū, méi yǒu rén, méi yǒu rén。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "没有人能比我主的牺牲，没有人，没有人；", py: "méi yǒu rén néng bǐ wǒ zhǔ de xī shēng, méi yǒu rén, méi yǒu rén;" },
+          { cn: "有何罪人信主不得永生？没有人，没有人。", py: "yǒu hé zuì rén xìn zhǔ bú dé yǒng shēng? méi yǒu rén, méi yǒu rén。" },
+          { cn: "主耶稣全能、全智、全爱，祂终日肯与我相亲；", py: "zhǔ yē sū quán néng, quán zhì, quán ài, tā zhōng rì kěn yǔ wǒ xiāng qīn;" },
+          { cn: "没有人能比完全的耶稣，没有人，没有人。", py: "méi yǒu rén néng bǐ wán quán de yē sū, méi yǒu rén, méi yǒu rén。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 21,
+    title: "美哉，主耶稣！",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "美哉，主耶稣！统治万有群生！", py: "měi zāi, zhǔ yē sū! tǒng zhì wàn yǒu qún shēng!" },
+          { cn: "主宰真神，道成肉身，", py: "zhǔ zǎi zhēn shén, dào chéng ròu shēn," },
+          { cn: "谦卑为人子，舍命救万民。我", py: "qiān bēi wéi rén zǐ, shě mìng jiù wàn mín。 wǒ" },
+          { cn: "当如何思念主恩？", py: "dāng rú hé sī niàn zhǔ ēn?" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "美哉，主耶稣！胜春花沾露美！", py: "měi zāi, zhǔ yē sū! shèng chūn huā zhān lù měi!" },
+          { cn: "悦我心灵，时常欢喜，", py: "yuè wǒ xīn líng, shí cháng huān xǐ," },
+          { cn: "美哉，中秋月，明亮又清妍！耶", py: "měi zāi, zhōng qiū yuè, míng liàng yòu qīng yán! yē" },
+          { cn: "稣荣光更皎在天！", py: "sū róng guāng gèng jiǎo zài tiān!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "美哉，主耶稣！胜夏夜凉风爽！", py: "měi zāi, zhǔ yē sū! shèng xià yè liáng fēng shuǎng!" },
+          { cn: "透我心灵，时常欢畅，", py: "tòu wǒ xīn líng, shí cháng huān chàng," },
+          { cn: "美哉，冬季雪！遍地白皑皑！主", py: "měi zāi, dōng jì xuě! biàn dì bái ái ái! zhǔ" },
+          { cn: "更圣洁，感我心怀！", py: "gèng shèng jié, gǎn wǒ xīn huái!" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "美哉，主耶稣！统治万有群生！", py: "měi zāi, zhǔ yē sū! tǒng zhì wàn yǒu qún shēng!" },
+          { cn: "主宰真神，道成肉身，", py: "zhǔ zǎi zhēn shén, dào chéng ròu shēn," },
+          { cn: "主，我所景仰！主，我所尊崇！是", py: "zhǔ, wǒ suǒ jǐng yǎng! zhǔ, wǒ suǒ zūn chóng! shì" },
+          { cn: "我荣耀冠冕、欢欣！", py: "wǒ róng yào guàn miǎn, huān xīn!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 22,
+    title: "赞美经训",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我有宝贵泉源，其水最清、最甘，", py: "wǒ yǒu bǎo guì quán yuán, qí shuǐ zuì qīng, zuì gān," },
+          { cn: "清晨必喝，日日无间，安坐活泉之旁，", py: "qīng chén bì hē, rì rì wú jiān, ān zuò huó quán zhī páng," },
+          { cn: "心未搀入俗事、贪婪，倾听泉水缓流潺潺。", py: "xīn wèi chān rù sú shì, tān lán, qīng tīng quán shuǐ huǎn liú chán chán。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我有高贵益友，日日相亲携手，", py: "wǒ yǒu gāo guì yì yǒu, rì rì xiāng qīn xié shǒu," },
+          { cn: "清晨约会，同此善偶，得他谆谆善诱，", py: "qīng chén yuē huì, tóng cǐ shàn ǒu, dé tā zhūn zhūn shàn yòu," },
+          { cn: "惟愿从他金玉良言，使我凡事谨慎、自守。", py: "wéi yuàn cóng tā jīn yù liáng yán, shǐ wǒ fán shì jǐn shèn, zì shǒu。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我有属灵兵库，仁义兵器无数，", py: "wǒ yǒu shǔ líng bīng kù, rén yì bīng qì wú shù," },
+          { cn: "每日在此练习灵战，攻克恶欲、俗务，", py: "měi rì zài cǐ liàn xí líng zhàn, gōng kè è yù, sú wù," },
+          { cn: "终日佩戴双刃宝剑，打退恶魔，安行天路。", py: "zhōng rì pèi dài shuāng rèn bǎo jiàn, dǎ tuì è mó, ān xíng tiān lù。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "我有光华宝镜，映照面目分明，", py: "wǒ yǒu guāng huá bǎo jìng, yìng zhào miàn mù fēn míng," },
+          { cn: "每日用此察看自己，必能显露隐情，", py: "měi rì yòng cǐ chá kàn zì jǐ, bì néng xiǎn lù yǐn qíng," },
+          { cn: "映照之后，终日不忘，除去污点，心灵清新。", py: "yìng zhào zhī hòu, zhōng rì bú wàng, chú qù wū diǎn, xīn líng qīng xīn。" }
+        ]
+      },
+      {
+        verse: 5,
+        content: [
+          { cn: "如今祈求真神，使我充满圣灵，", py: "rú jīn qí qiú zhēn shén, shǐ wǒ chōng mǎn shèng líng," },
+          { cn: "勤读圣经，晨昏不停，更觉滋味津津，", py: "qín dú shèng jīng, chén hūn bú tíng, gèng jué zī wèi jīn jīn," },
+          { cn: "灵性进步，欣欣向荣，努力跟主，直到天庭。", py: "líng xìng jìn bù, xīn xīn xiàng róng, nǔ lì gēn zhǔ, zhí dào tiān tíng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 23,
+    title: "圣经宝贵",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "青年之人，何以持正？所行何以免罪？", py: "qīng nián zhī rén, hé yǐ chí zhèng? suǒ xíng hé yǐ miǎn zuì?" },
+          { cn: "惟主圣言，如玉如金，可使内心无愧。", py: "wéi zhǔ shèng yán, rú yù rú jīn, kě shǐ nèi xīn wú kuì。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "救主之言，一入心中，即有感力无穷；", py: "jiù zhǔ zhī yán, yī rù xīn zhōng, jí yǒu gǎn lì wú qióng;" },
+          { cn: "我虽不才，也可学通，靠着圣灵启蒙。", py: "wǒ suī bú cái, yě kě xué tōng, kào zhe shèng líng qǐ méng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "圣经如日，高悬穹苍，发出莫大亮光；", py: "shèng jīng rú rì, gāo xuán qióng cāng, fā chū mò dà liàng guāng;" },
+          { cn: "如灯在夜，照我辉煌，免遇危险、凶亡。", py: "rú dēng zài yè, zhào wǒ huī huáng, miǎn yù wēi xiǎn, xiōng wáng。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "主训使我真有聪明，恨恶犯罪言行；", py: "zhǔ xùn shǐ wǒ zhēn yǒu cōng míng, hèn wù fàn zuì yán xíng;" },
+          { cn: "攻克自己私欲邪情，助我去恶归正。", py: "gōng kè zì jǐ sī yù xié qíng, zhù wǒ qù è guī zhèng。" }
+        ]
+      },
+      {
+        verse: 5,
+        content: [
+          { cn: "圣经宝贵，永久留存，篇篇都要敬尊；", py: "shèng jīng bǎo guì, yǒng jiǔ liú cún, piān piān dōu yào jìng zūn;" },
+          { cn: "男女、老少，终身遵守，必能保全灵魂。", py: "nán nǚ, lǎo shào, zhōng shēn zūn shǒu, bì néng bǎo quán líng hún。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 24,
+    title: "生命之道",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "圣经乃是神言宝库，证明耶稣基督，", py: "shèng jīng nǎi shì shén yán bǎo kù, zhèng míng yē sū jī dū," },
+          { cn: "道成肉身，钉于十架，流血洗我罪污。", py: "dào chéng ròu shēn, dìng yú shí jià, liú xuè xǐ wǒ zuì wū。" },
+          { cn: "生命之道极奇，我今笃信不疑，", py: "shēng mìng zhī dào jí qí, wǒ jīn dǔ xìn bú yí," },
+          { cn: "美哉，主道！奇哉，真理！永世为我根基，", py: "měi zāi, zhǔ dào! qí zāi, zhēn lǐ! yǒng shì wéi wǒ gēn jī," },
+          { cn: "美哉，主道！奇哉，真理！永世为我根基。", py: "měi zāi, zhǔ dào! qí zāi, zhēn lǐ! yǒng shì wéi wǒ gēn jī。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "真神应许尽在圣经，备及今世、来生；", py: "zhēn shén yīng xǔ jìn zài shèng jīng, bèi jí jīn shì, lái shēng;" },
+          { cn: "是我产业，是我诗歌，是我暗处明灯。", py: "shì wǒ chǎn yè, shì wǒ shī gē, shì wǒ àn chù míng dēng。" },
+          { cn: "生命之道极奇，我今笃信不疑，", py: "shēng mìng zhī dào jí qí, wǒ jīn dǔ xìn bú yí," },
+          { cn: "美哉，主道！奇哉，真理！永世为我根基，", py: "měi zāi, zhǔ dào! qí zāi, zhēn lǐ! yǒng shì wéi wǒ gēn jī," },
+          { cn: "美哉，主道！奇哉，真理！永世为我根基。", py: "měi zāi, zhǔ dào! qí zāi, zhēn lǐ! yǒng shì wéi wǒ gēn jī。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "真神言语满有恩典，应许必都成全；", py: "zhēn shén yán yǔ mǎn yǒu ēn diǎn, yīng xǔ bì dōu chéng quán;" },
+          { cn: "比金更宝，比蜜更甜，永远安定在天。", py: "bǐ jīn gèng bǎo, bǐ mì gèng tián, yǒng yuǎn ān dìng zài tiān。" },
+          { cn: "生命之道极奇，我今笃信不疑，", py: "shēng mìng zhī dào jí qí, wǒ jīn dǔ xìn bú yí," },
+          { cn: "美哉，主道！奇哉，真理！永世为我根基，", py: "měi zāi, zhǔ dào! qí zāi, zhēn lǐ! yǒng shì wéi wǒ gēn jī," },
+          { cn: "美哉，主道！奇哉，真理！永世为我根基。", py: "měi zāi, zhǔ dào! qí zāi, zhēn lǐ! yǒng shì wéi wǒ gēn jī。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "我愿天天查考圣经，昼夜思想遵行；", py: "wǒ yuàn tiān tiān chá kǎo shèng jīng, zhòu yè sī xiǎng zūn xíng;" },
+          { cn: "倚靠圣灵开导我心，使我识主更深。", py: "yǐ kào shèng líng kāi dǎo wǒ xīn, shǐ wǒ shí zhǔ gèng shēn。" },
+          { cn: "生命之道极奇，我今笃信不疑，", py: "shēng mìng zhī dào jí qí, wǒ jīn dǔ xìn bú yí," },
+          { cn: "美哉，主道！奇哉，真理！永世为我根基，", py: "měi zāi, zhǔ dào! qí zāi, zhēn lǐ! yǒng shì wéi wǒ gēn jī," },
+          { cn: "美哉，主道！奇哉，真理！永世为我根基。", py: "měi zāi, zhǔ dào! qí zāi, zhēn lǐ! yǒng shì wéi wǒ gēn jī。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 27,
+    title: "耶稣爱我",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "今我甚喜乐，耶稣已降生，祂是救赎主，最爱普世人；", py: "jīn wǒ shèn xǐ lè, yē sū yǐ jiàng shēng, tā shì jiù shú zhǔ, zuì ài pǔ shì rén;" },
+          { cn: "希奇的爱中，最希奇的爱，就是主耶稣舍身来救我。", py: "xī qí de ài zhōng, zuì xī qí de ài, jiù shì zhǔ yē sū shě shēn lái jiù wǒ。" },
+          { cn: "我真喜乐，因耶稣爱我，耶稣爱我，耶稣爱我；", py: "wǒ zhēn xǐ lè, yīn yē sū ài wǒ, yē sū ài wǒ, yē sū ài wǒ;" },
+          { cn: "我真喜乐，因耶稣爱我，奇哉，耶稣爱我！", py: "wǒ zhēn xǐ lè, yīn yē sū ài wǒ, qí zāi, yē sū ài wǒ!" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "世上有何人能比主耶稣，撇弃大荣耀，来释放罪奴，", py: "shì shàng yǒu hé rén néng bǐ zhǔ yē sū, piě qì dà róng yào, lái shì fàng zuì nú," },
+          { cn: "受人的凌辱，把生命甘舍？当时刻纪念，我主是爱我。", py: "shòu rén de líng rǔ, bǎ shēng mìng gān shě? dāng shí kè jì niàn, wǒ zhǔ shì ài wǒ。" },
+          { cn: "我真喜乐，因耶稣爱我，耶稣爱我，耶稣爱我；", py: "wǒ zhēn xǐ lè, yīn yē sū ài wǒ, yē sū ài wǒ, yē sū ài wǒ;" },
+          { cn: "我真喜乐，因耶稣爱我，奇哉，耶稣爱我！", py: "wǒ zhēn xǐ lè, yīn yē sū ài wǒ, qí zāi, yē sū ài wǒ!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "虽然远离开，迷路如亡羊，主还是寻找，祂爱心最长；", py: "suī rán yuǎn lí kāi, mí lù rú wáng yáng, zhǔ hái shì xún zhǎo, tā ài xīn zuì zhǎng;" },
+          { cn: "见祂伸慈手接回又抚慰，更抱于怀中，诚然是爱我。", py: "jiàn tā shēn cí shǒu jiē huí yòu fǔ wèi, gèng bào yú huái zhōng, chéng rán shì ài wǒ。" },
+          { cn: "我真喜乐，因耶稣爱我，耶稣爱我，耶稣爱我；", py: "wǒ zhēn xǐ lè, yīn yē sū ài wǒ, yē sū ài wǒ, yē sū ài wǒ;" },
+          { cn: "我真喜乐，因耶稣爱我，奇哉，耶稣爱我！", py: "wǒ zhēn xǐ lè, yīn yē sū ài wǒ, qí zāi, yē sū ài wǒ!" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "时候快临到，得见主荣颜，众圣徒一同被接到云间；", py: "shí hòu kuài lín dào, dé jiàn zhǔ róng yán, zhòng shèng tú yī tóng bèi jiē dào yún jiān;" },
+          { cn: "如今当赞美，献颂莫迟延，天上仍歌唱，耶稣是爱我。", py: "rú jīn dāng zàn měi, xiàn sòng mò chí yán, tiān shàng réng gē chàng, yē sū shì ài wǒ。" },
+          { cn: "我真喜乐，因耶稣爱我，耶稣爱我，耶稣爱我；", py: "wǒ zhēn xǐ lè, yīn yē sū ài wǒ, yē sū ài wǒ, yē sū ài wǒ;" },
+          { cn: "我真喜乐，因耶稣爱我，奇哉，耶稣爱我！", py: "wǒ zhēn xǐ lè, yīn yē sū ài wǒ, qí zāi, yē sū ài wǒ!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 28,
+    title: "耶稣仁爱",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "主比众亲，爱我更深，哈利路亚！", py: "zhǔ bǐ zhòng qīn, ài wǒ gèng shēn, hā lì lù yà!" },
+          { cn: "赏赐圣灵永住内心，哈利路亚！", py: "shǎng cì shèng líng yǒng zhù nèi xīn, hā lì lù yà!" },
+          { cn: "朋友情谊冷暖无常，今日亲近，明日弃嫌，", py: "péng yǒu qíng yì lěng nuǎn wú cháng, jīn rì qīn jìn, míng rì qì xián," },
+          { cn: "惟独救主恩慈绵绵，哈利路亚！", py: "wéi dú jiù zhǔ ēn cí mián mián, hā lì lù yà!" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "凡人信主，可得永生，哈利路亚！", py: "fán rén xìn zhǔ, kě dé yǒng shēng, hā lì lù yà!" },
+          { cn: "思想深恩实在难报，哈利路亚！", py: "sī xiǎng shēn ēn shí zài nán bào, hā lì lù yà!" },
+          { cn: "主用宝血永远救赎，旷野迷路，主来寻找，", py: "zhǔ yòng bǎo xuè yǒng yuǎn jiù shú, kuàng yě mí lù, zhǔ lái xún zhǎo," },
+          { cn: "引入羊栏眷顾、养育，哈利路亚！", py: "yǐn rù yáng lán juàn gù, yǎng yù, hā lì lù yà!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "耶稣是我最好朋友，哈利路亚！", py: "yē sū shì wǒ zuì hǎo péng yǒu, hā lì lù yà!" },
+          { cn: "所赐恩典丰富长久，哈利路亚！", py: "suǒ cì ēn diǎn fēng fù zhǎng jiǔ, hā lì lù yà!" },
+          { cn: "听主声音我就喜悦，有主同在，不受苛虐，", py: "tīng zhǔ shēng yīn wǒ jiù xǐ yuè, yǒu zhǔ tóng zài, bú shòu kē nüè," },
+          { cn: "加我信心，扶我软弱，哈利路亚！", py: "jiā wǒ xìn xīn, fú wǒ ruǎn ruò, hā lì lù yà!" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "靠主圣手领我一生，哈利路亚！", py: "kào zhǔ shèng shǒu lǐng wǒ yī shēng, hā lì lù yà!" },
+          { cn: "主的慈爱不离我身，哈利路亚！", py: "zhǔ de cí ài bú lí wǒ shēn, hā lì lù yà!" },
+          { cn: "到处领导，平安无碍，随时随地都蒙恩待，", py: "dào chù lǐng dǎo, píng ān wú ài, suí shí suí dì dōu méng ēn dài," },
+          { cn: "引导我们荣光所在，哈利路亚！", py: "yǐn dǎo wǒ men róng guāng suǒ zài, hā lì lù yà!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 29,
+    title: "主寻亡羊",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "一百只羊有九十九，在主栏中安眠，", py: "yī bǎi zhī yáng yǒu jiǔ shí jiǔ, zài zhǔ lán zhōng ān mián," },
+          { cn: "但有一只远离真门，迷路诸山之间；", py: "dàn yǒu yī zhī yuǎn lí zhēn mén, mí lù zhū shān zhī jiān;" },
+          { cn: "远在荒山、深谷徘徊，远离良牧照顾慈怀，", py: "yuǎn zài huāng shān, shēn gǔ pái huái, yuǎn lí liáng mù zhào gù cí huái," },
+          { cn: "远离良牧照顾慈怀。", py: "yuǎn lí liáng mù zhào gù cí huái。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "良牧已有九十九只，难道还嫌不够？", py: "liáng mù yǐ yǒu jiǔ shí jiǔ zhī, nán dào hái xián bú gòu?" },
+          { cn: "良牧回答：“那只迷羊，本来是我所有。", py: "liáng mù huí dá: “nà zhī mí yáng, běn lái shì wǒ suǒ yǒu。" },
+          { cn: "路径虽然高低不平，旷野虽远我必去寻；", py: "lù jìng suī rán gāo dī bú píng, kuàng yě suī yuǎn wǒ bì qù xún;" },
+          { cn: "旷野虽远，我必去寻。”", py: "kuàng yě suī yuǎn, wǒ bì qù xún。”" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "得救之羊从未知道，路中山高水深，", py: "dé jiù zhī yáng cóng wèi zhī dào, lù zhōng shān gāo shuǐ shēn," },
+          { cn: "不知长夜何等黑暗？寻羊何等艰辛？", py: "bú zhī zhǎng yè hé děng hēi àn? xún yáng hé děng jiān xīn?" },
+          { cn: "旷野之中，良牧遥闻，迷羊失望垂死哀鸣，", py: "kuàng yě zhī zhōng, liáng mù yáo wén, mí yáng shī wàng chuí sǐ āi míng," },
+          { cn: "迷羊失望垂死哀鸣。", py: "mí yáng shī wàng chuí sǐ āi míng。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "问主：“山径沿途血迹，到底从何而来？”", py: "wèn zhǔ: “shān jìng yán tú xuè jì, dào dǐ cóng hé ér lái?”" },
+          { cn: "主说：“牧人必须流血，迷羊才得救回。”", py: "zhǔ shuō: “mù rén bì xū liú xuè, mí yáng cái dé jiù huí。”" },
+          { cn: "问主：“双手为何伤裂？”主说：“因为路多荆棘。”", py: "wèn zhǔ: “shuāng shǒu wéi hé shāng liè?” zhǔ shuō: “yīn wéi lù duō jīng jí。”" },
+          { cn: "主说：“因为路多荆棘。”", py: "zhǔ shuō: “yīn wéi lù duō jīng jí。”" }
+        ]
+      },
+      {
+        verse: 5,
+        content: [
+          { cn: "历经雷霆霹雳之山，穿过危崖绝壁，", py: "lì jīng léi tíng pī lì zhī shān, chuān guò wēi yá jué bì," },
+          { cn: "良牧呼声直达天门：“乐哉亡羊已得！”", py: "liáng mù hū shēng zhí dá tiān mén: “lè zāi wáng yáng yǐ dé!”" },
+          { cn: "围绕宝座天使和唱：“乐哉，主已寻得亡羊！", py: "wéi rào bǎo zuò tiān shǐ hé chàng: “lè zāi, zhǔ yǐ xún dé wáng yáng!" },
+          { cn: "乐哉，主已寻得亡羊！”", py: "lè zāi, zhǔ yǐ xún dé wáng yáng!”" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 30,
+    title: "妙爱找我",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "主大慈爱寻找我，前曾沉罪恶间；", py: "zhǔ dà cí ài xún zhǎo wǒ, qián céng chén zuì è jiān;" },
+          { cn: "且显大力怀抱我，安放羊圈里面；", py: "qiě xiǎn dà lì huái bào wǒ, ān fàng yáng quān lǐ miàn;" },
+          { cn: "激动天使欢欣歌唱，颂赞歌声充满天上。", py: "jī dòng tiān shǐ huān xīn gē chàng, sòng zàn gē shēng chōng mǎn tiān shàng。" },
+          { cn: "爱何大，寻找我！血何宝，洗净我！恩何多，领", py: "ài hé dà, xún zhǎo wǒ! xuè hé bǎo, xǐ jìng wǒ! ēn hé duō, lǐng" },
+          { cn: "我与神复和！主爱我，我不惧怕风波。", py: "wǒ yǔ shén fù hé! zhǔ ài wǒ, wǒ bú jù pà fēng bō。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "主看见我受损伤，用油和酒包裹，", py: "zhǔ kàn jiàn wǒ shòu sǔn shāng, yòng yóu hé jiǔ bāo guǒ," },
+          { cn: "又以恩言安慰我，并说：“你永属我”；", py: "yòu yǐ ēn yán ān wèi wǒ, bìng shuō: “nǐ yǒng shǔ wǒ”;" },
+          { cn: "我未曾听如此佳音，能叫我心满足、欢欣。", py: "wǒ wèi céng tīng rú cǐ jiā yīn, néng jiào wǒ xīn mǎn zú, huān xīn。" },
+          { cn: "爱何大，寻找我！血何宝，洗净我！恩何多，领", py: "ài hé dà, xún zhǎo wǒ! xuè hé bǎo, xǐ jìng wǒ! ēn hé duō, lǐng" },
+          { cn: "我与神复和！主爱我，我不惧怕风波。", py: "wǒ yǔ shén fù hé! zhǔ ài wǒ, wǒ bú jù pà fēng bō。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "主的两手有钉痕，宝血为我流出，", py: "zhǔ de liǎng shǒu yǒu dìng hén, bǎo xuè wéi wǒ liú chū," },
+          { cn: "人用荆棘做冠冕，戏弄加上凌辱；", py: "rén yòng jīng jí zuò guàn miǎn, xì nòng jiā shàng líng rǔ;" },
+          { cn: "主爱极大，怜我罪人，甘愿为我受苦、舍身。", py: "zhǔ ài jí dà, lián wǒ zuì rén, gān yuàn wéi wǒ shòu kǔ, shě shēn。" },
+          { cn: "爱何大，寻找我！血何宝，洗净我！恩何多，领", py: "ài hé dà, xún zhǎo wǒ! xuè hé bǎo, xǐ jìng wǒ! ēn hé duō, lǐng" },
+          { cn: "我与神复和！主爱我，我不惧怕风波。", py: "wǒ yǔ shén fù hé! zhǔ ài wǒ, wǒ bú jù pà fēng bō。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "我虽在世为客旅，心里却无忧虑，", py: "wǒ suī zài shì wéi kè lǚ, xīn lǐ què wú yōu lǜ," },
+          { cn: "忍耐行完主旨意，到主降临日子；", py: "rěn nài xíng wán zhǔ zhǐ yì, dào zhǔ jiàng lín rì zǐ;" },
+          { cn: "那时接我到祂身边，与祂同在，圣洁无愆。", py: "nà shí jiē wǒ dào tā shēn biān, yǔ tā tóng zài, shèng jié wú qiān。" },
+          { cn: "爱何大，寻找我！血何宝，洗净我！恩何多，领", py: "ài hé dà, xún zhǎo wǒ! xuè hé bǎo, xǐ jìng wǒ! ēn hé duō, lǐng" },
+          { cn: "我与神复和！主爱我，我不惧怕风波。", py: "wǒ yǔ shén fù hé! zhǔ ài wǒ, wǒ bú jù pà fēng bō。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 31,
+    title: "主全为我",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "昔日主耶稣降生于世界，舍弃大荣耀，救赎施慈爱；", py: "xī rì zhǔ yē sū jiàng shēng yú shì jiè, shě qì dà róng yào, jiù shú shī cí ài;" },
+          { cn: "奇哉，祂来临感动我心怀！主来找我，找我；", py: "qí zāi, tā lái lín gǎn dòng wǒ xīn huái! zhǔ lái zhǎo wǒ, zhǎo wǒ;" },
+          { cn: "主来找我，找我；主来找我，找我。", py: "zhǔ lái zhǎo wǒ, zhǎo wǒ; zhǔ lái zhǎo wǒ, zhǎo wǒ。" },
+          { cn: "奇哉，祂来临感动我心怀！主来找我，找我。", py: "qí zāi, tā lái lín gǎn dòng wǒ xīn huái! zhǔ lái zhǎo wǒ, zhǎo wǒ。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "耶稣我恩主受害钉十架，救赎我灵魂，还清我罪价；", py: "yē sū wǒ ēn zhǔ shòu hài dìng shí jià, jiù shú wǒ líng hún, hái qīng wǒ zuì jià;" },
+          { cn: "耶稣被钉死，天地都惊怕。主死为我，为我；", py: "yē sū bèi dìng sǐ, tiān dì dōu jīng pà。 zhǔ sǐ wéi wǒ, wéi wǒ;" },
+          { cn: "主死为我，为我；主死为我，为我。", py: "zhǔ sǐ wéi wǒ, wéi wǒ; zhǔ sǐ wéi wǒ, wéi wǒ。" },
+          { cn: "耶稣被钉死，天地都惊怕；主死为我，为我。", py: "yē sū bèi dìng sǐ, tiān dì dōu jīng pà; zhǔ sǐ wéi wǒ, wéi wǒ。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我曾经流荡，远离主牧场，耶稣来寻找我这只亡羊；", py: "wǒ céng jīng liú dàng, yuǎn lí zhǔ mù chǎng, yē sū lái xún zhǎo wǒ zhè zhī wáng yáng;" },
+          { cn: "呼叫我名字，慈声入心肠。我主叫我，叫我；", py: "hū jiào wǒ míng zì, cí shēng rù xīn cháng。 wǒ zhǔ jiào wǒ, jiào wǒ;" },
+          { cn: "我主叫我，叫我；我主叫我，叫我。", py: "wǒ zhǔ jiào wǒ, jiào wǒ; wǒ zhǔ jiào wǒ, jiào wǒ。" },
+          { cn: "呼叫我名字，慈声入心肠；我主叫我，叫我。", py: "hū jiào wǒ míng zì, cí shēng rù xīn cháng; wǒ zhǔ jiào wǒ, jiào wǒ。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "耶稣曾应许末日必再临，圣徒闻主声，喜乐充满心；", py: "yē sū céng yīng xǔ mò rì bì zài lín, shèng tú wén zhǔ shēng, xǐ lè chōng mǎn xīn;" },
+          { cn: "耶稣再来临，是极大佳音。祂来接我，接我；", py: "yē sū zài lái lín, shì jí dà jiā yīn。 tā lái jiē wǒ, jiē wǒ;" },
+          { cn: "祂来接我，接我；祂来接我，接我。", py: "tā lái jiē wǒ, jiē wǒ; tā lái jiē wǒ, jiē wǒ。" },
+          { cn: "耶稣再来临，是极大佳音；祂来接我，接我。", py: "yē sū zài lái lín, shì jí dà jiā yīn; tā lái jiē wǒ, jiē wǒ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 32,
+    title: "耶稣肯收纳罪人",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "“耶稣肯收纳罪人！”将此恩言传远近；虽离正路，", py: "“yē sū kěn shōu nà zuì rén!” jiāng cǐ ēn yán chuán yuǎn jìn; suī lí zhèng lù," },
+          { cn: "主寻找；纵入迷途，主怜悯。", py: "zhǔ xún zhǎo; zòng rù mí tú, zhǔ lián mǐn。" },
+          { cn: "要不断高声宣告：“耶稣肯收纳罪人！”", py: "yào bú duàn gāo shēng xuān gào: “yē sū kěn shōu nà zuì rén!”" },
+          { cn: "让众人清楚知道：耶稣肯收纳罪人！", py: "ràng zhòng rén qīng chǔ zhī dào: yē sū kěn shōu nà zuì rén!" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "前来就主得安宁！主之应许可信凭；虽然恶重、", py: "qián lái jiù zhǔ dé ān níng! zhǔ zhī yìng xǔ kě xìn píng; suī rán è zhòng," },
+          { cn: "罪孽深，耶稣肯收纳罪人。", py: "zuì niè shēn, yē sū kěn shōu nà zuì rén。" },
+          { cn: "要不断高声宣告：“耶稣肯收纳罪人！”", py: "yào bú duàn gāo shēng xuān gào: “yē sū kěn shōu nà zuì rén!”" },
+          { cn: "让众人清楚知道：耶稣肯收纳罪人！", py: "ràng zhòng rén qīng chǔ zhī dào: yē sū kěn shōu nà zuì rén!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "今我内心无责谴！坦然立在律法前；耶稣除我", py: "jīn wǒ nèi xīn wú zé qiǎn! tǎn rán lì zài lǜ fǎ qián; yē sū chú wǒ" },
+          { cn: "众愆尤，使我尽符神所求。", py: "zhòng qiān yóu, shǐ wǒ jìn fú shén suǒ qiú。" },
+          { cn: "要不断高声宣告：“耶稣肯收纳罪人！”", py: "yào bú duàn gāo shēng xuān gào: “yē sū kěn shōu nà zuì rén!”" },
+          { cn: "让众人清楚知道：耶稣肯收纳罪人！", py: "ràng zhòng rén qīng chǔ zhī dào: yē sū kěn shōu nà zuì rén!" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "“耶稣肯收纳罪人！”我罪虽重也蒙恩；蒙主洗去", py: "“yē sū kěn shōu nà zuì rén!” wǒ zuì suī zhòng yě méng ēn; méng zhǔ xǐ qù" },
+          { cn: "众污痕，得随救主进天门。", py: "zhòng wū hén, dé suí jiù zhǔ jìn tiān mén。" },
+          { cn: "要不断高声宣告：“耶稣肯收纳罪人！”", py: "yào bú duàn gāo shēng xuān gào: “yē sū kěn shōu nà zuì rén!”" },
+          { cn: "让众人清楚知道：耶稣肯收纳罪人！", py: "ràng zhòng rén qīng chǔ zhī dào: yē sū kěn shōu nà zuì rén!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 34,
+    title: "耶稣恩召",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "耶稣之温柔声召你回家，今日召你，今日召你；", py: "yē sū zhī wēn róu shēng zhào nǐ huí jiā, jīn rì zhào nǐ, jīn rì zhào nǐ;" },
+          { cn: "为何离主游荡，贪爱虚邪？越久越远，越走差？", py: "wèi hé lí zhǔ yóu dàng, tān ài xū xié? yuè jiǔ yuè yuǎn, yuè zǒu chà?" },
+          { cn: "今日召你，今日召你；", py: "jīn rì zhào nǐ, jīn rì zhào nǐ;" },
+          { cn: "耶稣今召你，他温柔声今日召你。", py: "yē sū jīn zhào nǐ, tā wēn róu shēng jīn rì zhào nǐ。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "有罪之人！主召你得救恩，今日召你，今日召你；", py: "yǒu zuì zhī rén! zhǔ zhào nǐ dé jiù ēn, jīn rì zhào nǐ, jīn rì zhào nǐ;" },
+          { cn: "将你罪担交托主得赦免，主必拯救你灵魂。", py: "jiāng nǐ zuì dān jiāo tuō zhǔ dé shè miǎn, zhǔ bì zhěng jiù nǐ líng hún。" },
+          { cn: "今日召你，今日召你；", py: "jīn rì zhào nǐ, jīn rì zhào nǐ;" },
+          { cn: "耶稣今召你，他温柔声今日召你。", py: "yē sū jīn zhào nǐ, tā wēn róu shēng jīn rì zhào nǐ。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "劳苦之人！主召你得安宁，今日召你，今日召你；", py: "láo kǔ zhī rén! zhǔ zhào nǐ dé ān níng, jīn rì zhào nǐ, jīn rì zhào nǐ;" },
+          { cn: "将你重担交托主便身轻，主必解除你苦情。", py: "jiāng nǐ zhòng dān jiāo tuō zhǔ biàn shēn qīng, zhǔ bì jiě chú nǐ kǔ qíng。" },
+          { cn: "今日召你，今日召你；", py: "jīn rì zhào nǐ, jīn rì zhào nǐ;" },
+          { cn: "耶稣今召你，他温柔声今日召你。", py: "yē sū jīn zhào nǐ, tā wēn róu shēng jīn rì zhào nǐ。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "迷路之人！主召你走正路，今日召你，今日召你；", py: "mí lù zhī rén! zhǔ zhào nǐ zǒu zhèng lù, jīn rì zhào nǐ, jīn rì zhào nǐ;" },
+          { cn: "倚靠主能力，引导你脚步，一生一世蒙眷顾。", py: "yǐ kào zhǔ néng lì, yǐn dǎo nǐ jiǎo bù, yī shēng yī shì méng juàn gù。" },
+          { cn: "今日召你，今日召你；", py: "jīn rì zhào nǐ, jīn rì zhào nǐ;" },
+          { cn: "耶稣今召你，他温柔声今日召你。", py: "yē sū jīn zhào nǐ, tā wēn róu shēng jīn rì zhào nǐ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 35,
+    title: "雨夜过后见光明",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "迷路的人！你当静听，仰望上面慈爱呼声；", py: "mí lù de rén! nǐ dāng jìng tīng, yǎng wàng shàng miàn cí ài hū shēng;" },
+          { cn: "是你救主施大恩惠，听他福音必得安慰。", py: "shì nǐ jiù zhǔ shī dà ēn huì, tīng tā fú yīn bì dé ān wèi。" },
+          { cn: "忧闷夜雨必放晴，转眼之间显光明；", py: "yōu mèn yè yǔ bì fàng qíng, zhuǎn yǎn zhī jiān xiǎn guāng míng;" },
+          { cn: "晨曦一照遍地辉煌颂赞、欢乐永远不停。", py: "chén xī yī zhào biàn dì huī huáng sòng zàn, huān lè yǒng yuǎn bú tíng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "世路黑暗，行人忧戚，万般劳苦愁烦叹息；", py: "shì lù hēi àn, xíng rén yōu qī, wàn bān láo kǔ chóu fán tàn xī;" },
+          { cn: "只赖救主圣手扶持，一切忧苦就得消逝。", py: "zhǐ lài jiù zhǔ shèng shǒu fú chí, yī qiē yōu kǔ jiù dé xiāo shì。" },
+          { cn: "忧闷夜雨必放晴，转眼之间显光明；", py: "yōu mèn yè yǔ bì fàng qíng, zhuǎn yǎn zhī jiān xiǎn guāng míng;" },
+          { cn: "晨曦一照遍地辉煌颂赞、欢乐永远不停。", py: "chén xī yī zhào biàn dì huī huáng sòng zàn, huān lè yǒng yuǎn bú tíng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "人生盼望全在真神，无穷恩惠普赐万民；", py: "rén shēng pàn wàng quán zài zhēn shén, wú qióng ēn huì pǔ cì wàn mín;" },
+          { cn: "跟随恩主日日相亲，在光明中称颂真神。", py: "gēn suí ēn zhǔ rì rì xiāng qīn, zài guāng míng zhōng chēng sòng zhēn shén。" },
+          { cn: "忧闷夜雨必放晴，转眼之间显光明；", py: "yōu mèn yè yǔ bì fàng qíng, zhuǎn yǎn zhī jiān xiǎn guāng míng;" },
+          { cn: "晨曦一照遍地辉煌颂赞、欢乐永远不停。", py: "chén xī yī zhào biàn dì huī huáng sòng zàn, huān lè yǒng yuǎn bú tíng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 36,
+    title: "微声盼望",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "在这忙碌生活当中，疲倦、寂寞多感喟，", py: "zài zhè máng lù shēng huó dāng zhōng, pí juàn, jì mò duō gǎn kuì," },
+          { cn: "你心灵饥渴与虚空，却无方法得安慰；", py: "nǐ xīn líng jī kě yǔ xū kōng, què wú fāng fǎ dé ān wèi;" },
+          { cn: "听！这声音何等美妙，是温柔、真实言词！", py: "tīng! zhè shēng yīn hé děng měi miào, shì wēn róu, zhēn shí yán cí!" },
+          { cn: "听！慈爱声向你呼召，带来好信息与你！", py: "tīng! cí ài shēng xiàng nǐ hū zhào, dài lái hǎo xìn xī yǔ nǐ!" },
+          { cn: "微声盼望，我喜听；主慈爱声，", py: "wēi shēng pàn wàng, wǒ xǐ tīng; zhǔ cí ài shēng," },
+          { cn: "使我心灵痛苦中得安宁。", py: "shǐ wǒ xīn líng tòng kǔ zhōng dé ān níng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "世界一切浮华、宴乐，只是欺骗与束缚，", py: "shì jiè yī qiē fú huá, yàn lè, zhǐ shì qī piàn yǔ shù fù," },
+          { cn: "真实与不变的珍宝，在这世间找不到；", py: "zhēn shí yǔ bú biàn de zhēn bǎo, zài zhè shì jiān zhǎo bú dào;" },
+          { cn: "来！你要向高山举目，你心灵必得满足！", py: "lái! nǐ yào xiàng gāo shān jǔ mù, nǐ xīn líng bì dé mǎn zú!" },
+          { cn: "来！饮于生命活水泉，必享平安在主前！", py: "lái! yǐn yú shēng mìng huó shuǐ quán, bì xiǎng píng ān zài zhǔ qián!" },
+          { cn: "微声盼望，我喜听；主慈爱声，", py: "wēi shēng pàn wàng, wǒ xǐ tīng; zhǔ cí ài shēng," },
+          { cn: "使我心灵痛苦中得安宁。", py: "shǐ wǒ xīn líng tòng kǔ zhōng dé ān níng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 37,
+    title: "硃红罪变如雪",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "你的罪虽像硃红，主必使它白如雪，", py: "nǐ de zuì suī xiàng zhū hóng, zhǔ bì shǐ tā bái rú xuě," },
+          { cn: "你的罪虽像硃红主必使它白如雪，", py: "nǐ de zuì suī xiàng zhū hóng, zhǔ bì shǐ tā bái rú xuě," },
+          { cn: "你罪虽红如丹颜，必白如羊毛。", py: "nǐ zuì suī hóng rú dān yán, bì bái rú yáng máo。" },
+          { cn: "你的罪虽像硃红，你的罪虽像硃红，", py: "nǐ de zuì suī xiàng zhū hóng, nǐ de zuì suī xiàng zhū hóng," },
+          { cn: "主必使它白如雪，主必使它白如雪。", py: "zhǔ bì shǐ tā bái rú xuě, zhǔ bì shǐ tā bái rú xuě。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "请听主慈爱呼声，快回转归向真神！", py: "qǐng tīng zhǔ cí ài hū shēng, kuài huí zhuǎn guī xiàng zhēn shén!" },
+          { cn: "请听主慈爱呼声，快回转归向真神！", py: "qǐng tīng zhǔ cí ài hū shēng, kuài huí zhuǎn guī xiàng zhēn shén!" },
+          { cn: "主有伟大的怜悯，与奇妙的爱。", py: "zhǔ yǒu wěi dà de lián mǐn, yǔ qí miào de ài。" },
+          { cn: "请听主慈爱呼声，请听主慈爱呼声，", py: "qǐng tīng zhǔ cí ài hū shēng, qǐng tīng zhǔ cí ài hū shēng," },
+          { cn: "快回转归向真神！快回转归向真神！", py: "kuài huí zhuǎn guī xiàng zhēn shén! kuài huí zhuǎn guī xiàng zhēn shén!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "你的罪祂肯赦免，从今后永不纪念，", py: "nǐ de zuì tā kěn shè miǎn, cóng jīn hòu yǒng bú jì niàn," },
+          { cn: "你的罪祂肯赦免，从今后永不纪念，", py: "nǐ de zuì tā kěn shè miǎn, cóng jīn hòu yǒng bú jì niàn," },
+          { cn: "主你的神已晓谕：当仰望救主。", py: "zhǔ nǐ de shén yǐ xiǎo yù: dāng yǎng wàng jiù zhǔ。" },
+          { cn: "你的罪祂肯赦免，你的罪祂肯赦免，", py: "nǐ de zuì tā kěn shè miǎn, nǐ de zuì tā kěn shè miǎn," },
+          { cn: "从今后永不纪念，从今后永不纪念。", py: "cóng jīn hòu yǒng bú jì niàn, cóng jīn hòu yǒng bú jì niàn。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 38,
+    title: "我闻耶稣呼声",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我闻耶稣柔声说道：“就我来得平安！", py: "wǒ wén yē sū róu shēng shuō dào: “jiù wǒ lái dé píng ān!" },
+          { cn: "息你劳苦，卸你重担，怡然靠我怀间！”", py: "xī nǐ láo kǔ, xiè nǐ zhòng dān, yí rán kào wǒ huái jiān!”" },
+          { cn: "我本憔悴、忧伤、困倦，闻此即有欢颜；", py: "wǒ běn qiáo cuì, yōu shāng, kùn juàn, wén cǐ jí yǒu huān yán;" },
+          { cn: "在主怀中，果得安乐，主使我灵腾欢。", py: "zài zhǔ huái zhōng, guǒ dé ān lè, zhǔ shǐ wǒ líng téng huān。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我闻耶稣高声说道：“口渴的人要来！", py: "wǒ wén yē sū gāo shēng shuō dào: “kǒu kě de rén yào lái!" },
+          { cn: "我赐活水，人人可喝，藉我得救免灾！”", py: "wǒ cì huó shuǐ, rén rén kě hē, jiè wǒ dé jiù miǎn zāi!”" },
+          { cn: "我闻此言，即刻前来，畅饮生命之杯；", py: "wǒ wén cǐ yán, jí kè qián lái, chàng yǐn shēng mìng zhī bēi;" },
+          { cn: "我灵重生，我心喜乐，主恩大哉，奇哉！", py: "wǒ líng chóng shēng, wǒ xīn xǐ lè, zhǔ ēn dà zāi, qí zāi!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我闻耶稣慈声说道：“我是暗世之光！", py: "wǒ wén yē sū cí shēng shuō dào: “wǒ shì àn shì zhī guāng!" },
+          { cn: "在我里面，便有光明，见我如见朝阳！”", py: "zài wǒ lǐ miàn, biàn yǒu guāng míng, jiàn wǒ rú jiàn cháo yáng!”" },
+          { cn: "我闻此言，即来跟主，果如晨曦辉煌；", py: "wǒ wén cǐ yán, jí lái gēn zhǔ, guǒ rú chén xī huī huáng;" },
+          { cn: "我要在主光中行走，从今直到天堂。", py: "wǒ yào zài zhǔ guāng zhōng xíng zǒu, cóng jīn zhí dào tiān táng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 39,
+    title: "惟独主血有效",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "心中污秽怎能洗？惟独耶稣血有功效；", py: "xīn zhōng wū huì zěn néng xǐ? wéi dú yē sū xuè yǒu gōng xiào;" },
+          { cn: "再无方法指示你，惟独耶稣血有功效。", py: "zài wú fāng fǎ zhǐ shì nǐ, wéi dú yē sū xuè yǒu gōng xiào。" },
+          { cn: "美泉无价之宝，污秽必能洗掉；", py: "měi quán wú jià zhī bǎo, wū huì bì néng xǐ diào;" },
+          { cn: "此泉永世无双，惟独耶稣血有功效。", py: "cǐ quán yǒng shì wú shuāng, wéi dú yē sū xuè yǒu gōng xiào。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "靠己修行全无用，惟独耶稣血有功效；", py: "kào jǐ xiū xíng quán wú yòng, wéi dú yē sū xuè yǒu gōng xiào;" },
+          { cn: "更莫倚靠拜偶像，惟独耶稣血有功效。", py: "gèng mò yǐ kào bài ǒu xiàng, wéi dú yē sū xuè yǒu gōng xiào。" },
+          { cn: "美泉无价之宝，污秽必能洗掉；", py: "měi quán wú jià zhī bǎo, wū huì bì néng xǐ diào;" },
+          { cn: "此泉永世无双，惟独耶稣血有功效。", py: "cǐ quán yǒng shì wú shuāng, wéi dú yē sū xuè yǒu gōng xiào。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "人要逃出魔鬼网，惟独耶稣血有功效；", py: "rén yào táo chū mó guǐ wǎng, wéi dú yē sū xuè yǒu gōng xiào;" },
+          { cn: "要从罪恶得释放。惟独耶稣血有功效。", py: "yào cóng zuì è dé shì fàng。 wéi dú yē sū xuè yǒu gōng xiào。" },
+          { cn: "美泉无价之宝，污秽必能洗掉；", py: "měi quán wú jià zhī bǎo, wū huì bì néng xǐ diào;" },
+          { cn: "此泉永世无双，惟独耶稣血有功效。", py: "cǐ quán yǒng shì wú shuāng, wéi dú yē sū xuè yǒu gōng xiào。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "倘若你要免永死，惟独耶稣血有功效；", py: "tǎng ruò nǐ yào miǎn yǒng sǐ, wéi dú yē sū xuè yǒu gōng xiào;" },
+          { cn: "要进天国得永生，惟独耶稣血有功效。", py: "yào jìn tiān guó dé yǒng shēng, wéi dú yē sū xuè yǒu gōng xiào。" },
+          { cn: "美泉无价之宝，污秽必能洗掉；", py: "měi quán wú jià zhī bǎo, wū huì bì néng xǐ diào;" },
+          { cn: "此泉永世无双，惟独耶稣血有功效。", py: "cǐ quán yǒng shì wú shuāng, wéi dú yē sū xuè yǒu gōng xiào。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 40,
+    title: "主之宝血",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我现在得宝血洁净，已离弃拢总罪孽；", py: "wǒ xiàn zài dé bǎo xuè jié jìng, yǐ lí qì lǒng zǒng zuì niè;" },
+          { cn: "我听救主慈声叫我，要我跟随祂脚迹。", py: "wǒ tīng jiù zhǔ cí shēng jiào wǒ, yào wǒ gēn suí tā jiǎo jì。" },
+          { cn: "赞美耶稣，赞美耶稣，荣耀主代罪人死！", py: "zàn měi yē sū, zàn měi yē sū, róng yào zhǔ dài zuì rén sǐ!" },
+          { cn: "荣耀，荣耀归给耶稣！主宝血洗除一切罪辜！", py: "róng yào, róng yào guī gěi yē sū! zhǔ bǎo xuè xǐ chú yī qiē zuì gū!" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "主之宝血洗我罪愆，跟从救主直向前；", py: "zhǔ zhī bǎo xuè xǐ wǒ zuì qiān, gēn cóng jiù zhǔ zhí xiàng qián;" },
+          { cn: "一切虚华，我愿丢弃，看它像过眼云烟。", py: "yī qiē xū huá, wǒ yuàn diū qì, kàn tā xiàng guò yǎn yún yān。" },
+          { cn: "赞美耶稣，赞美耶稣，荣耀主代罪人死！", py: "zàn měi yē sū, zàn měi yē sū, róng yào zhǔ dài zuì rén sǐ!" },
+          { cn: "荣耀，荣耀归给耶稣！主宝血洗除一切罪辜！", py: "róng yào, róng yào guī gěi yē sū! zhǔ bǎo xuè xǐ chú yī qiē zuì gū!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "顶有权能，我主耶稣，喜欢拯救众子民；", py: "dǐng yǒu quán néng, wǒ zhǔ yē sū, xǐ huān zhěng jiù zhòng zǐ mín;" },
+          { cn: "我要永远赞美耶稣，荣耀，荣耀归主名！", py: "wǒ yào yǒng yuǎn zàn měi yē sū, róng yào, róng yào guī zhǔ míng!" },
+          { cn: "赞美耶稣，赞美耶稣，荣耀主代罪人死！", py: "zàn měi yē sū, zàn měi yē sū, róng yào zhǔ dài zuì rén sǐ!" },
+          { cn: "荣耀，荣耀归给耶稣！主宝血洗除一切罪辜！", py: "róng yào, róng yào guī gěi yē sū! zhǔ bǎo xuè xǐ chú yī qiē zuì gū!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 41,
+    title: "主血有权能",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "问你是否愿意除净罪污？主血有权能，血有权能；", py: "wèn nǐ shì fǒu yuàn yì chú jìng zuì wū? zhǔ xuè yǒu quán néng, xuè yǒu quán néng;" },
+          { cn: "洗净良心必得胜诸恶行，主血有希奇之权能。", py: "xǐ jìng liáng xīn bì dé shèng zhū è xíng, zhǔ xuè yǒu xī qí zhī quán néng。" },
+          { cn: "有权能，能！希奇之权能，圣羔血必得胜！", py: "yǒu quán néng, néng! xī qí zhī quán néng, shèng gāo xuè bì dé shèng!" },
+          { cn: "有权能，能！希奇之权能，圣羔羊宝血必得胜！", py: "yǒu quán néng, néng! xī qí zhī quán néng, shèng gāo yáng bǎo xuè bì dé shèng!" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "问你是否愿意比雪皎洁？主血有权能，血有权能；", py: "wèn nǐ shì fǒu yuàn yì bǐ xuě jiǎo jié? zhǔ xuè yǒu quán néng, xuè yǒu quán néng;" },
+          { cn: "在髑髅地血泉内洗得清，主血有希奇之权能。", py: "zài dú lóu dì xuè quán nèi xǐ dé qīng, zhǔ xuè yǒu xī qí zhī quán néng。" },
+          { cn: "有权能，能！希奇之权能，圣羔血必得胜！", py: "yǒu quán néng, néng! xī qí zhī quán néng, shèng gāo xuè bì dé shèng!" },
+          { cn: "有权能，能！希奇之权能，圣羔羊宝血必得胜！", py: "yǒu quán néng, néng! xī qí zhī quán néng, shèng gāo yáng bǎo xuè bì dé shèng!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "问你是否愿意弃卸罪担？主血有权能，血有权能；", py: "wèn nǐ shì fǒu yuàn yì qì xiè zuì dān? zhǔ xuè yǒu quán néng, xuè yǒu quán néng;" },
+          { cn: "身体、灵魂都成圣进神前，主血有希奇之权能。", py: "shēn tǐ, líng hún dōu chéng shèng jìn shén qián, zhǔ xuè yǒu xī qí zhī quán néng。" },
+          { cn: "有权能，能！希奇之权能，圣羔血必得胜！", py: "yǒu quán néng, néng! xī qí zhī quán néng, shèng gāo xuè bì dé shèng!" },
+          { cn: "有权能，能！希奇之权能，圣羔羊宝血必得胜！", py: "yǒu quán néng, néng! xī qí zhī quán néng, shèng gāo yáng bǎo xuè bì dé shèng!" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "问你是否愿意见主真体？主血有权能，血有权能；", py: "wèn nǐ shì fǒu yuàn yì jiàn zhǔ zhēn tǐ? zhǔ xuè yǒu quán néng, xuè yǒu quán néng;" },
+          { cn: "在末日必改变像主形状，主血有希奇之权能。", py: "zài mò rì bì gǎi biàn xiàng zhǔ xíng zhuàng, zhǔ xuè yǒu xī qí zhī quán néng。" },
+          { cn: "有权能，能！希奇之权能，圣羔血必得胜！", py: "yǒu quán néng, néng! xī qí zhī quán néng, shèng gāo xuè bì dé shèng!" },
+          { cn: "有权能，能！希奇之权能，圣羔羊宝血必得胜！", py: "yǒu quán néng, néng! xī qí zhī quán néng, shèng gāo yáng bǎo xuè bì dé shèng!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 42,
+    title: "羔羊宝血",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "美哉，大哉，宝血泉源！向全世界罪人显明，", py: "měi zāi, dà zāi, bǎo xuè quán yuán! xiàng quán shì jiè zuì rén xiǎn míng," },
+          { cn: "可赞、可颂神独生子，钉十架上，救功完成；", py: "kě zàn, kě sòng shén dú shēng zǐ, dìng shí jià shàng, jiù gōng wán chéng;" },
+          { cn: "虽我久已离主远游，自寻祸患，当受重刑，", py: "suī wǒ jiǔ yǐ lí zhǔ yuǎn yóu, zì xún huò huàn, dāng shòu zhòng xíng," },
+          { cn: "用羔羊宝血洗涤我，我便较比雪更洁白。", py: "yòng gāo yáng bǎo xuè xǐ dí wǒ, wǒ biàn jiào bǐ xuě gèng jié bái。" },
+          { cn: "比雪更洁白，比雪更洁白；", py: "bǐ xuě gèng jié bái, bǐ xuě gèng jié bái;" },
+          { cn: "用羔羊宝血洗涤我，我便较比雪更洁白。", py: "yòng gāo yáng bǎo xuè xǐ dí wǒ, wǒ biàn jiào bǐ xuě gèng jié bái。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "荆棘冠冕，甘戴不辞，十架苦痛，我主忍受，", py: "jīng jí guàn miǎn, gān dài bú cí, shí jià kǔ tòng, wǒ zhǔ rěn shòu," },
+          { cn: "因主受伤，我得医治，奇妙救恩，何等深厚！", py: "yīn zhǔ shòu shāng, wǒ dé yī zhì, qí miào jiù ēn, hé děng shēn hòu!" },
+          { cn: "我今奔向洗罪泉源，愿得宝血洗尽罪垢，", py: "wǒ jīn bēn xiàng xǐ zuì quán yuán, yuàn dé bǎo xuè xǐ jìn zuì gòu," },
+          { cn: "求主洗净我诸罪恶，我便较比雪更洁白。", py: "qiú zhǔ xǐ jìng wǒ zhū zuì è, wǒ biàn jiào bǐ xuě gèng jié bái。" },
+          { cn: "比雪更洁白，比雪更洁白；", py: "bǐ xuě gèng jié bái, bǐ xuě gèng jié bái;" },
+          { cn: "用羔羊宝血洗涤我，我便较比雪更洁白。", py: "yòng gāo yáng bǎo xuè xǐ dí wǒ, wǒ biàn jiào bǐ xuě gèng jié bái。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "可怜我久在外飘荡，偏行己路，喜邪厌正，", py: "kě lián wǒ jiǔ zài wài piāo dàng, piān xíng jǐ lù, xǐ xié yàn zhèng," },
+          { cn: "我众罪孽正如硃红，用世上水不能洗净；", py: "wǒ zhòng zuì niè zhèng rú zhū hóng, yòng shì shàng shuǐ bú néng xǐ jìng;" },
+          { cn: "我只倚靠洗罪泉源，就是耶稣宝血盈盈，", py: "wǒ zhǐ yǐ kào xǐ zuì quán yuán, jiù shì yē sū bǎo xuè yíng yíng," },
+          { cn: "恳求施恩将我洗净，我便较比雪更洁白。", py: "kěn qiú shī ēn jiāng wǒ xǐ jìng, wǒ biàn jiào bǐ xuě gèng jié bái。" },
+          { cn: "比雪更洁白，比雪更洁白；", py: "bǐ xuě gèng jié bái, bǐ xuě gèng jié bái;" },
+          { cn: "用羔羊宝血洗涤我，我便较比雪更洁白。", py: "yòng gāo yáng bǎo xuè xǐ dí wǒ, wǒ biàn jiào bǐ xuě gèng jié bái。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 43,
+    title: "宝血洗净",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "请问可曾信靠主宝血洗净？可曾倚羔羊血洗得净？", py: "qǐng wèn kě céng xìn kào zhǔ bǎo xuè xǐ jìng? kě céng yǐ gāo yáng xuè xǐ dé jìng?" },
+          { cn: "可曾依靠救主得着新生命？可曾倚羔羊血洗得净？", py: "kě céng yī kào jiù zhǔ dé zhe xīn shēng mìng? kě céng yǐ gāo yáng xuè xǐ dé jìng?" },
+          { cn: "你总要倚宝血，倚宝血始可能脱罪孽；", py: "nǐ zǒng yào yǐ bǎo xuè, yǐ bǎo xuè shǐ kě néng tuō zuì niè;" },
+          { cn: "衣服毫无玷污，必洁白如雪，你总要倚宝血洗得净。", py: "yī fú háo wú diàn wū, bì jié bái rú xuě, nǐ zǒng yào yǐ bǎo xuè xǐ dé jìng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "你愿顺从救主行此艰难路，可曾倚羔羊血洗得净？", py: "nǐ yuàn shùn cóng jiù zhǔ xíng cǐ jiān nán lù, kě céng yǐ gāo yáng xuè xǐ dé jìng?" },
+          { cn: "可曾蒙主引导，靠着主保护？可曾倚羔羊血洗得净？", py: "kě céng méng zhǔ yǐn dǎo, kào zhe zhǔ bǎo hù? kě céng yǐ gāo yáng xuè xǐ dé jìng?" },
+          { cn: "你总要倚宝血，倚宝血始可能脱罪孽；", py: "nǐ zǒng yào yǐ bǎo xuè, yǐ bǎo xuè shǐ kě néng tuō zuì niè;" },
+          { cn: "衣服毫无玷污，必洁白如雪，你总要倚宝血洗得净。", py: "yī fú háo wú diàn wū, bì jié bái rú xuě, nǐ zǒng yào yǐ bǎo xuè xǐ dé jìng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "耶稣来时，白衣是否仍清洁？总要倚羔羊血洗得净；", py: "yē sū lái shí, bái yī shì fǒu réng qīng jié? zǒng yào yǐ gāo yáng xuè xǐ dé jìng;" },
+          { cn: "信徒被接那时，你能否相携？总要倚羔羊血洗得净。", py: "xìn tú bèi jiē nà shí, nǐ néng fǒu xiāng xié? zǒng yào yǐ gāo yáng xuè xǐ dé jìng。" },
+          { cn: "你总要倚宝血，倚宝血始可能脱罪孽；", py: "nǐ zǒng yào yǐ bǎo xuè, yǐ bǎo xuè shǐ kě néng tuō zuì niè;" },
+          { cn: "衣服毫无玷污，必洁白如雪，你总要倚宝血洗得净。", py: "yī fú háo wú diàn wū, bì jié bái rú xuě, nǐ zǒng yào yǐ bǎo xuè xǐ dé jìng。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "往日污秽衣服，今须全然丢，总要倚羔羊血洗得净；", py: "wǎng rì wū huì yī fú, jīn xū quán rán diū, zǒng yào yǐ gāo yáng xuè xǐ dé jìng;" },
+          { cn: "曾有耶稣宝血为你白白流，总要倚羔羊血洗得净。", py: "céng yǒu yē sū bǎo xuè wèi nǐ bái bái liú, zǒng yào yǐ gāo yáng xuè xǐ dé jìng。" },
+          { cn: "你总要倚宝血，倚宝血始可能脱罪孽；", py: "nǐ zǒng yào yǐ bǎo xuè, yǐ bǎo xuè shǐ kě néng tuō zuì niè;" },
+          { cn: "衣服毫无玷污，必洁白如雪，你总要倚宝血洗得净。", py: "yī fú háo wú diàn wū, bì jié bái rú xuě, nǐ zǒng yào yǐ bǎo xuè xǐ dé jìng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 48,
+    title: "救恩借着十架",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "救恩借着十字架，此有宝血活泉；", py: "jiù ēn jiè zhe shí zì jià, cǐ yǒu bǎo xuè huó quán;" },
+          { cn: "从髑髅山长流出，洗去万民罪愆。", py: "cóng dú lóu shān cháng liú chū, xǐ qù wàn mín zuì qiān。" },
+          { cn: "十字架，十字架，就是我的背负；", py: "shí zì jià, shí zì jià, jiù shì wǒ de bèi fù;" },
+          { cn: "我的罪孽全洗净，靠着耶稣功劳。", py: "wǒ de zuì niè quán xǐ jìng, kào zhe yē sū gōng láo。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我自己没有力量，诸义如同污衣；", py: "wǒ zì jǐ méi yǒu lì liàng, zhū yì rú tóng wū yī;" },
+          { cn: "惟祢基督耶稣恩，使我成圣、称义。", py: "wéi nǐ jī dū yē sū ēn, shǐ wǒ chéng shèng, chēng yì。" },
+          { cn: "十字架，十字架，就是我的背负；", py: "shí zì jià, shí zì jià, jiù shì wǒ de bèi fù;" },
+          { cn: "我的罪孽全洗净，靠着耶稣功劳。", py: "wǒ de zuì niè quán xǐ jìng, kào zhe yē sū gōng láo。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "耶稣钉在十字架，顶难受的苦刑；", py: "yē sū dìng zài shí zì jià, dǐng nán shòu de kǔ xíng;" },
+          { cn: "使信徒免下地狱，拯救至宝魂、灵。", py: "shǐ xìn tú miǎn xià dì yù, zhěng jiù zhì bǎo hún, líng。" },
+          { cn: "十字架，十字架，就是我的背负；", py: "shí zì jià, shí zì jià, jiù shì wǒ de bèi fù;" },
+          { cn: "我的罪孽全洗净，靠着耶稣功劳。", py: "wǒ de zuì niè quán xǐ jìng, kào zhe yē sū gōng láo。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "耶稣现今在天上，坐在天父右边；", py: "yē sū xiàn jīn zài tiān shàng, zuò zài tiān fù yòu biān;" },
+          { cn: "仍为信徒代祈求，救恩永远成全。", py: "réng wèi xìn tú dài qí qiú, jiù ēn yǒng yuǎn chéng quán。" },
+          { cn: "十字架，十字架，就是我的背负；", py: "shí zì jià, shí zì jià, jiù shì wǒ de bèi fù;" },
+          { cn: "我的罪孽全洗净，靠着耶稣功劳。", py: "wǒ de zuì niè quán xǐ jìng, kào zhe yē sū gōng láo。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 49,
+    title: "主拯救我",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "深夜何其幽暗！我心何失望！祸患频来逼我，正惊惶；", py: "shēn yè hé qí yōu àn! wǒ xīn hé shī wàng! huò huàn pín lái bī wǒ, zhèng jīng huáng;" },
+          { cn: "当主荣耀光辉照入我心内，黑暗忧苦、烦闷，都消亡。", py: "dāng zhǔ róng yào guāng huī zhào rù wǒ xīn nèi, hēi àn yōu kǔ, fán mèn, dōu xiāo wáng。" },
+          { cn: "主去各各他山，特为拯救我，为拯救我，为拯救我；", py: "zhǔ qù gè gè tā shān, tè wèi zhěng jiù wǒ, wèi zhěng jiù wǒ, wèi zhěng jiù wǒ;" },
+          { cn: "主去各各他山，特为拯救我，主死，使我免祸。", py: "zhǔ qù gè gè tā shān, tè wèi zhěng jiù wǒ, zhǔ sǐ, shǐ wǒ miǎn huò。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "战兢、忧惧罪人！当来主面前，不知赦罪恩典，真堪怜；", py: "zhàn jīng, yōu jù zuì rén! dāng lái zhǔ miàn qián, bù zhī shè zuì ēn diǎn, zhēn kān lián;" },
+          { cn: "忽闻慈爱声音：“你心可畅快，我已为你还债，赦你愆”。", py: "hū wén cí ài shēng yīn: “nǐ xīn kě chàng kuài, wǒ yǐ wèi nǐ huán zhài, shè nǐ qiān”。" },
+          { cn: "主去各各他山，特为拯救我，为拯救我，为拯救我；", py: "zhǔ qù gè gè tā shān, tè wèi zhěng jiù wǒ, wèi zhěng jiù wǒ, wèi zhěng jiù wǒ;" },
+          { cn: "主去各各他山，特为拯救我，主死，使我免祸。", py: "zhǔ qù gè gè tā shān, tè wèi zhěng jiù wǒ, zhǔ sǐ, shǐ wǒ miǎn huò。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "何等奇异慈爱，主向我显明！离天降世救我，甘舍生；", py: "hé děng qí yì cí ài, zhǔ xiàng wǒ xiǎn míng! lí tiān jiàng shì jiù wǒ, gān shě shēng;" },
+          { cn: "为使我蒙拯救，主饮尽苦杯，赞美我主圣名，救功成。", py: "wèi shǐ wǒ méng zhěng jiù, zhǔ yǐn jìn kǔ bēi, zàn měi wǒ zhǔ shèng míng, jiù gōng chéng。" },
+          { cn: "主去各各他山，特为拯救我，为拯救我，为拯救我；", py: "zhǔ qù gè gè tā shān, tè wèi zhěng jiù wǒ, wèi zhěng jiù wǒ, wèi zhěng jiù wǒ;" },
+          { cn: "主去各各他山，特为拯救我，主死，使我免祸。", py: "zhǔ qù gè gè tā shān, tè wèi zhěng jiù wǒ, zhǔ sǐ, shǐ wǒ miǎn huò。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 50,
+    title: "惟独耶稣",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "惟独耶稣是我信息，我所讲论就是耶稣；", py: "wéi dú yē sū shì wǒ xìn xī, wǒ suǒ jiǎng lùn jiù shì yē sū;" },
+          { cn: "永远举起耶稣基督，我所仰望惟有耶稣。", py: "yǒng yuǎn jǔ qǐ yē sū jī dū, wǒ suǒ yǎng wàng wéi yǒu yē sū。" },
+          { cn: "惟独耶稣是我救主，我心赞美，我口扬传；", py: "wéi dú yē sū shì wǒ jiù zhǔ, wǒ xīn zàn měi, wǒ kǒu yáng chuán;" },
+          { cn: "救我、医我，使我成圣，全能之主，荣耀之王。", py: "jiù wǒ, yī wǒ, shǐ wǒ chéng shèng, quán néng zhī zhǔ, róng yào zhī wáng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "惟独耶稣是我救主，钉十字架为我舍身；", py: "wéi dú yē sū shì wǒ jiù zhǔ, dìng shí zì jià wèi wǒ shě shēn;" },
+          { cn: "流出宝血赎我罪愆，救我灵魂出死入生。", py: "liú chū bǎo xuè shú wǒ zuì qiān, jiù wǒ líng hún chū sǐ rù shēng。" },
+          { cn: "惟独耶稣是我救主，我心赞美，我口扬传；", py: "wéi dú yē sū shì wǒ jiù zhǔ, wǒ xīn zàn měi, wǒ kǒu yáng chuán;" },
+          { cn: "救我、医我，使我成圣，全能之主，荣耀之王。", py: "jiù wǒ, yī wǒ, shǐ wǒ chéng shèng, quán néng zhī zhǔ, róng yào zhī wáng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "惟独耶稣使我成圣，一切污秽，宝血洗清；", py: "wéi dú yē sū shǐ wǒ chéng shèng, yī qiē wū huì, bǎo xuè xǐ qīng;" },
+          { cn: "降下圣灵改变我心，使我德行日日更新。", py: "jiàng xià shèng líng gǎi biàn wǒ xīn, shǐ wǒ dé xíng rì rì gēng xīn。" },
+          { cn: "惟独耶稣是我救主，我心赞美，我口扬传；", py: "wéi dú yē sū shì wǒ jiù zhǔ, wǒ xīn zàn měi, wǒ kǒu yáng chuán;" },
+          { cn: "救我、医我，使我成圣，全能之主，荣耀之王。", py: "jiù wǒ, yī wǒ, shǐ wǒ chéng shèng, quán néng zhī zhǔ, róng yào zhī wáng。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "惟独耶稣医我疾病，扶我软弱，保我灵命；", py: "wéi dú yē sū yī wǒ jí bìng, fú wǒ ruǎn ruò, bǎo wǒ líng mìng;" },
+          { cn: "我属耶稣为祂肢体，全能耶稣救我到底。", py: "wǒ shǔ yē sū wéi tā zhī tǐ, quán néng yē sū jiù wǒ dào dǐ。" },
+          { cn: "惟独耶稣是我救主，我心赞美，我口扬传；", py: "wéi dú yē sū shì wǒ jiù zhǔ, wǒ xīn zàn měi, wǒ kǒu yáng chuán;" },
+          { cn: "救我、医我，使我成圣，全能之主，荣耀之王。", py: "jiù wǒ, yī wǒ, shǐ wǒ chéng shèng, quán néng zhī zhǔ, róng yào zhī wáng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 51,
+    title: "万古灵磐",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "万古灵磐为我开，", py: "wàn gǔ líng pán wèi wǒ kāi," },
+          { cn: "容我藏于主心怀；", py: "róng wǒ cáng yú zhǔ xīn huái;" },
+          { cn: "主受枪刺肋下伤，", py: "zhǔ shòu qiāng cì lèi xià shāng," },
+          { cn: "水、血和流恩绵长。", py: "shuǐ, xuè hé liú ēn mián cháng。" },
+          { cn: "如此受苦救我灵，", py: "rú cǐ shòu kǔ jiù wǒ líng," },
+          { cn: "洗我罪污免我刑。", py: "xǐ wǒ zuì wū miǎn wǒ xíng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "纵然靠己立善功，", py: "zòng rán kào jǐ lì shàn gōng," },
+          { cn: "或行律法皆落空；", py: "huò xíng lǜ fǎ jiē luò kōng;" },
+          { cn: "虽是殷勤无罢休，", py: "suī shì yīn qín wú bà xiū," },
+          { cn: "不能称义心多忧！", py: "bù néng chēng yì xīn duō yōu!" },
+          { cn: "惟靠主血赎我愆，", py: "wéi kào zhǔ xuè shú wǒ qiān," },
+          { cn: "成圣、称义到神前。", py: "chéng shèng, chēng yì dào shén qián。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我今在世度此生，", py: "wǒ jīn zài shì dù cǐ shēng," },
+          { cn: "或在主里暂安眠；", py: "huò zài zhǔ lǐ zàn ān mián;" },
+          { cn: "必在末日离土尘，", py: "bì zài mò rì lí tǔ chén," },
+          { cn: "复活见主审万民。", py: "fù huó jiàn zhǔ shěn wàn mín。" },
+          { cn: "万古灵磐为我开，", py: "wàn gǔ líng pán wèi wǒ kāi," },
+          { cn: "容我藏于主心怀。", py: "róng wǒ cáng yú zhǔ xīn huái。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 53,
+    title: "天父慈仁",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "天父爱怜世界众人，差遣爱子降临，", py: "tiān fù ài lián shì jiè zhòng rén, chāi qiǎn ài zǐ jiàng lín," },
+          { cn: "舍命救我脱罪、免死，神爱由此显明。", py: "shě mìng jiù wǒ tuō zuì, miǎn sǐ, shén ài yóu cǐ xiǎn míng。" },
+          { cn: "天父慈爱无穷无尽，普及天下万民；", py: "tiān fù cí ài wú qióng wú jìn, pǔ jí tiān xià wàn mín;" },
+          { cn: "洗我污秽，免我罪害，天父真是慈仁。", py: "xǐ wǒ wū huì, miǎn wǒ zuì hài, tiān fù zhēn shì cí rén。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "虽然我身罪恶贯盈，污辱天父圣名，", py: "suī rán wǒ shēn zuì è guàn yíng, wū rǔ tiān fù shèng míng," },
+          { cn: "做主仇敌不认真神，尚能出死入生。", py: "zuò zhǔ chóu dí bú rèn zhēn shén, shàng néng chū sǐ rù shēng。" },
+          { cn: "天父慈爱无穷无尽，普及天下万民；", py: "tiān fù cí ài wú qióng wú jìn, pǔ jí tiān xià wàn mín;" },
+          { cn: "洗我污秽，免我罪害，天父真是慈仁。", py: "xǐ wǒ wū huì, miǎn wǒ zuì hài, tiān fù zhēn shì cí rén。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "天父慈爱至大、至深，又差圣灵降临，", py: "tiān fù cí ài zhì dà, zhì shēn, yòu chāi shèng líng jiàng lín," },
+          { cn: "赏赐信徒得救凭据，必复活得永生。", py: "shǎng cì xìn tú dé jiù píng jù, bì fù huó dé yǒng shēng。" },
+          { cn: "天父慈爱无穷无尽，普及天下万民；", py: "tiān fù cí ài wú qióng wú jìn, pǔ jí tiān xià wàn mín;" },
+          { cn: "洗我污秽，免我罪害，天父真是慈仁。", py: "xǐ wǒ wū huì, miǎn wǒ zuì hài, tiān fù zhēn shì cí rén。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 55,
+    title: "蒙主释放",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我居于耶稣，心里实在平安，耶稣我救主，管我万般事情；", py: "wǒ jū yú yē sū, xīn lǐ shí zài píng ān, yē sū wǒ jiù zhǔ, guǎn wǒ wàn bān shì qíng;" },
+          { cn: "得圣灵欢喜，但愿常住我心，啊，荣耀归耶稣圣名！", py: "dé shèng líng huān xǐ, dàn yuàn cháng zhù wǒ xīn, ā, róng yào guī yē sū shèng míng!" },
+          { cn: "释放，释放，永远释放，我不再被罪恶做王；", py: "shì fàng, shì fàng, yǒng yuǎn shì fàng, wǒ bú zài bèi zuì è zuò wáng;" },
+          { cn: "宝血能洗涤，使我心里洁净，在耶稣里得着释放。", py: "bǎo xuè néng xǐ dí, shǐ wǒ xīn lǐ jié jìng, zài yē sū lǐ dé zhe shì fàng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "耶稣来释放，快乐实难言喻，从罪恶出来，不再犯罪、死亡；", py: "yē sū lái shì fàng, kuài lè shí nán yán yù, cóng zuì è chū lái, bú zài fàn zuì, sǐ wáng;" },
+          { cn: "当实行舍己，得福真是无量，啊，荣耀归耶稣圣名！", py: "dāng shí xíng shě jǐ, dé fú zhēn shì wú liàng, ā, róng yào guī yē sū shèng míng!" },
+          { cn: "释放，释放，永远释放，我不再被罪恶做王；", py: "shì fàng, shì fàng, yǒng yuǎn shì fàng, wǒ bú zài bèi zuì è zuò wáng;" },
+          { cn: "宝血能洗涤，使我心里洁净，在耶稣里得着释放。", py: "bǎo xuè néng xǐ dí, shǐ wǒ xīn lǐ jié jìng, zài yē sū lǐ dé zhe shì fàng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "于今主爱我，没有罪恶缠身，美妙的真光，常照亮我内心；", py: "yú jīn zhǔ ài wǒ, méi yǒu zuì è chán shēn, měi miào de zhēn guāng, cháng zhào liàng wǒ nèi xīn;" },
+          { cn: "唱新诗得胜，同欢呼共一声，啊，荣耀归耶稣圣名！", py: "chàng xīn shī dé shèng, tóng huān hū gòng yī shēng, ā, róng yào guī yē sū shèng míng!" },
+          { cn: "释放，释放，永远释放，我不再被罪恶做王；", py: "shì fàng, shì fàng, yǒng yuǎn shì fàng, wǒ bú zài bèi zuì è zuò wáng;" },
+          { cn: "宝血能洗涤，使我心里洁净，在耶稣里得着释放。", py: "bǎo xuè néng xǐ dí, shǐ wǒ xīn lǐ jié jìng, zài yē sū lǐ dé zhe shì fàng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 56,
+    title: "禧年已到",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "吹起禧年号筒，福音大喜之声；", py: "chuī qǐ xǐ nián hào tǒng, fú yīn dà xǐ zhī shēng;" },
+          { cn: "天下南、北、西、东，男女老幼齐听。", py: "tiān xià nán, běi, xī, dōng, nán nǚ lǎo yòu qí tīng。" },
+          { cn: "禧年已到，大赦日期，禧年已到，大赦日期；", py: "xǐ nián yǐ dào, dà shè rì qī, xǐ nián yǐ dào, dà shè rì qī;" },
+          { cn: "被赎之民，归家大喜。", py: "bèi shú zhī mín, guī jiā dà xǐ。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "神的羔羊基督，独一赎罪祭物；", py: "shén de gāo yáng jī dū, dú yī shú zuì jì wù;" },
+          { cn: "流血舍命救赎，使万国人得福。", py: "liú xuè shě mìng jiù shú, shǐ wàn guó rén dé fú。" },
+          { cn: "禧年已到，大赦日期，禧年已到，大赦日期；", py: "xǐ nián yǐ dào, dà shè rì qī, xǐ nián yǐ dào, dà shè rì qī;" },
+          { cn: "被赎之民，归家大喜。", py: "bèi shú zhī mín, guī jiā dà xǐ。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "前做撒但奴仆，脱离毫无指望；", py: "qián zuò sā dàn nú pú, tuō lí háo wú zhǐ wàng;" },
+          { cn: "今蒙主赐自由，罪中捆绑释放。", py: "jīn méng zhǔ cì zì yóu, zuì zhōng kǔn bǎng shì fàng。" },
+          { cn: "禧年已到，大赦日期，禧年已到，大赦日期；", py: "xǐ nián yǐ dào, dà shè rì qī, xǐ nián yǐ dào, dà shè rì qī;" },
+          { cn: "被赎之民，归家大喜。", py: "bèi shú zhī mín, guī jiā dà xǐ。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "天国门路大开，天父大摆筵席；", py: "tiān guó mén lù dà kāi, tiān fù dà bǎi yán xí;" },
+          { cn: "请众选民齐来，和主同坐饮食。", py: "qǐng zhòng xuǎn mín qí lái, hé zhǔ tóng zuò yǐn shí。" },
+          { cn: "天门大开，恩惠无涯，天门大开，恩惠无涯；", py: "tiān mén dà kāi, ēn huì wú yá, tiān mén dà kāi, ēn huì wú yá;" },
+          { cn: "被赎之民，归家大喜。", py: "bèi shú zhī mín, guī jiā dà xǐ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 57,
+    title: "我罪极重",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我罪极重，应该沉沦，", py: "wǒ zuì jí zhòng, yīng gāi chén lún," },
+          { cn: "救主替死，大开恩门；", py: "jiù zhǔ tì sǐ, dà kāi ēn mén;" },
+          { cn: "蒙主选召，来得救恩。", py: "méng zhǔ xuǎn zhào, lái dé jiù ēn。" },
+          { cn: "耶稣！我今就祢，就祢！", py: "yē sū! wǒ jīn jiù nǐ, jiù nǐ!" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我罪极重，污秽可憎，", py: "wǒ zuì jí zhòng, wū huì kě zēng," },
+          { cn: "己欲洗净，至今不能；", py: "jǐ yù xǐ jìng, zhì jīn bù néng;" },
+          { cn: "惟主宝血，一洗便清。", py: "wéi zhǔ bǎo xuè, yī xǐ biàn qīng。" },
+          { cn: "耶稣！我今就祢，就祢！", py: "yē sū! wǒ jīn jiù nǐ, jiù nǐ!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我罪极重，被魔捆拘，", py: "wǒ zuì jí zhòng, bèi mó kǔn jū," },
+          { cn: "大受苦难，成为罪奴；", py: "dà shòu kǔ nàn, chéng wéi zuì nú;" },
+          { cn: "主赐自由，免我罪辜。", py: "zhǔ cì zì yóu, miǎn wǒ zuì gū。" },
+          { cn: "耶稣！我今就祢，就祢！", py: "yē sū! wǒ jīn jiù nǐ, jiù nǐ!" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "我罪极重，尚可蒙恩，", py: "wǒ zuì jí zhòng, shàng kě méng ēn," },
+          { cn: "洁我内心，救我灵魂；", py: "jié wǒ nèi xīn, jiù wǒ líng hún;" },
+          { cn: "谨守主言，必入天门。", py: "jǐn shǒu zhǔ yán, bì rù tiān mén。" },
+          { cn: "耶稣！我今就祢，就祢！", py: "yē sū! wǒ jīn jiù nǐ, jiù nǐ!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 58,
+    title: "耶稣领我",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "耶稣领我，我不孤单，蒙主引导，心中平安；", py: "yē sū lǐng wǒ, wǒ bù gū dān, méng zhǔ yǐn dǎo, xīn zhōng píng ān;" },
+          { cn: "无论日夜、起居、工作，有主耶稣时常领我。", py: "wú lùn rì yè, qǐ jū, gōng zuò, yǒu zhǔ yē sū shí cháng lǐng wǒ。" },
+          { cn: "耶稣领我，日日领我，耶稣恩主亲手领我；", py: "yē sū lǐng wǒ, rì rì lǐng wǒ, yē sū ēn zhǔ qīn shǒu lǐng wǒ;" },
+          { cn: "我愿忠心做主门徒，因主施恩亲手领我。", py: "wǒ yuàn zhōng xīn zuò zhǔ mén tú, yīn zhǔ shī ēn qīn shǒu lǐng wǒ。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "有时遭遇困苦、忧伤，有时大得快乐、欢畅；", py: "yǒu shí zāo yù kùn kǔ, yōu shāng, yǒu shí dà dé kuài lè, huān chàng;" },
+          { cn: "似海翻腾，如山稳妥，或危，或安，耶稣领我。", py: "sì hǎi fān téng, rú shān wěn tuǒ, huò wēi, huò ān, yē sū lǐng wǒ。" },
+          { cn: "耶稣领我，日日领我，耶稣恩主亲手领我；", py: "yē sū lǐng wǒ, rì rì lǐng wǒ, yē sū ēn zhǔ qīn shǒu lǐng wǒ;" },
+          { cn: "我愿忠心做主门徒，因主施恩亲手领我。", py: "wǒ yuàn zhōng xīn zuò zhǔ mén tú, yīn zhǔ shī ēn qīn shǒu lǐng wǒ。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "愿拉主手同走一生，从这地步直到天城；", py: "yuàn lā zhǔ shǒu tóng zǒu yī shēng, cóng zhè dì bù zhí dào tiān chéng;" },
+          { cn: "遇苦、见福、两般皆可，因主耶稣圣手领我。", py: "yù kǔ, jiàn fú, liǎng bān jiē kě, yīn zhǔ yē sū shèng shǒu lǐng wǒ。" },
+          { cn: "耶稣领我，日日领我，耶稣恩主亲手领我；", py: "yē sū lǐng wǒ, rì rì lǐng wǒ, yē sū ēn zhǔ qīn shǒu lǐng wǒ;" },
+          { cn: "我愿忠心做主门徒，因主施恩亲手领我。", py: "wǒ yuàn zhōng xīn zuò zhǔ mén tú, yīn zhǔ shī ēn qīn shǒu lǐng wǒ。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "到时行完一世路程，内恶外敌我全得赢；", py: "dào shí xíng wán yī shì lù chéng, nèi è wài dí wǒ quán dé yíng;" },
+          { cn: "公义冠冕为我存留，独赖耶稣至终领我。", py: "gōng yì guàn miǎn wèi wǒ cún liú, dú lài yē sū zhì zhōng lǐng wǒ。" },
+          { cn: "耶稣领我，日日领我，耶稣恩主亲手领我；", py: "yē sū lǐng wǒ, rì rì lǐng wǒ, yē sū ēn zhǔ qīn shǒu lǐng wǒ;" },
+          { cn: "我愿忠心做主门徒，因主施恩亲手领我。", py: "wǒ yuàn zhōng xīn zuò zhǔ mén tú, yīn zhǔ shī ēn qīn shǒu lǐng wǒ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 59,
+    title: "求主引导",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "慈悲救主！求祢领我，走过今世旷野路，", py: "cí bēi jiù zhǔ! qiú nǐ lǐng wǒ, zǒu guò jīn shì kuàng yě lù," },
+          { cn: "我无力量，主有权能，领我一直走过去。", py: "wǒ wú lì liàng, zhǔ yǒu quán néng, lǐng wǒ yī zhí zǒu guò qù。" },
+          { cn: "天上吗哪，天上吗哪，求主时常赐给我，", py: "tiān shàng mǎ nǎ, tiān shàng mǎ nǎ, qiú zhǔ shí cháng cì gěi wǒ," },
+          { cn: "天上吗哪，天上吗哪，求主时常赐给我。", py: "tiān shàng mǎ nǎ, tiān shàng mǎ nǎ, qiú zhǔ shí cháng cì gěi wǒ。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "求主赐给生命活水，使我路中不干渴，", py: "qiú zhǔ cì gěi shēng mìng huó shuǐ, shǐ wǒ lù zhōng bù gān kě," },
+          { cn: "求主降下云柱、火柱，引导前程不差误。", py: "qiú zhǔ jiàng xià yún zhù, huǒ zhù, yǐn dǎo qián chéng bù chā wù。" },
+          { cn: "全能救主，全能救主，做我盾牌保护我，", py: "quán néng jiù zhǔ, quán néng jiù zhǔ, zuò wǒ dùn pái bǎo hù wǒ," },
+          { cn: "全能救主，全能救主，做我盾牌保护我。", py: "quán néng jiù zhǔ, quán néng jiù zhǔ, zuò wǒ dùn pái bǎo hù wǒ。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "等我走到约旦河边，令我心里得安宁，", py: "děng wǒ zǒu dào yuē dàn hé biān, lìng wǒ xīn lǐ dé ān níng," },
+          { cn: "死的权柄，耶稣胜过，靠着主，我也打赢。", py: "sǐ de quán bǐng, yē sū shèng guò, kào zhe zhǔ, wǒ yě dǎ yíng。" },
+          { cn: "到了迦南，到了迦南，我要永远赞美主，", py: "dào liǎo jiā nán, dào liǎo jiā nán, wǒ yào yǒng yuǎn zàn měi zhǔ," },
+          { cn: "到了迦南，到了迦南，我要永远赞美主。", py: "dào liǎo jiā nán, dào liǎo jiā nán, wǒ yào yǒng yuǎn zàn měi zhǔ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 61,
+    title: "求主引路",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "昔日未求我主指引道路，我行我素，", py: "xī rì wèi qiú wǒ zhǔ zhǐ yǐn dào lù, wǒ xíng wǒ sù," },
+          { cn: "今深痛悔过去堕落、糊涂，求主引路；", py: "jīn shēn tòng huǐ guò qù duò luò, hú tú, qiú zhǔ yǐn lù;" },
+          { cn: "前贪浮乐，满心罪过无数，", py: "qián tān fú lè, mǎn xīn zuì guò wú shù," },
+          { cn: "今求我主，不按愆尤震怒。", py: "jīn qiú wǒ zhǔ, bú àn qiān yóu zhèn nù。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "求主恩光照入幽暗之中，为我引路，", py: "qiú zhǔ ēn guāng zhào rù yōu àn zhī zhōng, wèi wǒ yǐn lù," },
+          { cn: "黑夜已深，用光领我脚步，求主引路；", py: "hēi yè yǐ shēn, yòng guāng lǐng wǒ jiǎo bù, qiú zhǔ yǐn lù;" },
+          { cn: "稳步前行，不再踌躇、后顾，", py: "wěn bù qián xíng, bú zài chóu chú, hòu gù," },
+          { cn: "求主施恩，一步一步关注。", py: "qiú zhǔ shī ēn, yī bù yī bù guān zhù。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "蒙主恩待，不使今生虚度，求引前路，", py: "méng zhǔ ēn dài, bù shǐ jīn shēng xū dù, qiú yǐn qián lù," },
+          { cn: "随时、随处，无论平坦、险阻，求主引路；", py: "suí shí, suí chù, wú lùn píng tǎn, xiǎn zǔ, qiú zhǔ yǐn lù;" },
+          { cn: "夜尽天晓，望天思我恩主，", py: "yè jìn tiān xiǎo, wàng tiān sī wǒ ēn zhǔ," },
+          { cn: "喜登彼岸，与我恩主同住。", py: "xǐ dēng bǐ àn, yǔ wǒ ēn zhǔ tóng zhù。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 62,
+    title: "愿主偕行",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我深愿救主常偕我，我不敢独自前行；", py: "wǒ shēn yuàn jiù zhǔ cháng xié wǒ, wǒ bú gǎn dú zì qián xíng;" },
+          { cn: "我深愿主时刻同在，祂慈手领我前程。", py: "wǒ shēn yuàn zhǔ shí kè tóng zài, tā cí shǒu lǐng wǒ qián chéng。" },
+          { cn: "任凭祂随意引导，我心中毫无畏惊；", py: "rèn píng tā suí yì yǐn dǎo, wǒ xīn zhōng háo wú wèi jīng;" },
+          { cn: "无论何往，不出怨言，随主脚踪一路行。", py: "wú lùn hé wǎng, bú chū yuàn yán, suí zhǔ jiǎo zōng yī lù xíng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我深愿救主常偕我，我信心软弱不坚；", py: "wǒ shēn yuàn jiù zhǔ cháng xié wǒ, wǒ xìn xīn ruǎn ruò bú jiān;" },
+          { cn: "主向我发安慰声音，此声内充满慈怜。", py: "zhǔ xiàng wǒ fā ān wèi shēng yīn, cǐ shēng nèi chōng mǎn cí lián。" },
+          { cn: "任凭祂随意引导，我心中毫无畏惊；", py: "rèn píng tā suí yì yǐn dǎo, wǒ xīn zhōng háo wú wèi jīng;" },
+          { cn: "无论何往，不出怨言，随主脚踪一路行。", py: "wú lùn hé wǎng, bú chū yuàn yán, suí zhǔ jiǎo zōng yī lù xíng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我深愿救主常偕我，度此生，总不相离；", py: "wǒ shēn yuàn jiù zhǔ cháng xié wǒ, dù cǐ shēng, zǒng bú xiāng lí;" },
+          { cn: "或遭风波，或处顺境，历战阵履险若夷。", py: "huò zāo fēng bō, huò chù shùn jìng, lì zhàn zhèn lǚ xiǎn ruò yí。" },
+          { cn: "任凭祂随意引导，我心中毫无畏惊；", py: "rèn píng tā suí yì yǐn dǎo, wǒ xīn zhōng háo wú wèi jīng;" },
+          { cn: "无论何往，不出怨言，随主脚踪一路行。", py: "wú lùn hé wǎng, bú chū yuàn yán, suí zhǔ jiǎo zōng yī lù xíng。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "我深愿救主常偕我，祂慈目日夜看顾；", py: "wǒ shēn yuàn jiù zhǔ cháng xié wǒ, tā cí mù rì yè kàn gù;" },
+          { cn: "直到行近约旦河边暴风涛，助我稳渡。", py: "zhí dào xíng jìn yuē dàn hé biān bào fēng tāo, zhù wǒ wěn dù。" },
+          { cn: "任凭祂随意引导，我心中毫无畏惊；", py: "rèn píng tā suí yì yǐn dǎo, wǒ xīn zhōng háo wú wèi jīng;" },
+          { cn: "无论何往，不出怨言，随主脚踪一路行。", py: "wú lùn hé wǎng, bú chū yuàn yán, suí zhǔ jiǎo zōng yī lù xíng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 63,
+    title: "愿主领路",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "日落西山，前途遥远，要前行，寂寞、愁烦；", py: "rì luò xī shān, qián tú yáo yuǎn, yào qián xíng, jì mò, chóu fán;" },
+          { cn: "只靠救主时刻扶搀，领导我勇往直前。", py: "zhǐ kào jiù zhǔ shí kè fú chān, lǐng dǎo wǒ yǒng wǎng zhí qián。" },
+          { cn: "恳求救主永不离去，使我心安不忧虑；", py: "kěn qiú jiù zhǔ yǒng bú lí qù, shǐ wǒ xīn ān bú yōu lǜ;" },
+          { cn: "慈爱圣手引我前行，过黑夜达到光明。", py: "cí ài shèng shǒu yǐn wǒ qián xíng, guò hēi yè dá dào guāng míng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "黑暗世界，忧苦、悲哀，身体、生命易受害；", py: "hēi àn shì jiè, yōu kǔ, bēi āi, shēn tǐ, shēng mìng yì shòu hài;" },
+          { cn: "依靠天父权能、慈爱，得保守，身心安泰。", py: "yī kào tiān fù quán néng, cí ài, dé bǎo shǒu, shēn xīn ān tài。" },
+          { cn: "恳求救主永不离去，使我心安不忧虑；", py: "kěn qiú jiù zhǔ yǒng bú lí qù, shǐ wǒ xīn ān bú yōu lǜ;" },
+          { cn: "慈爱圣手引我前行，过黑夜达到光明。", py: "cí ài shèng shǒu yǐn wǒ qián xíng, guò hēi yè dá dào guāng míng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "遵主旨意，顺命而行，得安然度过此生；", py: "zūn zhǔ zhǐ yì, shùn mìng ér xíng, dé ān rán dù guò cǐ shēng;" },
+          { cn: "虽有困难，靠主得胜，必欢然进入天城。", py: "suī yǒu kùn nán, kào zhǔ dé shèng, bì huān rán jìn rù tiān chéng。" },
+          { cn: "恳求救主永不离去，使我心安不忧虑；", py: "kěn qiú jiù zhǔ yǒng bú lí qù, shǐ wǒ xīn ān bú yōu lǜ;" },
+          { cn: "慈爱圣手引我前行，过黑夜达到光明。", py: "cí ài shèng shǒu yǐn wǒ qián xíng, guò hēi yè dá dào guāng míng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 64,
+    title: "真光领导",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "在光明中行一切的路程，经过诸山野，或幽谷中；", py: "zài guāng míng zhōng xíng yī qiē de lù chéng, jīng guò zhū shān yě, huò yōu gǔ zhōng;" },
+          { cn: "耶稣已叫我跟着祂脚踪，仰望我救主创始成终。", py: "yē sū yǐ jiào wǒ gēn zhe tā jiǎo zōng, yǎng wàng wǒ jiù zhǔ chuàng shǐ chéng zhōng。" },
+          { cn: "天上的真光，美妙的真光，充满我心里，快乐无疆；", py: "tiān shàng de zhēn guāng, měi miào de zhēn guāng, chōng mǎn wǒ xīn lǐ, kuài lè wú jiāng;" },
+          { cn: "哈利路亚，不住高声唱！赞美我救主，荣耀的王。", py: "hā lì lù yà, bú zhù gāo shēng chàng! zàn měi wǒ jiù zhǔ, róng yào de wáng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "黑影虽环绕，暗云虽笼罩，决不能隐蔽主示目标；", py: "hēi yǐng suī huán rào, àn yún suī lóng zhào, jué bú néng yǐn bì zhǔ shì mù biāo;" },
+          { cn: "基督真光照，阴翳必立消，有主常同在，不怕寂寥。", py: "jī dū zhēn guāng zhào, yīn yì bì lì xiāo, yǒu zhǔ cháng tóng zài, bú pà jì liáo。" },
+          { cn: "天上的真光，美妙的真光，充满我心里，快乐无疆；", py: "tiān shàng de zhēn guāng, měi miào de zhēn guāng, chōng mǎn wǒ xīn lǐ, kuài lè wú jiāng;" },
+          { cn: "哈利路亚，不住高声唱！赞美我救主，荣耀的王。", py: "hā lì lù yà, bú zhù gāo shēng chàng! zàn měi wǒ jiù zhǔ, róng yào de wáng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "心中有真光，始有大盼望，努力向前进，信心刚强；", py: "xīn zhōng yǒu zhēn guāng, shǐ yǒu dà pàn wàng, nǔ lì xiàng qián jìn, xìn xīn gāng qiáng;" },
+          { cn: "决不回头看，一路只歌唱，有真光领导，直到天乡。", py: "jué bú huí tóu kàn, yī lù zhǐ gē chàng, yǒu zhēn guāng lǐng dǎo, zhí dào tiān xiāng。" },
+          { cn: "天上的真光，美妙的真光，充满我心里，快乐无疆；", py: "tiān shàng de zhēn guāng, měi miào de zhēn guāng, chōng mǎn wǒ xīn lǐ, kuài lè wú jiāng;" },
+          { cn: "哈利路亚，不住高声唱！赞美我救主，荣耀的王。", py: "hā lì lù yà, bú zhù gāo shēng chàng! zàn měi wǒ jiù zhǔ, róng yào de wáng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 66,
+    title: "主，我等候祢！",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "主，我的内心仰望祢！主，我是素来倚靠祢！", py: "zhǔ, wǒ de nèi xīn yǎng wàng nǐ! zhǔ, wǒ shì sù lái yǐ kào nǐ!" },
+          { cn: "仇敌不能向我夸胜，凡等候祢必不羞愧。", py: "chóu dí bú néng xiàng wǒ kuā shèng, fán děng hòu nǐ bì bú xiū kuì。" },
+          { cn: "主必看顾我，引导我，必指示罪人走正路；", py: "zhǔ bì kàn gù wǒ, yǐn dǎo wǒ, bì zhǐ shì zuì rén zǒu zhèng lù;" },
+          { cn: "主，我仰望祢，等候祢，救我脱离一切愁苦！", py: "zhǔ, wǒ yǎng wàng nǐ, děng hòu nǐ, jiù wǒ tuō lí yī qiē chóu kǔ!" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "主，求祢将道指示我！主，求祢将路教训我！", py: "zhǔ, qiú nǐ jiāng dào zhǐ shì wǒ! zhǔ, qiú nǐ jiāng lù jiào xùn wǒ!" },
+          { cn: "因为祢是救我的神，我要终日等候着祢。", py: "yīn wèi nǐ shì jiù wǒ de shén, wǒ yào zhōng rì děng hòu zhe nǐ。" },
+          { cn: "主必看顾我，引导我，必指示罪人走正路；", py: "zhǔ bì kàn gù wǒ, yǐn dǎo wǒ, bì zhǐ shì zuì rén zǒu zhèng lù;" },
+          { cn: "主，我仰望祢，等候祢，救我脱离一切愁苦！", py: "zhǔ, wǒ yǎng wàng nǐ, děng hòu nǐ, jiù wǒ tuō lí yī qiē chóu kǔ!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "主，求祢纪念祢怜悯！是亘古以来所常有；", py: "zhǔ, qiú nǐ jì niàn nǐ lián mǐn! shì gèn gǔ yǐ lái suǒ cháng yǒu;" },
+          { cn: "求祢不要纪念我罪，只按祢恩惠怜恤我。", py: "qiú nǐ bú yào jì niàn wǒ zuì, zhǐ àn nǐ ēn huì lián xù wǒ。" },
+          { cn: "主必看顾我，引导我，必指示罪人走正路；", py: "zhǔ bì kàn gù wǒ, yǐn dǎo wǒ, bì zhǐ shì zuì rén zǒu zhèng lù;" },
+          { cn: "主，我仰望祢，等候祢，救我脱离一切愁苦！", py: "zhǔ, wǒ yǎng wàng nǐ, děng hòu nǐ, jiù wǒ tuō lí yī qiē chóu kǔ!" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "主，祢是良善而正直！所以必引人走正路；", py: "zhǔ, nǐ shì liáng shàn ér zhèng zhí! suǒ yǐ bì yǐn rén zǒu zhèng lù;" },
+          { cn: "必按公平领谦卑人，教训他们遵祢法度。", py: "bì àn gōng píng lǐng qiān bēi rén, jiào xùn tā men zūn nǐ fǎ dù。" },
+          { cn: "主必看顾我，引导我，必指示罪人走正路；", py: "zhǔ bì kàn gù wǒ, yǐn dǎo wǒ, bì zhǐ shì zuì rén zǒu zhèng lù;" },
+          { cn: "主，我仰望祢，等候祢，救我脱离一切愁苦！", py: "zhǔ, wǒ yǎng wàng nǐ, děng hòu nǐ, jiù wǒ tuō lí yī qiē chóu kǔ!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 67,
+    title: "求主指引我路",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "主啊！求祢指引，指引我路！", py: "zhǔ ā! qiú nǐ zhǐ yǐn, zhǐ yǐn wǒ lù!" },
+          { cn: "求祢施恩帮助，指引我路！", py: "qiú nǐ shī ēn bāng zhù, zhǐ yǐn wǒ lù!" },
+          { cn: "使我行道不偏，凭信不凭眼见，", py: "shǐ wǒ xíng dào bú piān, píng xìn bú píng yǎn jiàn," },
+          { cn: "降下云柱火柱，指引我路！", py: "jiàng xià yún zhù huǒ zhù, zhǐ yǐn wǒ lù!" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "当有疑云愁雾，指引我路！", py: "dāng yǒu yí yún chóu wù, zhǐ yǐn wǒ lù!" },
+          { cn: "当有狂风暴雨，指引我路！", py: "dāng yǒu kuáng fēng bào yǔ, zhǐ yǐn wǒ lù!" },
+          { cn: "不分昼夜阴晴，无论清晨薄暮，", py: "bú fēn zhòu yè yīn qíng, wú lùn qīng chén bó mù," },
+          { cn: "使我前途光明，指引我路！", py: "shǐ wǒ qián tú guāng míng, zhǐ yǐn wǒ lù!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "当我寄居在世，指引我路！", py: "dāng wǒ jì jū zài shì, zhǐ yǐn wǒ lù!" },
+          { cn: "不论遇何事故，指引我路！", py: "bú lùn yù hé shì gù, zhǐ yǐn wǒ lù!" },
+          { cn: "直到打胜美仗，直到跑尽我路，", py: "zhí dào dǎ shèng měi zhàng, zhí dào pǎo jìn wǒ lù," },
+          { cn: "直到领受冠冕，指引我路！", py: "zhí dào lǐng shòu guàn miǎn, zhǐ yǐn wǒ lù!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 68,
+    title: "求主携我手",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "求携我手，因我软弱难行走，", py: "qiú xié wǒ shǒu, yīn wǒ ruǎn ruò nán xíng zǒu," },
+          { cn: "若无主扶持，一步也难移；", py: "ruò wú zhǔ fú chí, yī bù yě nán yí;" },
+          { cn: "求携我手，引我学步像小儿，", py: "qiú xié wǒ shǒu, yǐn wǒ xué bù xiàng xiǎo ér," },
+          { cn: "行在光明中，步步不差池。", py: "xíng zài guāng míng zhōng, bù bù bú chà chí。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "求携我手，领我紧紧跟主走，", py: "qiú xié wǒ shǒu, lǐng wǒ jǐn jǐn gēn zhǔ zǒu," },
+          { cn: "主是我标竿，我眼时时看；", py: "zhǔ shì wǒ biāo gān, wǒ yǎn shí shí kàn;" },
+          { cn: "求携我手，莫容我跑出羊栏，", py: "qiú xié wǒ shǒu, mò róng wǒ pǎo chū yáng lán," },
+          { cn: "恐与主相离，迷路遭苦难。", py: "kǒng yǔ zhǔ xiāng lí, mí lù zāo kǔ nán。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "求携我手，求以恩臂常保守，", py: "qiú xié wǒ shǒu, qiú yǐ ēn bì cháng bǎo shǒu," },
+          { cn: "主不在我旁，前路黑茫茫；", py: "zhǔ bú zài wǒ páng, qián lù hēi máng máng;" },
+          { cn: "我若凭信，望见主面上荣光，", py: "wǒ ruò píng xìn, wàng jiàn zhǔ miàn shàng róng guāng," },
+          { cn: "便欢喜若狂，更放声高唱。", py: "biàn huān xǐ ruò kuáng, gèng fàng shēng gāo chàng。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "求携我手，直到那冷河渡口，", py: "qiú xié wǒ shǒu, zhí dào nà lěng hé dù kǒu," },
+          { cn: "我主为救我，曾由此经过；", py: "wǒ zhǔ wèi jiù wǒ, céng yóu cǐ jīng guò;" },
+          { cn: "遥望对岸，我父家辉煌光波，", py: "yáo wàng duì àn, wǒ fù jiā huī huáng guāng bō," },
+          { cn: "随主手引领，渡河乐高歌。", py: "suí zhǔ shǒu yǐn lǐng, dù hé lè gāo gē。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 69,
+    title: "求主操我舵",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "求主耶稣操我舵，世海波涛安渡过，", py: "qiú zhǔ yē sū cāo wǒ duò, shì hǎi bō tāo ān dù guò," },
+          { cn: "前面滚滚风浪作，暗礁隐隐险且恶；", py: "qián miàn gǔn gǔn fēng làng zuò, àn jiāo yǐn yǐn xiǎn qiě è;" },
+          { cn: "南针、海图，主掌握，求主耶稣，操我舵。", py: "nán zhēn, hǎi tú, zhǔ zhǎng wò, qiú zhǔ yē sū, cāo wǒ duò。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "宛如慈母抚幼婴，主命海洋默无声，", py: "wǎn rú cí mǔ fǔ yòu yīng, zhǔ mìng hǎi yáng mò wú shēng," },
+          { cn: "闻主一言即安静，喧腾海面立平定；", py: "wén zhǔ yī yán jí ān jìng, xuān téng hǎi miàn lì píng dìng;" },
+          { cn: "宇宙主宰妙无穷，求主耶稣，导我行。", py: "yǔ zhòu zhǔ zǎi miào wú qióng, qiú zhǔ yē sū, dǎo wǒ xíng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "当我航近福乐港，岸边巨浪犹猖狂，", py: "dāng wǒ háng jìn fú lè gǎng, àn biān jù làng yóu chāng kuáng," },
+          { cn: "容我在主怀中藏，渡过险境入安康；", py: "róng wǒ zài zhǔ huái zhōng cáng, dù guò xiǎn jìng rù ān kāng;" },
+          { cn: "闻主慰言在耳旁：“有我同在，莫惊慌！”", py: "wén zhǔ wèi yán zài ěr páng: “yǒu wǒ tóng zài, mò jīng huāng!”" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 70,
+    title: "主有万福",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "以前我心苦楚、悲伤，所望福气无常；", py: "yǐ qián wǒ xīn kǔ chǔ, bēi shāng, suǒ wàng fú qì wú cháng;" },
+          { cn: "惟独基督今做我主，平安喜乐无量。", py: "wéi dú jī dū jīn zuò wǒ zhǔ, píng ān xǐ lè wú liàng。" },
+          { cn: "今主基督充满我心，并无别人似之；", py: "jīn zhǔ jī dū chōng mǎn wǒ xīn, bìng wú bié rén sì zhī;" },
+          { cn: "永远生命、平安、喜乐，都由耶稣赏赐。", py: "yǒng yuǎn shēng mìng, píng ān, xǐ lè, dōu yóu yē sū shǎng cì。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "以前切望世间福气，与主耶稣远离；", py: "yǐ qián qiē wàng shì jiān fú qì, yǔ zhǔ yē sū yuǎn lí;" },
+          { cn: "惟独天恩出人意想，使我永享不移。", py: "wéi dú tiān ēn chū rén yì xiǎng, shǐ wǒ yǒng xiǎng bú yí。" },
+          { cn: "今主基督充满我心，并无别人似之；", py: "jīn zhǔ jī dū chōng mǎn wǒ xīn, bìng wú bié rén sì zhī;" },
+          { cn: "永远生命、平安、喜乐，都由耶稣赏赐。", py: "yǒng yuǎn shēng mìng, píng ān, xǐ lè, dōu yóu yē sū shǎng cì。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "以前我尝许多好味，饥渴仍然极深；", py: "yǐ qián wǒ cháng xǔ duō hǎo wèi, jī kě réng rán jí shēn;" },
+          { cn: "惟独主赐天粮、活水，永远满足我心。", py: "wéi dú zhǔ cì tiān liáng, huó shuǐ, yǒng yuǎn mǎn zú wǒ xīn。" },
+          { cn: "今主基督充满我心，并无别人似之；", py: "jīn zhǔ jī dū chōng mǎn wǒ xīn, bìng wú bié rén sì zhī;" },
+          { cn: "永远生命、平安、喜乐，都由耶稣赏赐。", py: "yǒng yuǎn shēng mìng, píng ān, xǐ lè, dōu yóu yē sū shǎng cì。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "以前看重世间百物，未曾看重基督；", py: "yǐ qián kàn zhòng shì jiān bǎi wù, wèi céng kàn zhòng jī dū;" },
+          { cn: "惟独救主开我心目，始知主有万福。", py: "wéi dú jiù zhǔ kāi wǒ xīn mù, shǐ zhī zhǔ yǒu wàn fú。" },
+          { cn: "今主基督充满我心，并无别人似之；", py: "jīn zhǔ jī dū chōng mǎn wǒ xīn, bìng wú bié rén sì zhī;" },
+          { cn: "永远生命、平安、喜乐，都由耶稣赏赐。", py: "yǒng yuǎn shēng mìng, píng ān, xǐ lè, dōu yóu yē sū shǎng cì。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 71,
+    title: "耶稣我主",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我爱耶稣尊名，比爱别名更深，", py: "wǒ ài yē sū zūn míng, bǐ ài bié míng gèng shēn," },
+          { cn: "耶稣我主；主是万福之源，", py: "yē sū wǒ zhǔ; zhǔ shì wàn fú zhī yuán," },
+          { cn: "有主我无缺乏，无主我真可怜，", py: "yǒu zhǔ wǒ wú quē fá, wú zhǔ wǒ zhēn kě lián," },
+          { cn: "耶稣我主。", py: "yē sū wǒ zhǔ。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "耶稣爱我极深，流血赎我罪身，", py: "yē sū ài wǒ jí shēn, liú xuè shú wǒ zuì shēn," },
+          { cn: "耶稣我主；主爱永无改变，", py: "yē sū wǒ zhǔ; zhǔ ài yǒng wú gǎi biàn," },
+          { cn: "胜过父母眷念，日日得新体验，", py: "shèng guò fù mǔ juàn niàn, rì rì dé xīn tǐ yàn," },
+          { cn: "耶稣我主。", py: "yē sū wǒ zhǔ。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我要向主奔跑，靠主极大功劳，", py: "wǒ yào xiàng zhǔ bēn pǎo, kào zhǔ jí dà gōng láo," },
+          { cn: "耶稣我主；危险何须惊惧？", py: "yē sū wǒ zhǔ; wēi xiǎn hé xū jīng jù?" },
+          { cn: "世事不必忧虑，主永与我同居，", py: "shì shì bú bì yōu lǜ, zhǔ yǒng yǔ wǒ tóng jū," },
+          { cn: "耶稣我主。", py: "yē sū wǒ zhǔ。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "不久主必降临，那时福满我心，", py: "bú jiǔ zhǔ bì jiàng lín, nà shí fú mǎn wǒ xīn," },
+          { cn: "耶稣我主；我将亲见主面，", py: "yē sū wǒ zhǔ; wǒ jiāng qīn jiàn zhǔ miàn," },
+          { cn: "成就我心所愿，享福直到永远，", py: "chéng jiù wǒ xīn suǒ yuàn, xiǎng fú zhí dào yǒng yuǎn," },
+          { cn: "耶稣我主。", py: "yē sū wǒ zhǔ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 72,
+    title: "万福之主",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "最大医生与我亲近，就是爱人之耶稣；", py: "zuì dà yī shēng yǔ wǒ qīn jìn, jiù shì ài rén zhī yē sū;" },
+          { cn: "救主权能使人痊愈，应当信靠主耶稣。", py: "jiù zhǔ quán néng shǐ rén quán yù, yīng dāng xìn kào zhǔ yē sū。" },
+          { cn: "顶甘美主爱广布，顶甘甜主恩无数，", py: "dǐng gān měi zhǔ ài guǎng bù, dǐng gān tián zhǔ ēn wú shù," },
+          { cn: "顶甘香主名至上，是万福主耶稣。", py: "dǐng gān xiāng zhǔ míng zhì shàng, shì wàn fú zhǔ yē sū。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "救主慈爱赦免罪愆，就是舍命之耶稣；", py: "jiù zhǔ cí ài shè miǎn zuì qiān, jiù shì shě mìng zhī yē sū;" },
+          { cn: "所有罪人一齐近前，应当悔改信耶稣。", py: "suǒ yǒu zuì rén yī qí jìn qián, yīng dāng huǐ gǎi xìn yē sū。" },
+          { cn: "顶甘美主爱广布，顶甘甜主恩无数，", py: "dǐng gān měi zhǔ ài guǎng bù, dǐng gān tián zhǔ ēn wú shù," },
+          { cn: "顶甘香主名至上，是万福主耶稣。", py: "dǐng gān xiāng zhǔ míng zhì shàng, shì wàn fú zhǔ yē sū。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "救主赐人永远生命，就是复活之耶稣；", py: "jiù zhǔ cì rén yǒng yuǎn shēng mìng, jiù shì fù huó zhī yē sū;" },
+          { cn: "使人得着不朽福气，应当跟从主耶稣。", py: "shǐ rén dé zhe bú xiǔ fú qì, yīng dāng gēn cóng zhǔ yē sū。" },
+          { cn: "顶甘美主爱广布，顶甘甜主恩无数，", py: "dǐng gān měi zhǔ ài guǎng bù, dǐng gān tián zhǔ ēn wú shù," },
+          { cn: "顶甘香主名至上，是万福主耶稣。", py: "dǐng gān xiāng zhǔ míng zhì shàng, shì wàn fú zhǔ yē sū。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "救主预备天国住处，就是升天之耶稣；", py: "jiù zhǔ yù bèi tiān guó zhù chù, jiù shì shēng tiān zhī yē sū;" },
+          { cn: "祂必再来迎接信徒，应当仰望主耶稣。", py: "tā bì zài lái yíng jiē xìn tú, yīng dāng yǎng wàng zhǔ yē sū。" },
+          { cn: "顶甘美主爱广布，顶甘甜主恩无数，", py: "dǐng gān měi zhǔ ài guǎng bù, dǐng gān tián zhǔ ēn wú shù," },
+          { cn: "顶甘香主名至上，是万福主耶稣。", py: "dǐng gān xiāng zhǔ míng zhì shàng, shì wàn fú zhǔ yē sū。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 73,
+    title: "赐福救主",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "恳求大牧领我前行，我真愿与主相亲；", py: "kěn qiú dà mù lǐng wǒ qián xíng, wǒ zhēn yuàn yǔ zhǔ xiāng qīn;" },
+          { cn: "恳求引到快乐草场，预备羊栏安我身。", py: "kěn qiú yǐn dào kuài lè cǎo chǎng, yù bèi yáng lán ān wǒ shēn。" },
+          { cn: "赐福救主，赐福救主，我们蒙救做主民；", py: "cì fú jiù zhǔ, cì fú jiù zhǔ, wǒ men méng jiù zuò zhǔ mín;" },
+          { cn: "赐福救主，赐福救主，我们蒙救做主民。", py: "cì fú jiù zhǔ, cì fú jiù zhǔ, wǒ men méng jiù zuò zhǔ mín。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "虽然我们多罪、困贫，主已应许救我灵；", py: "suī rán wǒ men duō zuì, kùn pín, zhǔ yǐ yīng xǔ jiù wǒ líng;" },
+          { cn: "甘愿舍命为我流血，洗涤我罪得更新。", py: "gān yuàn shě mìng wèi wǒ liú xuè, xǐ dí wǒ zuì dé gēng xīn。" },
+          { cn: "赐福救主，赐福救主，我愿早日归天庭；", py: "cì fú jiù zhǔ, cì fú jiù zhǔ, wǒ yuàn zǎo rì guī tiān tíng;" },
+          { cn: "赐福救主，赐福救主，我愿早日归天庭。", py: "cì fú jiù zhǔ, cì fú jiù zhǔ, wǒ yuàn zǎo rì guī tiān tíng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我愿尊照救主命令，日日努力跟主行；", py: "wǒ yuàn zūn zhào jiù zhǔ mìng lìng, rì rì nǔ lì gēn zhǔ xíng;" },
+          { cn: "敬求救主体恤软弱，随时眷顾、施爱怜。", py: "jìng qiú jiù zhǔ tǐ xù ruǎn ruò, suí shí juàn gù, shī ài lián。" },
+          { cn: "赐福救主，赐福救主，荣耀永远归主名；", py: "cì fú jiù zhǔ, cì fú jiù zhǔ, róng yào yǒng yuǎn guī zhǔ míng;" },
+          { cn: "赐福救主，赐福救主，荣耀永远归主名。", py: "cì fú jiù zhǔ, cì fú jiù zhǔ, róng yào yǒng yuǎn guī zhǔ míng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 74,
+    title: "救主降生",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "听啊！天使唱高声，报知救主已降生！", py: "tīng ā! tiān shǐ chàng gāo shēng, bào zhī jiù zhǔ yǐ jiàng shēng!" },
+          { cn: "当与天使同歌唱，竭力颂赞新生王，", py: "dāng yǔ tiān shǐ tóng gē chàng, jié lì sòng zàn xīn shēng wáng," },
+          { cn: "世界各处远近邦，皆当兴起同颂扬。", py: "shì jiè gè chù yuǎn jìn bāng, jiē dāng xīng qǐ tóng sòng yáng。" },
+          { cn: "天唱地和喜不胜，基督生于伯利恒。", py: "tiān chàng dì hè xǐ bú shèng, jī dū shēng yú bó lì héng。" },
+          { cn: "天唱地和喜不胜，基督生于伯利恒。", py: "tiān chàng dì hè xǐ bú shèng, jī dū shēng yú bó lì héng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "基督本为永生主，居于至高荣耀处，", py: "jī dū běn wéi yǒng shēng zhǔ, jū yú zhì gāo róng yào chù," },
+          { cn: "时期满足由天降，赐与万世大盼望，", py: "shí qī mǎn zú yóu tiān jiàng, cì yǔ wàn shì dà pàn wàng," },
+          { cn: "至尊真神成肉身，住在人间传救恩。", py: "zhì zūn zhēn shén chéng ròu shēn, zhù zài rén jiān chuán jiù ēn。" },
+          { cn: "恩惠、平安降于地，救世主以马内利。", py: "ēn huì, píng ān jiàng yú dì, jiù shì zhǔ yǐ mǎ nèi lì。" },
+          { cn: "恩惠、平安降于地，救世主以马内利。", py: "ēn huì, píng ān jiàng yú dì, jiù shì zhǔ yǐ mǎ nèi lì。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "美哉，救主和平王！大哉，主为世上光！", py: "měi zāi, jiù zhǔ hé píng wáng! dà zāi, zhǔ wéi shì shàng guāng!" },
+          { cn: "普遍照临亿万人，赐以永生引归真，", py: "pǔ biàn zhào lín yì wàn rén, cì yǐ yǒng shēng yǐn guī zhēn," },
+          { cn: "谦卑离弃天荣尊，救人脱罪免沉沦。", py: "qiān bēi lí qì tiān róng zūn, jiù rén tuō zuì miǎn chén lún。" },
+          { cn: "天上荣耀归真神，地上平安归于人。", py: "tiān shàng róng yào guī zhēn shén, dì shàng píng ān guī yú rén。" },
+          { cn: "天上荣耀归真神，地上平安归于人。", py: "tiān shàng róng yào guī zhēn shén, dì shàng píng ān guī yú rén。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 75,
+    title: "基督降生",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "请听天使大喜信息，", py: "qǐng tīng tiān shǐ dà xǐ xìn xī," },
+          { cn: "基督降生大卫之城；", py: "jī dū jiàng shēng dà wèi zhī chéng;" },
+          { cn: "祂是真神独生爱子，", py: "tā shì zhēn shén dú shēng ài zǐ," },
+          { cn: "应当赞美耶稣尊名。", py: "yīng dāng zàn měi yē sū zūn míng。" },
+          { cn: "欢喜，欢喜，欢喜，欢喜，", py: "huān xǐ, huān xǐ, huān xǐ, huān xǐ," },
+          { cn: "天国君王已经降生。", py: "tiān guó jūn wáng yǐ jīng jiàng shēng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "天使传讲：“不要心惊，", py: "tiān shǐ chuán jiǎng: “bú yào xīn jīng," },
+          { cn: "我报关乎万民佳音；", py: "wǒ bào guān hū wàn mín jiā yīn;" },
+          { cn: "槽内婴儿布包为记，", py: "cáo nèi yīng ér bù bāo wéi jì," },
+          { cn: "要使世人认识欢迎。", py: "yào shǐ shì rén rèn shí huān yíng。" },
+          { cn: "欢喜，欢喜，欢喜，欢喜，", py: "huān xǐ, huān xǐ, huān xǐ, huān xǐ," },
+          { cn: "天国君王已经降生。", py: "tiān guó jūn wáng yǐ jīng jiàng shēng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "一队天兵同心赞美：", py: "yī duì tiān bīng tóng xīn zàn měi:" },
+          { cn: "“荣耀归神，平安归人！”", py: "“róng yào guī shén, píng ān guī rén!”" },
+          { cn: "基督被神立为救主，", py: "jī dū bèi shén lì wéi jiù zhǔ," },
+          { cn: "要使万民得救归神。", py: "yào shǐ wàn mín dé jiù guī shén。" },
+          { cn: "欢喜，欢喜，欢喜，欢喜，", py: "huān xǐ, huān xǐ, huān xǐ, huān xǐ," },
+          { cn: "天国君王已经降生。", py: "tiān guó jūn wáng yǐ jīng jiàng shēng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 76,
+    title: "耶稣受死",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我主圣体被钉血流，挂在髑髅山头；", py: "wǒ zhǔ shèng tǐ bèi dìng xuè liú, guà zài dú lóu shān tóu;" },
+          { cn: "情愿舍命赎我灵魂，赦我一切愆尤。", py: "qíng yuàn shě mìng shú wǒ líng hún, shè wǒ yī qiē qiān yóu。" },
+          { cn: "在我主钉苦架，我看见主宝血，罪重担从我心皆脱落；", py: "zài wǒ zhǔ dìng kǔ jià, wǒ kàn jiàn zhǔ bǎo xuè, zuì zhòng dān cóng wǒ xīn jiē tuō luò;" },
+          { cn: "在苦架，我因信眼明亮、心平安，到如今我无时不欢乐。", py: "zài kǔ jià, wǒ yīn xìn yǎn míng liàng, xīn píng ān, dào rú jīn wǒ wú shí bú huān lè。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "荣耀救主，因我罪深，甘受咒诅、蒙羞；", py: "róng yào jiù zhǔ, yīn wǒ zuì shēn, gān shòu zhòu zǔ, méng xiū;" },
+          { cn: "莫大恩典、莫大慈爱，为我灭了冤仇。", py: "mò dà ēn diǎn, mò dà cí ài, wèi wǒ miè liǎo yuān chóu。" },
+          { cn: "在我主钉苦架，我看见主宝血，罪重担从我心皆脱落；", py: "zài wǒ zhǔ dìng kǔ jià, wǒ kàn jiàn zhǔ bǎo xuè, zuì zhòng dān cóng wǒ xīn jiē tuō luò;" },
+          { cn: "在苦架，我因信眼明亮、心平安，到如今我无时不欢乐。", py: "zài kǔ jià, wǒ yīn xìn yǎn míng liàng, xīn píng ān, dào rú jīn wǒ wú shí bú huān lè。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "真神爱子钉在十架，头戴荆棘冕旒；", py: "zhēn shén ài zǐ dìng zài shí jià, tóu dài jīng jí miǎn liú;" },
+          { cn: "太阳暗避如不忍睹，大地惊怕、动摇。", py: "tài yáng àn bì rú bú rěn dǔ, dà dì jīng pà, dòng yáo。" },
+          { cn: "在我主钉苦架，我看见主宝血，罪重担从我心皆脱落；", py: "zài wǒ zhǔ dìng kǔ jià, wǒ kàn jiàn zhǔ bǎo xuè, zuì zhòng dān cóng wǒ xīn jiē tuō luò;" },
+          { cn: "在苦架，我因信眼明亮、心平安，到如今我无时不欢乐。", py: "zài kǔ jià, wǒ yīn xìn yǎn míng liàng, xīn píng ān, dào rú jīn wǒ wú shí bú huān lè。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "主恩、主爱如此深重，流泪何足报酬？", py: "zhǔ ēn, zhǔ ài rú cǐ shēn zhòng, liú lèi hé zú bào chóu?" },
+          { cn: "惟将身心献与主前，一生事主不休。", py: "wéi jiāng shēn xīn xiàn yǔ zhǔ qián, yī shēng shì zhǔ bú xiū。" },
+          { cn: "在我主钉苦架，我看见主宝血，罪重担从我心皆脱落；", py: "zài wǒ zhǔ dìng kǔ jià, wǒ kàn jiàn zhǔ bǎo xuè, zuì zhòng dān cóng wǒ xīn jiē tuō luò;" },
+          { cn: "在苦架，我因信眼明亮、心平安，到如今我无时不欢乐。", py: "zài kǔ jià, wǒ yīn xìn yǎn míng liàng, xīn píng ān, dào rú jīn wǒ wú shí bú huān lè。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 78,
+    title: "乐主复活",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "为罪人被钉死，我救主耶稣；", py: "wèi zuì rén bèi dìng sǐ, wǒ jiù zhǔ yē sū;" },
+          { cn: "磐石凿，新墓里，我主耶稣。", py: "pán shí záo, xīn mù lǐ, wǒ zhǔ yē sū。" },
+          { cn: "墓口忽开，主复活！主向世人，恩门开极阔！", py: "mù kǒu hū kāi, zhǔ fù huó! zhǔ xiàng shì rén, ēn mén kāi jí kuò!" },
+          { cn: "主复活，那阴间众鬼魔战惊！主复活，众门徒赖其死得生！", py: "zhǔ fù huó, nà yīn jiān zhòng guǐ mó zhàn jīng! zhǔ fù huó, zhòng mén tú lài qí sǐ dé shēng!" },
+          { cn: "主复活！主复活！哈利路亚，主复活！", py: "zhǔ fù huó! zhǔ fù huó! hā lì lù yà, zhǔ fù huó!" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "众兵丁空看守，我救主耶稣；", py: "zhòng bīng dīng kōng kān shǒu, wǒ jiù zhǔ yē sū;" },
+          { cn: "死期过，苏醒起，我主耶稣。", py: "sǐ qī guò, sū xǐng qǐ, wǒ zhǔ yē sū。" },
+          { cn: "墓口忽开，主复活！主向世人，恩门开极阔！", py: "mù kǒu hū kāi, zhǔ fù huó! zhǔ xiàng shì rén, ēn mén kāi jí kuò!" },
+          { cn: "主复活，那阴间众鬼魔战惊！主复活，众门徒赖其死得生！", py: "zhǔ fù huó, nà yīn jiān zhòng guǐ mó zhàn jīng! zhǔ fù huó, zhòng mén tú lài qí sǐ dé shēng!" },
+          { cn: "主复活！主复活！哈利路亚，主复活！", py: "zhǔ fù huó! zhǔ fù huó! hā lì lù yà, zhǔ fù huó!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "胜死权，灭冤仇，我救主耶稣；", py: "shèng sǐ quán, miè yuān chóu, wǒ jiù zhǔ yē sū;" },
+          { cn: "墓不能再拘禁，我主耶稣。", py: "mù bú néng zài jū jìn, wǒ zhǔ yē sū。" },
+          { cn: "墓口忽开，主复活！主向世人，恩门开极阔！", py: "mù kǒu hū kāi, zhǔ fù huó! zhǔ xiàng shì rén, ēn mén kāi jí kuò!" },
+          { cn: "主复活，那阴间众鬼魔战惊！主复活，众门徒赖其死得生！", py: "zhǔ fù huó, nà yīn jiān zhòng guǐ mó zhàn jīng! zhǔ fù huó, zhòng mén tú lài qí sǐ dé shēng!" },
+          { cn: "主复活！主复活！哈利路亚，主复活！", py: "zhǔ fù huó! zhǔ fù huó! hā lì lù yà, zhǔ fù huó!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 79,
+    title: "耶稣复活颂",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "基督耶稣已复活，哈利路亚！", py: "jī dū yē sū yǐ fù huó, hā lì lù yà!" },
+          { cn: "天使、世人齐传说，哈利路亚！", py: "tiān shǐ, shì rén qí chuán shuō, hā lì lù yà!" },
+          { cn: "快乐凯歌高声扬，哈利路亚！", py: "kuài lè kǎi gē gāo shēng yáng, hā lì lù yà!" },
+          { cn: "天上、地下一同唱：“哈利路亚！”", py: "tiān shàng, dì xià yī tóng chàng: “hā lì lù yà!”" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "荣耀君王墓中起，哈利路亚！", py: "róng yào jūn wáng mù zhōng qǐ, hā lì lù yà!" },
+          { cn: "死的毒钩除无遗，哈利路亚！", py: "sǐ de dú gōu chú wú yí, hā lì lù yà!" },
+          { cn: "主献身体灭冤仇，哈利路亚！", py: "zhǔ xiàn shēn tǐ miè yuān chóu, hā lì lù yà!" },
+          { cn: "魔鬼权势难存留，哈利路亚！", py: "mó guǐ quán shì nán cún liú, hā lì lù yà!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "赎罪恩功今已成，哈利路亚！", py: "shú zuì ēn gōng jīn yǐ chéng, hā lì lù yà!" },
+          { cn: "攻魔击敌全得赢，哈利路亚！", py: "gōng mó jī dí quán dé yíng, hā lì lù yà!" },
+          { cn: "死亡权势今何在？哈利路亚！", py: "sǐ wáng quán shì jīn hé zài? hā lì lù yà!" },
+          { cn: "基督已将天门开，哈利路亚！", py: "jī dū yǐ jiāng tiān mén kāi, hā lì lù yà!" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "今日我们齐颂扬，哈利路亚！", py: "jīn rì wǒ men qí sòng yáng, hā lì lù yà!" },
+          { cn: "基督永为天上王，哈利路亚！", py: "jī dū yǒng wéi tiān shàng wáng, hā lì lù yà!" },
+          { cn: "被造新人主形状，哈利路亚！", py: "bèi zào xīn rén zhǔ xíng zhuàng, hā lì lù yà!" },
+          { cn: "末日复活同为王，哈利路亚！", py: "mò rì fù huó tóng wéi wáng, hā lì lù yà!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 82,
+    title: "儆醒预备",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "众圣徒得重生，经训当遵行，", py: "zhòng shèng tú dé chóng shēng, jīng xùn dāng zūn xíng," },
+          { cn: "到末日见耶稣，被提而上升；", py: "dào mò rì jiàn yē sū, bèi tí ér shàng shēng;" },
+          { cn: "将身心献与主，束腰常儆醒，", py: "jiāng shēn xīn xiàn yǔ zhǔ, shù yāo cháng jǐng xǐng," },
+          { cn: "如童女等新郎，夜半或鸡鸣。", py: "rú tóng nǚ děng xīn láng, yè bàn huò jī míng。" },
+          { cn: "预备油在器皿，预备油在器皿；", py: "yù bèi yóu zài qì mǐn, yù bèi yóu zài qì mǐn;" },
+          { cn: "像那些聪明女，预备油在器皿。", py: "xiàng nà xiē cōng míng nǚ, yù bèi yóu zài qì mǐn。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "在今生快预备，来世大福气，", py: "zài jīn shēng kuài yù bèi, lái shì dà fú qì," },
+          { cn: "靠圣灵结善果，德行要全备；", py: "kào shèng líng jié shàn guǒ, dé xíng yào quán bèi;" },
+          { cn: "主来迟，要忍耐，等候不歇息，", py: "zhǔ lái chí, yào rěn nài, děng hòu bú xiē xī," },
+          { cn: "常儆醒预备油，免被主丢弃。", py: "cháng jǐng xǐng yù bèi yóu, miǎn bèi zhǔ diū qì。" },
+          { cn: "预备油在器皿，预备油在器皿；", py: "yù bèi yóu zài qì mǐn, yù bèi yóu zài qì mǐn;" },
+          { cn: "像那些聪明女，预备油在器皿。", py: "xiàng nà xiē cōng míng nǚ, yù bèi yóu zài qì mǐn。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "主门徒受圣灵，要做世上光，", py: "zhǔ mén tú shòu shèng líng, yào zuò shì shàng guāng," },
+          { cn: "当学那聪明女，灯焰常辉煌；", py: "dāng xué nà cōng míng nǚ, dēng yàn cháng huī huáng;" },
+          { cn: "号筒响，都变化，复活到主前，", py: "hào tǒng xiǎng, dōu biàn huà, fù huó dào zhǔ qián," },
+          { cn: "在天上同欢乐，共赴大喜筵。", py: "zài tiān shàng tóng huān lè, gòng fù dà xǐ yàn。" },
+          { cn: "预备油在器皿，预备油在器皿；", py: "yù bèi yóu zài qì mǐn, yù bèi yóu zài qì mǐn;" },
+          { cn: "像那些聪明女，预备油在器皿。", py: "xiàng nà xiē cōng míng nǚ, yù bèi yóu zài qì mǐn。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 83,
+    title: "耶稣来时",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "耶稣来时，再无幽暗、困苦，耶稣来时，再无幽暗、困苦；", py: "yē sū lái shí, zài wú yōu àn, kùn kǔ, yē sū lái shí, zài wú yōu àn, kùn kǔ;" },
+          { cn: "耶稣来时，必有光明、幸福，因主来接我回家。", py: "yē sū lái shí, bì yǒu guāng míng, xìng fú, yīn zhǔ lái jiē wǒ huí jiā。" },
+          { cn: "因主来接我回家，因主来接我回家；", py: "yīn zhǔ lái jiē wǒ huí jiā, yīn zhǔ lái jiē wǒ huí jiā;" },
+          { cn: "耶稣来时，可唱得胜诗歌，因主来接我回家。", py: "yē sū lái shí, kě chàng dé shèng shī gē, yīn zhǔ lái jiē wǒ huí jiā。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "耶稣来时，我心不再悲伤，耶稣来时，我心不再悲伤；", py: "yē sū lái shí, wǒ xīn bú zài bēi shāng, yē sū lái shí, wǒ xīn bú zài bēi shāng;" },
+          { cn: "耶稣来时，必进快乐天堂，因主来接我回家。", py: "yē sū lái shí, bì jìn kuài lè tiān táng, yīn zhǔ lái jiē wǒ huí jiā。" },
+          { cn: "因主来接我回家，因主来接我回家；", py: "yīn zhǔ lái jiē wǒ huí jiā, yīn zhǔ lái jiē wǒ huí jiā;" },
+          { cn: "耶稣来时，可唱得胜诗歌，因主来接我回家。", py: "yē sū lái shí, kě chàng dé shèng shī gē, yīn zhǔ lái jiē wǒ huí jiā。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "耶稣来时，永不再有死亡，耶稣来时，永不再有死亡；", py: "yē sū lái shí, yǒng bú zài yǒu sǐ wáng, yē sū lái shí, yǒng bú zài yǒu sǐ wáng;" },
+          { cn: "耶稣来时，赐我永生华冠，因主来接我回家。", py: "yē sū lái shí, cì wǒ yǒng shēng huá guàn, yīn zhǔ lái jiē wǒ huí jiā。" },
+          { cn: "因主来接我回家，因主来接我回家；", py: "yīn zhǔ lái jiē wǒ huí jiā, yīn zhǔ lái jiē wǒ huí jiā;" },
+          { cn: "耶稣来时，可唱得胜诗歌，因主来接我回家。", py: "yē sū lái shí, kě chàng dé shèng shī gē, yīn zhǔ lái jiē wǒ huí jiā。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "耶稣来时，必有高声颂赞，耶稣来时，必有高声颂赞；", py: "yē sū lái shí, bì yǒu gāo shēng sòng zàn, yē sū lái shí, bì yǒu gāo shēng sòng zàn;" },
+          { cn: "耶稣来时，大家相会不散，因主来接我回家。", py: "yē sū lái shí, dà jiā xiāng huì bú sàn, yīn zhǔ lái jiē wǒ huí jiā。" },
+          { cn: "因主来接我回家，因主来接我回家；", py: "yīn zhǔ lái jiē wǒ huí jiā, yīn zhǔ lái jiē wǒ huí jiā;" },
+          { cn: "耶稣来时，可唱得胜诗歌，因主来接我回家。", py: "yē sū lái shí, kě chàng dé shèng shī gē, yīn zhǔ lái jiē wǒ huí jiā。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 84,
+    title: "欢迎我王",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "欢喜，欢喜，我王快再来，其时日极近无疑；", py: "huān xǐ, huān xǐ, wǒ wáng kuài zài lái, qí shí rì jí jìn wú yí;" },
+          { cn: "等到我见那美丽晨曦，必高唱喜乐新诗。", py: "děng dào wǒ jiàn nà měi lì chén xī, bì gāo chàng xǐ lè xīn shī。" },
+          { cn: "唱：“哈利路亚，荣耀清晨即我王降临之时！”", py: "chàng: “hā lì lù yà, róng yào qīng chén jí wǒ wáng jiàng lín zhī shí!”" },
+          { cn: "赶快将我之灯添满油，等候迎接莫延迟；", py: "gǎn kuài jiāng wǒ zhī dēng tiān mǎn yóu, děng hòu yíng jiē mò yán chí;" },
+          { cn: "欢喜，欢喜，我王快再来，其时日极近无疑，", py: "huān xǐ, huān xǐ, wǒ wáng kuài zài lái, qí shí rì jí jìn wú yí," },
+          { cn: "等到我见那美丽晨曦，必高唱喜乐新诗。", py: "děng dào wǒ jiàn nà měi lì chén xī, bì gāo chàng xǐ lè xīn shī。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "欣然等候我王再降临，来自光明之天宫；", py: "xīn rán děng hòu wǒ wáng zài jiàng lín, lái zì guāng míng zhī tiān gōng;" },
+          { cn: "必与诸圣同荣耀显现，彼此相遇于空中。", py: "bì yǔ zhū shèng tóng róng yào xiǎn xiàn, bǐ cǐ xiāng yù yú kōng zhōng。" },
+          { cn: "唱：“哈利路亚，荣耀清晨即我王降临之时！”", py: "chàng: “hā lì lù yà, róng yào qīng chén jí wǒ wáng jiàng lín zhī shí!”" },
+          { cn: "赶快将我之灯添满油，等候迎接莫延迟；", py: "gǎn kuài jiāng wǒ zhī dēng tiān mǎn yóu, děng hòu yíng jiē mò yán chí;" },
+          { cn: "欢喜，欢喜，我王快再来，其时日极近无疑，", py: "huān xǐ, huān xǐ, wǒ wáng kuài zài lái, qí shí rì jí jìn wú yí," },
+          { cn: "等到我见那美丽晨曦，必高唱喜乐新诗。", py: "děng dào wǒ jiàn nà měi lì chén xī, bì gāo chàng xǐ lè xīn shī。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我等应当儆醒等候主，切勿使盔甲离身；", py: "wǒ děng yīng dāng jǐng xǐng děng hòu zhǔ, qiē wù shǐ kuī jiǎ lí shēn;" },
+          { cn: "等到祂来必欢欢喜喜，将华冠赏赐各人。", py: "děng dào tā lái bì huān huān xǐ xǐ, jiāng huá guàn shǎng cì gè rén。" },
+          { cn: "唱：“哈利路亚，荣耀清晨即我王降临之时！”", py: "chàng: “hā lì lù yà, róng yào qīng chén jí wǒ wáng jiàng lín zhī shí!”" },
+          { cn: "赶快将我之灯添满油，等候迎接莫延迟；", py: "gǎn kuài jiāng wǒ zhī dēng tiān mǎn yóu, děng hòu yíng jiē mò yán chí;" },
+          { cn: "欢喜，欢喜，我王快再来，其时日极近无疑，", py: "huān xǐ, huān xǐ, wǒ wáng kuài zài lái, qí shí rì jí jìn wú yí," },
+          { cn: "等到我见那美丽晨曦，必高唱喜乐新诗。", py: "děng dào wǒ jiàn nà měi lì chén xī, bì gāo chàng xǐ lè xīn shī。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 85,
+    title: "主必快来",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "黑夜已深，白昼将近，荣耀盼望使我心欢欣；", py: "hēi yè yǐ shēn, bái zhòu jiāng jìn, róng yào pàn wàng shǐ wǒ xīn huān xīn;" },
+          { cn: "奇妙真理，快乐信息，主为王，快要自天再来临。", py: "qí miào zhēn lǐ, kuài lè xìn xī, zhǔ wéi wáng, kuài yào zì tiān zài lái lín。" },
+          { cn: "主必快来，主必快来，切盼而欢迎救主再来；", py: "zhǔ bì kuài lái, zhǔ bì kuài lái, qiē pàn ér huān yíng jiù zhǔ zài lái;" },
+          { cn: "儆醒预备，仰望、忍耐，因主必快再来。", py: "jǐng xǐng yù bèi, yǎng wàng, rěn nài, yīn zhǔ bì kuài zài lái。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "末期预兆全然显现，我虽在世盼望却在天；", py: "mò qī yù zhào quán rán xiǎn xiàn, wǒ suī zài shì pàn wàng què zài tiān;" },
+          { cn: "上主宣告，使徒见证，高声传，主再来日在眼前。", py: "shàng zhǔ xuān gào, shǐ tú jiàn zhèng, gāo shēng chuán, zhǔ zài lái rì zài yǎn qián。" },
+          { cn: "主必快来，主必快来，切盼而欢迎救主再来；", py: "zhǔ bì kuài lái, zhǔ bì kuài lái, qiē pàn ér huān yíng jiù zhǔ zài lái;" },
+          { cn: "儆醒预备，仰望、忍耐，因主必快再来。", py: "jǐng xǐng yù bèi, yǎng wàng, rěn nài, yīn zhǔ bì kuài zài lái。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "在主里睡诸多圣徒，主再来时都必先复活；", py: "zài zhǔ lǐ shuì zhū duō shèng tú, zhǔ zài lái shí dōu bì xiān fù huó;" },
+          { cn: "主要亲自从天降临，迎圣徒进入永远快乐国。", py: "zhǔ yào qīn zì cóng tiān jiàng lín, yíng shèng tú jìn rù yǒng yuǎn kuài lè guó。" },
+          { cn: "主必快来，主必快来，切盼而欢迎救主再来；", py: "zhǔ bì kuài lái, zhǔ bì kuài lái, qiē pàn ér huān yíng jiù zhǔ zài lái;" },
+          { cn: "儆醒预备，仰望、忍耐，因主必快再来。", py: "jǐng xǐng yù bèi, yǎng wàng, rěn nài, yīn zhǔ bì kuài zài lái。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "那时存留在世圣徒将改变，被提与主同住；", py: "nà shí cún liú zài shì shèng tú jiāng gǎi biàn, bèi tí yǔ zhǔ tóng zhù;" },
+          { cn: "有这盼望，真该欢呼、相劝慰，彼此扶助奔天路。", py: "yǒu zhè pàn wàng, zhēn gāi huān hū, xiāng quàn wèi, bǐ cǐ fú zhù bēn tiān lù。" },
+          { cn: "主必快来，主必快来，切盼而欢迎救主再来；", py: "zhǔ bì kuài lái, zhǔ bì kuài lái, qiē pàn ér huān yíng jiù zhǔ zài lái;" },
+          { cn: "儆醒预备，仰望、忍耐，因主必快再来。", py: "jǐng xǐng yù bèi, yǎng wàng, rěn nài, yīn zhǔ bì kuài zài lái。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 86,
+    title: "善恶有报",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "离开恶人道路，不随世间恶俗，", py: "lí kāi è rén dào lù, bú suí shì jiān è sú," },
+          { cn: "昼夜常思上主法度，这人真是有福。", py: "zhòu yè cháng sī shàng zhǔ fǎ dù, zhè rén zhēn shì yǒu fú。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "好比长青树木，生在溪水之旁，", py: "hǎo bǐ zhǎng qīng shù mù, shēng zài xī shuǐ zhī páng," },
+          { cn: "按时结果，累累满树，枝叶不枯、不黄。", py: "àn shí jié guǒ, lěi lěi mǎn shù, zhī yè bú kū, bú huáng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "凡他所谋、所行，事事如心如意，", py: "fán tā suǒ móu, suǒ xíng, shì shì rú xīn rú yì," },
+          { cn: "虽然天路有时不平，究竟于他顺利。", py: "suī rán tiān lù yǒu shí bú píng, jiū jìng yú tā shùn lì。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "惟有作恶之人，如同穀中秕糠，", py: "wéi yǒu zuò è zhī rén, rú tóng gǔ zhōng bǐ kāng," },
+          { cn: "被风一吹，四散无存，不能收入天仓。", py: "bèi fēng yī chuī, sì sàn wú cún, bú néng shōu rù tiān cāng。" }
+        ]
+      },
+      {
+        verse: 5,
+        content: [
+          { cn: "一到审判之日，善恶必分清楚，", py: "yī dào shěn pàn zhī rì, shàn è bì fēn qīng chǔ," },
+          { cn: "善者升天享福无极，恶者永远受苦。", py: "shàn zhě shēng tiān xiǎng fú wú jí, è zhě yǒng yuǎn shòu kǔ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 87,
+    title: "审判大日",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "审判大日要来，大日快要来，等不多时，大日快要来；", py: "shěn pàn dà rì yào lái, dà rì kuài yào lái, děng bú duō shí, dà rì kuài yào lái;" },
+          { cn: "到那时圣徒罪人必要分列左右队。此日要来，你已经预备？", py: "dào nà shí, shèng tú zuì rén bì yào fēn liè zuǒ yòu duì。 cǐ rì yào lái, nǐ yǐ jīng yù bèi?" },
+          { cn: "你已预备？你已预备？你已预备？审判大日来；", py: "nǐ yǐ yù bèi? nǐ yǐ yù bèi? nǐ yǐ yù bèi? shěn pàn dà rì lái;" },
+          { cn: "你已预备？你已预备？审判日快来。", py: "nǐ yǐ yù bèi? nǐ yǐ yù bèi? shěn pàn rì kuài lái。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "荣耀大日要来，大日快要来，等不多时，大日快要来；", py: "róng yào dà rì yào lái, dà rì kuài yào lái, děng bú duō shí, dà rì kuài yào lái;" },
+          { cn: "真信徒在祂面前，可以得有王座位。此日要来，你已经预备？", py: "zhēn xìn tú zài tā miàn qián, kě yǐ dé yǒu wáng zuò wèi。 cǐ rì yào lái, nǐ yǐ jīng yù bèi?" },
+          { cn: "你已预备？你已预备？你已预备？审判大日来；", py: "nǐ yǐ yù bèi? nǐ yǐ yù bèi? nǐ yǐ yù bèi? shěn pàn dà rì lái;" },
+          { cn: "你已预备？你已预备？审判日快来。", py: "nǐ yǐ yù bèi? nǐ yǐ yù bèi? shěn pàn rì kuài lái。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "灾难大日要来，大日快要来，等不多时，大日快要来；", py: "zāi nàn dà rì yào lái, dà rì kuài yào lái, děng bú duō shí, dà rì kuài yào lái;" },
+          { cn: "众罪人必受审判，永远沉沦扔火湖。此日要来，你已经预备？", py: "zhòng zuì rén bì shòu shěn pàn, yǒng yuǎn chén lún rēng huǒ hú。 cǐ rì yào lái, nǐ yǐ jīng yù bèi?" },
+          { cn: "你已预备？你已预备？你已预备？审判大日来；", py: "nǐ yǐ yù bèi? nǐ yǐ yù bèi? nǐ yǐ yù bèi? shěn pàn dà rì lái;" },
+          { cn: "你已预备？你已预备？审判日快来。", py: "nǐ yǐ yù bèi? nǐ yǐ yù bèi? shěn pàn rì kuài lái。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 88,
+    title: "救主恩功",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "神道成肉身，藉着童女降生，", py: "shén dào chéng ròu shēn, jiè zhe tóng nǚ jiàng shēng," },
+          { cn: "受圣灵充满，传天国福音，", py: "shòu shèng líng chōng mǎn, chuán tiān guó fú yīn," },
+          { cn: "到处行善事，医病、赶鬼救人，", py: "dào chù xíng shàn shì, yī bìng, gǎn guǐ jiù rén," },
+          { cn: "宣告神禧年，救恩已来临。", py: "xuān gào shén xǐ nián, jiù ēn yǐ lái lín。" },
+          { cn: "活时，祂爱我；死时，祂救我；", py: "huó shí, tā ài wǒ; sǐ shí, tā jiù wǒ;" },
+          { cn: "葬时，祂带去我罪孽遥远；", py: "zàng shí, tā dài qù wǒ zuì niè yáo yuǎn;" },
+          { cn: "复活后，祂赐我永远白称义。", py: "fù huó hòu, tā cì wǒ yǒng yuǎn bái chēng yì。" },
+          { cn: "等到祂再来荣耀之一天。", py: "děng dào tā zài lái róng yào zhī yī tiān。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "在受难前夕，祂与门徒坐席，", py: "zài shòu nán qián xī, tā yǔ mén tú zuò xí," },
+          { cn: "立洗脚圣餐，训诲何剀切！", py: "lì xǐ jiǎo shèng cān, xùn huì hé kǎi qiē!" },
+          { cn: "到园中祷告，忧伤汗流如血；", py: "dào yuán zhōng dǎo gào, yōu shāng hàn liú rú xuè;" },
+          { cn: "舍命钉十架，担当人罪孽。", py: "shě mìng dìng shí jià, dān dāng rén zuì niè。" },
+          { cn: "活时，祂爱我；死时，祂救我；", py: "huó shí, tā ài wǒ; sǐ shí, tā jiù wǒ;" },
+          { cn: "葬时，祂带去我罪孽遥远；", py: "zàng shí, tā dài qù wǒ zuì niè yáo yuǎn;" },
+          { cn: "复活后，祂赐我永远白称义。", py: "fù huó hòu, tā cì wǒ yǒng yuǎn bái chēng yì。" },
+          { cn: "等到祂再来荣耀之一天。", py: "děng dào tā zài lái róng yào zhī yī tiān。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "约瑟领主体，安葬新坟墓里；", py: "yuē sè lǐng zhǔ tǐ, ān zàng xīn fén mù lǐ;" },
+          { cn: "三日晨复活，战胜了死亡；", py: "sān rì chén fù huó, zhàn shèng le sǐ wáng;" },
+          { cn: "四十天显现，与门徒论神国；", py: "sì shí tiān xiǎn xiàn, yǔ mén tú lùn shén guó;" },
+          { cn: "升天差圣灵，赐能力无疆。", py: "shēng tiān chāi shèng líng, cì néng lì wú jiāng。" },
+          { cn: "活时，祂爱我；死时，祂救我；", py: "huó shí, tā ài wǒ; sǐ shí, tā jiù wǒ;" },
+          { cn: "葬时，祂带去我罪孽遥远；", py: "zàng shí, tā dài qù wǒ zuì niè yáo yuǎn;" },
+          { cn: "复活后，祂赐我永远白称义。", py: "fù huó hòu, tā cì wǒ yǒng yuǎn bái chēng yì。" },
+          { cn: "等到祂再来荣耀之一天。", py: "děng dào tā zài lái róng yào zhī yī tiān。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "在世界末日，祂从天上再来；", py: "zài shì jiè mò rì, tā cóng tiān shàng zài lái;" },
+          { cn: "那日极威严，坐在审判台。", py: "nà rì jí wēi yán, zuò zài shěn pàn tái。" },
+          { cn: "我们常儆醒，欢乐被祂接去；", py: "wǒ men cháng jǐng xǐng, huān lè bèi tā jiē qù;" },
+          { cn: "那不信罪人，都因祂悲哀。", py: "nà bú xìn zuì rén, dōu yīn tā bēi āi。" },
+          { cn: "活时，祂爱我；死时，祂救我；", py: "huó shí, tā ài wǒ; sǐ shí, tā jiù wǒ;" },
+          { cn: "葬时，祂带去我罪孽遥远；", py: "zàng shí, tā dài qù wǒ zuì niè yáo yuǎn;" },
+          { cn: "复活后，祂赐我永远白称义。", py: "fù huó hòu, tā cì wǒ yǒng yuǎn bái chēng yì。" },
+          { cn: "等到祂再来荣耀之一天。", py: "děng dào tā zài lái róng yào zhī yī tiān。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 89,
+    title: "主恩更多",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "是何等希奇的救主，舍弃荣耀，忍辱、受苦！", py: "shì hé děng xī qí de jiù zhǔ, shě qì róng yào, rěn rǔ, shòu kǔ!" },
+          { cn: "虽然我有无数罪恶，主给我恩典真是多。", py: "suī rán wǒ yǒu wú shù zuì è, zhǔ gěi wǒ ēn diǎn zhēn shì duō。" },
+          { cn: "主恩实在更多，主恩实在更多；", py: "zhǔ ēn shí zài gèng duō, zhǔ ēn shí zài gèng duō;" },
+          { cn: "从前我心充满罪过，主恩实在更多。", py: "cóng qián wǒ xīn chōng mǎn zuì guò, zhǔ ēn shí zài gèng duō。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "主寻我时，我是罪人，毫无善行在于我身；", py: "zhǔ xún wǒ shí, wǒ shì zuì rén, háo wú shàn xíng zài yú wǒ shēn;" },
+          { cn: "今在救主所流宝血，洗我一切污秽罪迹。", py: "jīn zài jiù zhǔ suǒ liú bǎo xuè, xǐ wǒ yī qiē wū huì zuì jì。" },
+          { cn: "主恩实在更多，主恩实在更多；", py: "zhǔ ēn shí zài gèng duō, zhǔ ēn shí zài gèng duō;" },
+          { cn: "从前我心充满罪过，主恩实在更多。", py: "cóng qián wǒ xīn chōng mǎn zuì guò, zhǔ ēn shí zài gèng duō。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "耶稣是我救赎恩主，是我先知君王、祭司；", py: "yē sū shì wǒ jiù shú ēn zhǔ, shì wǒ xiān zhī jūn wáng, jì sī;" },
+          { cn: "赦罪恩典是祂所赐，我将一切奉献耶稣。", py: "shè zuì ēn diǎn shì tā suǒ cì, wǒ jiāng yī qiē fèng xiàn yē sū。" },
+          { cn: "主恩实在更多，主恩实在更多；", py: "zhǔ ēn shí zài gèng duō, zhǔ ēn shí zài gèng duō;" },
+          { cn: "从前我心充满罪过，主恩实在更多。", py: "cóng qián wǒ xīn chōng mǎn zuì guò, zhǔ ēn shí zài gèng duō。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "我岂可以不赞美祂，我灵魂要唱歌欢喜，", py: "wǒ qǐ kě yǐ bú zàn měi tā, wǒ líng hún yào chàng gē huān xǐ," },
+          { cn: "赞美我的救主大爱，世世代代永无尽期。", py: "zàn měi wǒ de jiù zhǔ dà ài, shì shì dài dài yǒng wú jìn qī。" },
+          { cn: "主恩实在更多，主恩实在更多；", py: "zhǔ ēn shí zài gèng duō, zhǔ ēn shí zài gèng duō;" },
+          { cn: "从前我心充满罪过，主恩实在更多。", py: "cóng qián wǒ xīn chōng mǎn zuì guò, zhǔ ēn shí zài gèng duō。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 93,
+    title: "更新感恩",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "欢喜快乐之良辰，因为去旧更新；", py: "huān xǐ kuài lè zhī liáng chén, yīn wéi qù jiù gèng xīn;" },
+          { cn: "外体虽然渐毁坏，内心日日换新；", py: "wài tǐ suī rán jiàn huǐ huài, nèi xīn rì rì huàn xīn;" },
+          { cn: "脱去从前旧行为，穿上像神新人。", py: "tuō qù cóng qián jiù xíng wéi, chuān shàng xiàng shén xīn rén。" },
+          { cn: "真教灵胞同欢唱：“哈利路亚，阿们！”", py: "zhēn jiāo líng bāo tóng huān chàng: “hā lì lù yà, ā men!”" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "欢喜快乐之良辰，因为去旧更新；", py: "huān xǐ kuài lè zhī liáng chén, yīn wéi qù jiù gèng xīn;" },
+          { cn: "过去凄凉真可怜，今天富足、欢欣；", py: "guò qù qī liáng zhēn kě lián, jīn tiān fù zú, huān xīn;" },
+          { cn: "过去灵里多饥渴，今得肥甘丰盈。", py: "guò qù líng lǐ duō jī kě, jīn dé féi gān fēng yíng。" },
+          { cn: "今天身心都舒畅，灵歌颂赞真神。", py: "jīn tiān shēn xīn dōu shū chàng, líng gē sòng zàn zhēn shén。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "欢喜快乐之良辰，因为去旧更新；", py: "huān xǐ kuài lè zhī liáng chén, yīn wéi qù jiù gèng xīn;" },
+          { cn: "昨天心灵多沮丧，今得灵力振兴；", py: "zuó tiān xīn líng duō jǔ sàng, jīn dé líng lì zhèn xīng;" },
+          { cn: "昨天失败齐堆集，今日胜利光临。", py: "zuó tiān shī bài qí duī jí, jīn rì shèng lì guāng lín。" },
+          { cn: "同灵今后多努力，引人弃假归真。", py: "tóng líng jīn hòu duō nǔ lì, yǐn rén qì jiǎ guī zhēn。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "欢喜快乐之良辰，因为去旧更新；", py: "huān xǐ kuài lè zhī liáng chén, yīn wéi qù jiù gèng xīn;" },
+          { cn: "以前譬如昨日死，以后譬如今生；", py: "yǐ qián pì rú zuó rì sǐ, yǐ hòu pì rú jīn shēng;" },
+          { cn: "从前闲懒不结果，今后殷勤更新。", py: "cóng qián xián lǎn bú jié guǒ, jīn hòu yīn qín gèng xīn。" },
+          { cn: "天天生活在主里，成为属灵完人。", py: "tiān tiān shēng huó zài zhǔ lǐ, chéng wéi shǔ líng wán rén。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 94,
+    title: "主恩长存",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "感谢天父，独一真活神，", py: "gǎn xiè tiān fù, dú yī zhēn huó shén," },
+          { cn: "赐我恩典救罪身，", py: "cì wǒ ēn diǎn jiù zuì shēn," },
+          { cn: "灵魂得更新。", py: "líng hún dé gèng xīn。" },
+          { cn: "感谢主恩，感谢我主大爱。", py: "gǎn xiè zhǔ ēn, gǎn xiè wǒ zhǔ dà ài。" },
+          { cn: "愿主的恩典，永远长存，", py: "yuàn zhǔ de ēn diǎn, yǒng yuǎn zhǎng cún," },
+          { cn: "愿主的大爱，永远长存；", py: "yuàn zhǔ de dà ài, yǒng yuǎn zhǎng cún;" },
+          { cn: "哈利路亚！哈利路亚！", py: "hā lì lù yà! hā lì lù yà!" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "感谢天父，独一真活神，", py: "gǎn xiè tiān fù, dú yī zhēn huó shén," },
+          { cn: "赐我饮食养肉身，", py: "cì wǒ yǐn shí yǎng ròu shēn," },
+          { cn: "吗哪养灵魂。", py: "mǎ nǎ yǎng líng hún。" },
+          { cn: "感谢主恩，感谢我主大爱。", py: "gǎn xiè zhǔ ēn, gǎn xiè wǒ zhǔ dà ài。" },
+          { cn: "愿主的恩典，永远长存，", py: "yuàn zhǔ de ēn diǎn, yǒng yuǎn zhǎng cún," },
+          { cn: "愿主的大爱，永远长存；", py: "yuàn zhǔ de dà ài, yǒng yuǎn zhǎng cún;" },
+          { cn: "哈利路亚！哈利路亚！", py: "hā lì lù yà! hā lì lù yà!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 95,
+    title: "受膏的君王",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "受膏的君王，为罪人钉十字架，", py: "shòu gāo de jūn wáng, wéi zuì rén dìng shí zì jià," },
+          { cn: "流血做中保，救赎恩极大；", py: "liú xuè zuò zhōng bǎo, jiù shú ēn jí dà;" },
+          { cn: "照我罪孽深重，该被判入硫磺火，", py: "zhào wǒ zuì niè shēn zhòng, gāi bèi pàn rù liú huáng huǒ," },
+          { cn: "感谢我主恩宠，竟然救了我。", py: "gǎn xiè wǒ zhǔ ēn chǒng, jìng rán jiù le wǒ。" },
+          { cn: "耶稣，主耶稣！祢为我钉十字架；我得恩浩大。", py: "yē sū, zhǔ yē sū! nǐ wéi wǒ dìng shí zì jià; wǒ dé ēn hào dà。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "受膏的君王，拯救世人脱死权，", py: "shòu gāo de jūn wáng, zhěng jiù shì rén tuō sǐ quán," },
+          { cn: "领水洗、灵洗，主里得释放；", py: "lǐng shuǐ xǐ, líng xǐ, zhǔ lǐ dé shì fàng;" },
+          { cn: "想我前做罪奴，一切痛苦已备尝，", py: "xiǎng wǒ qián zuò zuì nú, yī qiē tòng kǔ yǐ bèi cháng," },
+          { cn: "今靠我主救赎，魔鬼空猖狂。", py: "jīn kào wǒ zhǔ jiù shú, mó guǐ kōng chāng kuáng。" },
+          { cn: "耶稣，主耶稣！祢为我胜诸仇敌；祢大恩难忘。", py: "yē sū, zhǔ yē sū! nǐ wéi wǒ shèng zhū chóu dí; nǐ dà ēn nán wàng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "受膏的君王，为信徒预备安宅，", py: "shòu gāo de jūn wáng, wéi xìn tú yù bèi ān zhái," },
+          { cn: "在末日降临，接我回天家；", py: "zài mò rì jiàng lín, jiē wǒ huí tiān jiā;" },
+          { cn: "那时见主圣面，同主做王享荣华，", py: "nà shí jiàn zhǔ shèng miàn, tóng zhǔ zuò wáng xiǎng róng huá," },
+          { cn: "主行公义审判，善恶分不差。", py: "zhǔ xíng gōng yì shěn pàn, shàn è fēn bú chà。" },
+          { cn: "耶稣，主耶稣！愿祢接我回天家；我愿祢快来。", py: "yē sū, zhǔ yē sū! yuàn nǐ jiē wǒ huí tiān jiā; wǒ yuàn nǐ kuài lái。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 96,
+    title: "奇异恩典",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "何等奇妙，救主爱怜，救我深重罪犯！", py: "hé děng qí miào, jiù zhǔ ài lián, jiù wǒ shēn zhòng zuì fàn!" },
+          { cn: "我前失丧，今被寻还，瞎眼今得看见。", py: "wǒ qián shī sàng, jīn bèi xún huán, xiā yǎn jīn dé kàn jiàn。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "许多辛苦，艰难、危险，现今不必忧烦；", py: "xǔ duō xīn kǔ, jiān nán, wēi xiǎn, xiàn jīn bú bì yōu fán;" },
+          { cn: "全赖主恩，获得平安，一生主必保全。", py: "quán lài zhǔ ēn, huò dé píng ān, yī shēng zhǔ bì bǎo quán。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "主已许我美福万般，主言必定成全；", py: "zhǔ yǐ xǔ wǒ měi fú wàn bān, zhǔ yán bì dìng chéng quán;" },
+          { cn: "做我盾牌，御敌恶箭，保我生命永远。", py: "zuò wǒ dùn pái, yù dí è jiàn, bǎo wǒ shēng mìng yǒng yuǎn。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "当我肉身毁坏之期，短暂生命安息；", py: "dāng wǒ ròu shēn huǐ huài zhī qī, duǎn zàn shēng mìng ān xī;" },
+          { cn: "主必接我回去天家，享受福乐无极。", py: "zhǔ bì jiē wǒ huí qù tiān jiā, xiǎng shòu fú lè wú jí。" }
+        ]
+      },
+      {
+        verse: 5,
+        content: [
+          { cn: "如此恩典使我敬畏，心中满得安慰；", py: "rú cǐ ēn diǎn shǐ wǒ jìng wèi, xīn zhōng mǎn dé ān wèi;" },
+          { cn: "主爱临我，我获恩惠，真是何等宝贵。", py: "zhǔ ài lín wǒ, wǒ huò ēn huì, zhēn shì hé děng bǎo guì。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 97,
+    title: "我主离开象牙宫",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我主所穿的洁白衣裳，充满没药芬芳；", py: "wǒ zhǔ suǒ chuān de jié bái yī shang, chōng mǎn mò yào fēn fāng;" },
+          { cn: "祂的香气渗透我心肠，使我喜乐洋洋。", py: "tā de xiāng qì shèn tòu wǒ xīn cháng, shǐ wǒ xǐ lè yáng yáng。" },
+          { cn: "我主离开极乐象牙宫，降生苦难凡尘；", py: "wǒ zhǔ lí kāi jí lè xiàng yá gōng, jiàng shēng kǔ nán fán chén;" },
+          { cn: "为了神圣永远的爱，特来救罪人。", py: "wéi le shén shèng yǒng yuǎn de ài, tè lái jiù zuì rén。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我主在世间艰苦备尝，饱受罪人顶撞；", py: "wǒ zhǔ zài shì jiān jiān kǔ bèi cháng, bǎo shòu zuì rén dǐng zhuàng;" },
+          { cn: "当我想起祂被钉十架，不禁眼泪满眶。", py: "dāng wǒ xiǎng qǐ tā bèi dìng shí jià, bú jìn yǎn lèi mǎn kuàng。" },
+          { cn: "我主离开极乐象牙宫，降生苦难凡尘；", py: "wǒ zhǔ lí kāi jí lè xiàng yá gōng, jiàng shēng kǔ nán fán chén;" },
+          { cn: "为了神圣永远的爱，特来救罪人。", py: "wéi le shén shèng yǒng yuǎn de ài, tè lái jiù zuì rén。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "祂的衣裳胜世上药石，一摸便得医治；", py: "tā de yī shang shèng shì shàng yào shí, yī mō biàn dé yī zhì;" },
+          { cn: "当我每次软弱失足时，祂来用手扶持。", py: "dāng wǒ měi cì ruǎn ruò shī zú shí, tā lái yòng shǒu fú chí。" },
+          { cn: "我主离开极乐象牙宫，降生苦难凡尘；", py: "wǒ zhǔ lí kāi jí lè xiàng yá gōng, jiàng shēng kǔ nán fán chén;" },
+          { cn: "为了神圣永远的爱，特来救罪人。", py: "wéi le shén shèng yǒng yuǎn de ài, tè lái jiù zuì rén。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "祂将穿光明衣裳再来，把天堂门打开；", py: "tā jiāng chuān guāng míng yī shang zài lái, bǎ tiān táng mén dǎ kāi;" },
+          { cn: "那时我必面对面见祂，永远与祂同在。", py: "nà shí wǒ bì miàn duì miàn jiàn tā, yǒng yuǎn yǔ tā tóng zài。" },
+          { cn: "我主离开极乐象牙宫，降生苦难凡尘；", py: "wǒ zhǔ lí kāi jí lè xiàng yá gōng, jiàng shēng kǔ nán fán chén;" },
+          { cn: "为了神圣永远的爱，特来救罪人。", py: "wéi le shén shèng yǒng yuǎn de ài, tè lái jiù zuì rén。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 98,
+    title: "当我思量苦架",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "当我思量奇妙苦架，", py: "dāng wǒ sī liàng qí miào kǔ jià," },
+          { cn: "荣耀之主在上悬挂；", py: "róng yào zhī zhǔ zài shàng xuán guà;" },
+          { cn: "从前所珍，今看有损；", py: "cóng qián suǒ zhēn, jīn kàn yǒu sǔn;" },
+          { cn: "昔日所夸，今觉卑下。", py: "xī rì suǒ kuā, jīn jiào bēi xià。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "求主使我别无所夸，", py: "qiú zhǔ shǐ wǒ bié wú suǒ kuā," },
+          { cn: "只夸我主基督苦架；", py: "zhī kuā wǒ zhǔ jī dū kǔ jià;" },
+          { cn: "前所爱慕虚幻荣华；", py: "qián suǒ ài mù xū huàn róng huá;" },
+          { cn: "今因主血弃如尘沙。", py: "jīn yīn zhǔ xuè qì rú chén shā。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "主头、主肋、主足、主手，", py: "zhǔ tóu, zhǔ lèi, zhǔ zú, zhǔ shǒu," },
+          { cn: "都受创伤，鲜血涌流；", py: "dōu shòu chuàng shāng, xiān xuè yǒng liú;" },
+          { cn: "如此受苦，空前绝后；", py: "rú cǐ shòu kǔ, kōng qián jué hòu;" },
+          { cn: "荆棘反成荣耀冕旒！", py: "jīng jí fǎn chéng róng yào miǎn liú!" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "虽将万物献主为报，", py: "suī jiāng wàn wù xiàn zhǔ wéi bào," },
+          { cn: "难偿深恩、永爱、大德；", py: "nán cháng shēn ēn, yǒng ài, dà dé;" },
+          { cn: "主爱如此圣善、奇妙；", py: "zhǔ ài rú cǐ shèng shàn, qí miào;" },
+          { cn: "当献身心，全力报答。", py: "dāng xiàn shēn xīn, quán lì bào dá。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 100,
+    title: "舍己为主",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "主曾离别天庭，圣父光明宝座，", py: "zhǔ céng lí bié tiān tíng, shèng fù guāng míng bǎo zuò," },
+          { cn: "撇弃尊荣、富足，成为卑微、贫苦，", py: "piě qì zūn róng, fù zú, chéng wéi bēi wēi, pín kǔ," },
+          { cn: "极大之乐全舍。我舍何乐为主？", py: "jí dà zhī lè quán shě。wǒ shě hé lè wéi zhǔ?" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "主曾多受艰难，口舌莫名其苦，", py: "zhǔ céng duō shòu jiān nán, kǒu shé mò míng qí kǔ," },
+          { cn: "使我大得平安，免受真神震怒；", py: "shǐ wǒ dà dé píng ān, miǎn shòu zhēn shén zhèn nù;" },
+          { cn: "生命为我甘舍。我受何苦为主？", py: "shēng mìng wéi wǒ gān shě。wǒ shòu hé kǔ wéi zhǔ?" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "主今厚赐天恩，已往之罪涂抹，", py: "zhǔ jīn hòu cì tiān ēn, yǐ wǎng zhī zuì tú mò," },
+          { cn: "救我至宝灵魂，免死反得永活；", py: "jiù wǒ zhì bǎo líng hún, miǎn sǐ fǎn dé yǒng huó;" },
+          { cn: "救恩如此浩大，我献何物为主？", py: "jiù ēn rú cǐ hào dà, wǒ xiàn hé wù wéi zhǔ?" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "理当事主一生，虚浮荣耀全舍，", py: "lǐ dāng shì zhǔ yī shēng, xū fú róng yào quán shě," },
+          { cn: "竭力追求圣洁，遇难百折不回，", py: "jié lì zhuī qiú shèng jié, yù nán bǎi shé bú huí," },
+          { cn: "专靠圣灵引导。至终主必接我？", py: "zhuān kào shèng líng yǐn dǎo。zhì zhōng zhǔ bì jiē wǒ?" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 101,
+    title: "专爱耶稣",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "惜哉，哀哉！罪人违逆，何等愚，我这罪奴！", py: "xī zāi, āi zāi! zuì rén wéi nì, hé děng yú, wǒ zhè zuì nú!" },
+          { cn: "曾对恩主，狂而言曰：“专爱己，不爱耶稣，", py: "céng duì ēn zhǔ, kuáng ér yán yuē: “zhuān ài jǐ, bú ài yē sū," },
+          { cn: "专爱己，不爱耶稣，专爱己，不爱耶稣。”", py: "zhuān ài jǐ, bú ài yē sū, zhuān ài jǐ, bú ài yē sū。”" },
+          { cn: "曾对恩主，狂而言曰：“专爱己，不爱耶稣。”", py: "céng duì ēn zhǔ, kuáng ér yán yuē: “zhuān ài jǐ, bú ài yē sū。”" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "奇哉，妙哉！罪人信主，靠宝血，赦我罪辜！", py: "qí zāi, miào zāi! zuì rén xìn zhǔ, kào bǎo xuè, shè wǒ zuì gū!" },
+          { cn: "心微动矣，轻而言曰：“虽爱己，也爱耶稣，", py: "xīn wēi dòng yǐ, qīng ér yán yuē: “suī ài jǐ, yě ài yē sū," },
+          { cn: "虽爱己，也爱耶稣，虽爱己，也爱耶稣。”", py: "suī ài jǐ, yě ài yē sū, suī ài jǐ, yě ài yē sū。”" },
+          { cn: "心微动矣，轻而言曰：“虽爱己，也爱耶稣。”", py: "xīn wēi dòng yǐ, qīng ér yán yuē: “suī ài jǐ, yě ài yē sū。”" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "大哉，深哉！主恒爱我，医我心，安慰、助扶！", py: "dà zāi, shēn zāi! zhǔ héng ài wǒ, yī wǒ xīn, ān wèi, zhù fú!" },
+          { cn: "使我谦逊，感而言曰：“少爱己，多爱耶稣，", py: "shǐ wǒ qiān xùn, gǎn ér yán yuē: “shǎo ài jǐ, duō ài yē sū," },
+          { cn: "少爱己，多爱耶稣，少爱己，多爱耶稣。”", py: "shǎo ài jǐ, duō ài yē sū, shǎo ài jǐ, duō ài yē sū。”" },
+          { cn: "使我谦逊，感而言曰：“少爱己，多爱耶稣。”", py: "shǐ wǒ qiān xùn, gǎn ér yán yuē: “shǎo ài jǐ, duō ài yē sū。”" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "诚哉，义哉！主永爱我，赐圣灵，启导愚徒！", py: "chéng zāi, yì zāi! zhǔ yǒng ài wǒ, cì shèng líng, qǐ dǎo yú tú!" },
+          { cn: "今则感伤，悲而言曰：“不爱己，专爱耶稣，", py: "jīn zé gǎn shāng, bēi ér yán yuē: “bú ài jǐ, zhuān ài yē sū," },
+          { cn: "不爱己，专爱耶稣，不爱己，专爱耶稣。”", py: "bú ài jǐ, zhuān ài yē sū, bú ài jǐ, zhuān ài yē sū。”" },
+          { cn: "今则感伤，悲而言曰：“不爱己，专爱耶稣。”", py: "jīn zé gǎn shāng, bēi ér yán yuē: “bú ài jǐ, zhuān ài yē sū。”" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 102,
+    title: "为主而活",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我活是为基督，死便有益、有福；", py: "wǒ huó shì wéi jī dū, sǐ biàn yǒu yì, yǒu fú;" },
+          { cn: "我的心目专向神国，做主忠心奴仆。", py: "wǒ de xīn mù zhuān xiàng shén guó, zuò zhǔ zhōng xīn nú pú。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "无论聪明、天赋，或是尊贵、财富，", py: "wú lùn cōng míng, tiān fù, huò shì zūn guì, cái fù," },
+          { cn: "都献给主当做器具；求主使用、眷顾。", py: "dōu xiàn gěi zhǔ dāng zuò qì jù; qiú zhǔ shǐ yòng, juàn gù。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "虽遭毁谤、厌弃，或有忧闷、失意，", py: "suī zāo huǐ bàng, yàn qì, huò yǒu yōu mèn, shī yì," },
+          { cn: "也必为主尽力服事；总不厌倦、馁志。", py: "yě bì wéi zhǔ jìn lì fú shì; zǒng bú yàn juàn, něi zhì。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "为主背十字架，勇敢直前不罢，", py: "wéi zhǔ bèi shí zì jià, yǒng gǎn zhí qián bú bà," },
+          { cn: "若非至死都不放下；为主舍命何怕？", py: "ruò fēi zhì sǐ dōu bú fàng xià; wéi zhǔ shě mìng hé pà?" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 105,
+    title: "为主舍命",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "天上神子亲临战场，祂已胜过死权，", py: "tiān shàng shén zǐ qīn lín zhàn chǎng, tā yǐ shèng guò sǐ quán," },
+          { cn: "血帜高举遥遥在望，谁堪列其阵行？", py: "xuè zhì gāo jǔ yáo yáo zài wàng, shuí kān liè qí zhèn xíng?" },
+          { cn: "谁能与主同领苦杯，克服世间困苦？", py: "shuí néng yǔ zhǔ tóng lǐng kǔ bēi, kè fú shì jiān kùn kǔ?" },
+          { cn: "坚忍背负十架跟随，便能入主队伍。", py: "jiān rěn bèi fù shí jià gēn suí, biàn néng rù zhǔ duì wǔ。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "昔日首先舍命圣徒，刚强、勇敢忍苦，", py: "xī rì shǒu xiān shě mìng shèng tú, gāng qiáng, yǒng gǎn rěn kǔ," },
+          { cn: "仰望高居宝座恩主，加添力量佑助；", py: "yǎng wàng gāo jū bǎo zuò ēn zhǔ, jiā tiān lì liàng yòu zhù;" },
+          { cn: "虽在极度惨苦中间，尚能向主吁呼：", py: "suī zài jí dù cǎn kǔ zhōng jiān, shàng néng xiàng zhǔ yù hū:" },
+          { cn: "“求主赦免仇敌过犯！”谁能继其步武？", py: "“qiú zhǔ shè miǎn chóu dí guò fàn!” shuí néng jì qí bù wǔ?" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "上主所选忠贞使徒，先受圣灵鼓舞，", py: "shàng zhǔ suǒ xuǎn zhōng zhēn shǐ tú, xiān shòu shèng líng gǔ wǔ," },
+          { cn: "满有能力，信心坚固，忠心顺从恩主；", py: "mǎn yǒu néng lì, xìn xīn jiān gù, zhōng xīn shùn cóng ēn zhǔ;" },
+          { cn: "为道受难不屈不挠，不畏暴君刀斧，", py: "wéi dào shòu nán bú qū bú náo, bú wèi bào jūn dāo fǔ," },
+          { cn: "气节凛然，视死如归。谁能继其步武？", py: "qì jié lǐn rán, shì sǐ rú guī。shuí néng jì qí bù wǔ?" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "男女、老幼，千万圣徒，已经安息天府，", py: "nán nǚ, lǎo yòu, qiān wàn shèng tú, yǐ jīng ān xī tiān fǔ," },
+          { cn: "公义冠冕为之存留，怡然等主赏赐；", py: "gōng yì guàn miǎn wéi zhī cún liú, yí rán děng zhǔ shǎng cì;" },
+          { cn: "为义受迫，行完神旨，必进天国乐土，", py: "wéi yì shòu pò, xíng wán shén zhǐ, bì jìn tiān guó lè tǔ," },
+          { cn: "愿主赐我充足信心，亦能继其步武。", py: "yuàn zhǔ cì wǒ chōng zú xìn xīn, yì néng jì qí bù wǔ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 107,
+    title: "跟随耶稣",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "跟随，跟随，我必跟随救主，或山中，或舟内，我必跟随主；", py: "gēn suí, gēn suí, wǒ bì gēn suí jiù zhǔ, huò shān zhōng, huò zhōu nèi, wǒ bì gēn suí zhǔ;" },
+          { cn: "跟随，跟随，我必跟随耶稣，不论甚么地步，我必跟随主。", py: "gēn suí, gēn suí, wǒ bì gēn suí yē sū, bú lùn shèn me dì bù, wǒ bì gēn suí zhǔ。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "效法，效法，我必效法救主，或言语，或行为，我必效法主；", py: "xiào fǎ, xiào fǎ, wǒ bì xiào fǎ jiù zhǔ, huò yán yǔ, huò xíng wéi, wǒ bì xiào fǎ zhǔ;" },
+          { cn: "效法，效法，我必效法耶稣，不论甚么榜样，我必效法主。", py: "xiào fǎ, xiào fǎ, wǒ bì xiào fǎ yē sū, bú lùn shèn me bǎng yàng, wǒ bì xiào fǎ zhǔ。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "顺服，顺服，我必顺服救主，或丰富，或贫穷，我必顺服主；", py: "shùn fú, shùn fú, wǒ bì shùn fú jiù zhǔ, huò fēng fù, huò pín qióng, wǒ bì shùn fú zhǔ;" },
+          { cn: "顺服，顺服，我必顺服耶稣，不论甚么境遇，我必顺服主。", py: "shùn fú, shùn fú, wǒ bì shùn fú yē sū, bú lùn shèn me jìng yù, wǒ bì shùn fú zhǔ。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "感谢，感谢，我必感谢救主，或平安，或患难，我必感谢主；", py: "gǎn xiè, gǎn xiè, wǒ bì gǎn xiè jiù zhǔ, huò píng ān, huò huàn nán, wǒ bì gǎn xiè zhǔ;" },
+          { cn: "感谢，感谢，我必感谢耶稣，不论甚么时候，我必感谢主。", py: "gǎn xiè, gǎn xiè, wǒ bì gǎn xiè yē sū, bú lùn shèn me shí hòu, wǒ bì gǎn xiè zhǔ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 108,
+    title: "跟从救主",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我今遵从救主命令，跟主背着十字架；", py: "wǒ jīn zūn cóng jiù zhǔ mìng lìng, gēn zhǔ bèi zhe shí zì jià;" },
+          { cn: "我今定志，时时亲近，别人憎嫌，我不怕。", py: "wǒ jīn dìng zhì, shí shí qīn jìn, bié rén zēng xián, wǒ bú pà。" },
+          { cn: "我要跟从救主耶稣，因主替我流宝血；", py: "wǒ yào gēn cóng jiù zhǔ yē sū, yīn zhǔ tì wǒ liú bǎo xuè;" },
+          { cn: "虽然有人前来阻挡，总要从主，心欢喜。", py: "suī rán yǒu rén qián lái zǔ dǎng, zǒng yào cóng zhǔ, xīn huān xǐ。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我受世人怨恨、逼迫，耶稣亦曾被欺侮；", py: "wǒ shòu shì rén yuàn hèn, bī pò, yē sū yì céng bèi qī wǔ;" },
+          { cn: "眼前快乐，毫不羡慕，只有瞻望我救主。", py: "yǎn qián kuài lè, háo bú xiàn mù, zhī yǒu zhān wàng wǒ jiù zhǔ。" },
+          { cn: "我要跟从救主耶稣，因主替我流宝血；", py: "wǒ yào gēn cóng jiù zhǔ yē sū, yīn zhǔ tì wǒ liú bǎo xuè;" },
+          { cn: "虽然有人前来阻挡，总要从主，心欢喜。", py: "suī rán yǒu rén qián lái zǔ dǎng, zǒng yào cóng zhǔ, xīn huān xǐ。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我虽舍弃房屋、田产，世上荣华全然失；", py: "wǒ suī shě qì fáng wū, tián chǎn, shì shàng róng huá quán rán shī;" },
+          { cn: "为主受苦，必然得福，蒙主赏赐更丰富。", py: "wéi zhǔ shòu kǔ, bì rán dé fú, méng zhǔ shǎng cì gèng fēng fù。" },
+          { cn: "我要跟从救主耶稣，因主替我流宝血；", py: "wǒ yào gēn cóng jiù zhǔ yē sū, yīn zhǔ tì wǒ liú bǎo xuè;" },
+          { cn: "虽然有人前来阻挡，总要从主，心欢喜。", py: "suī rán yǒu rén qián lái zǔ dǎng, zǒng yào cóng zhǔ, xīn huān xǐ。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "有主爱我，虽受患难，不能使我生忧伤；", py: "yǒu zhǔ ài wǒ, suī shòu huàn nán, bú néng shǐ wǒ shēng yōu shāng;" },
+          { cn: "主若离我，虽有富贵，不能使我得平康。", py: "zhǔ ruò lí wǒ, suī yǒu fù guì, bú néng shǐ wǒ dé píng kāng。" },
+          { cn: "我要跟从救主耶稣，因主替我流宝血；", py: "wǒ yào gēn cóng jiù zhǔ yē sū, yīn zhǔ tì wǒ liú bǎo xuè;" },
+          { cn: "虽然有人前来阻挡，总要从主，心欢喜。", py: "suī rán yǒu rén qián lái zǔ dǎng, zǒng yào cóng zhǔ, xīn huān xǐ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 109,
+    title: "践主迹行",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我听见我救主叫我，我听见我救主叫我，", py: "wǒ tīng jiàn wǒ jiù zhǔ jiào wǒ, wǒ tīng jiàn wǒ jiù zhǔ jiào wǒ," },
+          { cn: "我听见我救主叫我：“背着你架，你架，跟从我！”", py: "wǒ tīng jiàn wǒ jiù zhǔ jiào wǒ: “bèi zhe nǐ jià, nǐ jià, gēn cóng wǒ!”" },
+          { cn: "我愿同过客西马尼，我愿同过客西马尼，", py: "wǒ yuàn tóng guò kè xī mǎ ní, wǒ yuàn tóng guò kè xī mǎ ní," },
+          { cn: "我愿同过客西马尼，我愿与主，与主一路行。", py: "wǒ yuàn tóng guò kè xī mǎ ní, wǒ yuàn yǔ zhǔ, yǔ zhǔ yī lù xíng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我愿与主同去被审，我愿与主同去被审，", py: "wǒ yuàn yǔ zhǔ tóng qù bèi shěn, wǒ yuàn yǔ zhǔ tóng qù bèi shěn," },
+          { cn: "我愿与主同去被审，我愿与主，与主同被审。", py: "wǒ yuàn yǔ zhǔ tóng qù bèi shěn, wǒ yuàn yǔ zhǔ, yǔ zhǔ tóng bèi shěn。" },
+          { cn: "我愿与主同钉十架，我愿与主同钉十架，", py: "wǒ yuàn yǔ zhǔ tóng dìng shí jià, wǒ yuàn yǔ zhǔ tóng dìng shí jià," },
+          { cn: "我愿与主同钉十架，我愿与主，与主一路行。", py: "wǒ yuàn yǔ zhǔ tóng dìng shí jià, wǒ yuàn yǔ zhǔ, yǔ zhǔ yī lù xíng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我愿与主同去埋葬，我愿与主同去埋葬，", py: "wǒ yuàn yǔ zhǔ tóng qù mái zàng, wǒ yuàn yǔ zhǔ tóng qù mái zàng," },
+          { cn: "我愿与主同去埋葬，我愿与主，与主同埋葬。", py: "wǒ yuàn yǔ zhǔ tóng qù mái zàng, wǒ yuàn yǔ zhǔ, yǔ zhǔ tóng mái zàng。" },
+          { cn: "我愿与我主同复活，我愿与我主同复活，", py: "wǒ yuàn yǔ wǒ zhǔ tóng fù huó, wǒ yuàn yǔ wǒ zhǔ tóng fù huó," },
+          { cn: "我愿与我主同复活，我愿与主，与主同复活。", py: "wǒ yuàn yǔ wǒ zhǔ tóng fù huó, wǒ yuàn yǔ zhǔ, yǔ zhǔ tóng fù huó。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "我愿与我主同升天，我愿与我主同升天，", py: "wǒ yuàn yǔ wǒ zhǔ tóng shēng tiān, wǒ yuàn yǔ wǒ zhǔ tóng shēng tiān," },
+          { cn: "我愿与我主同升天，我愿与主，与主同升天。", py: "wǒ yuàn yǔ wǒ zhǔ tóng shēng tiān, wǒ yuàn yǔ zhǔ, yǔ zhǔ tóng shēng tiān。" },
+          { cn: "主必要赐我真荣耀，主必要赐我真荣耀，", py: "zhǔ bì yào cì wǒ zhēn róng yào, zhǔ bì yào cì wǒ zhēn róng yào," },
+          { cn: "主必要赐我真荣耀，主必赐我，赐我真荣耀。", py: "zhǔ bì yào cì wǒ zhēn róng yào, zhǔ bì cì wǒ, cì wǒ zhēn róng yào。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 110,
+    title: "撇物从主",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "今我撇下凡百世物，甘背十架跟耶稣，", py: "jīn wǒ piě xià fán bǎi shì wù, gān bèi shí jià gēn yē sū," },
+          { cn: "虽至贫寒多受委屈，心惟爱主做门徒；", py: "suī zhì pín hán duō shòu wěi qū, xīn wéi ài zhǔ zuò mén tú;" },
+          { cn: "任凭世界轻我、离我，救主也曾被弃侮，", py: "rèn píng shì jiè qīng wǒ, lí wǒ, jiù zhǔ yě céng bèi qì wǔ," },
+          { cn: "但愿全智、全能上主，慈爱待我永无殊。", py: "dàn yuàn quán zhì, quán néng shàng zhǔ, cí ài dài wǒ yǒng wú shū。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "世上名利任其失落，或遇凌辱，或遭灾，", py: "shì shàng míng lì rèn qí shī luò, huò yù líng rǔ, huò zāo zāi," },
+          { cn: "我惟事主忧则成乐，蒙主悦纳穷即财；", py: "wǒ wéi shì zhǔ yōu zé chéng lè, méng zhǔ yuè nà qióng jí cái;" },
+          { cn: "友虽疏远，敌虽怨谤，狂风、暴雨交迫来，", py: "yǒu suī shū yuǎn, dí suī yuàn bàng, kuáng fēng, bào yǔ jiāo pò lái," },
+          { cn: "但我仰靠主爱、主恩，仍然平安笑颜开。", py: "dàn wǒ yǎng kào zhǔ ài, zhǔ ēn, réng rán píng ān xiào yán kāi。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "人虽向我骚扰、攻击，却是驱我到主前，", py: "rén suī xiàng wǒ sāo rǎo, gōng jī, què shì qū wǒ dào zhǔ qián," },
+          { cn: "世界苦难越发压迫，天上平安更觉甜；", py: "shì jiè kǔ nán yuè fā yā pò, tiān shàng píng ān gèng jué tián;" },
+          { cn: "但求我主待以恩爱，信德锻炼更贞坚，", py: "dàn qiú wǒ zhǔ dài yǐ ēn ài, xìn dé duàn liàn gèng zhēn jiān," },
+          { cn: "万般福气若非主赐，焉能使我乐无边？", py: "wàn bān fú qì ruò fēi zhǔ cì, yān néng shǐ wǒ lè wú biān?" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "须由恩中趋至荣耀，完全无罪、无惧忧，", py: "xū yóu ēn zhōng qū zhì róng yào, wán quán wú zuì, wú jù yōu," },
+          { cn: "永生盼望就在眼前，主必引领到尽头；", py: "yǒng shēng pàn wàng jiù zài yǎn qián, zhǔ bì yǐn lǐng dào jìn tóu;" },
+          { cn: "灵战获胜，世路行完，公义冠冕为我留，", py: "líng zhàn huò shèng, shì lù xíng wán, gōng yì guàn miǎn wéi wǒ liú," },
+          { cn: "今所盼望将成实得，信则眼见，赞代求。", py: "jīn suǒ pàn wàng jiāng chéng shí dé, xìn zé yǎn jiàn, zàn dài qiú。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 112,
+    title: "我跟随主",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我愿跟随我救主，无论走何路，或在快乐之地，或在忧苦之处；", py: "wǒ yuàn gēn suí wǒ jiù zhǔ, wú lùn zǒu hé lù, huò zài kuài lè zhī dì, huò zài yōu kǔ zhī chù;" },
+          { cn: "既有救主引领我愿时刻跟随主，一路跟随，直到天国生命树。", py: "jì yǒu jiù zhǔ yǐn lǐng wǒ yuàn shí kè gēn suí zhǔ, yī lù gēn suí, zhí dào tiān guó shēng mìng shù。" },
+          { cn: "跟随，跟随，我愿跟随救主，无论在何地方，我愿跟随主；", py: "gēn suí, gēn suí, wǒ yuàn gēn suí jiù zhǔ, wú lùn zài hé dì fāng, wǒ yuàn gēn suí zhǔ;" },
+          { cn: "跟随，跟随，我愿跟随耶稣，无论何处，我必跟主不止步。", py: "gēn suí, gēn suí, wǒ yuàn gēn suí yē sū, wú lùn hé chù, wǒ bì gēn zhǔ bú zhǐ bù。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我愿跟随我救主，无论走何路，或遇狂风、暴雨，或遇荆棘满途；", py: "wǒ yuàn gēn suí wǒ jiù zhǔ, wú lùn zǒu hé lù, huò yù kuáng fēng, bào yǔ, huò yù jīng jí mǎn tú;" },
+          { cn: "因主亲手引领我总不怕各灾祸，一路跟随，直到天国生命河。", py: "yīn zhǔ qīn shǒu yǐn lǐng wǒ zǒng bú pà gè zāi huò, yī lù gēn suí, zhí dào tiān guó shēng mìng hé。" },
+          { cn: "跟随，跟随，我愿跟随救主，无论在何地方，我愿跟随主；", py: "gēn suí, gēn suí, wǒ yuàn gēn suí jiù zhǔ, wú lùn zài hé dì fāng, wǒ yuàn gēn suí zhǔ;" },
+          { cn: "跟随，跟随，我愿跟随耶稣，无论何处，我必跟主不止步。", py: "gēn suí, gēn suí, wǒ yuàn gēn suí yē sū, wú lùn hé chù, wǒ bì gēn zhǔ bú zhǐ bù。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我愿跟随我救主，无论走何路，我心灵常与主同在，永得坚固；", py: "wǒ yuàn gēn suí wǒ jiù zhǔ, wú lùn zǒu hé lù, wǒ xīn líng cháng yǔ zhǔ tóng zài, yǒng dé jiān gù;" },
+          { cn: "我所当走一生路途主指引正确，至终得到主所应许真福乐。", py: "wǒ suǒ dāng zǒu yī shēng lù tú zhǔ zhǐ yǐn zhèng què, zhì zhōng dé dào zhǔ suǒ yīng xǔ zhēn fú lè。" },
+          { cn: "跟随，跟随，我愿跟随救主，无论在何地方，我愿跟随主；", py: "gēn suí, gēn suí, wǒ yuàn gēn suí jiù zhǔ, wú lùn zài hé dì fāng, wǒ yuàn gēn suí zhǔ;" },
+          { cn: "跟随，跟随，我愿跟随耶稣，无论何处，我必跟主不止步。", py: "gēn suí, gēn suí, wǒ yuàn gēn suí yē sū, wú lùn hé chù, wǒ bì gēn zhǔ bú zhǐ bù。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 113,
+    title: "奉献会堂",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "天父鸿恩，何等高厚！", py: "tiān fù hóng ēn, hé děng gāo hòu!" },
+          { cn: "差遣耶稣，普救世人；", py: "chā qiǎn yē sū, pǔ jiù shì rén;" },
+          { cn: "大地之上，高天之下，", py: "dà dì zhī shàng, gāo tiān zhī xià," },
+          { cn: "万民都当赞美主名。", py: "wàn mín dōu dāng zàn měi zhǔ míng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "今将会堂，奉献与主，", py: "jīn jiāng huì táng, fèng xiàn yǔ zhǔ," },
+          { cn: "大家欢喜，感谢天父；", py: "dà jiā huān xǐ, gǎn xiè tiān fù;" },
+          { cn: "凡来赴会，祈求天恩，", py: "fán lái fù huì, qí qiú tiān ēn," },
+          { cn: "必蒙上主赐福无数。", py: "bì méng shàng zhǔ cì fú wú shù。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "进门称谢，入堂赞美，", py: "jìn mén chēng xiè, rù táng zàn měi," },
+          { cn: "所献灵祭，求主悦纳；", py: "suǒ xiàn líng jì, qiú zhǔ yuè nà;" },
+          { cn: "更求神迹，常显不停，", py: "gèng qiú shén jì, cháng xiǎn bú tíng," },
+          { cn: "增添选民，荣耀主名。", py: "zēng tiān xuǎn mín, róng yào zhǔ míng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 114,
+    title: "感恩奉献",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我要于主坛奉献，我要于主坛奉献，", py: "wǒ yào yú zhǔ tán fèng xiàn, wǒ yào yú zhǔ tán fèng xiàn," },
+          { cn: "我所有是主所赐；是我心所愿。", py: "wǒ suǒ yǒu shì zhǔ suǒ cì; shì wǒ xīn suǒ yuàn。" },
+          { cn: "我乐意向主奉献，我乐意向主奉献，", py: "wǒ lè yì xiàng zhǔ fèng xiàn, wǒ lè yì xiàng zhǔ fèng xiàn," },
+          { cn: "我乐意向主奉献；必蒙主恩眷。", py: "wǒ lè yì xiàng zhǔ fèng xiàn; bì méng zhǔ ēn juàn。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我所奉献主悦纳，我所奉献主悦纳，", py: "wǒ suǒ fèng xiàn zhǔ yuè nà, wǒ suǒ fèng xiàn zhǔ yuè nà," },
+          { cn: "我所献是主的物；已蒙主悦纳。", py: "wǒ suǒ xiàn shì zhǔ de wù; yǐ méng zhǔ yuè nà。" },
+          { cn: "我乐意向主奉献，我乐意向主奉献，", py: "wǒ lè yì xiàng zhǔ fèng xiàn, wǒ lè yì xiàng zhǔ fèng xiàn," },
+          { cn: "我乐意向主奉献；必蒙主恩眷。", py: "wǒ lè yì xiàng zhǔ fèng xiàn; bì méng zhǔ ēn juàn。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我要信靠主应许，我要信靠主应许，", py: "wǒ yào xìn kào zhǔ yīng xǔ, wǒ yào xìn kào zhǔ yīng xǔ," },
+          { cn: "主必赐我更充足；主已经应许。", py: "zhǔ bì cì wǒ gèng chōng zú; zhǔ yǐ jīng yīng xǔ。" },
+          { cn: "我乐意向主奉献，我乐意向主奉献，", py: "wǒ lè yì xiàng zhǔ fèng xiàn, wǒ lè yì xiàng zhǔ fèng xiàn," },
+          { cn: "我乐意向主奉献；必蒙主恩眷。", py: "wǒ lè yì xiàng zhǔ fèng xiàn; bì méng zhǔ ēn juàn。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 115,
+    title: "会堂落成",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "基督圣会灵胞一体，天天同心聚集；", py: "jī dū shèng huì líng bāo yī tǐ, tiān tiān tóng xīn jù jí;" },
+          { cn: "主显能力，会堂落成，大家同蒙福祉。", py: "zhǔ xiǎn néng lì, huì táng luò chéng, dà jiā tóng méng fú zhǐ。" },
+          { cn: "口唱：“荣耀，荣耀，荣耀归与天上神！”", py: "kǒu chàng: “róng yào, róng yào, róng yào guī yǔ tiān shàng shén!”" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "救主耶稣钉十字架，舍己做我赎价；", py: "jiù zhǔ yē sū dìng shí zì jià, shě jǐ zuò wǒ shú jià;" },
+          { cn: "报主鸿恩，建筑会堂，同心事奉、敬拜。", py: "bào zhǔ hóng ēn, jiàn zhù huì táng, tóng xīn shì fèng, jìng bài。" },
+          { cn: "口唱：“荣耀，荣耀，荣耀归与天上神！”", py: "kǒu chàng: “róng yào, róng yào, róng yào guī yǔ tiān shàng shén!”" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "今将会堂献与主用，一切遵主旨意；", py: "jīn jiāng huì táng xiàn yǔ zhǔ yòng, yī qiē zūn zhǔ zhǐ yì;" },
+          { cn: "垂听我们在此祷告，悦纳所献灵祭。", py: "chuí tīng wǒ men zài cǐ dǎo gào, yuè nà suǒ xiàn líng jì。" },
+          { cn: "口唱：“荣耀，荣耀，荣耀归与天上神！”", py: "kǒu chàng: “róng yào, róng yào, róng yào guī yǔ tiān shàng shén!”" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "如今会堂既已落成，真道必更通行；", py: "rú jīn huì táng jì yǐ luò chéng, zhēn dào bì gèng tōng xíng;" },
+          { cn: "努力宣扬得救福音，引人信主得生。", py: "nǔ lì xuān yáng dé jiù fú yīn, yǐn rén xìn zhǔ dé shēng。" },
+          { cn: "口唱：“荣耀，荣耀，荣耀归与天上神！”", py: "kǒu chàng: “róng yào, róng yào, róng yào guī yǔ tiān shàng shén!”" }
+        ]
+      },
+      {
+        verse: 5,
+        content: [
+          { cn: "会堂之上高举主名，何等神圣、光荣！", py: "huì táng zhī shàng gāo jǔ zhǔ míng, hé děng shén shèng, guāng róng!" },
+          { cn: "信徒早晚殷勤聚会，颂赞、感谢不停。", py: "xìn tú zǎo wǎn yīn qín jù huì, sòng zàn, gǎn xiè bú tíng。" },
+          { cn: "口唱：“荣耀，荣耀，荣耀归与天上神！”", py: "kǒu chàng: “róng yào, róng yào, róng yào guī yǔ tiān shàng shén!”" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 116,
+    title: "献上身心",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "全能真神万福根源，使我心灵乐赞美，", py: "quán néng zhēn shén wàn fú gēn yuán, shǐ wǒ xīn líng lè zàn měi," },
+          { cn: "真神恩典如水长流，我们享受无穷极；", py: "zhēn shén ēn diǎn rú shuǐ zhǎng liú, wǒ men xiǎng shòu wú qióng jí;" },
+          { cn: "今将身心献为活祭，求主悦纳莫丢弃。", py: "jīn jiāng shēn xīn xiàn wéi huó jì, qiú zhǔ yuè nà mò diū qì。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我前如羊迷失正路，主是良牧来寻觅，", py: "wǒ qián rú yáng mí shī zhèng lù, zhǔ shì liáng mù lái xún mì," },
+          { cn: "拯救我难，为我舍命，领归羊圈得安逸；", py: "zhěng jiù wǒ nán, wèi wǒ shě mìng, lǐng guī yáng quān dé ān yì;" },
+          { cn: "今将身心献为活祭，求主悦纳莫丢弃。", py: "jīn jiāng shēn xīn xiàn wéi huó jì, qiú zhǔ yuè nà mò diū qì。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "真神恩典实无穷尽，主的慈爱不止息，", py: "zhēn shén ēn diǎn shí wú qióng jìn, zhǔ de cí ài bù zhǐ xī," },
+          { cn: "我今在世蒙主牧养，安歇水边、青草地；", py: "wǒ jīn zài shì méng zhǔ mù yǎng, ān xiē shuǐ biān, qīng cǎo dì;" },
+          { cn: "今将身心献为活祭，求主悦纳莫丢弃。", py: "jīn jiāng shēn xīn xiàn wéi huó jì, qiú zhǔ yuè nà mò diū qì。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "慈悲救主如此爱我，一生一世大感激，", py: "cí bēi jiù zhǔ rú cǐ ài wǒ, yī shēng yī shì dà gǎn jī," },
+          { cn: "我深知道我力软弱，不能报答于万一；", py: "wǒ shēn zhī dào wǒ lì ruǎn ruò, bù néng bào dá yú wàn yī;" },
+          { cn: "今将身心献为活祭，求主悦纳莫丢弃。", py: "jīn jiāng shēn xīn xiàn wéi huó jì, qiú zhǔ yuè nà mò diū qì。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 117,
+    title: "奉献祈纳",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "哈利路亚，阿们！奉主耶稣圣名奉献，", py: "hā lì lù yà, ā men! fèng zhǔ yē sū shèng míng fèng xiàn," },
+          { cn: "求父神悦纳，更求圣灵赐智善用。", py: "qiú fù shén yuè nà, gèng qiú shèng líng cì zhì shàn yòng。" },
+          { cn: "荣耀，荣耀归天上父神！", py: "róng yào, róng yào guī tiān shàng fù shén!" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "哈利路亚，阿们！奉主耶稣圣名奉献，", py: "hā lì lù yà, ā men! fèng zhǔ yē sū shèng míng fèng xiàn," },
+          { cn: "我一切所有，都是父神所赏赐的。", py: "wǒ yī qiē suǒ yǒu, dōu shì fù shén suǒ shǎng cì de。" },
+          { cn: "感谢，感谢万有之真神！", py: "gǎn xiè, gǎn xiè wàn yǒu zhī zhēn shén!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 119,
+    title: "都归耶稣我救主",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "愿我全心、才智、工夫，都归耶稣我救主；", py: "yuàn wǒ quán xīn, cái zhì, gōng fū, dōu guī yē sū wǒ jiù zhǔ;" },
+          { cn: "既由罪恶蒙主救出，理当完全归耶稣。", py: "jì yóu zuì è méng zhǔ jiù chū, lǐ dāng wán quán guī yē sū。" },
+          { cn: "都归耶稣，都归耶稣，都归耶稣我救主；", py: "dōu guī yē sū, dōu guī yē sū, dōu guī yē sū wǒ jiù zhǔ;" },
+          { cn: "都归耶稣，都归耶稣，都归耶稣我救主。", py: "dōu guī yē sū, dōu guī yē sū, dōu guī yē sū wǒ jiù zhǔ。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "愿我双手为主服务，愿我双足跟主行；", py: "yuàn wǒ shuāng shǒu wéi zhǔ fú wù, yuàn wǒ shuāng zú gēn zhǔ xíng;" },
+          { cn: "愿我双目仰望耶稣，愿我口舌颂主名。", py: "yuàn wǒ shuāng mù yǎng wàng yē sū, yuàn wǒ kǒu shé sòng zhǔ míng。" },
+          { cn: "都归耶稣，都归耶稣，都归耶稣我救主；", py: "dōu guī yē sū, dōu guī yē sū, dōu guī yē sū wǒ jiù zhǔ;" },
+          { cn: "都归耶稣，都归耶稣，都归耶稣我救主。", py: "dōu guī yē sū, dōu guī yē sū, dōu guī yē sū wǒ jiù zhǔ。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "任凭世人贪爱世福，寻求今生虚荣耀；", py: "rèn píng shì rén tān ài shì fú, xún qiú jīn shēng xū róng yào;" },
+          { cn: "每逢想到基督救赎，我惟以主为至宝。", py: "měi féng xiǎng dào jī dū jiù shú, wǒ wéi yǐ zhǔ wéi zhì bǎo。" },
+          { cn: "都归耶稣，都归耶稣，都归耶稣我救主；", py: "dōu guī yē sū, dōu guī yē sū, dōu guī yē sū wǒ jiù zhǔ;" },
+          { cn: "都归耶稣，都归耶稣，都归耶稣我救主。", py: "dōu guī yē sū, dōu guī yē sū, dōu guī yē sū wǒ jiù zhǔ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 121,
+    title: "我献何物给耶稣",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我献何物给耶稣，报祂赐我大福？", py: "wǒ xiàn hé wù gěi yē sū, bào tā cì wǒ dà fú?" },
+          { cn: "深知万一难报答，只将身心归属；", py: "shēn zhī wàn yī nán bào dá, zhī jiāng shēn xīn guī shǔ;" },
+          { cn: "我献爱心给耶稣，终生事主、顺服，", py: "wǒ xiàn ài xīn gěi yē sū, zhōng shēng shì zhǔ, shùn fú," },
+          { cn: "恩主必定肯悦纳，所献活祭礼物。", py: "ēn zhǔ bì dìng kěn yuè nà, suǒ xiàn huó jì lǐ wù。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我献爱心给耶稣，撒但无法阻挡，", py: "wǒ xiàn ài xīn gěi yē sū, sā dàn wú fǎ zǔ dǎng," },
+          { cn: "因主明说要爱祂，此言我永不忘；", py: "yīn zhǔ míng shuō yào ài tā, cǐ yán wǒ yǒng bú wàng;" },
+          { cn: "若要主心得满足，只有爱祂坚强，", py: "ruò yào zhǔ xīn dé mǎn zú, zhī yǒu ài tā jiān qiáng," },
+          { cn: "打破玉瓶浇香膏，使主满身芬香。", py: "dǎ pò yù píng jiāo xiāng gāo, shǐ zhǔ mǎn shēn fēn xiāng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我献爱心给耶稣，并非空说不行，", py: "wǒ xiàn ài xīn gěi yē sū, bìng fēi kōng shuō bú xíng," },
+          { cn: "应当遵守祂真道，力行祂新命令；", py: "yīng dāng zūn shǒu tā zhēn dào, lì xíng tā xīn mìng lìng;" },
+          { cn: "受苦、舍命不足惜，为祂广传福音，", py: "shòu kǔ, shě mìng bú zú xī, wéi tā guǎng chuán fú yīn," },
+          { cn: "努力喂养祂群羊，勇敢做祂精兵。", py: "nǔ lì wèi yǎng tā qún yáng, yǒng gǎn zuò tā jīng bīng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 122,
+    title: "彼此相爱",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "兄弟相爱、相亲，须要心诚、意真；", py: "xiōng dì xiāng ài, xiāng qīn, xū yào xīn chéng, yì zhēn;" },
+          { cn: "彼此联合，同意、同心，真是神家的人。", py: "bǐ cǐ lián hé, tóng yì, tóng xīn, zhēn shì shén jiā de rén。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "在父宝座之前，都蒙天父爱怜；", py: "zài fù bǎo zuò zhī qián, dōu méng tiān fù ài lián;" },
+          { cn: "彼此饶恕，互相代祷，快乐在地如天。", py: "bǐ cǐ ráo shù, hù xiāng dài dǎo, kuài lè zài dì rú tiān。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我也将你体谅，你也代我担当；", py: "wǒ yě jiāng nǐ tǐ liàng, nǐ yě dài wǒ dān dāng;" },
+          { cn: "若见同灵愁苦非常，大家同感心伤。", py: "ruò jiàn tóng líng chóu kǔ fēi cháng, dà jiā tóng gǎn xīn shāng。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "在世虽有劳苦，尽心、竭力相助；", py: "zài shì suī yǒu láo kǔ, jìn xīn, jié lì xiāng zhù;" },
+          { cn: "等主来时，接回天家，共享无穷鸿福。", py: "děng zhǔ lái shí, jiē huí tiān jiā, gòng xiǎng wú qióng hóng fú。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 125,
+    title: "别离诗",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "蒙主安排美好时期，共聚一堂学真理，", py: "méng zhǔ ān pái měi hǎo shí qī, gòng jù yī táng xué zhēn lǐ," },
+          { cn: "一灵相通，一爱相系，奉献身心顺主意，", py: "yī líng xiāng tōng, yī ài xiāng jì, fèng xiàn shēn xīn shùn zhǔ yì," },
+          { cn: "思念救主恩爱无极，相爱合一建主体，", py: "sī niàn jiù zhǔ ēn ài wú jí, xiāng ài hé yī jiàn zhǔ tǐ," },
+          { cn: "今虽离别，盼望再会，圣灵同在勿伤悲，", py: "jīn suī lí bié, pàn wàng zài huì, shèng líng tóng zài wù shāng bēi," },
+          { cn: "愿共遵守救主命令，发光照耀乡、镇、市。", py: "yuàn gòng zūn shǒu jiù zhǔ mìng lìng, fā guāng zhào yào xiāng, zhèn, shì。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "圣灵所赐诸般真理，时刻奉行永不移，", py: "shèng líng suǒ cì zhū bān zhēn lǐ, shí kè fèng xíng yǒng bú yí," },
+          { cn: "一信共守，一主共依，同做精兵齐努力，", py: "yī xìn gòng shǒu, yī zhǔ gòng yī, tóng zuò jīng bīng qí nǔ lì," },
+          { cn: "广传福音，为道争战，引导多人至神前，", py: "guǎng chuán fú yīn, wèi dào zhēng zhàn, yǐn dǎo duō rén zhì shén qián," },
+          { cn: "彼此代祷，灵里交通，身虽远别心不离，", py: "bǐ cǐ dài dǎo, líng lǐ jiāo tōng, shēn suī yuǎn bié xīn bú lí," },
+          { cn: "结出善果荣归真神，永远团聚主来时。", py: "jié chū shàn guǒ róng guī zhēn shén, yǒng yuǎn tuán jù zhǔ lái shí。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 131,
+    title: "乐守圣日",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "当颂扬安息日齐聚集，身与灵在主里得安息；", py: "dāng sòng yáng ān xī rì qí jù jí, shēn yǔ líng zài zhǔ lǐ dé ān xī;" },
+          { cn: "众圣徒敬拜主，同心同意，我每逢此圣日最欢喜。", py: "zhòng shèng tú jìng bài zhǔ, tóng xīn tóng yì, wǒ měi féng cǐ shèng rì zuì huān xǐ。" },
+          { cn: "请来，来，来，来！到宝座前同聚集，唱诗、", py: "qǐng lái, lái, lái, lái! dào bǎo zuò qián tóng jù jí, chàng shī," },
+          { cn: "祈祷、敬拜，乐无比！众圣徒敬拜主，同聚", py: "qí dǎo, jìng bài, lè wú bǐ! zhòng shèng tú jìng bài zhǔ, tóng jù" },
+          { cn: "圣地，身与灵在主里得安息。", py: "shèng dì, shēn yǔ líng zài zhǔ lǐ dé ān xī。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "当谨守安息日为至圣，切不可去办理俗事情；", py: "dāng jǐn shǒu ān xī rì wéi zhì shèng, qiē bú kě qù bàn lǐ sú shì qíng;" },
+          { cn: "要掉转你步履，谨慎言行，一切事都应当顺主命。", py: "yào diào zhuǎn nǐ bù lǚ, jǐn shèn yán xíng, yī qiē shì dōu yīng dāng shùn zhǔ mìng。" },
+          { cn: "请来，来，来，来！到宝座前同聚集，唱诗、", py: "qǐng lái, lái, lái, lái! dào bǎo zuò qián tóng jù jí, chàng shī," },
+          { cn: "祈祷、敬拜，乐无比！众圣徒敬拜主，同聚", py: "qí dǎo, jìng bài, lè wú bǐ! zhòng shèng tú jìng bài zhǔ, tóng jù" },
+          { cn: "圣地，身与灵在主里得安息。", py: "shèng dì, shēn yǔ líng zài zhǔ lǐ dé ān xī。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "当勤勉安息日做圣工，依赖主所赏赐大权能；", py: "dāng qín miǎn ān xī rì zuò shèng gōng, yī lài zhǔ suǒ shǎng cì dà quán néng;" },
+          { cn: "传福音，救病苦，为主忠诚，心欢乐，口唱诗颂主名。", py: "chuán fú yīn, jiù bìng kǔ, wéi zhǔ zhōng chéng, xīn huān lè, kǒu chàng shī sòng zhǔ míng。" },
+          { cn: "请来，来，来，来！到宝座前同聚集，唱诗、", py: "qǐng lái, lái, lái, lái! dào bǎo zuò qián tóng jù jí, chàng shī," },
+          { cn: "祈祷、敬拜，乐无比！众圣徒敬拜主，同聚", py: "qí dǎo, jìng bài, lè wú bǐ! zhòng shèng tú jìng bài zhǔ, tóng jù" },
+          { cn: "圣地，身与灵在主里得安息。", py: "shèng dì, shēn yǔ líng zài zhǔ lǐ dé ān xī。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 132,
+    title: "求主荫庇",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "耶稣救主爱我灵，我要躲在祂胸前，", py: "yē sū jiù zhǔ ài wǒ líng, wǒ yào duǒ zài tā xiōng qián," },
+          { cn: "波浪滚起迫纷纭，狂风、暴雨势层层；", py: "bō làng gǔn qǐ pò fēn yún, kuáng fēng, bào yǔ shì céng céng;" },
+          { cn: "求主荫庇许我藏，经过危险得安宁，", py: "qiú zhǔ yīn bì xǔ wǒ cáng, jīng guò wēi xiǎn dé ān níng," },
+          { cn: "使我平安至天庭，享受永福大光荣。", py: "shǐ wǒ píng ān zhì tiān tíng, xiǎng shòu yǒng fú dà guāng róng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "主外无处可藏身，但求与主日相亲，", py: "zhǔ wài wú chù kě cáng shēn, dàn qiú yǔ zhǔ rì xiāng qīn," },
+          { cn: "切莫弃我做孤丁，时时保护慰苦辛；", py: "qiē mò qì wǒ zuò gū dīng, shí shí bǎo hù wèi kǔ xīn;" },
+          { cn: "今我靠主得援助，所有需用不困贫，", py: "jīn wǒ kào zhǔ dé yuán zhù, suǒ yǒu xū yòng bú kùn pín," },
+          { cn: "倚赖别人常失望，只有信靠主慈仁。", py: "yǐ lài bié rén cháng shī wàng, zhǐ yǒu xìn kào zhǔ cí rén。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "主是万福之源头，仁爱、恩惠何等深！", py: "zhǔ shì wàn fú zhī yuán tóu, rén ài, ēn huì hé děng shēn!" },
+          { cn: "软弱有主来扶助，疾病蒙主医安宁；", py: "ruǎn ruò yǒu zhǔ lái fú zhù, jí bìng méng zhǔ yī ān níng;" },
+          { cn: "主是永远生命源，白白赐人饮至终，", py: "zhǔ shì yǒng yuǎn shēng mìng yuán, bái bái cì rén yǐn zhì zhōng," },
+          { cn: "居我心内成活泉，涌至万世总无穷。", py: "jū wǒ xīn nèi chéng huó quán, yǒng zhì wàn shì zǒng wú qióng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 134,
+    title: "仰望救主",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "仰望我救主在天上，戴华冕穿白衣，永辉煌；", py: "yǎng wàng wǒ jiù zhǔ zài tiān shàng, dài huá miǎn chuān bái yī, yǒng huī huáng;" },
+          { cn: "众天使与圣徒环宝座，日日齐颂扬天上王。", py: "zhòng tiān shǐ yǔ shèng tú huán bǎo zuò, rì rì qí sòng yáng tiān shàng wáng。" },
+          { cn: "在天堂，在天堂，仰望我救主，在天堂；", py: "zài tiān táng, zài tiān táng, yǎng wàng wǒ jiù zhǔ, zài tiān táng;" },
+          { cn: "在天堂，在天堂，在天堂，仰望我救主，在天堂。", py: "zài tiān táng, zài tiān táng, zài tiān táng, yǎng wàng wǒ jiù zhǔ, zài tiān táng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "仰望我救主在天上，奉己血进圣所献父前；", py: "yǎng wàng wǒ jiù zhǔ zài tiān shàng, fèng jǐ xuè jìn shèng suǒ xiàn fù qián;" },
+          { cn: "做中保为世人转祈祷，代我全赎清诸罪愆。", py: "zuò zhōng bǎo wéi shì rén zhuǎn qí dǎo, dài wǒ quán shú qīng zhū zuì qiān。" },
+          { cn: "在天堂，在天堂，仰望我救主，在天堂；", py: "zài tiān táng, zài tiān táng, yǎng wàng wǒ jiù zhǔ, zài tiān táng;" },
+          { cn: "在天堂，在天堂，在天堂，仰望我救主，在天堂。", py: "zài tiān táng, zài tiān táng, zài tiān táng, yǎng wàng wǒ jiù zhǔ, zài tiān táng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "仰望我救主在天上，赐圣灵将信爱充我心；", py: "yǎng wàng wǒ jiù zhǔ zài tiān shàng, cì shèng líng jiāng xìn ài chōng wǒ xīn;" },
+          { cn: "使基督真形状成于内，令我仰望主，情更深。", py: "shǐ jī dū zhēn xíng zhuàng chéng yú nèi, lìng wǒ yǎng wàng zhǔ, qíng gèng shēn。" },
+          { cn: "在天堂，在天堂，仰望我救主，在天堂；", py: "zài tiān táng, zài tiān táng, yǎng wàng wǒ jiù zhǔ, zài tiān táng;" },
+          { cn: "在天堂，在天堂，在天堂，仰望我救主，在天堂。", py: "zài tiān táng, zài tiān táng, zài tiān táng, yǎng wàng wǒ jiù zhǔ, zài tiān táng。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "仰望我救主在天上，早为我预备妥安乐家；", py: "yǎng wàng wǒ jiù zhǔ zài tiān shàng, zǎo wéi wǒ yù bèi tuǒ ān lè jiā;" },
+          { cn: "我欢喜将灵魂交託主，临终来接我享荣华。", py: "wǒ huān xǐ jiāng líng hún jiāo tuō zhǔ, lín zhōng lái jiē wǒ xiǎng róng huá。" },
+          { cn: "在天堂，在天堂，仰望我救主，在天堂；", py: "zài tiān táng, zài tiān táng, yǎng wàng wǒ jiù zhǔ, zài tiān táng;" },
+          { cn: "在天堂，在天堂，在天堂，仰望我救主，在天堂。", py: "zài tiān táng, zài tiān táng, zài tiān táng, yǎng wàng wǒ jiù zhǔ, zài tiān táng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 135,
+    title: "为什么忙",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "亲爱的朋友！你为什么忙？", py: "qīn ài de péng yǒu! nǐ wéi shèn me máng?" },
+          { cn: "亲爱的朋友！你为什么忙？", py: "qīn ài de péng yǒu! nǐ wéi shèn me máng?" },
+          { cn: "你有没有盼望？有没有盼望？", py: "nǐ yǒu méi yǒu pàn wàng? yǒu méi yǒu pàn wàng?" },
+          { cn: "假若今日离世，能否上天堂？", py: "jiǎ ruò jīn rì lí shì, néng fǒu shàng tiān táng?" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我已信耶稣，我已有盼望，", py: "wǒ yǐ xìn yē sū, wǒ yǐ yǒu pàn wàng," },
+          { cn: "我已归主里，我为耶稣忙；", py: "wǒ yǐ guī zhǔ lǐ, wǒ wéi yē sū máng;" },
+          { cn: "靠着主的大恩，我有大盼望，", py: "kào zhe zhǔ de dà ēn, wǒ yǒu dà pàn wàng," },
+          { cn: "假若今日离世，一定上天堂。", py: "jiǎ ruò jīn rì lí shì, yī dìng shàng tiān táng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我已在主里，我已得救恩，", py: "wǒ yǐ zài zhǔ lǐ, wǒ yǐ dé jiù ēn," },
+          { cn: "一路跟从主，必能进天门；", py: "yī lù gēn cóng zhǔ, bì néng jìn tiān mén;" },
+          { cn: "在世本为客旅，时日不久长，", py: "zài shì běn wéi kè lǚ, shí rì bù jiǔ cháng," },
+          { cn: "我若一息尚存，必为耶稣忙。", py: "wǒ ruò yī xī shàng cún, bì wéi yē sū máng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 138,
+    title: "如果弃绝救主",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "如果弃绝救主，势必越过界线，从此听不见圣灵呼唤；", py: "rú guǒ qì jué jiù zhǔ, shì bì yuè guò jiè xiàn, cóng cǐ tīng bú jiàn shèng líng hū huàn;" },
+          { cn: "若只随波逐流，盲目取乐追欢，细想：乐尽悲来，是否合算？", py: "ruò zhǐ suí bō zhú liú, máng mù qǔ lè zhuī huān, xì xiǎng: lè jìn bēi lái, shì fǒu hé suàn?" },
+          { cn: "神的宝贵真理就是分明界线，越此界线即地狱边缘；", py: "shén de bǎo guì zhēn lǐ jiù shì fēn míng jiè xiàn, yuè cǐ jiè xiàn jí dì yù biān yuán;" },
+          { cn: "灵魂若是丧失，得全世界何益？权衡轻重，得失应当明白。", py: "líng hún ruò shì sàng shī, dé quán shì jiè hé yì? quán héng qīng zhòng, dé shī yīng dāng míng bái。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "逸乐不过一时，痛苦却是永远，罪海最无情，回头是岸；", py: "yì lè bú guò yī shí, tòng kǔ què shì yǒng yuǎn, zuì hǎi zuì wú qíng, huí tóu shì àn;" },
+          { cn: "随从罪情一点，丧失永福无限，细想：贪小失大，是否合算？", py: "suí cóng zuì qíng yī diǎn, sàng shī yǒng fú wú xiàn, xì xiǎng: tān xiǎo shī dà, shì fǒu hé suàn?" },
+          { cn: "神的宝贵真理就是分明界线，越此界线即地狱边缘；", py: "shén de bǎo guì zhēn lǐ jiù shì fēn míng jiè xiàn, yuè cǐ jiè xiàn jí dì yù biān yuán;" },
+          { cn: "灵魂若是丧失，得全世界何益？权衡轻重，得失应当明白。", py: "líng hún ruò shì sàng shī, dé quán shì jiè hé yì? quán héng qīng zhòng, dé shī yīng dāng míng bái。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "趁着得救门开，恩典日期未满，不要再奔向地狱边缘；", py: "chèn zhe dé jiù mén kāi, ēn diǎn rì qī wèi mǎn, bú yào zài bēn xiàng dì yù biān yuán;" },
+          { cn: "应当听从呼唤，悔改信靠耶稣，出死入生，此乃无比妙算。", py: "yīng dāng tīng cóng hū huàn, huǐ gǎi xìn kào yē sū, chū sǐ rù shēng, cǐ nǎi wú bǐ miào suàn。" },
+          { cn: "神的宝贵真理就是分明界线，越此界线即地狱边缘；", py: "shén de bǎo guì zhēn lǐ jiù shì fēn míng jiè xiàn, yuè cǐ jiè xiàn jí dì yù biān yuán;" },
+          { cn: "灵魂若是丧失，得全世界何益？权衡轻重，得失应当明白。", py: "líng hún ruò shì sàng shī, dé quán shì jiè hé yì? quán héng qīng zhòng, dé shī yīng dāng míng bái。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 139,
+    title: "闻主过路",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "何事众人拥挤喧嚷？何事众人在此仰望？", py: "hé shì zhòng rén yōng jǐ xuān rǎng? hé shì zhòng rén zài cǐ yǎng wàng?" },
+          { cn: "今日何事众人等候，男女、老幼一齐在场？", py: "jīn rì hé shì zhòng rén děng hòu, nán nǚ, lǎo yòu yī qí zài chǎng?" },
+          { cn: "有人走近对我报告：“拿撒勒耶稣今日要到”", py: "yǒu rén zǒu jìn duì wǒ bào gào: “ná sā lè yē sū jīn rì yào dào”" },
+          { cn: "有人走近对我报告：“拿撒勒耶稣今日要到！”", py: "yǒu rén zǒu jìn duì wǒ bào gào: “ná sā lè yē sū jīn rì yào dào!”" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "耶稣，祂是从何处来？为何众人如此敬爱？", py: "yē sū, tā shì cóng hé chù lái? wèi hé zhòng rén rú cǐ jìng ài?" },
+          { cn: "祂是做王，或是做官？有何权势使人腾欢？", py: "tā shì zuò wáng, huò shì zuò guān? yǒu hé quán shì shǐ rén téng huān?" },
+          { cn: "我又打听得知详细：拿撒勒耶稣能行奇事！", py: "wǒ yòu dǎ tīng dé zhī xiáng xì: ná sā lè yē sū néng xíng qí shì!" },
+          { cn: "我又打听得知详细：拿撒勒耶稣能行奇事！", py: "wǒ yòu dǎ tīng dé zhī xiáng xì: ná sā lè yē sū néng xíng qí shì!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "耶稣基督来救世人，劳苦重担可得安宁；", py: "yē sū jī dū lái jiù shì rén, láo kǔ zhòng dān kě dé ān níng;" },
+          { cn: "瞎子能看，聋子能听，哑巴能讲，瘸腿能行。", py: "xiā zi néng kàn, lóng zi néng tīng, yǎ ba néng jiǎng, qué tuǐ néng xíng。" },
+          { cn: "祂有慈爱，祂有能力，拿撒勒耶稣给人医治；", py: "tā yǒu cí ài, tā yǒu néng lì, ná sā lè yē sū gěi rén yī zhì;" },
+          { cn: "祂有慈爱，祂有能力，拿撒勒耶稣给人医治。", py: "tā yǒu cí ài, tā yǒu néng lì, ná sā lè yē sū gěi rén yī zhì。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "人人有罪、有病、有苦，应当悔改，信靠救主；", py: "rén rén yǒu zuì, yǒu bìng, yǒu kǔ, yīng dāng huǐ gǎi, xìn kào jiù zhǔ;" },
+          { cn: "耶稣代死，流血赎罪，救我灵魂，免我罪辜。", py: "yē sū dài sǐ, liú xuè shú zuì, jiù wǒ líng hún, miǎn wǒ zuì gū。" },
+          { cn: "良机勿失就在眼前，拿撒勒耶稣到你身边；", py: "liáng jī wù shī jiù zài yǎn qián, ná sā lè yē sū dào nǐ shēn biān;" },
+          { cn: "良机勿失，就在眼前，拿撒勒耶稣到你身边。", py: "liáng jī wù shī, jiù zài yǎn qián, ná sā lè yē sū dào nǐ shēn biān。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 140,
+    title: "救主明白你忧伤",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "救主明白你的忧伤，见你眼泪盈眶；", py: "jiù zhǔ míng bái nǐ de yōu shāng, jiàn nǐ yǎn lèi yíng kuàng;" },
+          { cn: "祂说：“我必与你同在，不要失望心伤。”", py: "tā shuō: “wǒ bì yǔ nǐ tóng zài, bú yào shī wàng xīn shāng。”" },
+          { cn: "人生世事本就无常，难免惊涛、骇浪；", py: "rén shēng shì shì běn jiù wú cháng, nán miǎn jīng tāo, hài làng;" },
+          { cn: "救主明白你的忧伤，祂必帮助无量。", py: "jiù zhǔ míng bái nǐ de yōu shāng, tā bì bāng zhù wú liàng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "救主明白你的忧伤，知你苦痛饱尝；", py: "jiù zhǔ míng bái nǐ de yōu shāng, zhī nǐ kǔ tòng bǎo cháng;" },
+          { cn: "你若专心信靠救主，必无重担难当。", py: "nǐ ruò zhuān xīn xìn kào jiù zhǔ, bì wú zhòng dān nán dāng。" },
+          { cn: "人生世事本就无常，难免惊涛、骇浪；", py: "rén shēng shì shì běn jiù wú cháng, nán miǎn jīng tāo, hài làng;" },
+          { cn: "救主明白你的忧伤，祂必帮助无量。", py: "jiù zhǔ míng bái nǐ de yōu shāng, tā bì bāng zhù wú liàng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "救主明白你的忧伤，莫愁缺衣、缺粮；", py: "jiù zhǔ míng bái nǐ de yōu shāng, mò chóu quē yī, quē liáng;" },
+          { cn: "祂必供给你的生活，时时看顾周详。", py: "tā bì gōng gěi nǐ de shēng huó, shí shí kàn gù zhōu xiáng。" },
+          { cn: "人生世事本就无常，难免惊涛、骇浪；", py: "rén shēng shì shì běn jiù wú cháng, nán miǎn jīng tāo, hài làng;" },
+          { cn: "救主明白你的忧伤，祂必帮助无量。", py: "jiù zhǔ míng bái nǐ de yōu shāng, tā bì bāng zhù wú liàng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 142,
+    title: "靠主消除忧愁",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "劳苦、忧伤的人！主说：“来就我！”", py: "láo kǔ, yōu shāng de rén! zhǔ shuō: “lái jiù wǒ!”" },
+          { cn: "跪在施恩座前，卸下挂虑，", py: "guì zài shī ēn zuò qián, xiè xià guà lǜ," },
+          { cn: "献你破碎心灵，倾吐你心事。", py: "xiàn nǐ pò suì xīn líng, qīng tǔ nǐ xīn shì。" },
+          { cn: "世上的忧伤，靠主都消除。", py: "shì shàng de yōu shāng, kào zhǔ dōu xiāo chú。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "失败、烦闷的人！主说：“来就我！”", py: "shī bài, fán mèn de rén! zhǔ shuō: “lái jiù wǒ!”" },
+          { cn: "祂必为你开路，给你安舒，", py: "tā bì wèi nǐ kāi lù, gěi nǐ ān shū," },
+          { cn: "有祂随时同在，安慰、看顾你。", py: "yǒu tā suí shí tóng zài, ān wèi, kàn gù nǐ。" },
+          { cn: "世上的忧伤，靠主都消除。", py: "shì shàng de yōu shāng, kào zhǔ dōu xiāo chú。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "心灵饥渴的人！主说：“来就我！”", py: "xīn líng jī kě de rén! zhǔ shuō: “lái jiù wǒ!”" },
+          { cn: "必有活水、吗哪，赐你有余，", py: "bì yǒu huó shuǐ, ma nǎ, cì nǐ yǒu yú," },
+          { cn: "先求神国神义，万事免忧虑。", py: "xiān qiú shén guó shén yì, wàn shì miǎn yōu lǜ。" },
+          { cn: "世上的忧伤，靠主都消除。", py: "shì shàng de yōu shāng, kào zhǔ dōu xiāo chú。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 145,
+    title: "倚靠耶稣",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "倚靠耶稣，日日靠，无论环境有苦乐；", py: "yǐ kào yē sū, rì rì kào, wú lùn huán jìng yǒu kǔ lè;" },
+          { cn: "信心有时未全备，只靠耶稣此就是。", py: "xìn xīn yǒu shí wèi quán bèi, zhǐ kào yē sū cǐ jiù shì。" },
+          { cn: "时时刻刻靠耶稣，日日靠主保护我；", py: "shí shí kè kè kào yē sū, rì rì kào zhǔ bǎo hù wǒ;" },
+          { cn: "不论居住苦乐地，但靠耶稣此就是。", py: "bú lùn jū zhù kǔ lè dì, dàn kào yē sū cǐ jiù shì。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "圣灵住在我心中，引导、保佑，恩无穷；", py: "shèng líng zhù zài wǒ xīn zhōng, yǐn dǎo, bǎo yòu, ēn wú qióng;" },
+          { cn: "各处都是安稳地，只靠耶稣此就是。", py: "gè chù dōu shì ān wěn dì, zhǐ kào yē sū cǐ jiù shì。" },
+          { cn: "时时刻刻靠耶稣，日日靠主保护我；", py: "shí shí kè kè kào yē sū, rì rì kào zhǔ bǎo hù wǒ;" },
+          { cn: "不论居住苦乐地，但靠耶稣此就是。", py: "bú lùn jū zhù kǔ lè dì, dàn kào yē sū cǐ jiù shì。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "心中喜乐就唱诗，若遇困苦告主知；", py: "xīn zhōng xǐ lè jiù chàng shī, ruò yù kùn kǔ gào zhǔ zhī;" },
+          { cn: "主赐平安与福气，只靠耶稣此就是。", py: "zhǔ cì píng ān yǔ fú qì, zhǐ kào yē sū cǐ jiù shì。" },
+          { cn: "时时刻刻靠耶稣，日日靠主保护我；", py: "shí shí kè kè kào yē sū, rì rì kào zhǔ bǎo hù wǒ;" },
+          { cn: "不论居住苦乐地，但靠耶稣此就是。", py: "bú lùn jū zhù kǔ lè dì, dàn kào yē sū cǐ jiù shì。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "倚靠耶稣在世间，到老离世即归天；", py: "yǐ kào yē sū zài shì jiān, dào lǎo lí shì jí guī tiān;" },
+          { cn: "与主同住好无比，只靠耶稣此就是。", py: "yǔ zhǔ tóng zhù hǎo wú bǐ, zhǐ kào yē sū cǐ jiù shì。" },
+          { cn: "时时刻刻靠耶稣，日日靠主保护我；", py: "shí shí kè kè kào yē sū, rì rì kào zhǔ bǎo hù wǒ;" },
+          { cn: "不论居住苦乐地，但靠耶稣此就是。", py: "bú lùn jū zhù kǔ lè dì, dàn kào yē sū cǐ jiù shì。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 148,
+    title: "耶稣牧我",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "耶稣是我牧者，将我泪擦去，", py: "yē sū shì wǒ mù zhě, jiāng wǒ lèi cā qù," },
+          { cn: "既抱我在怀里，有何事可惧，", py: "jì bào wǒ zài huái lǐ, yǒu hé shì kě jù," },
+          { cn: "我们总要跟祂，紧随祂脚步，", py: "wǒ men zǒng yào gēn tā, jǐn suí tā jiǎo bù," },
+          { cn: "或到沙漠、旷野，或到水、草处。", py: "huò dào shā mò, kuàng yě, huò dào shuǐ, cǎo chù。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "耶稣是我牧者，我认识其声，", py: "yē sū shì wǒ mù zhě, wǒ rèn shí qí shēng," },
+          { cn: "一听主来呼唤，喜乐心顿生；", py: "yī tīng zhǔ lái hū huàn, xǐ lè xīn dùn shēng;" },
+          { cn: "虽然有时责备，声音总是爱，", py: "suī rán yǒu shí zé bèi, shēng yīn zǒng shì ài," },
+          { cn: "但愿祂常领我，永与我同在。", py: "dàn yuàn tā cháng lǐng wǒ, yǒng yǔ wǒ tóng zài。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "耶稣是我牧者，蒙祂手保护，", py: "yē sū shì wǒ mù zhě, méng tā shǒu bǎo hù," },
+          { cn: "虽有狮吼、狼号，我不惧不逃；", py: "suī yǒu shī hǒu, láng háo, wǒ bú jù bú táo;" },
+          { cn: "过那死阴幽谷，也安然一宿，", py: "guò nà sǐ yīn yōu gǔ, yě ān rán yī xiǔ," },
+          { cn: "等到东方破晓，我必得永福。", py: "děng dào dōng fāng pò xiǎo, wǒ bì dé yǒng fú。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 149,
+    title: "安息在主膀臂中",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "灵交何甘美！喜乐何充盈！安息在主永久膀臂中；", py: "líng jiāo hé gān měi! xǐ lè hé chōng yíng! ān xī zài zhǔ yǒng jiǔ bǎng bì zhōng;" },
+          { cn: "福祉何全备！平安何丰隆！安息在主永久膀臂中。", py: "fú zhǐ hé quán bèi! píng ān hé fēng lóng! ān xī zài zhǔ yǒng jiǔ bǎng bì zhōng。" },
+          { cn: "安息，安息，平安稳妥，无论穷通，", py: "ān xī, ān xī, píng ān wěn tuǒ, wú lùn qióng tōng," },
+          { cn: "安息，安息，安息在主永久膀臂中。", py: "ān xī, ān xī, ān xī zài zhǔ yǒng jiǔ bǎng bì zhōng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "世途多艰险，靠主总安全，安息在主永久膀臂中；", py: "shì tú duō jiān xiǎn, kào zhǔ zǒng ān quán, ān xī zài zhǔ yǒng jiǔ bǎng bì zhōng;" },
+          { cn: "越走越光明，如日正东升，安息在主永久膀臂中。", py: "yuè zǒu yuè guāng míng, rú rì zhèng dōng shēng, ān xī zài zhǔ yǒng jiǔ bǎng bì zhōng。" },
+          { cn: "安息，安息，平安稳妥，无论穷通，", py: "ān xī, ān xī, píng ān wěn tuǒ, wú lùn qióng tōng," },
+          { cn: "安息，安息，安息在主永久膀臂中。", py: "ān xī, ān xī, ān xī zài zhǔ yǒng jiǔ bǎng bì zhōng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我不惧危险，亦不忧贫穷，安息在主永久膀臂中；", py: "wǒ bú jù wēi xiǎn, yì bú yōu pín qióng, ān xī zài zhǔ yǒng jiǔ bǎng bì zhōng;" },
+          { cn: "救主常同在，我必乐融融，安息在主永久膀臂中。", py: "jiù zhǔ cháng tóng zài, wǒ bì lè róng róng, ān xī zài zhǔ yǒng jiǔ bǎng bì zhōng。" },
+          { cn: "安息，安息，平安稳妥，无论穷通，", py: "ān xī, ān xī, píng ān wěn tuǒ, wú lùn qióng tōng," },
+          { cn: "安息，安息，安息在主永久膀臂中。", py: "ān xī, ān xī, ān xī zài zhǔ yǒng jiǔ bǎng bì zhōng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 150,
+    title: "善牧看顾",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "耶和华是我的牧者，缺乏不临我身；", py: "yē hé huá shì wǒ de mù zhě, quē fá bú lín wǒ shēn;" },
+          { cn: "祂使我卧在青草地，领我安歇水边。", py: "tā shǐ wǒ wò zài qīng cǎo dì, lǐng wǒ ān xiē shuǐ biān。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "主使我的灵魂苏醒，时刻眷顾、保护；", py: "zhǔ shǐ wǒ de líng hún sū xǐng, shí kè juàn gù, bǎo hù;" },
+          { cn: "因祂自己荣耀圣名，引导我走义路。", py: "yīn tā zì jǐ róng yào shèng míng, yǐn dǎo wǒ zǒu yì lù。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我虽行过死阴幽谷，危险何足惊畏？", py: "wǒ suī xíng guò sǐ yīn yōu gǔ, wēi xiǎn hé zú jīng wèi?" },
+          { cn: "主与我偕，有杖、有竿，使我心得安慰。", py: "zhǔ yǔ wǒ xié, yǒu zhàng, yǒu gān, shǐ wǒ xīn dé ān wèi。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "主在我众仇敌面前，恩筵设摆完成；", py: "zhǔ zài wǒ zhòng chóu dí miàn qián, ēn yàn shè bǎi wán chéng;" },
+          { cn: "并用膏油膏我头上，使我福杯满盈。", py: "bìng yòng gāo yóu gāo wǒ tóu shàng, shǐ wǒ fú bēi mǎn yíng。" }
+        ]
+      },
+      {
+        verse: 5,
+        content: [
+          { cn: "恩惠、慈爱必常随我，一生一世安稳；", py: "ēn huì, cí ài bì cháng suí wǒ, yī shēng yī shì ān wěn;" },
+          { cn: "我将住于我神殿中，从今直到永远。", py: "wǒ jiāng zhù yú wǒ shén diàn zhōng, cóng jīn zhí dào yǒng yuǎn。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 151,
+    title: "天父必看顾你",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "任遭何事，不要惊怕，天父必看顾你；", py: "rèn zāo hé shì, bú yào jīng pà, tiān fù bì kàn gù nǐ;" },
+          { cn: "必将你藏祂恩翅下，天父必看顾你。", py: "bì jiāng nǐ cáng tā ēn chì xià, tiān fù bì kàn gù nǐ。" },
+          { cn: "天父必看顾你，时时看顾，处处看顾；", py: "tiān fù bì kàn gù nǐ, shí shí kàn gù, chù chù kàn gù;" },
+          { cn: "祂必要看顾你，天父必看顾你。", py: "tā bì yào kàn gù nǐ, tiān fù bì kàn gù nǐ。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "有时劳苦，心中失望，天父必看顾你；", py: "yǒu shí láo kǔ, xīn zhōng shī wàng, tiān fù bì kàn gù nǐ;" },
+          { cn: "危险临到，无处躲藏，天父必看顾你。", py: "wēi xiǎn lín dào, wú chù duǒ cáng, tiān fù bì kàn gù nǐ。" },
+          { cn: "天父必看顾你，时时看顾，处处看顾；", py: "tiān fù bì kàn gù nǐ, shí shí kàn gù, chù chù kàn gù;" },
+          { cn: "祂必要看顾你，天父必看顾你。", py: "tā bì yào kàn gù nǐ, tiān fù bì kàn gù nǐ。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "你虽缺乏，祂是丰富，天父必看顾你；", py: "nǐ suī quē fá, tā shì fēng fù, tiān fù bì kàn gù nǐ;" },
+          { cn: "你受试炼，祂必开路，天父必看顾你。", py: "nǐ shòu shì liàn, tā bì kāi lù, tiān fù bì kàn gù nǐ。" },
+          { cn: "天父必看顾你，时时看顾，处处看顾；", py: "tiān fù bì kàn gù nǐ, shí shí kàn gù, chù chù kàn gù;" },
+          { cn: "祂必要看顾你，天父必看顾你。", py: "tā bì yào kàn gù nǐ, tiān fù bì kàn gù nǐ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 152,
+    title: "主必预备",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "或这样，或那样，主必有预备，", py: "huò zhè yàng, huò nà yàng, zhǔ bì yǒu yù bèi," },
+          { cn: "未必依我心意，也不依你心意，", py: "wèi bì yī wǒ xīn yì, yě bù yī nǐ xīn yì," },
+          { cn: "主自有好旨意，祂必有预备。", py: "zhǔ zì yǒu hǎo zhǐ yì, tā bì yǒu yù bèi。" },
+          { cn: "因此我靠主，信主必预备；", py: "yīn cǐ wǒ kào zhǔ, xìn zhǔ bì yù bèi;" },
+          { cn: "我一心靠主，知主必预备。", py: "wǒ yī xīn kào zhǔ, zhī zhǔ bì yù bèi。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "或这时，或那时，主必有预备，", py: "huò zhè shí, huò nà shí, zhǔ bì yǒu yù bèi," },
+          { cn: "未必依我时候，也不依你时候，", py: "wèi bì yī wǒ shí hòu, yě bù yī nǐ shí hòu," },
+          { cn: "主自有祂时候，祂必有预备。", py: "zhǔ zì yǒu tā shí hòu, tā bì yǒu yù bèi。" },
+          { cn: "因此我靠主，信主必预备；", py: "yīn cǐ wǒ kào zhǔ, xìn zhǔ bì yù bèi;" },
+          { cn: "我一心靠主，知主必预备。", py: "wǒ yī xīn kào zhǔ, zhī zhǔ bì yù bèi。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "不可失去盼望，主必有预备，", py: "bù kě shī qù pàn wàng, zhǔ bì yǒu yù bèi," },
+          { cn: "自从古时以来，天父所应许的，", py: "zì cóng gǔ shí yǐ lái, tiān fù suǒ yīng xǔ de," },
+          { cn: "总没有失信过，主必有预备。", py: "zǒng méi yǒu shī xìn guò, zhǔ bì yǒu yù bèi。" },
+          { cn: "因此我靠主，信主必预备；", py: "yīn cǐ wǒ kào zhǔ, xìn zhǔ bì yù bèi;" },
+          { cn: "我一心靠主，知主必预备。", py: "wǒ yī xīn kào zhǔ, zhī zhǔ bì yù bèi。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 154,
+    title: "耶稣是我坚固保障",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "耶稣是我坚固保障，庄严、雄峻，永坚强，", py: "yē sū shì wǒ jiān gù bǎo zhàng, zhuāng yán, xióng jùn, yǒng jiān qiáng," },
+          { cn: "上主是我安稳方舟，助我乘风冲骇浪。", py: "shàng zhǔ shì wǒ ān wěn fāng zhōu, zhù wǒ chéng fēng chōng hài làng。" },
+          { cn: "恶魔盘踞世上，到处兴波作浪，猖狂、狡猾异", py: "è mó pán jù shì shàng, dào chù xīng bō zuò làng, chāng kuáng, jiǎo huá yì" },
+          { cn: "常，凶残甚于狮、狼，但它时候已不长。", py: "cháng, xiōng cán shèn yú shī, láng, dàn tā shí hòu yǐ bú zhǎng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "魔鬼虽然环伺我身，向我试探诡计深，", py: "mó guǐ suī rán huán sì wǒ shēn, xiàng wǒ shì tàn guǐ jì shēn," },
+          { cn: "有主同在，我不惧怕，因靠真理与圣灵。", py: "yǒu zhǔ tóng zài, wǒ bú jù pà, yīn kào zhēn lǐ yǔ shèng líng。" },
+          { cn: "幽暗之君虽猛，不足令我心惊，因我时时儆", py: "yōu àn zhī jūn suī měng, bú zú lìng wǒ xīn jīng, yīn wǒ shí shí jǐng" },
+          { cn: "醒，抵挡日夜不停，灵战至终必得胜。", py: "xǐng, dǐ dǎng rì yè bú tíng, líng zhàn zhì zhōng bì dé shèng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "神言权力伟大非常，远胜世上众君王，", py: "shén yán quán lì wěi dà fēi cháng, yuǎn shèng shì shàng zhòng jūn wáng," },
+          { cn: "我必奋勇战胜魔鬼，因主耶稣在我方。", py: "wǒ bì fèn yǒng zhàn shèng mó guǐ, yīn zhǔ yē sū zài wǒ fāng。" },
+          { cn: "荣华、富贵可舍，为主丧命无妨，魔鬼虽害我", py: "róng huá, fù guì kě shě, wèi zhǔ sàng mìng wú fáng, mó guǐ suī hài wǒ" },
+          { cn: "身，主道依然兴旺，上主国度永久长。", py: "shēn, zhǔ dào yī rán xīng wàng, shàng zhǔ guó dù yǒng jiǔ zhǎng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 157,
+    title: "神国在心",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "主拯救我脱离罪污，在地如天，赞美欢呼；", py: "zhǔ zhěng jiù wǒ tuō lí zuì wū, zài dì rú tiān, zàn měi huān hū;" },
+          { cn: "世上难免忧愁、困苦，在主里面平安、稳固。", py: "shì shàng nán miǎn yōu chóu, kùn kǔ, zài zhǔ lǐ miàn píng ān, wěn gù。" },
+          { cn: "啊，哈利路亚，赞美主！罪愆赦免就是神国；", py: "ā, hā lì lù yà, zàn měi zhǔ! zuì qiān shè miǎn jiù shì shén guó;" },
+          { cn: "无论陆地，无论海洋，耶稣同在就是神国。", py: "wú lùn lù dì, wú lùn hǎi yáng, yē sū tóng zài jiù shì shén guó。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "从前神国与我隔开，感谢耶稣显出慈爱；", py: "cóng qián shén guó yǔ wǒ gé kāi, gǎn xiè yē sū xiǎn chū cí ài;" },
+          { cn: "如今神国在我心怀，永永远远不能更改。", py: "rú jīn shén guó zài wǒ xīn huái, yǒng yǒng yuǎn yuǎn bú néng gèng gǎi。" },
+          { cn: "啊，哈利路亚，赞美主！罪愆赦免就是神国；", py: "ā, hā lì lù yà, zàn měi zhǔ! zuì qiān shè miǎn jiù shì shén guó;" },
+          { cn: "无论陆地，无论海洋，耶稣同在就是神国。", py: "wú lùn lù dì, wú lùn hǎi yáng, yē sū tóng zài jiù shì shén guó。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我不论往任何地方，高山、平地、沙漠海洋；", py: "wǒ bú lùn wǎng rèn hé dì fāng, gāo shān, píng dì, shā mò hǎi yáng;" },
+          { cn: "或是大屋，或是草房，耶稣同在就是神国。", py: "huò shì dà wū, huò shì cǎo fáng, yē sū tóng zài jiù shì shén guó。" },
+          { cn: "啊，哈利路亚，赞美主！罪愆赦免就是神国；", py: "ā, hā lì lù yà, zàn měi zhǔ! zuì qiān shè miǎn jiù shì shén guó;" },
+          { cn: "无论陆地，无论海洋，耶稣同在就是神国。", py: "wú lùn lù dì, wú lùn hǎi yáng, yē sū tóng zài jiù shì shén guó。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 158,
+    title: "走在主路上",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我看沙漠如神的园囿，因为走在主路上；", py: "wǒ kàn shā mò rú shén de yuán yòu, yīn wéi zǒu zài zhǔ lù shàng;" },
+          { cn: "主赐喜乐如百花竞秀，因为走在主路上。", py: "zhǔ cì xǐ lè rú bǎi huā jìng xiù, yīn wéi zǒu zài zhǔ lù shàng。" },
+          { cn: "这里有主路可以往，无忧愁，亦无惊惶；", py: "zhè lǐ yǒu zhǔ lù kě yǐ wǎng, wú yōu chóu, yì wú jīng huáng;" },
+          { cn: "光明强如太阳照亮，因为走在主路上。", py: "guāng míng qiáng rú tài yáng zhào liàng, yīn wéi zǒu zài zhǔ lù shàng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "春雨降临，种子皆发芽，因为走在主路上；", py: "chūn yǔ jiàng lín, zhǒng zǐ jiē fā yá, yīn wéi zǒu zài zhǔ lù shàng;" },
+          { cn: "生命泉源涌流处处嘉，因为走在主路上。", py: "shēng mìng quán yuán yǒng liú chù chù jiā, yīn wéi zǒu zài zhǔ lù shàng。" },
+          { cn: "这里有主路可以往，无忧愁，亦无惊惶；", py: "zhè lǐ yǒu zhǔ lù kě yǐ wǎng, wú yōu chóu, yì wú jīng huáng;" },
+          { cn: "光明强如太阳照亮，因为走在主路上。", py: "guāng míng qiáng rú tài yáng zhào liàng, yīn wéi zǒu zài zhǔ lù shàng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "不必惧怕猛兽与毒蛇，因为走在主路上；", py: "bú bì jù pà měng shòu yǔ dú shé, yīn wéi zǒu zài zhǔ lù shàng;" },
+          { cn: "赎民歌唱，心中洁无瑕，因为走在主路上。", py: "shú mín gē chàng, xīn zhōng jié wú xiá, yīn wéi zǒu zài zhǔ lù shàng。" },
+          { cn: "这里有主路可以往，无忧愁，亦无惊惶；", py: "zhè lǐ yǒu zhǔ lù kě yǐ wǎng, wú yōu chóu, yì wú jīng huáng;" },
+          { cn: "光明强如太阳照亮，因为走在主路上。", py: "guāng míng qiáng rú tài yáng zhào liàng, yīn wéi zǒu zài zhǔ lù shàng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 160,
+    title: "真光在心",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "今有真光照在我心房，极大荣耀辉煌；", py: "jīn yǒu zhēn guāng zhào zài wǒ xīn fáng, jí dà róng yào huī huáng;" },
+          { cn: "天上日光不能与比较，主耶稣是真光。", py: "tiān shàng rì guāng bú néng yǔ bǐ jiào, zhǔ yē sū shì zhēn guāng。" },
+          { cn: "生命真光，平安真光，永远照亮，照亮我心房；", py: "shēng mìng zhēn guāng, píng ān zhēn guāng, yǒng yuǎn zhào liàng, zhào liàng wǒ xīn fáng;" },
+          { cn: "心中圣洁，快乐无限，乐哉，如同在天堂！", py: "xīn zhōng shèng jié, kuài lè wú xiàn, lè zāi, rú tóng zài tiān táng!" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "耶稣基督活在我心房，生命平安无量；", py: "yē sū jī dū huó zài wǒ xīn fáng, shēng mìng píng ān wú liàng;" },
+          { cn: "我灵兴奋，我口也欢唱，歌颂主爱无疆。", py: "wǒ líng xìng fèn, wǒ kǒu yě huān chàng, gē sòng zhǔ ài wú jiāng。" },
+          { cn: "生命真光，平安真光，永远照亮，照亮我心房；", py: "shēng mìng zhēn guāng, píng ān zhēn guāng, yǒng yuǎn zhào liàng, zhào liàng wǒ xīn fáng;" },
+          { cn: "心中圣洁，快乐无限，乐哉，如同在天堂！", py: "xīn zhōng shèng jié, kuài lè wú xiàn, lè zāi, rú tóng zài tiān táng!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "真理圣灵住在我心房，有信有爱有望；", py: "zhēn lǐ shèng líng zhù zài wǒ xīn fáng, yǒu xìn yǒu ài yǒu wàng;" },
+          { cn: "一切言行效法主榜样，日日在世发光。", py: "yī qiē yán xíng xiào fǎ zhǔ bǎng yàng, rì rì zài shì fā guāng。" },
+          { cn: "生命真光，平安真光，永远照亮，照亮我心房；", py: "shēng mìng zhēn guāng, píng ān zhēn guāng, yǒng yuǎn zhào liàng, zhào liàng wǒ xīn fáng;" },
+          { cn: "心中圣洁，快乐无限，乐哉，如同在天堂！", py: "xīn zhōng shèng jié, kuài lè wú xiàn, lè zāi, rú tóng zài tiān táng!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 161,
+    title: "在主荫下",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "住在至高隐密之处，即住全能者的荫下；", py: "zhù zài zhì gāo yǐn mì zhī chù, jí zhù quán néng zhě de yīn xià;" },
+          { cn: "我所相信、倚靠的神，是避难所，是我山寨。", py: "wǒ suǒ xiàng xìn, yǐ kào de shén, shì bì nán suǒ, shì wǒ shān zhài。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "祂必救我脱离网罗，又得脱离瘟疫、干戈；", py: "tā bì jiù wǒ tuō lí wǎng luó, yòu dé tuō lí wēn yì, gàn gē;" },
+          { cn: "祂的翅膀必遮盖我，祂的诚实是我盾牌。", py: "tā de chì bǎng bì zhē gài wǒ, tā de chéng shí shì wǒ dùn pái。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我必不怕黑夜惊骇、白日飞箭、祸患、灾害；", py: "wǒ bì bú pà hēi yè jīng hài, bái rì fēi jiàn, huò huàn, zāi hài;" },
+          { cn: "虽千万人仆倒右边，但这灾害不临我身。", py: "suī qiān wàn rén pú dǎo yòu biān, dàn zhè zāi hài bú lín wǒ shēn。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 162,
+    title: "主负我重担",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "今我投靠耶稣脚前，脱去苦难、罪愆；", py: "jīn wǒ tóu kào yē sū jiǎo qián, tuō qù kǔ nán, zuì qiān;" },
+          { cn: "救恩庇下无限恩典，我必蒙主垂怜。", py: "jiù ēn bì xià wú xiàn ēn diǎn, wǒ bì méng zhǔ chuí lián。" },
+          { cn: "欢喜唱诗赞美救主，哈利路亚，哈利路亚！", py: "huān xǐ chàng shī zàn měi jiù zhǔ, hā lì lù yà, hā lì lù yà!" },
+          { cn: "靠主天天背负重担，在世路上直到天家。", py: "kào zhǔ tiān tiān bèi fù zhòng dān, zài shì lù shàng zhí dào tiān jiā。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "每日虽多劳苦、牵挂，我心不致惊怕；", py: "měi rì suī duō láo kǔ, qiān guà, wǒ xīn bú zhì jīng pà;" },
+          { cn: "只要向主祈祷、敬拜，投靠圣臂之下。", py: "zhī yào xiàng zhǔ qí dǎo, jìng bài, tóu kào shèng bì zhī xià。" },
+          { cn: "欢喜唱诗赞美救主，哈利路亚，哈利路亚！", py: "huān xǐ chàng shī zàn měi jiù zhǔ, hā lì lù yà, hā lì lù yà!" },
+          { cn: "靠主天天背负重担，在世路上直到天家。", py: "kào zhǔ tiān tiān bèi fù zhòng dān, zài shì lù shàng zhí dào tiān jiā。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "当我跪在施恩座前，一切忧患卸肩；", py: "dāng wǒ guì zài shī ēn zuò qián, yī qiē yōu huàn xiè jiān;" },
+          { cn: "深知救主负我重担，待我何等周全。", py: "shēn zhī jiù zhǔ fù wǒ zhòng dān, dài wǒ hé děng zhōu quán。" },
+          { cn: "欢喜唱诗赞美救主，哈利路亚，哈利路亚！", py: "huān xǐ chàng shī zàn měi jiù zhǔ, hā lì lù yà, hā lì lù yà!" },
+          { cn: "靠主天天背负重担，在世路上直到天家。", py: "kào zhǔ tiān tiān bèi fù zhòng dān, zài shì lù shàng zhí dào tiān jiā。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 164,
+    title: "主恩够用",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "至圣救主，罪人朋友，软弱的人是主所救；", py: "zhì shèng jiù zhǔ, zuì rén péng yǒu, ruǎn ruò de rén shì zhǔ suǒ jiù;" },
+          { cn: "我愿一生靠主引领，随时都蒙保佑。", py: "wǒ yuàn yī shēng kào zhǔ yǐn lǐng, suí shí dōu méng bǎo yòu。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "主既赐我属灵福气，虽失财产亦无疑虑；", py: "zhǔ jì cì wǒ shǔ líng fú qì, suī shī cái chǎn yì wú yí lǜ;" },
+          { cn: "天上家业长存更美，主恩够用无惧。", py: "tiān shàng jiā yè zhǎng cún gèng měi, zhǔ ēn gòu yòng wú jù。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "有时劳碌心中烦闷，如挑重担痛苦万分；", py: "yǒu shí láo lù xīn zhōng fán mèn, rú tiāo zhòng dān tòng kǔ wàn fēn;" },
+          { cn: "若将一切交托与主，我心便得安稳。", py: "ruò jiāng yī qiē jiāo tuō yǔ zhǔ, wǒ xīn biàn dé ān wěn。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "或遇试炼蒙主管教，灾殃、凌辱一齐临到；", py: "huò yù shì liàn méng zhǔ guǎn jiào, zāi yāng, líng rǔ yī qí lín dào;" },
+          { cn: "友离、亲疏，诸多烦恼，靠主不怕风暴。", py: "yǒu lí, qīn shū, zhū duō fán nǎo, kào zhǔ bú pà fēng bào。" }
+        ]
+      },
+      {
+        verse: 5,
+        content: [
+          { cn: "虽然走过凄惨险途，环境恶劣，荆棘满路；", py: "suī rán zǒu guò qī cǎn xiǎn tú, huán jìng è liè, jīng jí mǎn lù;" },
+          { cn: "主恩够用，圣灵照顾，仍是平安稳度。", py: "zhǔ ēn gòu yòng, shèng líng zhào gù, réng shì píng ān wěn dù。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 165,
+    title: "耶稣怀抱我",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "耶稣恩臂怀抱我，在主胸前安稳，", py: "yē sū ēn bì huái bào wǒ, zài zhǔ xiōng qián ān wěn," },
+          { cn: "主有恩惠常照顾，我心不必忧苦；", py: "zhǔ yǒu ēn huì cháng zhào gù, wǒ xīn bú bì yōu kǔ;" },
+          { cn: "听众天使歌颂声，使我鼓舞、欢腾，", py: "tīng zhòng tiān shǐ gē sòng shēng, shǐ wǒ gǔ wǔ, huān téng," },
+          { cn: "天涯海角传主爱，万邦同沐主恩。", py: "tiān yá hǎi jiǎo chuán zhǔ ài, wàn bāng tóng mù zhǔ ēn。" },
+          { cn: "耶稣恩臂怀抱我，我心安静、平稳；", py: "yē sū ēn bì huái bào wǒ, wǒ xīn ān jìng, píng wěn;" },
+          { cn: "主有恩惠常照顾，从今直到永远。", py: "zhǔ yǒu ēn huì cháng zhào gù, cóng jīn zhí dào yǒng yuǎn。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "耶稣恩臂怀抱我，忧戚变为欢畅，", py: "yē sū ēn bì huái bào wǒ, yōu qī biàn wéi huān chàng," },
+          { cn: "罪恶试探全赢过，我心不必彷徨；", py: "zuì è shì tàn quán yíng guò, wǒ xīn bú bì páng huáng;" },
+          { cn: "愁苦不能再扰我，疑惑惧怕消散，", py: "chóu kǔ bú néng zài rǎo wǒ, yí huò jù pà xiāo sàn," },
+          { cn: "在世虽有大灵战，得胜必戴华冠。", py: "zài shì suī yǒu dà líng zhàn, dé shèng bì dài huá guàn。" },
+          { cn: "耶稣恩臂怀抱我，我心安静、平稳；", py: "yē sū ēn bì huái bào wǒ, wǒ xīn ān jìng, píng wěn;" },
+          { cn: "主有恩惠常照顾，从今直到永远。", py: "zhǔ yǒu ēn huì cháng zhào gù, cóng jīn zhí dào yǒng yuǎn。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "耶稣恩臂怀抱我，大得安全保障，", py: "yē sū ēn bì huái bào wǒ, dà dé ān quán bǎo zhàng," },
+          { cn: "世界环境虽动乱，我心不必惊慌；", py: "shì jiè huán jìng suī dòng luàn, wǒ xīn bú bì jīng huāng;" },
+          { cn: "因主是坚固磐石，投靠祂不失望，", py: "yīn zhǔ shì jiān gù pán shí, tóu kào tā bú shī wàng," },
+          { cn: "等到祂从天再来，接我进入天堂。", py: "děng dào tā cóng tiān zài lái, jiē wǒ jìn rù tiān táng。" },
+          { cn: "耶稣恩臂怀抱我，我心安静、平稳；", py: "yē sū ēn bì huái bào wǒ, wǒ xīn ān jìng, píng wěn;" },
+          { cn: "主有恩惠常照顾，从今直到永远。", py: "zhǔ yǒu ēn huì cháng zhào gù, cóng jīn zhí dào yǒng yuǎn。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 166,
+    title: "在主荫庇之下",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "苦海洪涛汹涌、澎湃，暴风雨到处打击；", py: "kǔ hǎi hóng tāo xiōng yǒng, péng pài, bào fēng yǔ dào chù dǎ jī;" },
+          { cn: "我要寻找避难处所，在我主荫庇之下。", py: "wǒ yào xún zhǎo bì nán chù suǒ, zài wǒ zhǔ yīn bì zhī xià。" },
+          { cn: "主要将我隐藏起来，我就安全不受伤害；", py: "zhǔ yào jiāng wǒ yǐn cáng qǐ lái, wǒ jiù ān quán bú shòu shāng hài;" },
+          { cn: "将我隐藏祂荫庇下，我就安全不受害。", py: "jiāng wǒ yǐn cáng tā yīn bì xià, wǒ jiù ān quán bú shòu hài。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "忧愁、苦恼，贫病交加，更助我渴想天家；", py: "yōu chóu, kǔ nǎo, pín bìng jiāo jiā, gèng zhù wǒ kě xiǎng tiān jiā;" },
+          { cn: "一切患难对我有益，主要我忍耐到底。", py: "yī qiē huàn nán duì wǒ yǒu yì, zhǔ yào wǒ rěn nài dào dǐ。" },
+          { cn: "主要将我隐藏起来，我就安全不受伤害；", py: "zhǔ yào jiāng wǒ yǐn cáng qǐ lái, wǒ jiù ān quán bú shòu shāng hài;" },
+          { cn: "将我隐藏祂荫庇下，我就安全不受害。", py: "jiāng wǒ yǐn cáng tā yīn bì xià, wǒ jiù ān quán bú shòu hài。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "仇敌竭力要伤害我，常用诡计诱惑我；", py: "chóu dí jié lì yào shāng hài wǒ, cháng yòng guǐ jì yòu huò wǒ;" },
+          { cn: "主帮助我转危为安，成为我永远福祉。", py: "zhǔ bāng zhù wǒ zhuǎn wēi wéi ān, chéng wéi wǒ yǒng yuǎn fú zhǐ。" },
+          { cn: "主要将我隐藏起来，我就安全不受伤害；", py: "zhǔ yào jiāng wǒ yǐn cáng qǐ lái, wǒ jiù ān quán bú shòu shāng hài;" },
+          { cn: "将我隐藏祂荫庇下，我就安全不受害。", py: "jiāng wǒ yǐn cáng tā yīn bì xià, wǒ jiù ān quán bú shòu hài。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "我今在此背十字架，迎风涛勇敢前进；", py: "wǒ jīn zài cǐ bèi shí zì jià, yíng fēng tāo yǒng gǎn qián jìn;" },
+          { cn: "耶稣看顾我的灵魂，在祂爱中不损伤。", py: "yē sū kàn gù wǒ de líng hún, zài tā ài zhōng bú sǔn shāng。" },
+          { cn: "主要将我隐藏起来，我就安全不受伤害；", py: "zhǔ yào jiāng wǒ yǐn cáng qǐ lái, wǒ jiù ān quán bú shòu shāng hài;" },
+          { cn: "将我隐藏祂荫庇下，我就安全不受害。", py: "jiāng wǒ yǐn cáng tā yīn bì xià, wǒ jiù ān quán bú shòu hài。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 167,
+    title: "基督精兵",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我是耶稣基督精兵，跟随元帅出征，", py: "wǒ shì yē sū jī dū jīng bīng, gēn suí yuán shuài chū zhēng," },
+          { cn: "不怕羞耻，认主名字，传扬末世福音；", py: "bú pà xiū chǐ, rèn zhǔ míng zì, chuán yáng mò shì fú yīn;" },
+          { cn: "彼此努力，遍行各地，打破魔鬼诡计，", py: "bǐ cǐ nǔ lì, biàn xíng gè dì, dǎ pò mó guǐ guǐ jì," },
+          { cn: "历尽艰难，受尽毁谤，福气方能全备。", py: "lì jìn jiān nán, shòu jìn huǐ bàng, fú qì fāng néng quán bèi。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "穿戴军装，听主号令，向敌冲锋陷阵，", py: "chuān dài jūn zhuāng, tīng zhǔ hào lìng, xiàng dí chōng fēng xiàn zhèn," },
+          { cn: "奋勇前进，不顾身命，必见真道通行；", py: "fèn yǒng qián jìn, bú gù shēn mìng, bì jiàn zhēn dào tōng xíng;" },
+          { cn: "胜了又胜，一直向前，靠主争战不停，", py: "shèng le yòu shèng, yī zhí xiàng qián, kào zhǔ zhēng zhàn bú tíng," },
+          { cn: "坚持到底，时常忍耐，至终直上天庭。", py: "jiān chí dào dǐ, shí cháng rěn nài, zhì zhōng zhí shàng tiān tíng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "主带精兵出阵交战，灭尽魔鬼火箭，", py: "zhǔ dài jīng bīng chū zhèn jiāo zhàn, miè jìn mó guǐ huǒ jiàn," },
+          { cn: "全胜之日，同唱凯歌，因信就如眼见；", py: "quán shèng zhī rì, tóng chàng kǎi gē, yīn xìn jiù rú yǎn jiàn;" },
+          { cn: "在主降临荣耀日子，千万精兵聚集，", py: "zài zhǔ jiàng lín róng yào rì zǐ, qiān wàn jīng bīng jù jí," },
+          { cn: "天上、地下，同心、同意，一齐崇拜、赞美。", py: "tiān shàng, dì xià, tóng xīn, tóng yì, yī qí chóng bài, zàn měi。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 170,
+    title: "为主勇往",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "跑去，跑去，为耶稣，做主基督精兵，", py: "pǎo qù, pǎo qù, wéi yē sū, zuò zhǔ jī dū jīng bīng," },
+          { cn: "高举主旗极尊贵，不可使它伤倾；", py: "gāo jǔ zhǔ qí jí zūn guì, bú kě shǐ tā shāng qīng;" },
+          { cn: "交战得胜又常胜，因主统领全军，", py: "jiāo zhàn dé shèng yòu cháng shèng, yīn zhǔ tǒng lǐng quán jūn," },
+          { cn: "必至仇敌都战败，基督万王之宗。", py: "bì zhì chóu dí dōu zhàn bài, jī dū wàn wáng zhī zōng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "跑去，跑去，为耶稣，喜听赞美之声，", py: "pǎo qù, pǎo qù, wéi yē sū, xǐ tīng zàn měi zhī shēng," },
+          { cn: "现在主显大荣耀，万众上阵奋兴；", py: "xiàn zài zhǔ xiǎn dà róng yào, wàn zhòng shàng zhèn fèn xìng;" },
+          { cn: "仇敌又多又兇猛，主兵更当勇忠，", py: "chóu dí yòu duō yòu xiōng měng, zhǔ bīng gèng dāng yǒng zhōng," },
+          { cn: "经过艰难与危险，大胆奋力直冲。", py: "jīng guò jiān nán yǔ wēi xiǎn, dà dǎn fèn lì zhí chōng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "跑去，跑去，为耶稣，专心赖主能力，", py: "pǎo qù, pǎo qù, wéi yē sū, zhuān xīn lài zhǔ néng lì," },
+          { cn: "血气之勇不足恃，何敢靠己胜敌？", py: "xuè qì zhī yǒng bú zú shì, hé gǎn kào jǐ shèng dí?" },
+          { cn: "当穿福音之盔甲，儆醒祈求不休，", py: "dāng chuān fú yīn zhī kuī jiǎ, jǐng xǐng qí qiú bú xiū," },
+          { cn: "凡遇劳苦或患难，直前勇往无忧。", py: "fán yù láo kǔ huò huàn nán, zhí qián yǒng wǎng wú yōu。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "跑去，跑去，为耶稣，战场不至久争，", py: "pǎo qù, pǎo qù, wéi yē sū, zhàn chǎng bú zhì jiǔ zhēng," },
+          { cn: "今日交战之喊叫，不久奏凯欢声；", py: "jīn rì jiāo zhàn zhī hǎn jiào, bú jiǔ zòu kǎi huān shēng;" },
+          { cn: "至终凡是得胜者，必戴生命华冠，", py: "zhì zhōng fán shì dé shèng zhě, bì dài shēng mìng huá guàn," },
+          { cn: "荣耀之王大赏赐，与主同掌王权。", py: "róng yào zhī wáng dà shǎng cì, yǔ zhǔ tóng zhǎng wáng quán。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 171,
+    title: "真耶稣教会",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "教会惟有一根基，是主耶稣基督，", py: "jiāo huì wéi yǒu yī gēn jī, shì zhǔ yē sū jī dū," },
+          { cn: "一主、一信、一洗礼、一体、一灵、一父；", py: "yī zhǔ, yī xìn, yī xǐ lǐ, yī tǐ, yī líng, yī fù;" },
+          { cn: "我主肋旁血、水流，造此贞洁新妇，", py: "wǒ zhǔ lèi páng xuè, shuǐ liú, zào cǐ zhēn jié xīn fù," },
+          { cn: "属灵妆饰要整齐，等主迎接得福。", py: "shǔ líng zhuāng shì yào zhěng qí, děng zhǔ yíng jiē dé fú。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "蒙主选召由各国，靠圣灵合一体，", py: "méng zhǔ xuǎn zhào yóu gè guó, kào shèng líng hé yī tǐ," },
+          { cn: "得救门径不差错，遵照圣经指示；", py: "dé jiù mén jìng bú chà cuò, zūn zhào shèng jīng zhǐ shì;" },
+          { cn: "同心颂赞一圣名，享受灵粮无异，", py: "tóng xīn sòng zàn yī shèng míng, xiǎng shòu líng liáng wú yì," },
+          { cn: "都是仰望进天城，永得福乐全备。", py: "dōu shì yǎng wàng jìn tiān chéng, yǒng dé fú lè quán bèi。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "会虽在世心在天，日与真神相亲，", py: "huì suī zài shì xīn zài tiān, rì yǔ zhēn shén xiāng qīn," },
+          { cn: "得救信徒千千万，爱主共表同心；", py: "dé jiù xìn tú qiān qiān wàn, ài zhǔ gòng biǎo tóng xīn;" },
+          { cn: "美哉，灵胞真相爱！得主恩惠更深，", py: "měi zāi, líng bāo zhēn xiàng ài! dé zhǔ ēn huì gèng shēn," },
+          { cn: "人人胜任为忠仆，努力传扬福音。", py: "rén rén shèng rèn wéi zhōng pú, nǔ lì chuán yáng fú yīn。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "教会争战在世界，必受一番劳苦，", py: "jiāo huì zhēng zhàn zài shì jiè, bì shòu yī fān láo kǔ," },
+          { cn: "虽然仇敌多抵挡，靠主永不退步；", py: "suī rán chóu dí duō dǐ dǎng, kào zhǔ yǒng bú tuì bù;" },
+          { cn: "各处信徒当醒悟，至死效忠基督，", py: "gè chù xìn tú dāng xǐng wù, zhì sǐ xiào zhōng jī dū," },
+          { cn: "暂时患难不足论，至终凯旋天府。", py: "zàn shí huàn nán bú zú lùn, zhì zhōng kǎi xuán tiān fǔ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 173,
+    title: "救恩旌旗",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "基督众军兵，一齐昂首仰望，主旌旗今日高举；", py: "jī dū zhòng jūn bīng, yī qí áng shǒu yǎng wàng, zhǔ jīng qí jīn rì gāo jǔ;" },
+          { cn: "蒙救赎之人，皆当高声欢唱，为真理整我师旅。", py: "méng jiù shú zhī rén, jiē dāng gāo shēng huān chàng, wéi zhēn lǐ zhěng wǒ shī lǚ。" },
+          { cn: "向前行，向前行，为救世福音齐出征；", py: "xiàng qián xíng, xiàng qián xíng, wéi jiù shì fú yīn qí chū zhēng;" },
+          { cn: "尊基督为王，齐欢唱，救恩旗下颂主名。", py: "zūn jī dū wéi wáng, qí huān chàng, jiù ēn qí xià sòng zhǔ míng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "仇敌虽凶猛，似洪水齐冲至，主大旗仍当高擎；", py: "chóu dí suī xiōng měng, sì hóng shuǐ qí chōng zhì, zhǔ dà qí réng dāng gāo qíng;" },
+          { cn: "主忠勇军兵，齐奋勇勿馁志，为真理奋勇前行。", py: "zhǔ zhōng yǒng jūn bīng, qí fèn yǒng wù něi zhì, wéi zhēn lǐ fèn yǒng qián xíng。" },
+          { cn: "向前行，向前行，为救世福音齐出征；", py: "xiàng qián xíng, xiàng qián xíng, wéi jiù shì fú yīn qí chū zhēng;" },
+          { cn: "尊基督为王，齐欢唱，救恩旗下颂主名。", py: "zūn jī dū wéi wáng, qí huān chàng, jiù ēn qí xià sòng zhǔ míng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "主兵速兴起，去做工莫迟疑，遍地传报主佳音；", py: "zhǔ bīng sù xìng qǐ, qù zuò gōng mò chí yí, biàn dì chuán bào zhǔ jiā yīn;" },
+          { cn: "告各处居民，主宝血胜仇敌，主救恩今已普临。", py: "gào gè chù jū mín, zhǔ bǎo xuè shèng chóu dí, zhǔ jiù ēn jīn yǐ pǔ lín。" },
+          { cn: "向前行，向前行，为救世福音齐出征；", py: "xiàng qián xíng, xiàng qián xíng, wéi jiù shì fú yīn qí chū zhēng;" },
+          { cn: "尊基督为王，齐欢唱，救恩旗下颂主名。", py: "zūn jī dū wéi wáng, qí huān chàng, jiù ēn qí xià sòng zhǔ míng。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "荣耀日已近，主国快要临世，黑暗权势将逃避；", py: "róng yào rì yǐ jìn, zhǔ guó kuài yào lín shì, hēi àn quán shì jiāng táo bì;" },
+          { cn: "当主显现时，众仇敌尽消灭，和平君统治全地。", py: "dāng zhǔ xiǎn xiàn shí, zhòng chóu dí jìn xiāo miè, hé píng jūn tǒng zhì quán dì。" },
+          { cn: "向前行，向前行，为救世福音齐出征；", py: "xiàng qián xíng, xiàng qián xíng, wéi jiù shì fú yīn qí chū zhēng;" },
+          { cn: "尊基督为王，齐欢唱，救恩旗下颂主名。", py: "zūn jī dū wéi wáng, qí huān chàng, jiù ēn qí xià sòng zhǔ míng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 175,
+    title: "百折不回",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "忠诚爱人，更正教会，必遇许多艰险；", py: "zhōng chéng ài rén, gèng zhèng jiāo huì, bì yù xǔ duō jiān xiǎn;" },
+          { cn: "虽然仇敌，围攻四面，我仍奋勇进前。", py: "suī rán chóu dí, wéi gōng sì miàn, wǒ réng fèn yǒng jìn qián。" },
+          { cn: "主赐圣灵大有能力，不怕千万仇敌；", py: "zhǔ cì shèng líng dà yǒu néng lì, bú pà qiān wàn chóu dí;" },
+          { cn: "靠主领导，百折不回，真道传到地极。", py: "kào zhǔ lǐng dǎo, bǎi zhé bú huí, zhēn dào chuán dào dì jí。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "遵从主命，传道四方，如入狼群之羊；", py: "zūn cóng zhǔ mìng, chuán dào sì fāng, rú rù láng qún zhī yáng;" },
+          { cn: "如蛇灵巧，如鸽驯良，奔跑各地城乡。", py: "rú shé líng qiǎo, rú gē xùn liáng, bēn pǎo gè dì chéng xiāng。" },
+          { cn: "主赐圣灵大有能力，不怕千万仇敌；", py: "zhǔ cì shèng líng dà yǒu néng lì, bú pà qiān wàn chóu dí;" },
+          { cn: "靠主领导，百折不回，真道传到地极。", py: "kào zhǔ lǐng dǎo, bǎi zhé bú huí, zhēn dào chuán dào dì jí。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "为道争战，站稳立场，爱人要具热肠；", py: "wéi dào zhēng zhàn, zhàn wěn lì chǎng, ài rén yào jù rè cháng;" },
+          { cn: "力行真道，忘记背后，功成必得奖赏。", py: "lì xíng zhēn dào, wàng jì bèi hòu, gōng chéng bì dé jiǎng shǎng。" },
+          { cn: "主赐圣灵大有能力，不怕千万仇敌；", py: "zhǔ cì shèng líng dà yǒu néng lì, bú pà qiān wàn chóu dí;" },
+          { cn: "靠主领导，百折不回，真道传到地极。", py: "kào zhǔ lǐng dǎo, bǎi zhé bú huí, zhēn dào chuán dào dì jí。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 176,
+    title: "常常有胜利",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "信徒软弱易受害，与恶交战多失败，", py: "xìn tú ruǎn ruò yì shòu hài, yǔ è jiāo zhàn duō shī bài," },
+          { cn: "我倚靠主常常有胜利；魔鬼火箭如下雨，", py: "wǒ yǐ kào zhǔ cháng cháng yǒu shèng lì; mó guǐ huǒ jiàn rú xià yǔ," },
+          { cn: "有时暗射真困苦，我倚靠主常常有胜利。", py: "yǒu shí àn shè zhēn kùn kǔ, wǒ yǐ kào zhǔ cháng cháng yǒu shèng lì。" },
+          { cn: "我倚靠主常常有胜利，胜利，", py: "wǒ yǐ kào zhǔ cháng cháng yǒu shèng lì, shèng lì," },
+          { cn: "我倚靠主常常有胜利；得胜恩主常看顾，", py: "wǒ yǐ kào zhǔ cháng cháng yǒu shèng lì; dé shèng ēn zhǔ cháng kàn gù," },
+          { cn: "时刻伸手在扶助，我倚靠主常常有胜利。", py: "shí kè shēn shǒu zài fú zhù, wǒ yǐ kào zhǔ cháng cháng yǒu shèng lì。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "虽然迷乱和怀疑，如同云雾在交缠，", py: "suī rán mí luàn hé huái yí, rú tóng yún wù zài jiāo chán," },
+          { cn: "我倚靠主常常有胜利；时时祈祷、读圣经，", py: "wǒ yǐ kào zhǔ cháng cháng yǒu shèng lì; shí shí qí dǎo, dú shèng jīng," },
+          { cn: "我主旨意就认明，我倚靠主常常有胜利。", py: "wǒ zhǔ zhǐ yì jiù rèn míng, wǒ yǐ kào zhǔ cháng cháng yǒu shèng lì。" },
+          { cn: "我倚靠主常常有胜利，胜利，", py: "wǒ yǐ kào zhǔ cháng cháng yǒu shèng lì, shèng lì," },
+          { cn: "我倚靠主常常有胜利；得胜恩主常看顾，", py: "wǒ yǐ kào zhǔ cháng cháng yǒu shèng lì; dé shèng ēn zhǔ cháng kàn gù," },
+          { cn: "时刻伸手在扶助，我倚靠主常常有胜利。", py: "shí kè shēn shǒu zài fú zhù, wǒ yǐ kào zhǔ cháng cháng yǒu shèng lì。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "天路崎岖真难行，为道争辩如勇兵，", py: "tiān lù qí qū zhēn nán xíng, wéi dào zhēng biàn rú yǒng bīng," },
+          { cn: "我倚靠主常常有胜利；等到得胜回天府，", py: "wǒ yǐ kào zhǔ cháng cháng yǒu shèng lì; děng dào dé shèng huí tiān fǔ," },
+          { cn: "与主耶稣同居住，我倚靠主常常有胜利。", py: "yǔ zhǔ yē sū tóng jū zhù, wǒ yǐ kào zhǔ cháng cháng yǒu shèng lì。" },
+          { cn: "我倚靠主常常有胜利，胜利，", py: "wǒ yǐ kào zhǔ cháng cháng yǒu shèng lì, shèng lì," },
+          { cn: "我倚靠主常常有胜利；得胜恩主常看顾，", py: "wǒ yǐ kào zhǔ cháng cháng yǒu shèng lì; dé shèng ēn zhǔ cháng kàn gù," },
+          { cn: "时刻伸手在扶助，我倚靠主常常有胜利。", py: "shí kè shēn shǒu zài fú zhù, wǒ yǐ kào zhǔ cháng cháng yǒu shèng lì。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 179,
+    title: "预备进天国",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "慕道朋友！容我劝你，应当悔改信耶稣；", py: "mù dào péng yǒu! róng wǒ quàn nǐ, yīng dāng huǐ gǎi xìn yē sū;" },
+          { cn: "信而受洗必然得救，从前罪恶主赦免。", py: "xìn ér shòu xǐ bì rán dé jiù, cóng qián zuì è zhǔ shè miǎn。" },
+          { cn: "主耶稣快再来，地之望而天之乐；", py: "zhǔ yē sū kuài zài lái, dì zhī wàng ér tiān zhī lè;" },
+          { cn: "新天国快实现，我要进去，快预备。", py: "xīn tiān guó kuài shí xiàn, wǒ yào jìn qù, kuài yù bèi。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "主内弟兄！容我劝你，应当完全成圣洁；", py: "zhǔ nèi dì xiōng! róng wǒ quàn nǐ, yīng dāng wán quán chéng shèng jié;" },
+          { cn: "倚靠圣灵治死情欲，儆醒祷告快预备。", py: "yǐ kào shèng líng zhì sǐ qíng yù, jǐng xǐng dǎo gào kuài yù bèi。" },
+          { cn: "主耶稣快再来，地之望而天之乐；", py: "zhǔ yē sū kuài zài lái, dì zhī wàng ér tiān zhī lè;" },
+          { cn: "新天国快实现，我要进去，快预备。", py: "xīn tiān guó kuài shí xiàn, wǒ yào jìn qù, kuài yù bèi。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "世界诸君！容我劝你，应当回头归天乡；", py: "shì jiè zhū jūn! róng wǒ quàn nǐ, yīng dāng huí tóu guī tiān xiāng;" },
+          { cn: "在这世界只为客旅，红尘旷野不久长。", py: "zài zhè shì jiè zhī wéi kè lǚ, hóng chén kuàng yě bú jiǔ zhǎng。" },
+          { cn: "主耶稣快再来，地之望而天之乐；", py: "zhǔ yē sū kuài zài lái, dì zhī wàng ér tiān zhī lè;" },
+          { cn: "新天国快实现，我要进去，快预备。", py: "xīn tiān guó kuài shí xiàn, wǒ yào jìn qù, kuài yù bèi。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 181,
+    title: "我必前进",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "主啊！我已起程，在光明中行，", py: "zhǔ ā! wǒ yǐ qǐ chéng, zài guāng míng zhōng xíng," },
+          { cn: "白天大放光亮，照耀在我心；", py: "bái tiān dà fàng guāng liàng, zhào yào zài wǒ xīn;" },
+          { cn: "我已经把世事、邪情，全都撇清，", py: "wǒ yǐ jīng bǎ shì shì, xié qíng, quán dōu piě qīng," },
+          { cn: "我与主已起程我必须前进。", py: "wǒ yǔ zhǔ yǐ qǐ chéng wǒ bì xū qián jìn。" },
+          { cn: "我必前进，我必须前进，", py: "wǒ bì qián jìn, wǒ bì xū qián jìn," },
+          { cn: "无论何拦阻，我必须前进。", py: "wú lùn hé lán zǔ, wǒ bì xū qián jìn。" },
+          { cn: "我必和耶稣同行，行完路程；", py: "wǒ bì hé yē sū tóng xíng, xíng wán lù chéng;" },
+          { cn: "我必前进，耶稣！我必前进。", py: "wǒ bì qián jìn, yē sū! wǒ bì qián jìn。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我们都跟耶稣，同行此天路，", py: "wǒ men dōu gēn yē sū, tóng xíng cǐ tiān lù," },
+          { cn: "除去不洁之物，得蒙主爱护；", py: "chú qù bú jié zhī wù, dé méng zhǔ ài hù;" },
+          { cn: "舍弃我们所有，才配做主门徒，", py: "shě qì wǒ men suǒ yǒu, cái pèi zuò zhǔ mén tú," },
+          { cn: "免得退缩不前，踌躇于半路。", py: "miǎn dé tuì suō bú qián, chóu chú yú bàn lù。" },
+          { cn: "我必前进，我必须前进，", py: "wǒ bì qián jìn, wǒ bì xū qián jìn," },
+          { cn: "无论何拦阻，我必须前进。", py: "wú lùn hé lán zǔ, wǒ bì xū qián jìn。" },
+          { cn: "我必和耶稣同行，行完路程；", py: "wǒ bì hé yē sū tóng xíng, xíng wán lù chéng;" },
+          { cn: "我必前进，耶稣！我必前进。", py: "wǒ bì qián jìn, yē sū! wǒ bì qián jìn。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "有许多人起步，奔跑此天路，", py: "yǒu xǔ duō rén qǐ bù, bēn pǎo cǐ tiān lù," },
+          { cn: "但不肯凭真光，领导他脚步；", py: "dàn bú kěn píng zhēn guāng, lǐng dǎo tā jiǎo bù;" },
+          { cn: "有人向标竿跑，极努力不后顾，", py: "yǒu rén xiàng biāo gān pǎo, jí nǔ lì bú hòu gù," },
+          { cn: "他们必得奖赏，永远享天福。", py: "tā men bì dé jiǎng shǎng, yǒng yuǎn xiǎng tiān fú。" },
+          { cn: "我必前进，我必须前进，", py: "wǒ bì qián jìn, wǒ bì xū qián jìn," },
+          { cn: "无论何拦阻，我必须前进。", py: "wú lùn hé lán zǔ, wǒ bì xū qián jìn。" },
+          { cn: "我必和耶稣同行，行完路程；", py: "wǒ bì hé yē sū tóng xíng, xíng wán lù chéng;" },
+          { cn: "我必前进，耶稣！我必前进。", py: "wǒ bì qián jìn, yē sū! wǒ bì qián jìn。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 184,
+    title: "奔跑天路",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "走过深谷、高山，但我并不孤单；", py: "zǒu guò shēn gǔ, gāo shān, dàn wǒ bìng bú gū dān;" },
+          { cn: "倚靠天父同在、眷顾，我心满有平安。", py: "yǐ kào tiān fù tóng zài, juàn gù, wǒ xīn mǎn yǒu píng ān。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "世上多有苦难，魔鬼时时试探；", py: "shì shàng duō yǒu kǔ nán, mó guǐ shí shí shì tàn;" },
+          { cn: "倚靠救主施恩、帮助，我必得胜、腾欢。", py: "yǐ kào jiù zhǔ shī ēn, bāng zhù, wǒ bì dé shèng, téng huān。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "天路本非康庄，高低不平、漫长；", py: "tiān lù běn fēi kāng zhuāng, gāo dī bú píng, màn cháng;" },
+          { cn: "倚靠圣灵时刻带领，我必能到天堂。", py: "yǐ kào shèng líng shí kè dài lǐng, wǒ bì néng dào tiān táng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 185,
+    title: "思慕天家",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "想，我思想，真神预备好地方；", py: "xiǎng, wǒ sī xiǎng, zhēn shén yù bèi hǎo dì fāng;" },
+          { cn: "认罪悔改，去旧更新，盼望到天堂。", py: "rèn zuì huǐ gǎi, qù jiù gēng xīn, pàn wàng dào tiān táng。" },
+          { cn: "为何寡欲？为何清心？想，仔细想；", py: "wèi hé guǎ yù? wèi hé qīng xīn? xiǎng, zǐ xì xiǎng;" },
+          { cn: "天堂圣洁，天堂明亮，福气无疆！", py: "tiān táng shèng jié, tiān táng míng liàng, fú qì wú jiāng!" },
+          { cn: "我今日努力，要归我家乡。", py: "wǒ jīn rì nǔ lì, yào guī wǒ jiā xiāng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "想，我思想，耶稣救到好地方；", py: "xiǎng, wǒ sī xiǎng, yē sū jiù dào hǎo dì fāng;" },
+          { cn: "信心坚固，讨主喜悦，盼望到天堂。", py: "xìn xīn jiān gù, tǎo zhǔ xǐ yuè, pàn wàng dào tiān táng。" },
+          { cn: "为何克己？为何从主？想，仔细想；", py: "wèi hé kè jǐ? wèi hé cóng zhǔ? xiǎng, zǐ xì xiǎng;" },
+          { cn: "天堂高大，天堂宽阔，快乐无疆！", py: "tiān táng gāo dà, tiān táng kuān kuò, kuài lè wú jiāng!" },
+          { cn: "我今日奋勇，要归我家乡。", py: "wǒ jīn rì fèn yǒng, yào guī wǒ jiā xiāng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "想，我思想，圣灵领到好地方；", py: "xiǎng, wǒ sī xiǎng, shèng líng lǐng dào hǎo dì fāng;" },
+          { cn: "谨守命令，蒙主宠爱，盼望到天堂。", py: "jǐn shǒu mìng lìng, méng zhǔ chǒng ài, pàn wàng dào tiān táng。" },
+          { cn: "为何读经？为何祈祷？想，仔细想；", py: "wèi hé dú jīng? wèi hé qí dǎo? xiǎng, zǐ xì xiǎng;" },
+          { cn: "天堂华丽，天堂辉煌，荣耀无疆！", py: "tiān táng huá lì, tiān táng huī huáng, róng yào wú jiāng!" },
+          { cn: "我今日直奔，要归我家乡。", py: "wǒ jīn rì zhí bēn, yào guī wǒ jiā xiāng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 186,
+    title: "我家乃在天",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我昔日心贪爱属世千百福，甘行入迷路中", py: "wǒ xī rì xīn tān ài, shǔ shì qiān bǎi fú, gān xíng rù mí lù zhōng," },
+          { cn: "做罪恶奴仆！幸耶稣来释放美哉恩无", py: "zuò zuì è nú pú; xìng yē sū lái shì fàng, měi zāi ēn wú" },
+          { cn: "边，引导我回家乡我家乃在天。", py: "biān! yǐn dǎo wǒ huí jiā xiāng, wǒ jiā nǎi zài tiān。" },
+          { cn: "我家乃在天，我家乃在天；", py: "wǒ jiā nǎi zài tiān, wǒ jiā nǎi zài tiān;" },
+          { cn: "暂居此为客旅，我家乃在天。", py: "zàn jū cǐ wéi kè lǚ, wǒ jiā nǎi zài tiān。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "蒙耶稣拯救我赏赐大恩惠，差圣灵感化我", py: "méng yē sū zhěng jiù wǒ, shǎng cì dà ēn huì, chāi shèng líng gǎn huà wǒ," },
+          { cn: "帮助又安慰！主教训最纯全应许也确", py: "bāng zhù yòu ān wèi; zhǔ jiào xùn zuì chún quán, yīng xǔ yě què" },
+          { cn: "坚，带领我回家乡我家乃在天。", py: "jiān, dài lǐng wǒ huí jiā xiāng, wǒ jiā nǎi zài tiān。" },
+          { cn: "我家乃在天，我家乃在天；", py: "wǒ jiā nǎi zài tiān, wǒ jiā nǎi zài tiān;" },
+          { cn: "暂居此为客旅，我家乃在天。", py: "zàn jū cǐ wéi kè lǚ, wǒ jiā nǎi zài tiān。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "虽暂在这旷野路途很难行，但靠主大能手", py: "suī zàn zài zhè kuàng yě, lù tú hěn nán xíng, dàn kào zhǔ dà néng shǒu," },
+          { cn: "欢然奔天城！忘背后望标杆努力直向", py: "huān rán bēn tiān chéng; wàng bèi hòu wàng biāo gān, nǔ lì zhí xiàng" },
+          { cn: "前，今快到我家乡我家乃在天。", py: "qián, jīn kuài dào wǒ jiā xiāng, wǒ jiā nǎi zài tiān。" },
+          { cn: "我家乃在天，我家乃在天；", py: "wǒ jiā nǎi zài tiān, wǒ jiā nǎi zài tiān;" },
+          { cn: "暂居此为客旅，我家乃在天。", py: "zàn jū cǐ wéi kè lǚ, wǒ jiā nǎi zài tiān。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 187,
+    title: "来到美地",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "有一地比日中更光彩，虽遥远，我因信望得见；", py: "yǒu yī dì bǐ rì zhōng gèng guāng cǎi, suī yáo yuǎn, wǒ yīn xìn wàng dé jiàn;" },
+          { cn: "我天父在那地常等待，早为我备安宅于里面。", py: "wǒ tiān fù zài nà dì cháng děng dài, zǎo wèi wǒ bèi ān zhái yú lǐ miàn。" },
+          { cn: "到日期，我乐意，同圣徒来聚会，在美地；", py: "dào rì qī, wǒ lè yì, tóng shèng tú lái jù huì, zài měi dì;" },
+          { cn: "到日期，我乐意，同圣徒来聚会，在美地。", py: "dào rì qī, wǒ lè yì, tóng shèng tú lái jù huì, zài měi dì。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "到美地我必随众圣徒，唱新歌，声和谐颂讚主；", py: "dào měi dì wǒ bì suí zhòng shèng tú, chàng xīn gē, shēng hé xié sòng zàn zhǔ;" },
+          { cn: "心快乐，得永远之生命，再无惧，也无忧，而无苦。", py: "xīn kuài lè, dé yǒng yuǎn zhī shēng mìng, zài wú jù, yě wú yōu, ér wú kǔ。" },
+          { cn: "到日期，我乐意，同圣徒来聚会，在美地；", py: "dào rì qī, wǒ lè yì, tóng shèng tú lái jù huì, zài měi dì;" },
+          { cn: "到日期，我乐意，同圣徒来聚会，在美地。", py: "dào rì qī, wǒ lè yì, tóng shèng tú lái jù huì, zài měi dì。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我圣父在高天，极慈爱，将至尊独生子遣于世；", py: "wǒ shèng fù zài gāo tiān, jí cí ài, jiāng zhì zūn dú shēng zǐ qiǎn yú shì;" },
+          { cn: "开福源，一直流到万代，我终身要讚美主恩惠。", py: "kāi fú yuán, yī zhí liú dào wàn dài, wǒ zhōng shēn yào zàn měi zhǔ ēn huì。" },
+          { cn: "到日期，我乐意，同圣徒来聚会，在美地；", py: "dào rì qī, wǒ lè yì, tóng shèng tú lái jù huì, zài měi dì;" },
+          { cn: "到日期，我乐意，同圣徒来聚会，在美地。", py: "dào rì qī, wǒ lè yì, tóng shèng tú lái jù huì, zài měi dì。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 188,
+    title: "荣归天乡",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "古有三人心最坚刚，扔在火中没有损伤；", py: "gǔ yǒu sān rén xīn zuì jiān gāng, rēng zài huǒ zhōng méi yǒu sǔn shāng;" },
+          { cn: "至终三人归在何方？必归应许天乡。", py: "zhì zhōng sān rén guī zài hé fāng? bì guī yīng xǔ tiān xiāng。" },
+          { cn: "等不多时复活见祂，等不多时变化见祂；", py: "děng bú duō shí fù huó jiàn tā, děng bú duō shí biàn huà jiàn tā;" },
+          { cn: "相见快乐，永不离别，同住荣美天乡。", py: "xiāng jiàn kuài lè, yǒng bú lí bié, tóng zhù róng měi tiān xiāng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "但以理因祈祷如常，扔于狮洞命不丧亡；", py: "dàn yǐ lǐ yīn qí dǎo rú cháng, rēng yú shī dòng mìng bú sàng wáng;" },
+          { cn: "主的先知今在何方？等归应许天乡。", py: "zhǔ de xiān zhī jīn zài hé fāng? děng guī yīng xǔ tiān xiāng。" },
+          { cn: "等不多时复活见祂，等不多时变化见祂；", py: "děng bú duō shí fù huó jiàn tā, děng bú duō shí biàn huà jiàn tā;" },
+          { cn: "相见快乐，永不离别，同住荣美天乡。", py: "xiāng jiàn kuài lè, yǒng bú lí bié, tóng zhù róng měi tiān xiāng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "以利亚遇危险、饥荒，危时、饥时仍得平康；", py: "yǐ lì yà yù wēi xiǎn, jī huāng, wēi shí, jī shí réng dé píng kāng;" },
+          { cn: "乘着旋风升上何方？将归应许天乡。", py: "chéng zhe xuán fēng shēng shàng hé fāng? jiāng guī yīng xǔ tiān xiāng。" },
+          { cn: "等不多时复活见祂，等不多时变化见祂；", py: "děng bú duō shí fù huó jiàn tā, děng bú duō shí biàn huà jiàn tā;" },
+          { cn: "相见快乐，永不离别，同住荣美天乡。", py: "xiāng jiàn kuài lè, yǒng bú lí bié, tóng zhù róng měi tiān xiāng。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "耶稣恩主赎罪羔羊，死里复活，荣耀显扬；", py: "yē sū ēn zhǔ shú zuì gāo yáng, sǐ lǐ fù huó, róng yào xiǎn yáng;" },
+          { cn: "驾着云彩升入高天，为我预备天乡。", py: "jià zhe yún cǎi shēng rù gāo tiān, wèi wǒ yù bèi tiān xiāng。" },
+          { cn: "等不多时复活见祂，等不多时变化见祂；", py: "děng bú duō shí fù huó jiàn tā, děng bú duō shí biàn huà jiàn tā;" },
+          { cn: "相见快乐，永不离别，同住荣美天乡。", py: "xiāng jiàn kuài lè, yǒng bú lí bié, tóng zhù róng měi tiān xiāng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 189,
+    title: "天城美景",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "乐哉我至得救福地！五谷百果一齐全备；", py: "lè zāi wǒ zhì dé jiù fú dì! wǔ gǔ bǎi guǒ yī qí quán bèi;" },
+          { cn: "真神荣光普照四处，黑暗消灭，苦楚除去。", py: "zhēn shén róng guāng pǔ zhào sì chù, hēi àn xiāo miè, kǔ chǔ chú qù。" },
+          { cn: "天堂乐地，真神城邑，我得进去，欢乐无比；", py: "tiān táng lè dì, zhēn shén chéng yì, wǒ dé jìn qù, huān lè wú bǐ;" },
+          { cn: "生命树上，满结果子，永远住处，主所预备；", py: "shēng mìng shù shàng, mǎn jié guǒ zǐ, yǒng yuǎn zhù chù, zhǔ suǒ yù bèi;" },
+          { cn: "华美天城，荣耀天国，主赐给我享真福气。", py: "huá měi tiān chéng, róng yào tiān guó, zhǔ cì gěi wǒ xiǎng zhēn fú qì。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "救主永远与我为伴，胜过良朋相亲不断；", py: "jiù zhǔ yǒng yuǎn yǔ wǒ wéi bàn, shèng guò liáng péng xiāng qīn bú duàn;" },
+          { cn: "大家携手，亲爱无间，永远聚首，欢乐无限。", py: "dà jiā xié shǒu, qīn ài wú jiàn, yǒng yuǎn jù shǒu, huān lè wú xiàn。" },
+          { cn: "天堂乐地，真神城邑，我得进去，欢乐无比；", py: "tiān táng lè dì, zhēn shén chéng yì, wǒ dé jìn qù, huān lè wú bǐ;" },
+          { cn: "生命树上，满结果子，永远住处，主所预备；", py: "shēng mìng shù shàng, mǎn jié guǒ zǐ, yǒng yuǎn zhù chù, zhǔ suǒ yù bèi;" },
+          { cn: "华美天城，荣耀天国，主赐给我享真福气。", py: "huá měi tiān chéng, róng yào tiān guó, zhǔ cì gěi wǒ xiǎng zhēn fú qì。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "树木不枯，花卉不残，百鸟歌唱，活水潺潺；", py: "shù mù bú kū, huā huì bú cán, bǎi niǎo gē chàng, huó shuǐ chán chán;" },
+          { cn: "歌唱声音，此落彼起，天使圣徒合唱不已。", py: "gē chàng shēng yīn, cǐ luò bǐ qǐ, tiān shǐ shèng tú hé chàng bú yǐ。" },
+          { cn: "天堂乐地，真神城邑，我得进去，欢乐无比；", py: "tiān táng lè dì, zhēn shén chéng yì, wǒ dé jìn qù, huān lè wú bǐ;" },
+          { cn: "生命树上，满结果子，永远住处，主所预备；", py: "shēng mìng shù shàng, mǎn jié guǒ zǐ, yǒng yuǎn zhù chù, zhǔ suǒ yù bèi;" },
+          { cn: "华美天城，荣耀天国，主赐给我享真福气。", py: "huá měi tiān chéng, róng yào tiān guó, zhǔ cì gěi wǒ xiǎng zhēn fú qì。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 190,
+    title: "天国的人",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "天国的人不困，永远康强，", py: "tiān guó de rén bú kùn, yǒng yuǎn kāng qiáng," },
+          { cn: "灵体荣耀活泼，如星发光；", py: "líng tǐ róng yào huó pō, rú xīng fā guāng;" },
+          { cn: "世人劳力出汗，挑着重担苦流浪，", py: "shì rén láo lì chū hàn, tiāo zhe zhòng dàn kǔ liú làng," },
+          { cn: "天国人不困倦，永远康强。", py: "tiān guó rén bú kùn juàn, yǒng yuǎn kāng qiáng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "天国的人不哭，永远欢颜，", py: "tiān guó de rén bú kū, yǒng yuǎn huān yán," },
+          { cn: "眼泪蒙神擦去，转悲为欢；", py: "yǎn lèi méng shén cā qù, zhuǎn bēi wéi huān;" },
+          { cn: "世人常遇苦难，谁不哀哭泪潸潸？", py: "shì rén cháng yù kǔ nán, shuí bú āi kū lèi shān shān?" },
+          { cn: "天国人乐无量，永远欢颜。", py: "tiān guó rén lè wú liàng, yǒng yuǎn huān yán。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "天国的人不病，永远健壮，", py: "tiān guó de rén bú bìng, yǒng yuǎn jiàn zhuàng," },
+          { cn: "永不需用医药，平安无尽；", py: "yǒng bú xū yòng yī yào, píng ān wú jìn;" },
+          { cn: "世上许多疾患，危害幸福与生命，", py: "shì shàng xǔ duō jí huàn, wēi hài xìng fú yǔ shēng mìng," },
+          { cn: "天国人无病痛，永远健壮。", py: "tiān guó rén wú bìng tòng, yǒng yuǎn jiàn zhuàng。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "天国的人不死，长生不老，", py: "tiān guó de rén bú sǐ, cháng shēng bú lǎo," },
+          { cn: "生命永远存活，无限岁数；", py: "shēng mìng yǒng yuǎn cún huó, wú xiàn suì shù;" },
+          { cn: "世人必走死路，老少都必归坟墓，", py: "shì rén bì zǒu sǐ lù, lǎo shào dōu bì guī fén mù," },
+          { cn: "天国人永青春，长生不老。", py: "tiān guó rén yǒng qīng chūn, cháng shēng bú lǎo。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 191,
+    title: "我家在天",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我今暂为客旅，我家在天，", py: "wǒ jīn zàn wéi kè lǚ, wǒ jiā zài tiān," },
+          { cn: "此世无处安居，我家在天；", py: "cǐ shì wú chù ān jū, wǒ jiā zài tiān;" },
+          { cn: "飘流过海登山，东西南北循环，", py: "piāo liú guò hǎi dēng shān, dōng xī nán běi xún huán," },
+          { cn: "福气不在世间，福气在天。", py: "fú qì bú zài shì jiān, fú qì zài tiān。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "世上多有艰难，我家在天，", py: "shì shàng duō yǒu jiān nán, wǒ jiā zài tiān," },
+          { cn: "万般忧虑困苦，我家在天；", py: "wàn bān yōu lǜ kùn kǔ, wǒ jiā zài tiān;" },
+          { cn: "冷热危险荣禄，心里悲伤无已，", py: "lěng rè wēi xiǎn róng lù, xīn lǐ bēi shāng wú yǐ," },
+          { cn: "世上没有好处，好处在天。", py: "shì shàng méi yǒu hǎo chù, hǎo chù zài tiān。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "经过路程遥远，我家在天，", py: "jīng guò lù chéng yáo yuǎn, wǒ jiā zài tiān," },
+          { cn: "世情常觉冷淡，我家在天；", py: "shì qíng cháng jué lěng dàn, wǒ jiā zài tiān;" },
+          { cn: "打算将有好处，又遇煎熬地步，", py: "dǎ suàn jiāng yǒu hǎo chù, yòu yù jiān áo dì bù," },
+          { cn: "朋友不能相助，相助在天。", py: "péng yǒu bú néng xiāng zhù, xiāng zhù zài tiān。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "年迈手握空拳，我家在天，", py: "nián mài shǒu wò kōng quán, wǒ jiā zài tiān," },
+          { cn: "时刻想念回乡，我家在天；", py: "shí kè xiǎng niàn huí xiāng, wǒ jiā zài tiān;" },
+          { cn: "世事不堪回想，只有向前瞻望，", py: "shì shì bú kān huí xiǎng, zhǐ yǒu xiàng qián zhān wàng," },
+          { cn: "现在将近家乡，家乡在天。", py: "xiàn zài jiāng jìn jiā xiāng, jiā xiāng zài tiān。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 193,
+    title: "荣耀天国",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我现在要奔，那个永生的福地，", py: "wǒ xiàn zài yào bēn, nà gè yǒng shēng de fú dì," },
+          { cn: "是真神的城邑，是义人家宅；", py: "shì zhēn shén de chéng yì, shì yì rén jiā zhái;" },
+          { cn: "走错路的人，请问：「你们可愿意", py: "zǒu cuò lù de rén, qǐng wèn: 「nǐ men kě yuàn yì" },
+          { cn: "与我们同去，到那荣耀天国？」", py: "yǔ wǒ men tóng qù, dào nà róng yào tiān guó?」" },
+          { cn: "去不去？去不去？去不去？去不去？", py: "qù bú qù? qù bú qù? qù bú qù? qù bú qù?" },
+          { cn: "请问：「去不去？到那荣耀天国？」", py: "qǐng wèn: 「qù bú qù? dào nà róng yào tiān guó?」" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "在那个福地，永无忧愁，无叹息，", py: "zài nà gè fú dì, yǒng wú yōu chóu, wú tàn xī," },
+          { cn: "无伤心的事情，也没有惊慌；", py: "wú shāng xīn de shì qíng, yě méi yǒu jīng huāng;" },
+          { cn: "凡负重担者，你们要快定主意，", py: "fán fù zhòng dàn zhě, nǐ men yào kuài dìng zhǔ yì," },
+          { cn: "与我们同去，到那荣耀天国。", py: "yǔ wǒ men tóng qù, dào nà róng yào tiān guó。" },
+          { cn: "去不去？去不去？去不去？去不去？", py: "qù bú qù? qù bú qù? qù bú qù? qù bú qù?" },
+          { cn: "请问：「去不去？到那荣耀天国？」", py: "qǐng wèn: 「qù bú qù? dào nà róng yào tiān guó?」" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "在天国住处，乃是救主所预备，", py: "zài tiān guó zhù chù, nǎi shì jiù zhǔ suǒ yù bèi," },
+          { cn: "用精金宝石造，墙垣也宝贵；", py: "yòng jīng jīn bǎo shí zào, qiáng yuán yě bǎo guì;" },
+          { cn: "等耶稣降临，惟圣徒得居城内，", py: "děng yē sū jiàng lín, wéi shèng tú dé jū chéng nèi," },
+          { cn: "你实在当去，到那荣耀天国。", py: "nǐ shí zài dāng qù, dào nà róng yào tiān guó。" },
+          { cn: "去不去？去不去？去不去？去不去？", py: "qù bú qù? qù bú qù? qù bú qù? qù bú qù?" },
+          { cn: "请问：「去不去？到那荣耀天国？」", py: "qǐng wèn: 「qù bú qù? dào nà róng yào tiān guó?」" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 194,
+    title: "安息在天家",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "主安息地，我愿进入，那美地乐无涯；", py: "zhǔ ān xī dì, wǒ yuàn jìn rù, nà měi dì lè wú yá;" },
+          { cn: "几时卸下所挑之担，得歇息在天家？", py: "jǐ shí xiè xià suǒ tiāo zhī dàn, dé xiē xī zài tiān jiā?" },
+          { cn: "安息，在我天家安息，在我天家", py: "ān xī, zài wǒ tiān jiā ān xī, zài wǒ tiān jiā" },
+          { cn: "安息，在我天家享受安息无涯。", py: "ān xī, zài wǒ tiān jiā xiǎng shòu ān xī wú yá。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "末日将近，世界危险，苦难到处增加；", py: "mò rì jiāng jìn, shì jiè wēi xiǎn, kǔ nán dào chù zēng jiā;" },
+          { cn: "在世寄居无法安身，天堂才是我家。", py: "zài shì jì jū wú fǎ ān shēn, tiān táng cái shì wǒ jiā。" },
+          { cn: "安息，在我天家安息，在我天家", py: "ān xī, zài wǒ tiān jiā ān xī, zài wǒ tiān jiā" },
+          { cn: "安息，在我天家享受安息无涯。", py: "ān xī, zài wǒ tiān jiā xiǎng shòu ān xī wú yá。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我今已蒙耶稣恩召，跟主走总不差；", py: "wǒ jīn yǐ méng yē sū ēn zhào, gēn zhǔ zǒu zǒng bú chà;" },
+          { cn: "主已应许永远安息，竭力进入天家。", py: "zhǔ yǐ yīng xǔ yǒng yuǎn ān xī, jié lì jìn rù tiān jiā。" },
+          { cn: "安息，在我天家安息，在我天家", py: "ān xī, zài wǒ tiān jiā ān xī, zài wǒ tiān jiā" },
+          { cn: "安息，在我天家享受安息无涯。", py: "ān xī, zài wǒ tiān jiā xiǎng shòu ān xī wú yá。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 195,
+    title: "羡慕福地",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "升起我心游览于天国，看主所应许佳美地，", py: "shēng qǐ wǒ xīn yóu lǎn yú tiān guó, kàn zhǔ suǒ yīng xǔ jiā měi dì," },
+          { cn: "荣耀之地其民最安乐，听其乐音知其人欢喜；", py: "róng yào zhī dì qí mín zuì ān lè, tīng qí yuè yīn zhī qí rén huān xǐ;" },
+          { cn: "留心听圣徒唱诗在乐园，赞美主，因胜过诸困难，", py: "liú xīn tīng shèng tú chàng shī zài lè yuán, zàn měi zhǔ, yīn shèng guò zhū kùn nán," },
+          { cn: "弹金琴立在主宝座台前，得享永福长久的平安。", py: "tán jīn qín lì zài zhǔ bǎo zuò tái qián, dé xiǎng yǒng fú cháng jiǔ de píng ān。" },
+          { cn: "你若要到那永生的地方，同众圣常赞美主耶稣，", py: "nǐ ruò yào dào nà yǒng shēng de dì fāng, tóng zhòng shèng cháng zàn měi zhǔ yē sū," },
+          { cn: "在世上必听从主的话语，一步一步跟主走天路。", py: "zài shì shàng bì tīng cóng zhǔ de huà yǔ, yī bù yī bù gēn zhǔ zǒu tiān lù。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "基督圣徒举目望天城，想主所预备大福气，", py: "jī dū shèng tú jǔ mù wàng tiān chéng, xiǎng zhǔ suǒ yù bèi dà fú qì," },
+          { cn: "尽忠事主到死不变更，后必进去与主同歇息；", py: "jìn zhōng shì zhǔ dào sǐ bú biàn gēng, hòu bì jìn qù yǔ zhǔ tóng xiē xī;" },
+          { cn: "美哉，城，真神光照的地方！乐哉，民，耶稣救赎的人！", py: "měi zāi, chéng, zhēn shén guāng zhào de dì fāng! lè zāi, mín, yē sū jiù shú de rén!" },
+          { cn: "不久我也必见主的荣光，在那边与圣徒永相亲。", py: "bú jiǔ wǒ yě bì jiàn zhǔ de róng guāng, zài nà biān yǔ shèng tú yǒng xiāng qīn。" },
+          { cn: "你若要到那永生的地方，同众圣常赞美主耶稣，", py: "nǐ ruò yào dào nà yǒng shēng de dì fāng, tóng zhòng shèng cháng zàn měi zhǔ yē sū," },
+          { cn: "在世上必听从主的话语，一步一步跟主走天路。", py: "zài shì shàng bì tīng cóng zhǔ de huà yǔ, yī bù yī bù gēn zhǔ zǒu tiān lù。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "努力向前一路不耽搁，死之冷河不足我虑，", py: "nǔ lì xiàng qián yī lù bú dān gē, sǐ zhī lěng hé bú zú wǒ lǜ," },
+          { cn: "耶稣我主日夜看顾我，主赐平安，谁能叫我惧？", py: "yē sū wǒ zhǔ rì yè kàn gù wǒ, zhǔ cì píng ān, shuí néng jiào wǒ jù?" },
+          { cn: "快要到那边光明的岸上，见天使和同灵在唱诗，", py: "kuài yào dào nà biān guāng míng de àn shàng, jiàn tiān shǐ hé tóng líng zài chàng shī," },
+          { cn: "永在那荣耀快乐的地方，从乐园至永世不分离。", py: "yǒng zài nà róng yào kuài lè de dì fāng, cóng lè yuán zhì yǒng shì bú fēn lí。" },
+          { cn: "你若要到那永生的地方，同众圣常赞美主耶稣，", py: "nǐ ruò yào dào nà yǒng shēng de dì fāng, tóng zhòng shèng cháng zàn měi zhǔ yē sū," },
+          { cn: "在世上必听从主的话语，一步一步跟主走天路。", py: "zài shì shàng bì tīng cóng zhǔ de huà yǔ, yī bù yī bù gēn zhǔ zǒu tiān lù。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 197,
+    title: "归家",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "高低众多山岭，清泉杂松风，", py: "gāo dī zhòng duō shān lǐng, qīng quán zá sōng fēng," },
+          { cn: "我心仰望救主，恬逸百虑空；", py: "wǒ xīn yǎng wàng jiù zhǔ, tián yì bǎi lǜ kōng;" },
+          { cn: "遥望天上青云，彼岸是乐土，", py: "yáo wàng tiān shàng qīng yún, bǐ àn shì lè tǔ," },
+          { cn: "我心切切渴望，何时归家中？", py: "wǒ xīn qiè qiè kě wàng, hé shí guī jiā zhōng?" },
+          { cn: "家，家，更美家；", py: "jiā, jiā, gèng měi jiā;" },
+          { cn: "我家在天上，归家乐无穷。", py: "wǒ jiā zài tiān shàng, guī jiā lè wú qióng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "虽经过流泪谷，主恩仍隆丰，", py: "suī jīng guò liú lèi gǔ, zhǔ ēn réng lóng fēng," },
+          { cn: "晨曦渐渐显露，阴影从此终；", py: "chén xī jiàn jiàn xiǎn lù, yīn yǐng cóng cǐ zhōng;" },
+          { cn: "我愿跟从救主，归家路已通，", py: "wǒ yuàn gēn cóng jiù zhǔ, guī jiā lù yǐ tōng," },
+          { cn: "主已战胜恶魔，前进心更雄。", py: "zhǔ yǐ zhàn shèng è mó, qián jìn xīn gèng xióng。" },
+          { cn: "家，家，更美家；", py: "jiā, jiā, gèng měi jiā;" },
+          { cn: "我家在天上，归家乐无穷。", py: "wǒ jiā zài tiān shàng, guī jiā lè wú qióng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "赞美我主耶稣，加恩日益隆，", py: "zàn měi wǒ zhǔ yē sū, jiā ēn rì yì lóng," },
+          { cn: "天国路将行尽，欢乐满我衷；", py: "tiān guó lù jiāng xíng jìn, huān lè mǎn wǒ zhōng;" },
+          { cn: "高唱：「哈利路亚，离我家已近！」", py: "gāo chàng: 「hā lì lù yà, lí wǒ jiā yǐ jìn!」" },
+          { cn: "仰望救主耶稣，接我回家中。", py: "yǎng wàng jiù zhǔ yē sū, jiē wǒ huí jiā zhōng。" },
+          { cn: "家，家，更美家；", py: "jiā, jiā, gèng měi jiā;" },
+          { cn: "我家在天上，归家乐无穷。", py: "wǒ jiā zài tiān shàng, guī jiā lè wú qióng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 200,
+    title: "思慕天乡",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "时刻切慕、思想，天上更美家乡；", py: "shí kè qiè mù, sī xiǎng, tiān shàng gèng měi jiā xiāng;" },
+          { cn: "许多住处，天父预备，何等华美辉煌！", py: "xǔ duō zhù chù, tiān fù yù bèi, hé děng huá měi huī huáng!" },
+          { cn: "天上家乡，天上家乡，心所恋慕，不停盼望；", py: "tiān shàng jiā xiāng, tiān shàng jiā xiāng, xīn suǒ liàn mù, bú tíng pàn wàng;" },
+          { cn: "现在将近家乡。", py: "xiàn zài jiāng jìn jiā xiāng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "跟主背负十架，不久就能放下；", py: "gēn zhǔ bēi fù shí jià, bú jiǔ jiù néng fàng xià;" },
+          { cn: "公义冠冕，主必亲赠，欢唱：「哈利路亚！」", py: "gōng yì guān miǎn, zhǔ bì qīn zèng, huān chàng: 「hā lì lù yà!」" },
+          { cn: "天上家乡，天上家乡，心所恋慕，不停盼望；", py: "tiān shàng jiā xiāng, tiān shàng jiā xiāng, xīn suǒ liàn mù, bú tíng pàn wàng;" },
+          { cn: "现在将近家乡。", py: "xiàn zài jiāng jìn jiā xiāng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "宛如朝露人生，阳光照下消形；", py: "wǎn rú zhāo lù rén shēng, yáng guāng zhào xià xiāo xíng;" },
+          { cn: "尘世虽有危险风波，转眼即得安宁。", py: "chén shì suī yǒu wēi xiǎn fēng bō, zhuǎn yǎn jí dé ān níng。" },
+          { cn: "天上家乡，天上家乡，心所恋慕，不停盼望；", py: "tiān shàng jiā xiāng, tiān shàng jiā xiāng, xīn suǒ liàn mù, bú tíng pàn wàng;" },
+          { cn: "现在将近家乡。", py: "xiàn zài jiāng jìn jiā xiāng。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "经过幽谷昏冥，即见福地光明；", py: "jīng guò yōu gǔ hūn míng, jí jiàn fú dì guāng míng;" },
+          { cn: "愿父施恩保护、引领，带我直到天城。", py: "yuàn fù shī ēn bǎo hù, yǐn lǐng, dài wǒ zhí dào tiān chéng。" },
+          { cn: "天上家乡，天上家乡，心所恋慕，不停盼望；", py: "tiān shàng jiā xiāng, tiān shàng jiā xiāng, xīn suǒ liàn mù, bú tíng pàn wàng;" },
+          { cn: "现在将近家乡。", py: "xiàn zài jiāng jìn jiā xiāng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 201,
+    title: "永远的荣耀",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "从前许多劳碌苦楚不见，我必能进天堂，福气齐全；", py: "cóng qián xǔ duō láo lù kǔ chǔ bú jiàn, wǒ bì néng jìn tiān táng, fú qì qí quán;" },
+          { cn: "我住在敬爱的救主身边，永远为我荣耀，因主垂怜。", py: "wǒ zhù zài jìng ài de jiù zhǔ shēn biān, yǒng yuǎn wéi wǒ róng yào, yīn zhǔ chuí lián。" },
+          { cn: "永远荣耀，永远荣耀，恩主赏赐永远荣耀；", py: "yǒng yuǎn róng yào, yǒng yuǎn róng yào, ēn zhǔ shǎng cì yǒng yuǎn róng yào;" },
+          { cn: "蒙主爱怜悯我，圣灵引导，赐给我永远极重的荣耀。", py: "méng zhǔ ài lián mǐn wǒ, shèng líng yǐn dǎo, cì gěi wǒ yǒng yuǎn jí zhòng de róng yào。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我今在世界为主道发光，将来必得赏赐，进入天堂；", py: "wǒ jīn zài shì jiè wèi zhǔ dào fā guāng, jiāng lái bì dé shǎng cì, jìn rù tiān táng;" },
+          { cn: "每日看见恩主面貌慈祥，这就是我荣耀，永久盼望。", py: "měi rì kàn jiàn ēn zhǔ miàn mào cí xiáng, zhè jiù shì wǒ róng yào, yǒng jiǔ pàn wàng。" },
+          { cn: "永远荣耀，永远荣耀，恩主赏赐永远荣耀；", py: "yǒng yuǎn róng yào, yǒng yuǎn róng yào, ēn zhǔ shǎng cì yǒng yuǎn róng yào;" },
+          { cn: "蒙主爱怜悯我，圣灵引导，赐给我永远极重的荣耀。", py: "méng zhǔ ài lián mǐn wǒ, shèng líng yǐn dǎo, cì gěi wǒ yǒng yuǎn jí zhòng de róng yào。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "在那裏与敬爱亲友会面，各人都戴主赐冠冕辉煌；", py: "zài nà lǐ yǔ jìng ài qīn yǒu huì miàn, gè rén dōu dài zhǔ cì guān miǎn huī huáng;" },
+          { cn: "常在主宝座周围齐欢唱，感颂主赐荣耀，永远无疆。", py: "cháng zài zhǔ bǎo zuò zhōu wéi qí huān chàng, gǎn sòng zhǔ cì róng yào, yǒng yuǎn wú jiāng。" },
+          { cn: "永远荣耀，永远荣耀，恩主赏赐永远荣耀；", py: "yǒng yuǎn róng yào, yǒng yuǎn róng yào, ēn zhǔ shǎng cì yǒng yuǎn róng yào;" },
+          { cn: "蒙主爱怜悯我，圣灵引导，赐给我永远极重的荣耀。", py: "méng zhǔ ài lián mǐn wǒ, shèng líng yǐn dǎo, cì gěi wǒ yǒng yuǎn jí zhòng de róng yào。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 202,
+    title: "天上安乐处",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "天上有一安乐所在，福无比，福无比，", py: "tiān shàng yǒu yī ān lè suǒ zài, fú wú bǐ, fú wú bǐ," },
+          { cn: "那里无罪，那里无害，福无比，福无比；", py: "nà lǐ wú zuì, nà lǐ wú hài, fú wú bǐ, fú wú bǐ;" },
+          { cn: "香风吹来各样美音，荣耀天使笑语欣欣，", py: "xiāng fēng chuī lái gè yàng měi yīn, róng yào tiān shǐ xiào yǔ xīn xīn," },
+          { cn: "天堂满有金瑟、玉琴，福无比，福无比。", py: "tiān táng mǎn yǒu jīn sè, yù qín, fú wú bǐ, fú wú bǐ。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "绝无愁云遮蔽穹苍，快乐地，快乐地", py: "jué wú chóu yún zhē bì qióng cāng, kuài lè dì, kuài lè dì," },
+          { cn: "并无流泪哭泣悲伤，快乐地，快乐地；", py: "bìng wú liú lèi kū qì bēi shāng, kuài lè dì, kuài lè dì;" },
+          { cn: "蒙主鸿恩永不改变，圣徒得见恩主圣面，", py: "méng zhǔ hóng ēn yǒng bú gǎi biàn, shèng tú dé jiàn ēn zhǔ shèng miàn," },
+          { cn: "普照天界荣光显现，快乐地，快乐地。", py: "pǔ zhào tiān jiè róng guāng xiǎn xiàn, kuài lè dì, kuài lè dì。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "父母、兄弟、亲戚朋友！来信主，来信主，", py: "fù mǔ, xiōng dì, qīn qī péng yǒu! lái xìn zhǔ, lái xìn zhǔ," },
+          { cn: "奔走天路应当努力，来信主，来信主；", py: "bēn zǒu tiān lù yīng dāng nǔ lì, lái xìn zhǔ, lái xìn zhǔ;" },
+          { cn: "天堂乐音和谐、快乐，天使天军吹弹合奏，", py: "tiān táng yuè yīn hé xié, kuài lè, tiān shǐ tiān jūn chuī tán hé zòu," },
+          { cn: "天国子民永远享福，来信主，来信主。", py: "tiān guó zǐ mín yǒng yuǎn xiǎng fú, lái xìn zhǔ, lái xìn zhǔ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 203,
+    title: "百合花",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "谷中百合花，鲜艳、芬芳，被荆棘", py: "gǔ zhōng bǎi hé huā, xiān yàn, fēn fāng, bèi jīng jí" },
+          { cn: "包围，毫无损伤；昔日，主耶稣复活荣", py: "bāo wéi, háo wú sǔn shāng; xī rì, zhǔ yē sū fù huó róng" },
+          { cn: "光，照耀至永远，胜过死亡。", py: "guāng, zhào yào zhì yǒng yuǎn, shèng guò sǐ wáng。" },
+          { cn: "可爱百合花，圣洁无瑕，信徒当体会", py: "kě ài bǎi hé huā, shèng jié wú xiá, xìn tú dāng tǐ huì" },
+          { cn: "救主的话；藉主之大能，复活回天家，", py: "jiù zhǔ de huà; jiè zhǔ zhī dà néng, fù huó huí tiān jiā," },
+          { cn: "得尊贵、荣耀，快乐无涯。", py: "dé zūn guì, róng yào, kuài lè wú yá。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "野地百合花，神使长大，它也不", py: "yě dì bǎi hé huā, shén shǐ zhǎng dà, tā yě bú" },
+          { cn: "劳苦，也不纺纱；昔日，所罗门虽极荣", py: "láo kǔ, yě bú fǎng shā; xī rì, suǒ luó mén suī jí róng" },
+          { cn: "华，他所穿、所戴，不如这花。", py: "huá, tā suǒ chuān, suǒ dài, bú rú zhè huā。" },
+          { cn: "可爱百合花，圣洁无瑕，信徒当体会", py: "kě ài bǎi hé huā, shèng jié wú xiá, xìn tú dāng tǐ huì" },
+          { cn: "救主的话；藉主之大能，复活回天家，", py: "jiù zhǔ de huà; jiè zhǔ zhī dà néng, fù huó huí tiān jiā," },
+          { cn: "得尊贵、荣耀，快乐无涯。", py: "dé zūn guì, róng yào, kuài lè wú yá。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "春到，百合花山野遍开，无限之", py: "chūn dào, bǎi hé huā shān yě biàn kāi, wú xiàn zhī" },
+          { cn: "生命，显明出来；时到，众圣徒都要复", py: "shēng mìng, xiǎn míng chū lái; shí dào, zhòng shèng tú dōu yào fù" },
+          { cn: "活、改变而上升，与主同在。", py: "huó, gǎi biàn ér shàng shēng, yǔ zhǔ tóng zài。" },
+          { cn: "可爱百合花，圣洁无瑕，信徒当体会", py: "kě ài bǎi hé huā, shèng jié wú xiá, xìn tú dāng tǐ huì" },
+          { cn: "救主的话；藉主之大能，复活回天家，", py: "jiù zhǔ de huà; jiè zhǔ zhī dà néng, fù huó huí tiān jiā," },
+          { cn: "得尊贵、荣耀，快乐无涯。", py: "dé zūn guì, róng yào, kuài lè wú yá。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 205,
+    title: "在基督里必复活",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "主为我们罪人代死，身体埋葬坟墓里，", py: "zhǔ wèi wǒ men zuì rén dài sǐ, shēn tǐ mái zàng fén mù lǐ," },
+          { cn: "三天清晨复活、改变，做我们初熟果子；", py: "sān tiān qīng chén fù huó, gǎi biàn, zuò wǒ men chū shú guǒ zǐ;" },
+          { cn: "奇妙救主活活显现，给使徒手摸、目视，", py: "qí miào jiù zhǔ huó huó xiǎn xiàn, gěi shǐ tú shǒu mō, mù shì," },
+          { cn: "四十天讲论神国事，到被接升天为止。", py: "sì shí tiān jiǎng lùn shén guó shì, dào bèi jiē shēng tiān wéi zhǐ。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "死里复活，权能无比，伟大救恩传遐迩，", py: "sǐ lǐ fù huó, quán néng wú bǐ, wěi dà jiù ēn chuán xiá ěr," },
+          { cn: "信主之人都在主里，灵魂重生永不死；", py: "xìn zhǔ zhī rén dōu zài zhǔ lǐ, líng hún chóng shēng yǒng bú sǐ;" },
+          { cn: "身体虽死，离世归土，末日复活墓中起，", py: "shēn tǐ suī sǐ, lí shì guī tǔ, mò rì fù huó mù zhōng qǐ," },
+          { cn: "立刻改变，成为灵体，被提见主大欢喜。", py: "lì kè gǎi biàn, chéng wéi líng tǐ, bèi tí jiàn zhǔ dà huān xǐ。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "末次号筒大声贯耳，我主发令死人起，", py: "mò cì hào tǒng dà shēng guàn ěr, wǒ zhǔ fā lìng sǐ rén qǐ," },
+          { cn: "信徒复活按着次序，在主台前承恩旨；", py: "xìn tú fù huó àn zhe cì xù, zài zhǔ tái qián chéng ēn zhǐ;" },
+          { cn: "必朽之身变成不朽，必死之体竟不死，", py: "bì xiǔ zhī shēn biàn chéng bú xiǔ, bì sǐ zhī tǐ jìng bú sǐ," },
+          { cn: "荣耀、强壮、光辉、圣洁，堪与天使相媲美。", py: "róng yào, qiáng zhuàng, guāng huī, shèng jié, kān yǔ tiān shǐ xiāng pì měi。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "信徒在世，身为活祭，圣洁献上主所喜，", py: "xìn tú zài shì, shēn wéi huó jì, shèng jié xiàn shàng zhǔ suǒ xǐ," },
+          { cn: "宝血所洗，圣灵所住，身上带着主印记；", py: "bǎo xuè suǒ xǐ, shèng líng suǒ zhù, shēn shàng dài zhe zhǔ yìn jì;" },
+          { cn: "主必救赎，不弃我身，化贱为荣似主体，", py: "zhǔ bì jiù shú, bú qì wǒ shēn, huà jiàn wéi róng sì zhǔ tǐ," },
+          { cn: "使徒所传、圣经所示，我们深信而不疑。", py: "shǐ tú suǒ chuán, shèng jīng suǒ shì, wǒ men shēn xìn ér bú yí。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 206,
+    title: "我必亲见主面",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "靠主救我脱离罗网，前时苦味永不再尝；", py: "kào zhǔ jiù wǒ tuō lí luó wǎng, qián shí kǔ wèi yǒng bú zài cháng;" },
+          { cn: "灵魂安息，永无忧惧，在父家中欢喜颂扬。", py: "líng hún ān xī, yǒng wú yōu jù, zài fù jiā zhōng huān xǐ sòng yáng。" },
+          { cn: "我必在天亲见主面，永远歌唱救我恩典；", py: "wǒ bì zài tiān qīn jiàn zhǔ miàn, yǒng yuǎn gē chàng jiù wǒ ēn diǎn;" },
+          { cn: "我必在天亲见主面，永远歌唱救我恩典。", py: "wǒ bì zài tiān qīn jiàn zhǔ miàn, yǒng yuǎn gē chàng jiù wǒ ēn diǎn。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "地上帐棚将要破残，不知何时就临眼前；", py: "dì shàng zhàng péng jiāng yào pò cán, bú zhī hé shí jiù lín yǎn qián;" },
+          { cn: "永远住处，救主预备，乃在天家享福完全。", py: "yǒng yuǎn zhù chù, jiù zhǔ yù bèi, nǎi zài tiān jiā xiǎng fú wán quán。" },
+          { cn: "我必在天亲见主面，永远歌唱救我恩典；", py: "wǒ bì zài tiān qīn jiàn zhǔ miàn, yǒng yuǎn gē chàng jiù wǒ ēn diǎn;" },
+          { cn: "我必在天亲见主面，永远歌唱救我恩典。", py: "wǒ bì zài tiān qīn jiàn zhǔ miàn, yǒng yuǎn gē chàng jiù wǒ ēn diǎn。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "世上物质终必败坏，美好光景转眼就过；", py: "shì shàng wù zhì zhōng bì bài huài, měi hǎo guāng jǐng zhuǎn yǎn jiù guò;" },
+          { cn: "主已应许忠心众仆，与祂同享永远安乐。", py: "zhǔ yǐ yīng xǔ zhōng xīn zhòng pú, yǔ tā tóng xiǎng yǒng yuǎn ān lè。" },
+          { cn: "我必在天亲见主面，永远歌唱救我恩典；", py: "wǒ bì zài tiān qīn jiàn zhǔ miàn, yǒng yuǎn gē chàng jiù wǒ ēn diǎn;" },
+          { cn: "我必在天亲见主面，永远歌唱救我恩典。", py: "wǒ bì zài tiān qīn jiàn zhǔ miàn, yǒng yuǎn gē chàng jiù wǒ ēn diǎn。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "我今务要儆醒等待，添油剔灯望主快来；", py: "wǒ jīn wù yào jǐng xǐng děng dài, tiān yóu tī dēng wàng zhǔ kuài lái;" },
+          { cn: "那时蒙主擦去眼泪，在祂足前感谢跪拜。", py: "nà shí méng zhǔ cā qù yǎn lèi, zài tā zú qián gǎn xiè guì bài。" },
+          { cn: "我必在天亲见主面，永远歌唱救我恩典；", py: "wǒ bì zài tiān qīn jiàn zhǔ miàn, yǒng yuǎn gē chàng jiù wǒ ēn diǎn;" },
+          { cn: "我必在天亲见主面，永远歌唱救我恩典。", py: "wǒ bì zài tiān qīn jiàn zhǔ miàn, yǒng yuǎn gē chàng jiù wǒ ēn diǎn。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 207,
+    title: "思念主来",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "未知我恩主几时将来临，要带我回去至好的天庭？", py: "wèi zhī wǒ ēn zhǔ jǐ shí jiāng lái lín, yào dài wǒ huí qù zhì hǎo de tiān tíng?" },
+          { cn: "但知道主来时穿上荣耀身体，那福乐实在够满意。", py: "dàn zhī dào zhǔ lái shí chuān shàng róng yào shēn tǐ, nà fú lè shí zài gòu mǎn yì。" },
+          { cn: "那福乐实在够满意，那福乐实在够满意；", py: "nà fú lè shí zài gòu mǎn yì, nà fú lè shí zài gòu mǎn yì;" },
+          { cn: "但知道主在那里有荣光照耀，那荣光实在够满意。", py: "dàn zhī dào zhǔ zài nà lǐ yǒu róng guāng zhào yào, nà róng guāng shí zài gòu mǎn yì。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "未知众天使唱哪首诗篇？他们所弹奏是哪曲妙弦？", py: "wèi zhī zhòng tiān shǐ chàng nǎ shǒu shī piān? tā men suǒ tán zòu shì nǎ qǔ miào xián?" },
+          { cn: "但知道基督是他们颂赞主题，那歌声实在够满意。", py: "dàn zhī dào jī dū shì tā men sòng zàn zhǔ tí, nà gē shēng shí zài gòu mǎn yì。" },
+          { cn: "那福乐实在够满意，那福乐实在够满意；", py: "nà fú lè shí zài gòu mǎn yì, nà fú lè shí zài gòu mǎn yì;" },
+          { cn: "但知道主在那里有荣光照耀，那荣光实在够满意。", py: "dàn zhī dào zhǔ zài nà lǐ yǒu róng guāng zhào yào, nà róng guāng shí zài gòu mǎn yì。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "未知天上家型式多堂皇？未知那新名意义多深长？", py: "wèi zhī tiān shàng jiā xíng shì duō táng huáng? wèi zhī nà xīn míng yì yì duō shēn cháng?" },
+          { cn: "但知道主在那边为我备安宅，那地方实在够满意。", py: "dàn zhī dào zhǔ zài nà biān wèi wǒ bèi ān zhái, nà dì fāng shí zài gòu mǎn yì。" },
+          { cn: "那福乐实在够满意，那福乐实在够满意；", py: "nà fú lè shí zài gòu mǎn yì, nà fú lè shí zài gòu mǎn yì;" },
+          { cn: "但知道主在那里有荣光照耀，那荣光实在够满意。", py: "dàn zhī dào zhǔ zài nà lǐ yǒu róng guāng zhào yào, nà róng guāng shí zài gòu mǎn yì。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 208,
+    title: "圣徒被提",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "在耶稣再临之日，天使必大声吹号筒，", py: "zài yē sū zài lín zhī rì, tiān shǐ bì dà shēng chuī hào tǒng," },
+          { cn: "那时主极荣耀显现在天空；凡世上得救的", py: "nà shí zhǔ jí róng yào xiǎn xiàn zài tiān kōng; fán shì shàng dé jiù de" },
+          { cn: "人，必从四方聚集相会。在那边点名，我", py: "rén, bì cóng sì fāng jù jí xiāng huì。 zài nà biān diǎn míng, wǒ" },
+          { cn: "亦必在其中。", py: "yì bì zài qí zhōng。" },
+          { cn: "在那边点名的时候，", py: "zài nà biān diǎn míng de shí hòu," },
+          { cn: "在那边，点名的时候，在那边", py: "zài nà biān, diǎn míng de shí hòu, zài nà biān" },
+          { cn: "点名的时候；在那边点名，我亦必在其中。", py: "diǎn míng de shí hòu; zài nà biān diǎn míng, wǒ yì bì zài qí zhōng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "凡在主内睡了的人，身体都必先復甦，", py: "fán zài zhǔ nèi shuì le de rén, shēn tǐ dōu bì xiān fù sū," },
+          { cn: "活着还存留的信徒也改变；一同被提到云", py: "huó zhe hái cún liú de xìn tú yě gǎi biàn; yī tóng bèi tí dào yún" },
+          { cn: "里，在空中与主齐相逢。在那边点名，我", py: "lǐ, zài kōng zhōng yǔ zhǔ qí xiāng féng。 zài nà biān diǎn míng, wǒ" },
+          { cn: "亦必在其中。", py: "yì bì zài qí zhōng。" },
+          { cn: "在那边点名的时候，", py: "zài nà biān diǎn míng de shí hòu," },
+          { cn: "在那边，点名的时候，在那边", py: "zài nà biān, diǎn míng de shí hòu, zài nà biān" },
+          { cn: "点名的时候；在那边点名，我亦必在其中。", py: "diǎn míng de shí hòu; zài nà biān diǎn míng, wǒ yì bì zài qí zhōng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我们应当为主从早到晚，殷勤做圣工，", py: "wǒ men yīng dāng wèi zhǔ cóng zǎo dào wǎn, yīn qín zuò shèng gōng," },
+          { cn: "到处传扬耶稣奇妙的恩功，多多引人得救；", py: "dào chù chuán yáng yē sū qí miào de ēn gōng, duō duō yǐn rén dé jiù;" },
+          { cn: "那时得大赏赐，乐无穷。在那边点名，我", py: "nà shí dé dà shǎng cì, lè wú qióng。 zài nà biān diǎn míng, wǒ" },
+          { cn: "亦必在其中。", py: "yì bì zài qí zhōng。" },
+          { cn: "在那边点名的时候，", py: "zài nà biān diǎn míng de shí hòu," },
+          { cn: "在那边，点名的时候，在那边", py: "zài nà biān, diǎn míng de shí hòu, zài nà biān" },
+          { cn: "点名的时候；在那边点名，我亦必在其中。", py: "diǎn míng de shí hòu; zài nà biān diǎn míng, wǒ yì bì zài qí zhōng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 209,
+    title: "我必当面见主",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "救主为我罪过受死，复活四旬升高天；", py: "jiù zhǔ wèi wǒ zuì guò shòu sǐ, fù huó sì xún shēng gāo tiān;" },
+          { cn: "将来我必亲眼见祂，已成圣洁心安然。", py: "jiāng lái wǒ bì qīn yǎn jiàn tā, yǐ chéng shèng jié xīn ān rán。" },
+          { cn: "圣徒被主迎接升天，到荣耀之主身边；", py: "shèng tú bèi zhǔ yíng jiē shēng tiān, dào róng yào zhī zhǔ shēn biān;" },
+          { cn: "在宝座前跪拜、尊崇，万王之王掌全权。", py: "zài bǎo zuò qián guì bài, zūn chóng, wàn wáng zhī wáng zhǎng quán quán。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "如今恩主远在天庭，我看祂模糊不清；", py: "rú jīn ēn zhǔ yuǎn zài tiān tíng, wǒ kàn tā mó hú bú qīng;" },
+          { cn: "那时能与主面对面，见祂荣耀的真形。", py: "nà shí néng yǔ zhǔ miàn duì miàn, jiàn tā róng yào de zhēn xíng。" },
+          { cn: "圣徒被主迎接升天，到荣耀之主身边；", py: "shèng tú bèi zhǔ yíng jiē shēng tiān, dào róng yào zhī zhǔ shēn biān;" },
+          { cn: "在宝座前跪拜、尊崇，万王之王掌全权。", py: "zài bǎo zuò qián guì bài, zūn chóng, wàn wáng zhī wáng zhǎng quán quán。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "那时见主真体荣光，好像太阳照四方；", py: "nà shí jiàn zhǔ zhēn tǐ róng guāng, hǎo xiàng tài yáng zhào sì fāng;" },
+          { cn: "世上劳苦、黑云、暗雾，全都消失，永辉煌。", py: "shì shàng láo kǔ, hēi yún, àn wù, quán dōu xiāo shī, yǒng huī huáng。" },
+          { cn: "圣徒被主迎接升天，到荣耀之主身边；", py: "shèng tú bèi zhǔ yíng jiē shēng tiān, dào róng yào zhī zhǔ shēn biān;" },
+          { cn: "在宝座前跪拜、尊崇，万王之王掌全权。", py: "zài bǎo zuò qián guì bài, zūn chóng, wàn wáng zhī wáng zhǎng quán quán。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "我心切望主来勿延，见主快乐难言宣；", py: "wǒ xīn qiè wàng zhǔ lái wù yán, jiàn zhǔ kuài lè nán yán xuān;" },
+          { cn: "迎接我到荣耀天堂，赴祂福乐大婚筵。", py: "yíng jiē wǒ dào róng yào tiān táng, fù tā fú lè dà hūn yán。" },
+          { cn: "圣徒被主迎接升天，到荣耀之主身边；", py: "shèng tú bèi zhǔ yíng jiē shēng tiān, dào róng yào zhī zhǔ shēn biān;" },
+          { cn: "在宝座前跪拜、尊崇，万王之王掌全权。", py: "zài bǎo zuò qián guì bài, zūn chóng, wàn wáng zhī wáng zhǎng quán quán。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 210,
+    title: "当我行完今生路",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "当我行完今生路，必被接第三层天，", py: "dāng wǒ xíng wán jīn shēng lù, bì bèi jiē dì sān céng tiān," },
+          { cn: "得见那荣耀乐园美丽、新鲜；", py: "dé jiàn nà róng yào lè yuán měi lì, xīn xiān;" },
+          { cn: "在那里，救主蔼然笑迎，向我显殷情；", py: "zài nà lǐ, jiù zhǔ ǎi rán xiào yíng, xiàng wǒ xiǎn yīn qíng;" },
+          { cn: "庆幸回到救主慈怀得安宁。", py: "qìng xìng huí dào jiù zhǔ cí huái dé ān níng。" },
+          { cn: "当我见主，我心欢喜，欢喜在我主慈怀安息；", py: "dāng wǒ jiàn zhǔ, wǒ xīn huān xǐ, huān xǐ zài wǒ zhǔ cí huái ān xī;" },
+          { cn: "当我见主，我心欢喜，在那里与我主永安息。", py: "dāng wǒ jiàn zhǔ, wǒ xīn huān xǐ, zài nà lǐ yǔ wǒ zhǔ yǒng ān xī。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "在昔日，许多亲友离世，灵魂先升天，", py: "zài xī rì, xǔ duō qīn yǒu lí shì, líng hún xiān shēng tiān," },
+          { cn: "今日向我热烈招呼来团圆；", py: "jīn rì xiàng wǒ rè liè zhāo hū lái tuán yuán;" },
+          { cn: "齐欢唱，迎我归家，歌声盈盈满乐园；", py: "qí huān chàng, yíng wǒ guī jiā, gē shēng yíng yíng mǎn lè yuán;" },
+          { cn: "我要先与久慕恩主相晤言。", py: "wǒ yào xiān yǔ jiǔ mù ēn zhǔ xiāng wù yán。" },
+          { cn: "当我见主，我心欢喜，欢喜在我主慈怀安息；", py: "dāng wǒ jiàn zhǔ, wǒ xīn huān xǐ, huān xǐ zài wǒ zhǔ cí huái ān xī;" },
+          { cn: "当我见主，我心欢喜，在那里与我主永安息。", py: "dāng wǒ jiàn zhǔ, wǒ xīn huān xǐ, zài nà lǐ yǔ wǒ zhǔ yǒng ān xī。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "到那日，主要引我经过珠门入圣城，", py: "dào nà rì, zhǔ yào yǐn wǒ jīng guò zhū mén rù shèng chéng," },
+          { cn: "身穿白衣升上至美的天庭；", py: "shēn chuān bái yī shēng shàng zhì měi de tiān tíng;" },
+          { cn: "无愁苦，不再哀哭，喜气洋洋齐享福；", py: "wú chóu kǔ, bú zài āi kū, xǐ qì yáng yáng qí xiǎng fú;" },
+          { cn: "哈利路亚，荣耀、权能归基督！", py: "hā lì lù yà, róng yào, quán néng guī jī dū!" },
+          { cn: "当我见主，我心欢喜，欢喜在我主慈怀安息；", py: "dāng wǒ jiàn zhǔ, wǒ xīn huān xǐ, huān xǐ zài wǒ zhǔ cí huái ān xī;" },
+          { cn: "当我见主，我心欢喜，在那里与我主永安息。", py: "dāng wǒ jiàn zhǔ, wǒ xīn huān xǐ, zài nà lǐ yǔ wǒ zhǔ yǒng ān xī。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 211,
+    title: "天父监察",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "天父圣眼监察，一切不能隐藏，", py: "tiān fù shèng yǎn jiān chá, yī qiè bú néng yǐn cáng," },
+          { cn: "随处常看；我在众人眼前，", py: "suí chù cháng kàn; wǒ zài zhòng rén yǎn qián," },
+          { cn: "或在荒野中间，无论在家、在外，", py: "huò zài huāng yě zhōng jiān, wú lùn zài jiā, zài wài," },
+          { cn: "远近都看。", py: "yuǎn jìn dōu kàn。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "白日工作勤劳，黑夜歇息睡觉，", py: "bái rì gōng zuò qín láo, hēi yè xiē xī shuì jiào," },
+          { cn: "昼夜常看；看我谨守命令，", py: "zhòu yè cháng kàn; kàn wǒ jǐn shǒu mìng lìng," },
+          { cn: "看我恭敬主名，看我犯罪错行，", py: "kàn wǒ gōng jìng zhǔ míng, kàn wǒ fàn zuì cuò xíng," },
+          { cn: "善恶都看。", py: "shàn è dōu kàn。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "有祂看我哀哭，看我歌唱、喜乐，", py: "yǒu tā kàn wǒ āi kū, kàn wǒ gē chàng, xǐ lè," },
+          { cn: "随事常看；有祂看我认罪，", py: "suí shì cháng kàn; yǒu tā kàn wǒ rèn zuì," },
+          { cn: "看我心里懊悔，看我改变行为，", py: "kàn wǒ xīn lǐ ào huǐ, kàn wǒ gǎi biàn xíng wéi," },
+          { cn: "内外通看。", py: "nèi wài tōng kàn。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "天父叫我谨慎，在上有祂圣眼，", py: "tiān fù jiào wǒ jǐn shèn, zài shàng yǒu tā shèng yǎn," },
+          { cn: "向我常看；叫我随祂行走，", py: "xiàng wǒ cháng kàn; jiào wǒ suí tā xíng zǒu," },
+          { cn: "爱祂过于亲友，靠祂持守所有，", py: "ài tā guò yú qīn yǒu, kào tā chí shǒu suǒ yǒu," },
+          { cn: "永远常看。", py: "yǒng yuǎn cháng kàn。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 212,
+    title: "为主发光",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "主叫我发光，清白而辉煌，象灯放在台上，照亮夜漫长；", py: "zhǔ jiào wǒ fā guāng, qīng bái ér huī huáng, xiàng dēng fàng zài tái shàng, zhào liàng yè màn cháng;" },
+          { cn: "在这黑暗世界当发光，努力显出善行，在各地方。", py: "zài zhè hēi àn shì jiè dāng fā guāng, nǔ lì xiǎn chū shàn xíng, zài gè dì fāng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "主叫我发光，把祂名传扬或亮或是不亮，谁都难隐藏；", py: "zhǔ jiào wǒ fā guāng, bǎ tā míng chuán yáng, huò liàng huò shì bú liàng, shuí dōu nán yǐn cáng;" },
+          { cn: "祂从天上监察甚昭彰，努力荣耀主名，在各地方。", py: "tā cóng tiān shàng jiān chá shèn zhāo zhāng, nǔ lì róng yào zhǔ míng, zài gè dì fāng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "主叫我发光，射到各城乡，把主荣耀福音，到处去播扬；", py: "zhǔ jiào wǒ fā guāng, shè dào gè chéng xiāng, bǎ zhǔ róng yào fú yīn, dào chù qù bō yáng;" },
+          { cn: "救人脱离罪恶并忧伤，努力做好见证，在各地方。", py: "jiù rén tuō lí zuì è bìng yōu shāng, nǔ lì zuò hǎo jiàn zhèng, zài gè dì fāng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 213,
+    title: "积少成多",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "滴水虽然微细，聚集成江河；", py: "dī shuǐ suī rán wēi xì, jù jí chéng jiāng hé;" },
+          { cn: "粒沙本是最小，堆积为山坡。", py: "lì shā běn shì zuì xiǎo, duī jī wéi shān pō。" },
+          { cn: "积少成多。", py: "jī shǎo chéng duō。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "光阴真是易过，日月快如梭；", py: "guāng yīn zhēn shì yì guò, rì yuè kuài rú suō;" },
+          { cn: "片刻积成万代，年数无量多。", py: "piàn kè jī chéng wàn dài, nián shù wú liàng duō。" },
+          { cn: "积少成多。", py: "jī shǎo chéng duō。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "不可轻犯小罪，积重坠网罗；", py: "bú kě qīng fàn xiǎo zuì, jī zhòng zhuì wǎng luó;" },
+          { cn: "稍偏即离正路，错误罪难逃。", py: "shāo piān jí lí zhèng lù, cuò wù zuì nán táo。" },
+          { cn: "积少成多。", py: "jī shǎo chéng duō。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "日日常行小善，劝勉效微劳；", py: "rì rì cháng xíng xiǎo shàn, quàn miǎn xiào wēi láo;" },
+          { cn: "能使属灵教会相爱乐陶陶。", py: "néng shǐ shǔ líng jiào huì xiāng ài lè táo táo。" },
+          { cn: "积少成多。", py: "jī shǎo chéng duō。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 214,
+    title: "八福颂",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "自知理短，谦卑认过，虚心之人有福；", py: "zì zhī lǐ duǎn, qiān bēi rèn guò, xū xīn zhī rén yǒu fú;" },
+          { cn: "蒙主恩惠，荣光广布，天国为他归宿。", py: "méng zhǔ ēn huì, róng guāng guǎng bù, tiān guó wéi tā guī sù。" },
+          { cn: "自怨罪愆，竭力悔改，哀恸之人有福；", py: "zì yuàn zuì qiān, jié lì huǐ gǎi, āi tòng zhī rén yǒu fú;" },
+          { cn: "得主安慰，擦去眼泪，天国永无痛哭。", py: "dé zhǔ ān wèi, cā qù yǎn lèi, tiān guó yǒng wú tòng kū。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "忍受毁谤、辱骂、逼迫，温柔之人有福；", py: "rěn shòu huǐ bàng, rǔ mà, bī pò, wēn róu zhī rén yǒu fú;" },
+          { cn: "真神赐他不朽基业，永远居住乐土。", py: "zhēn shén cì tā bú xiǔ jī yè, yǒng yuǎn jū zhù lè tǔ。" },
+          { cn: "追求真理，如饥如渴，慕义之人有福；", py: "zhuī qiú zhēn lǐ, rú jī rú kě, mù yì zhī rén yǒu fú;" },
+          { cn: "真神必赐富有、饱足，天粮、活水满腹。", py: "zhēn shén bì cì fù yǒu, bǎo zú, tiān liáng, huó shuǐ mǎn fù。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "济急、扶危，爱人如己，怜悯之人有福；", py: "jì jí, fú wēi, ài rén rú jǐ, lián mǐn zhī rén yǒu fú;" },
+          { cn: "真神必赐恩宠无已，永世扶持、矜恤。", py: "zhēn shén bì cì ēn chǒng wú yǐ, yǒng shì fú chí, jīn xù。" },
+          { cn: "不随恶俗，莫起邪念，清心之人有福；", py: "bú suí è sú, mò qǐ xié niàn, qīng xīn zhī rén yǒu fú;" },
+          { cn: "得见真神，荣光显现，长久亲近基督。", py: "dé jiàn zhēn shén, róng guāng xiǎn xiàn, cháng jiǔ qīn jìn jī dū。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "解冤释结，不与人争，和平之人有福；", py: "jiě yuān shì jié, bú yǔ rén zhēng, hé píng zhī rén yǒu fú;" },
+          { cn: "称做神子，承受天国，尊荣永远延续。", py: "chēng zuò shén zǐ, chéng shòu tiān guó, zūn róng yǒng yuǎn yán xù。" },
+          { cn: "为义被害，为道受难，忠贞之人有福；", py: "wèi yì bèi hài, wèi dào shòu nàn, zhōng zhēn zhī rén yǒu fú;" },
+          { cn: "在天赏赐，何等浩大，华冠为他所属。", py: "zài tiān shǎng cì, hé děng hào dà, huá guān wéi tā suǒ shǔ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 215,
+    title: "真教会美德",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "真教会主身体，基督宝血所赎，", py: "zhēn jiào huì zhǔ shēn tǐ, jī dū bǎo xuè suǒ shú," },
+          { cn: "贵哉，教会！立于万古磐石，根基坚定不移，", py: "guì zāi, jiào huì! lì yú wàn gǔ pán shí, gēn jī jiān dìng bú yí," },
+          { cn: "胜过阴间权势，末世方舟。", py: "shèng guò yīn jiān quán shì, mò shì fāng zhōu。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "真教会全属灵，完全遵照圣经，", py: "zhēn jiào huì quán shǔ líng, wán quán zūn zhào shèng jīng," },
+          { cn: "美哉，教会！重生由于圣灵，灵恩灵工兴盛，", py: "měi zāi, jiào huì! zhòng shēng yóu yú shèng líng, líng ēn líng gōng xīng shèng," },
+          { cn: "遵主旨意而行，大放光明。", py: "zūn zhǔ zhǐ yì ér xíng, dà fàng guāng míng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "真教会全圣洁，具有新妇贞德，", py: "zhēn jiào huì quán shèng jié, jù yǒu xīn fù zhēn dé," },
+          { cn: "圣哉，教会！不容邪道扰惑，不让世俗缠累，", py: "shèng zāi, jiào huì! bú róng xié dào rǎo huò, bú ràng shì sú chán lèi," },
+          { cn: "毫无玷污、皱纹，荣美超群。", py: "háo wú diàn wū, zhòu wén, róng měi chāo qún。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "真教会日进步，信德、能力充足，", py: "zhēn jiào huì rì jìn bù, xìn dé, néng lì chōng zú," },
+          { cn: "奇哉，教会！不靠金银、势力，只靠圣灵成事，", py: "qí zāi, jiào huì! bú kào jīn yín, shì lì, zhǐ kào shèng líng chéng shì," },
+          { cn: "神迹、异能相随，证实真理。", py: "shén jì, yì néng xiāng suí, zhèng shí zhēn lǐ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 216,
+    title: "圣徒美德",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "真耶稣教真理条规，我当遵守，永远不违；", py: "zhēn yē sū jiào zhēn lǐ tiáo guī, wǒ dāng zūn shǒu, yǒng yuǎn bú wéi;" },
+          { cn: "不停聚会、祈祷、查经，必到神国美地。", py: "bú tíng jù huì, qí dǎo, chá jīng, bì dào shén guó měi dì。" },
+          { cn: "哈利路亚，赞美救主！顺从圣灵，立志效主；", py: "hā lì lù yà, zàn měi jiù zhǔ! shùn cóng shèng líng, lì zhì xiào zhǔ;" },
+          { cn: "遵主吩咐，讨主喜悦，永在神国享福。", py: "zūn zhǔ fēn fù, tǎo zhǔ xǐ yuè, yǒng zài shén guó xiǎng fú。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我的家庭当作教会，父慈、子孝、夫唱、妇随、", py: "wǒ de jiā tíng dāng zuò jiào huì, fù cí, zǐ xiào, fū chàng, fù suí," },
+          { cn: "主仁仆忠、兄友、弟恭，必到神国美地。", py: "zhǔ rén pú zhōng, xiōng yǒu, dì gōng, bì dào shén guó měi dì。" },
+          { cn: "哈利路亚，赞美救主！顺从圣灵，立志效主；", py: "hā lì lù yà, zàn měi jiù zhǔ! shùn cóng shèng líng, lì zhì xiào zhǔ;" },
+          { cn: "遵主吩咐，讨主喜悦，永在神国享福。", py: "zūn zhǔ fēn fù, tǎo zhǔ xǐ yuè, yǒng zài shén guó xiǎng fú。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "教会捐项，我当踊跃，纪念耶稣为我流血；", py: "jiào huì juān xiàng, wǒ dāng yǒng yuè, jì niàn yē sū wèi wǒ liú xuè;" },
+          { cn: "广传福音、帮补圣徒，必到神国美地。", py: "guǎng chuán fú yīn, bāng bǔ shèng tú, bì dào shén guó měi dì。" },
+          { cn: "哈利路亚，赞美救主！顺从圣灵，立志效主；", py: "hā lì lù yà, zàn měi jiù zhǔ! shùn cóng shèng líng, lì zhì xiào zhǔ;" },
+          { cn: "遵主吩咐，讨主喜悦，永在神国享福。", py: "zūn zhǔ fēn fù, tǎo zhǔ xǐ yuè, yǒng zài shén guó xiǎng fú。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "敬畏真神、亲爱灵胞，尽心、尽性、尽意、尽力；", py: "jìng wèi zhēn shén, qīn ài líng bāo, jìn xīn, jìn xìng, jìn yì, jìn lì;" },
+          { cn: "靠主铲断名利、恶欲，必到神国美地。", py: "kào zhǔ chǎn duàn míng lì, è yù, bì dào shén guó měi dì。" },
+          { cn: "哈利路亚，赞美救主！顺从圣灵，立志效主；", py: "hā lì lù yà, zàn měi jiù zhǔ! shùn cóng shèng líng, lì zhì xiào zhǔ;" },
+          { cn: "遵主吩咐，讨主喜悦，永在神国享福。", py: "zūn zhǔ fēn fù, tǎo zhǔ xǐ yuè, yǒng zài shén guó xiǎng fú。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 217,
+    title: "力行主道",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "妻子顺夫原是相宜，丈夫不可苦待妻，儿女", py: "qī zǐ shùn fū yuán shì xiāng yí, zhàng fū bú kě kǔ dài qī, ér nǚ" },
+          { cn: "应当孝敬父母，父母不惹儿女气，仆人", py: "yīng dāng xiào jìng fù mǔ, fù mǔ bú rě ér nǚ qì, pú rén" },
+          { cn: "事主应当忠诚，主人爱仆不凌欺，少年", py: "shì zhǔ yīng dāng zhōng chéng, zhǔ rén ài pú bú líng qī, shào nián" },
+          { cn: "应当尊敬长上，老者端庄又仁慈。", py: "yīng dāng zūn jìng zhǎng shàng, lǎo zhě duān zhuāng yòu rén cí。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "少妇殷勤治理家务，老妇无谗少错误，女人", py: "shǎo fù yīn qín zhì lǐ jiā wù, lǎo fù wú chán shǎo cuò wù, nǚ rén" },
+          { cn: "沉静不可越分，男人圣洁无忿怒，婆媳", py: "chén jìng bú kě yuè fèn, nán rén shèng jié wú fèn nù, pó xí" },
+          { cn: "相爱如同母女，妯娌相爱不嫉妒，寡妇", py: "xiāng ài rú tóng mǔ nǚ, zhóu lǐ xiāng ài bú jí dù, guǎ fù" },
+          { cn: "靠神热心祈祷，守素，安常行天路。", py: "kào shén rè xīn qí dǎo, shǒu sù, ān cháng xíng tiān lù。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "教会同工彼此相爱，地位平等做主仆，长执", py: "jiào huì tóng gōng bǐ cǐ xiāng ài, dì wèi píng děng zuò zhǔ pú, zhǎng zhí" },
+          { cn: "传道忠勤工作，不可专权不贪渎，灵胞", py: "chuán dào zhōng qín gōng zuò, bú kě zhuān quán bú tān dú, líng bāo" },
+          { cn: "一体苦乐相关，若有患难相帮助，属灵", py: "yī tǐ kǔ lè xiāng guān, ruò yǒu huàn nàn xiāng bāng zhù, shǔ líng" },
+          { cn: "教会就是神家，同心合意神赐福。", py: "jiào huì jiù shì shén jiā, tóng xīn hé yì shén cì fú。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 218,
+    title: "圣灵佳果",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "何等美丽，圣灵佳果！仁爱、喜乐与和平、", py: "hé děng měi lì, shèng líng jiā guǒ! rén ài, xǐ lè yǔ hé píng," },
+          { cn: "忍耐、恩慈、良善、信实、温柔、节制都要紧。", py: "rěn nài, ēn cí, liáng shàn, xìn shí, wēn róu, jié zhì dōu yào jǐn。" },
+          { cn: "我要顺从主的真理，真理使我得自由；", py: "wǒ yào shùn cóng zhǔ de zhēn lǐ, zhēn lǐ shǐ wǒ dé zì yóu;" },
+          { cn: "我要尽意、尽心、尽性、尽力结果永存留。", py: "wǒ yào jìn yì, jìn xīn, jìn xìng, jìn lì jié guǒ yǒng cún liú。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我要一生一世顺服，顺服真理做灵修，", py: "wǒ yào yī shēng yī shì shùn fú, shùn fú zhēn lǐ zuò líng xiū," },
+          { cn: "得着圣灵住我里面，好似明灯充满油；", py: "dé zhe shèng líng zhù wǒ lǐ miàn, hǎo sì míng dēng chōng mǎn yóu;" },
+          { cn: "我当发光结出灵果，满足主对我要求，", py: "wǒ dāng fā guāng jié chū líng guǒ, mǎn zú zhǔ duì wǒ yāo qiú," },
+          { cn: "若是不能结出善果，辜负圣灵住里头。", py: "ruò shì bú néng jié chū shàn guǒ, gū fù shèng líng zhù lǐ tóu。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "当日救主苦口教训，应结善果荣耀神，", py: "dāng rì jiù zhǔ kǔ kǒu jiào xùn, yīng jié shàn guǒ róng yào shén," },
+          { cn: "荆棘不能结出葡萄，观果知树甚分明；", py: "jīng jí bú néng jié chū pú táo, guān guǒ zhī shù shèn fēn míng;" },
+          { cn: "所以我们当行真理，顺服圣灵变新人，", py: "suǒ yǐ wǒ men dāng xíng zhēn lǐ, shùn fú shèng líng biàn xīn rén," },
+          { cn: "灵命健全，灵德完善，多结善果荣主名。", py: "líng mìng jiàn quán, líng dé wán shàn, duō jié shàn guǒ róng zhǔ míng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 219,
+    title: "随处发光",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "不要等候天父交托大事才做工，因为所得恩赐各不同；", py: "bú yào děng hòu tiān fù jiāo tuō dà shì cái zuò gōng, yīn wèi suǒ dé ēn cì gè bú tóng;" },
+          { cn: "微小的事也要忠心尽本分担当，无论在何处要发光。", py: "wēi xiǎo de shì yě yào zhōng xīn jìn běn fèn dān dāng, wú lùn zài hé chù yào fā guāng。" },
+          { cn: "无论在何处要发光，无论在何处要发光；迷路的人", py: "wú lùn zài hé chù yào fā guāng, wú lùn zài hé chù yào fā guāng; mí lù de rén" },
+          { cn: "正等候你领他归天乡，无论在何处要发光。", py: "zhèng děng hòu nǐ lǐng tā guī tiān xiāng, wú lùn zài hé chù yào fā guāng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "光能显露一切隐情，使罪人投明，光能指示生命之道路；", py: "guāng néng xiǎn lù yī qiē yǐn qíng, shǐ zuì rén tóu míng, guāng néng zhǐ shì shēng mìng zhī dào lù;" },
+          { cn: "真光带领劳苦的人进入恩典门，无论在何处要发光。", py: "zhēn guāng dài lǐng láo kǔ de rén jìn rù ēn diǎn mén, wú lùn zài hé chù yào fā guāng。" },
+          { cn: "无论在何处要发光，无论在何处要发光；迷路的人", py: "wú lùn zài hé chù yào fā guāng, wú lùn zài hé chù yào fā guāng; mí lù de rén" },
+          { cn: "正等候你领他归天乡，无论在何处要发光。", py: "zhèng děng hòu nǐ lǐng tā guī tiān xiāng, wú lùn zài hé chù yào fā guāng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "你要奉献一切才能，去为主发光，主要用你照黑暗四方；", py: "nǐ yào fèng xiàn yī qiē cái néng, qù wèi zhǔ fā guāng, zhǔ yào yòng nǐ zhào hēi àn sì fāng;" },
+          { cn: "许多同胞离开主路流荡如亡羊，无论在何处要发光。", py: "xǔ duō tóng bāo lí kāi zhǔ lù liú dàng rú wáng yáng, wú lùn zài hé chù yào fā guāng。" },
+          { cn: "无论在何处要发光，无论在何处要发光；迷路的人", py: "wú lùn zài hé chù yào fā guāng, wú lùn zài hé chù yào fā guāng; mí lù de rén" },
+          { cn: "正等候你领他归天乡，无论在何处要发光。", py: "zhèng děng hòu nǐ lǐng tā guī tiān xiāng, wú lùn zài hé chù yào fā guāng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 220,
+    title: "火炼精金",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "圣徒读圣经，明白主之救恩，", py: "shèng tú dú shèng jīng, míng bái zhǔ zhī jiù ēn," },
+          { cn: "信心已立定，不能摇其深根；", py: "xìn xīn yǐ lì dìng, bú néng yáo qí shēn gēn;" },
+          { cn: "真神所应许，赐我们得永生，", py: "zhēn shén suǒ yīng xǔ, cì wǒ men dé yǒng shēng," },
+          { cn: "现在已领受，必永远不变更，", py: "xiàn zài yǐ lǐng shòu, bì yǒng yuǎn bú biàn gēng," },
+          { cn: "现在已领受，必永远不变更。", py: "xiàn zài yǐ lǐng shòu, bì yǒng yuǎn bú biàn gēng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "无论何所遇，或患病，或平安，", py: "wú lùn hé suǒ yù, huò huàn bìng, huò píng ān," },
+          { cn: "或居于富境，或处身于贫寒，", py: "huò jū yú fù jìng, huò chǔ shēn yú pín hán," },
+          { cn: "在家与在外，行陆地渡海洋；", py: "zài jiā yǔ zài wài, xíng lù dì dù hǎi yáng;" },
+          { cn: "随时主同在，永使我不孤单，", py: "suí shí zhǔ tóng zài, yǒng shǐ wǒ bú gū dān," },
+          { cn: "随时主同在，永使我不孤单。", py: "suí shí zhǔ tóng zài, yǒng shǐ wǒ bú gū dān。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "虽大遭患难，如经历于水中，", py: "suī dà zāo huàn nàn, rú jīng lì yú shuǐ zhōng," },
+          { cn: "奔腾之大浪，却不能将我冲，", py: "bēn téng zhī dà làng, què bú néng jiāng wǒ chōng," },
+          { cn: "主常保祐我，必由苦而得甘；", py: "zhǔ cháng bǎo yòu wǒ, bì yóu kǔ ér dé gān;" },
+          { cn: "至终成圣洁，收宏益于艰难，", py: "zhì zhōng chéng shèng jié, shōu hóng yì yú jiān nán," },
+          { cn: "至终成圣洁，收宏益于艰难。", py: "zhì zhōng chéng shèng jié, shōu hóng yì yú jiān nán。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "虽重受试炼，如由火里经行，", py: "suī zhòng shòu shì liàn, rú yóu huǒ lǐ jīng xíng," },
+          { cn: "主恩却充足，赐与我常丰盈，", py: "zhǔ ēn què chōng zú, cì yǔ wǒ cháng fēng yíng," },
+          { cn: "火焰万无害，主无非存慈心；", py: "huǒ yàn wàn wú hài, zhǔ wú fēi cún cí xīn;" },
+          { cn: "欲除我渣滓，而熬炼成精金，", py: "yù chú wǒ zhā zǐ, ér áo liàn chéng jīng jīn," },
+          { cn: "欲除我渣滓，而熬炼成精金。", py: "yù chú wǒ zhā zǐ, ér áo liàn chéng jīng jīn。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 222,
+    title: "清心有福",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "福哉，清心之人！因必见主尊荣；", py: "fú zāi, qīng xīn zhī rén! yīn bì jiàn zhǔ zūn róng;" },
+          { cn: "至圣之主与他同行，永远属于光明。", py: "zhì shèng zhī zhǔ yǔ tā tóng xíng, yǒng yuǎn shǔ yú guāng míng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "基督赐我圣灵，使我身心洁净；", py: "jī dū cì wǒ shèng líng, shǐ wǒ shēn xīn jié jìng;" },
+          { cn: "虽在浊世，超然不染，靠主坚持忠贞。", py: "suī zài zhuó shì, chāo rán bú rǎn, kào zhǔ jiān chí zhōng zhēn。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "清心宛如明宫，主即住在其中；", py: "qīng xīn wǎn rú míng gōng, zhǔ jí zhù zài qí zhōng;" },
+          { cn: "清洁之心为主宝座，主常与之交通。", py: "qīng jié zhī xīn wéi zhǔ bǎo zuò, zhǔ cháng yǔ zhī jiāo tōng。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "我今在主面前，求主赐福无边；", py: "wǒ jīn zài zhǔ miàn qián, qiú zhǔ cì fú wú biān;" },
+          { cn: "使我心思、意念无邪，进到圣洁完全。", py: "shǐ wǒ xīn sī, yì niàn wú xié, jìn dào shèng jié wán quán。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 223,
+    title: "选民灵歌",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "哈利路亚，阿们，赞美真神！锡安真有光彩，脱俗出尘；", py: "hā lì lù yà, ā men, zàn měi zhēn shén! xī ān zhēn yǒu guāng cǎi, tuō sú chū chén;" },
+          { cn: "摩西领唱高音，大卫弹琴，米利暗欣歌舞，苦去甜临。", py: "mó xī lǐng chàng gāo yīn, dà wèi dàn qín, mǐ lì àn xīn gē wǔ, kǔ qù tián lín。" },
+          { cn: "十四万四千人歌唱、弹琴，如水又如雷，在天发好音；", py: "shí sì wàn sì qiān rén gē chàng, dàn qín, rú shuǐ yòu rú léi, zài tiān fā hǎo yīn;" },
+          { cn: "羔羊率领，义人同颂真神，哈利路亚，歌声充满天庭！", py: "gāo yáng shuài lǐng, yì rén tóng sòng zhēn shén, hā lì lù yà, gē shēng chōng mǎn tiān tíng!" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "哈利路亚，阿们，赞美真神！童女真有光彩，充满圣灵；", py: "hā lì lù yà, ā men, zàn měi zhēn shén! tóng nǚ zhēn yǒu guāng cǎi, chōng mǎn shèng líng;" },
+          { cn: "我们许配基督，必须圣洁，速速装饰整齐，迎接良人。", py: "wǒ men xǔ pèi jī dū, bì xū shèng jié, sù sù zhuāng shì zhěng qí, yíng jiē liáng rén。" },
+          { cn: "十四万四千人歌唱、弹琴，如水又如雷，在天发好音；", py: "shí sì wàn sì qiān rén gē chàng, dàn qín, rú shuǐ yòu rú léi, zài tiān fā hǎo yīn;" },
+          { cn: "羔羊率领，义人同颂真神，哈利路亚，歌声充满天庭！", py: "gāo yáng shuài lǐng, yì rén tóng sòng zhēn shén, hā lì lù yà, gē shēng chōng mǎn tiān tíng!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "哈利路亚，阿们，赞美真神！新妇真有光彩，完全更新；", py: "hā lì lù yà, ā men, zàn měi zhēn shén! xīn fù zhēn yǒu guāng cǎi, wán quán gēng xīn;" },
+          { cn: "诸天齐声称颂羔羊新婚，即真教会被接，与主相亲。", py: "zhū tiān qí shēng chēng sòng gāo yáng xīn hūn, jí zhēn jiào huì bèi jiē, yǔ zhǔ xiāng qīn。" },
+          { cn: "十四万四千人歌唱、弹琴，如水又如雷，在天发好音；", py: "shí sì wàn sì qiān rén gē chàng, dàn qín, rú shuǐ yòu rú léi, zài tiān fā hǎo yīn;" },
+          { cn: "羔羊率领，义人同颂真神，哈利路亚，歌声充满天庭！", py: "gāo yáng shuài lǐng, yì rén tóng sòng zhēn shén, hā lì lù yà, gē shēng chōng mǎn tiān tíng!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 224,
+    title: "求主察看",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "求主察看，鉴我心思、意念，", py: "qiú zhǔ chá kàn, jiàn wǒ xīn sī, yì niàn," },
+          { cn: "肺腑、心肠，求主试验、熬炼；", py: "fèi fǔ, xīn cháng, qiú zhǔ shì yàn, áo liàn;" },
+          { cn: "察我心田，不令邪念潜藏，", py: "chá wǒ xīn tián, bú lìng xié niàn qián cáng," },
+          { cn: "不令微酵留为罪恶根源。", py: "bú lìng wēi jiào liú wéi zuì è gēn yuán。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "圣目如电，隐情无一不见，", py: "shèng mù rú diàn, yǐn qíng wú yī bú jiàn," },
+          { cn: "恳求照亮，照亮我的心殿；", py: "kěn qiú zhào liàng, zhào liàng wǒ de xīn diàn;" },
+          { cn: "使我圣洁，与主灵交不倦，", py: "shǐ wǒ shèng jié, yǔ zhǔ líng jiāo bú juàn," },
+          { cn: "存心敬畏，凡事蒙主恩眷。", py: "cún xīn jìng wèi, fán shì méng zhǔ ēn juàn。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "恳求圣灵时常充满我心，", py: "kěn qiú shèng líng shí cháng chōng mǎn wǒ xīn," },
+          { cn: "如火挑旺，使我灵性复兴；", py: "rú huǒ tiāo wàng, shǐ wǒ líng xìng fù xīng;" },
+          { cn: "不从肉体，使我完全属灵，", py: "bú cóng ròu tǐ, shǐ wǒ wán quán shǔ líng," },
+          { cn: "求主领导，直到福乐天庭。", py: "qiú zhǔ lǐng dǎo, zhí dào fú lè tiān tíng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 226,
+    title: "愿成主旨",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我主！我父！我是客旅，得归天家，那管崎岖？", py: "wǒ zhǔ! wǒ fù! wǒ shì kè lǚ, dé guī tiān jiā, nà guǎn qí qū?" },
+          { cn: "遵主真理，忍耐直趋，愿成主旨。", py: "zūn zhǔ zhēn lǐ, rěn nài zhí qū, yuàn chéng zhǔ zhǐ。" },
+          { cn: "遵主真理，愿成主旨；", py: "zūn zhǔ zhēn lǐ, yuàn chéng zhǔ zhǐ;" },
+          { cn: "遵主真理，忍耐直趋，愿成主旨。", py: "zūn zhǔ zhēn lǐ, rěn nài zhí qū, yuàn chéng zhǔ zhǐ。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "背架跟主或有艰难，我无怨言心仍平安；", py: "bèi jià gēn zhǔ huò yǒu jiān nán, wǒ wú yuàn yán xīn réng píng ān;" },
+          { cn: "顺服至死，必戴华冠，愿成主旨。", py: "shùn fú zhì sǐ, bì dài huá guān, yuàn chéng zhǔ zhǐ。" },
+          { cn: "顺服至死，愿成主旨；", py: "shùn fú zhì sǐ, yuàn chéng zhǔ zhǐ;" },
+          { cn: "顺服至死，必戴华冠，愿成主旨。", py: "shùn fú zhì sǐ, bì dài huá guān, yuàn chéng zhǔ zhǐ。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "假使分应为道殉身，可得永生，我必甘心；", py: "jiǎ shǐ fèn yīng wèi dào xùn shēn, kě dé yǒng shēng, wǒ bì gān xīn;" },
+          { cn: "赏赐无比，不怕艰辛，愿成主旨。", py: "shǎng cì wú bǐ, bú pà jiān xīn, yuàn chéng zhǔ zhǐ。" },
+          { cn: "赏赐无比，愿成主旨；", py: "shǎng cì wú bǐ, yuàn chéng zhǔ zhǐ;" },
+          { cn: "赏赐无比，不怕艰辛，愿成主旨。", py: "shǎng cì wú bǐ, bú pà jiān xīn, yuàn chéng zhǔ zhǐ。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "主若叫我舍弃一切，可进天国我必乐意；", py: "zhǔ ruò jiào wǒ shě qì yī qiē, kě jìn tiān guó wǒ bì lè yì;" },
+          { cn: "奉献所有，讨主欢喜，愿成主旨。", py: "fèng xiàn suǒ yǒu, tǎo zhǔ huān xǐ, yuàn chéng zhǔ zhǐ。" },
+          { cn: "奉献所有，愿成主旨；", py: "fèng xiàn suǒ yǒu, yuàn chéng zhǔ zhǐ;" },
+          { cn: "奉献所有，讨主欢喜，愿成主旨。", py: "fèng xiàn suǒ yǒu, tǎo zhǔ huān xǐ, yuàn chéng zhǔ zhǐ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 230,
+    title: "义人有福",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "不从恶人的计谋，不站罪人的道路，", py: "bú cóng è rén de jì móu, bú zhàn zuì rén de dào lù," },
+          { cn: "不坐亵慢人座位，这人便为有福。", py: "bú zuò xiè màn rén zuò wèi, zhè rén biàn wéi yǒu fú。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "惟独喜爱神律法，不分昼夜常思想，", py: "wéi dú xǐ ài shén lǜ fǎ, bú fèn zhòu yè cháng sī xiǎng," },
+          { cn: "存记在心又遵行，这人便为有福。", py: "cún jì zài xīn yòu zūn xíng, zhè rén biàn wéi yǒu fú。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "像树栽在溪水旁，按时结果，叶常青，", py: "xiàng shù zāi zài xī shuǐ páng, àn shí jié guǒ, yè cháng qīng," },
+          { cn: "所行、所做尽顺利，这人便为有福。", py: "suǒ xíng, suǒ zuò jìn shùn lì, zhè rén biàn wéi yǒu fú。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 231,
+    title: "照主所愿",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "恩主，照祢所愿！因祢旨意纯全，", py: "ēn zhǔ, zhào nǐ suǒ yuàn! yīn nǐ zhǐ yì chún quán," },
+          { cn: "愿将终生万事，摆祢圣目之前；", py: "yuàn jiāng zhōng shēng wàn shì, bǎi nǐ shèng mù zhī qián;" },
+          { cn: "无论苦乐、顺逆，都放在主圣肩，", py: "wú lùn kǔ lè, shùn nì, dōu fàng zài zhǔ shèng jiān," },
+          { cn: "使我时时能说：“愿主旨意成全。”", py: "shǐ wǒ shí shí néng shuō: “yuàn zhǔ zhǐ yì chéng quán。”" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "恩主，照祢所愿！主爱总不变迁，", py: "ēn zhǔ, zhào nǐ suǒ yuàn! zhǔ ài zǒng bú biàn qiān," },
+          { cn: "有主安慰、倚靠，擦去眼泪涟涟；", py: "yǒu zhǔ ān wèi, yǐ kào, cā qù yǎn lèi lián lián;" },
+          { cn: "主昔亦遇逆境，备尝苦难熬煎，", py: "zhǔ xī yì yù nì jìng, bèi cháng kǔ nàn áo jiān," },
+          { cn: "若必与主同苦，愿主旨意成全。", py: "ruò bì yǔ zhǔ tóng kǔ, yuàn zhǔ zhǐ yì chéng quán。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "恩主，照祢所愿！在我深感安然，", py: "ēn zhǔ, zhào nǐ suǒ yuàn! zài wǒ shēn gǎn ān rán," },
+          { cn: "任凭前途变幻，靠祢信心弥坚；", py: "rèn píng qián tú biàn huàn, kào nǐ xìn xīn mí jiān;" },
+          { cn: "在世原为客旅，永远家乡在天，", py: "zài shì yuán wéi kè lǚ, yǒng yuǎn jiā xiāng zài tiān," },
+          { cn: "不论生死都说：“愿主旨意成全。”", py: "bú lùn shēng sǐ dōu shuō: “yuàn zhǔ zhǐ yì chéng quán。”" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 234,
+    title: "与主日近",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "愿与我主相亲，与主日近，", py: "yuàn yǔ wǒ zhǔ xiāng qīn, yǔ zhǔ rì jìn," },
+          { cn: "虽有忧愁的事，我仍前进；", py: "suī yǒu yōu chóu de shì, wǒ réng qián jìn;" },
+          { cn: "发出祷告心声，愿与我主相亲，", py: "fā chū dǎo gào xīn shēng, yuàn yǔ wǒ zhǔ xiāng qīn," },
+          { cn: "愿与我主相亲，与主日近。", py: "yuàn yǔ wǒ zhǔ xiāng qīn, yǔ zhǔ rì jìn。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我今暂为客旅，日已西沈，", py: "wǒ jīn zàn wéi kè lǚ, rì yǐ xī chén," },
+          { cn: "野地枕石而眠，黑暗渐深；", py: "yě dì zhěn shí ér mián, hēi àn jiàn shēn;" },
+          { cn: "夜静忧惧在心，愿与我主相亲，", py: "yè jìng yōu jù zài xīn, yuàn yǔ wǒ zhǔ xiāng qīn," },
+          { cn: "愿与我主相亲，与主日近。", py: "yuàn yǔ wǒ zhǔ xiāng qīn, yǔ zhǔ rì jìn。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "梦里看见一梯，立地顶天，", py: "mèng lǐ kàn jiàn yī tī, lì dì dǐng tiān," },
+          { cn: "蒙神显现安慰，赐恩无边；", py: "méng shén xiǎn xiàn ān wèi, cì ēn wú biān;" },
+          { cn: "听神应许佳音，愿与我主相亲，", py: "tīng shén yīng xǔ jiā yīn, yuàn yǔ wǒ zhǔ xiāng qīn," },
+          { cn: "愿与我主相亲，与主日近。", py: "yuàn yǔ wǒ zhǔ xiāng qīn, yǔ zhǔ rì jìn。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "睡醒满心感谢，曙色渐明，", py: "shuì xǐng mǎn xīn gǎn xiè, shǔ sè jiàn míng," },
+          { cn: "即将所枕之石，立柱起名；", py: "jí jiāng suǒ zhěn zhī shí, lì zhù qǐ míng;" },
+          { cn: "凡遇艰苦累身，更与我主相亲，", py: "fán yù jiān kǔ lèi shēn, gèng yǔ wǒ zhǔ xiāng qīn," },
+          { cn: "更与我主相亲，与主日近。", py: "gèng yǔ wǒ zhǔ xiāng qīn, yǔ zhǔ rì jìn。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 235,
+    title: "主我一体",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "恩主耶稣，我愿亲近祢！", py: "ēn zhǔ yē sū, wǒ yuàn qīn jìn nǐ!" },
+          { cn: "因祢的爱情，比酒更美；", py: "yīn nǐ de ài qíng, bǐ jiǔ gèng měi;" },
+          { cn: "祢膏油馨香，祢的名芬芳，", py: "nǐ gāo yóu xīn xiāng, nǐ de míng fēn fāng," },
+          { cn: "我乐意舞蹈，趁祢爱笛响。", py: "wǒ lè yì wǔ dǎo, chèn nǐ ài dí xiǎng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "主对我说：“我愿看见你，", py: "zhǔ duì wǒ shuō: “wǒ yuàn kàn jiàn nǐ," },
+          { cn: "因你的面貌，比花秀美；", py: "yīn nǐ de miàn mào, bǐ huā xiù měi;" },
+          { cn: "愿听你声音，因为甚柔和，", py: "yuàn tīng nǐ shēng yīn, yīn wèi shèn róu hé," },
+          { cn: "随时见闻你，我心就快乐。”", py: "suí shí jiàn wén nǐ, wǒ xīn jiù kuài lè。”" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我属我主，我主也属我，", py: "wǒ shǔ wǒ zhǔ, wǒ zhǔ yě shǔ wǒ," },
+          { cn: "我与主联合，成为一体；", py: "wǒ yǔ zhǔ lián hé, chéng wéi yī tǐ;" },
+          { cn: "身体连元首，永不能分离，", py: "shēn tǐ lián yuán shǒu, yǒng bú néng fēn lí," },
+          { cn: "教会属基督，是极大奥秘。", py: "jiào huì shǔ jī dū, shì jí dà ào mì。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 237,
+    title: "耶稣住在我心",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我生命已有了真希奇的改变，自耶稣来住在我心；", py: "wǒ shēng mìng yǐ yǒu le zhēn xī qí de gǎi biàn, zì yē sū lái zhù zài wǒ xīn;" },
+          { cn: "我久慕的真光，今照耀我里面，自耶稣来住在我心。", py: "wǒ jiǔ mù de zhēn guāng, jīn zhào yào wǒ lǐ miàn, zì yē sū lái zhù zài wǒ xīn。" },
+          { cn: "自耶稣来住在我心，自耶稣来住在我心；", py: "zì yē sū lái zhù zài wǒ xīn, zì yē sū lái zhù zài wǒ xīn;" },
+          { cn: "喜乐潮溢我心，如海洋浪滚滚，自耶稣来住在我心。", py: "xǐ lè cháo yì wǒ xīn, rú hǎi yáng làng gǔn gǔn, zì yē sū lái zhù zài wǒ xīn。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "已绝迹我流荡，不再入那迷途，自耶稣来住在我心；", py: "yǐ jué jì wǒ liú dàng, bú zài rù nà mí tú, zì yē sū lái zhù zài wǒ xīn;" },
+          { cn: "我的罪虽众多，主宝血已救赎，自耶稣来住在我心。", py: "wǒ de zuì suī zhòng duō, zhǔ bǎo xuè yǐ jiù shú, zì yē sū lái zhù zài wǒ xīn。" },
+          { cn: "自耶稣来住在我心，自耶稣来住在我心；", py: "zì yē sū lái zhù zài wǒ xīn, zì yē sū lái zhù zài wǒ xīn;" },
+          { cn: "喜乐潮溢我心，如海洋浪滚滚，自耶稣来住在我心。", py: "xǐ lè cháo yì wǒ xīn, rú hǎi yáng làng gǔn gǔn, zì yē sū lái zhù zài wǒ xīn。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我今有大盼望，又坚固又牢靠，自耶稣来住在我心；", py: "wǒ jīn yǒu dà pàn wàng, yòu jiān gù yòu láo kào, zì yē sū lái zhù zài wǒ xīn;" },
+          { cn: "我因信能望见，那家乡极美好，自耶稣来住在我心。", py: "wǒ yīn xìn néng wàng jiàn, nà jiā xiāng jí měi hǎo, zì yē sū lái zhù zài wǒ xīn。" },
+          { cn: "自耶稣来住在我心，自耶稣来住在我心；", py: "zì yē sū lái zhù zài wǒ xīn, zì yē sū lái zhù zài wǒ xīn;" },
+          { cn: "喜乐潮溢我心，如海洋浪滚滚，自耶稣来住在我心。", py: "xǐ lè cháo yì wǒ xīn, rú hǎi yáng làng gǔn gǔn, zì yē sū lái zhù zài wǒ xīn。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "我深知到那日，永居住荣美城，自耶稣来住在我心；", py: "wǒ shēn zhī dào nà rì, yǒng jū zhù róng měi chéng, zì yē sū lái zhù zài wǒ xīn;" },
+          { cn: "我每日极快乐，能奋勇向前行，自耶稣来住在我心。", py: "wǒ měi rì jí kuài lè, néng fèn yǒng xiàng qián xíng, zì yē sū lái zhù zài wǒ xīn。" },
+          { cn: "自耶稣来住在我心，自耶稣来住在我心；", py: "zì yē sū lái zhù zài wǒ xīn, zì yē sū lái zhù zài wǒ xīn;" },
+          { cn: "喜乐潮溢我心，如海洋浪滚滚，自耶稣来住在我心。", py: "xǐ lè cháo yì wǒ xīn, rú hǎi yáng làng gǔn gǔn, zì yē sū lái zhù zài wǒ xīn。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 238,
+    title: "来居我心，主耶稣！",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "在昔日，我主为罪人降生，撇华冕，离天上尊荣；", py: "zài xī rì, wǒ zhǔ wéi zuì rén jiàng shēng, piē huá miǎn, lí tiān shàng zūn róng;" },
+          { cn: "在大卫之城一客店马棚，卑微处是为主预定。", py: "zài dà wèi zhī chéng yī kè diàn mǎ péng, bēi wēi chù shì wéi zhǔ yù dìng。" },
+          { cn: "求来居我心，主耶稣！在我心有住处为主；", py: "qiú lái jū wǒ xīn, zhǔ yē sū! zài wǒ xīn yǒu zhù chù wéi zhǔ;" },
+          { cn: "求来居我心，主耶稣来！在我心有住处为主。", py: "qiú lái jū wǒ xīn, zhǔ yē sū lái! zài wǒ xīn yǒu zhù chù wéi zhǔ。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "狐狸尚有洞，飞鸟亦有窝，困乏时，得安居稳妥；", py: "hú lí shàng yǒu dòng, fēi niǎo yì yǒu wō, kùn fá shí, dé ān jū wěn tuǒ;" },
+          { cn: "惟我主耶稣顺父旨奔波，在世间无枕首之所。", py: "wéi wǒ zhǔ yē sū shùn fù zhǐ bēn bō, zài shì jiān wú zhěn shǒu zhī suǒ。" },
+          { cn: "求来居我心，主耶稣！在我心有住处为主；", py: "qiú lái jū wǒ xīn, zhǔ yē sū! zài wǒ xīn yǒu zhù chù wéi zhǔ;" },
+          { cn: "求来居我心，主耶稣来！在我心有住处为主。", py: "qiú lái jū wǒ xīn, zhǔ yē sū lái! zài wǒ xīn yǒu zhù chù wéi zhǔ。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "主赐生命源，救人脱罪权，真如同解缧绁一般；", py: "zhǔ cì shēng mìng yuán, jiù rén tuō zuì quán, zhēn rú tóng jiě léi xiè yī bān;" },
+          { cn: "人却戏笑主，加以荆棘冠，钉十架为极刑罪犯。", py: "rén què xì xiào zhǔ, jiā yǐ jīng jí guàn, dìng shí jià wéi jí xíng zuì fàn。" },
+          { cn: "求来居我心，主耶稣！在我心有住处为主；", py: "qiú lái jū wǒ xīn, zhǔ yē sū! zài wǒ xīn yǒu zhù chù wéi zhǔ;" },
+          { cn: "求来居我心，主耶稣来！在我心有住处为主。", py: "qiú lái jū wǒ xīn, zhǔ yē sū lái! zài wǒ xīn yǒu zhù chù wéi zhǔ。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "何时唱凯歌，声满穹苍上，同迎接永得胜君王？", py: "hé shí chàng kǎi gē, shēng mǎn qióng cāng shàng, tóng yíng jiē yǒng dé shèng jūn wáng?" },
+          { cn: "愿见主恩光普世照辉煌，蒙恩人皆被接主旁。", py: "yuàn jiàn zhǔ ēn guāng pǔ shì zhào huī huáng, méng ēn rén jiē bèi jiē zhǔ páng。" },
+          { cn: "那时我已见主耶稣，与圣徒同歌颂欢呼；", py: "nà shí wǒ yǐ jiàn zhǔ yē sū, yǔ shèng tú tóng gē sòng huān hū;" },
+          { cn: "那时我已见基督耶稣，与圣徒同歌颂欢呼。", py: "nà shí wǒ yǐ jiàn jī dū yē sū, yǔ shèng tú tóng gē sòng huān hū。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 241,
+    title: "我生命的君王",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我心所喜欢，我灵魂所仰望，就是我生命的君王；", py: "wǒ xīn suǒ xǐ huān, wǒ líng hún suǒ yǎng wàng, jiù shì wǒ shēng mìng de jūn wáng;" },
+          { cn: "随时赞美祢，随处称颂祢，尚觉不能满我心肠。", py: "suí shí zàn měi nǐ, suí chù chēng sòng nǐ, shàng jué bú néng mǎn wǒ xīn cháng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我心所喜爱，我的主，我良人，声音温和，面容慈祥；", py: "wǒ xīn suǒ xǐ ài, wǒ de zhǔ, wǒ liáng rén, shēng yīn wēn hé, miàn róng cí xiáng;" },
+          { cn: "天使朝见祢，大声唱圣歌，呼应我们所唱诗章。", py: "tiān shǐ cháo jiàn nǐ, dà shēng chàng shèng gē, hū yìng wǒ men suǒ chàng shī zhāng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我心所恋慕，我全身所归属，我君王永居我内心；", py: "wǒ xīn suǒ liàn mù, wǒ quán shēn suǒ guī shǔ, wǒ jūn wáng yǒng jū wǒ nèi xīn;" },
+          { cn: "我生命、希望、福乐全在祢，我要倚靠祢情更深。", py: "wǒ shēng mìng, xī wàng, fú lè quán zài nǐ, wǒ yào yǐ kào nǐ qíng gèng shēn。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 243,
+    title: "引我更亲近",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我属祢，恩主！我闻祢言语，言明祢爱我全备；", py: "wǒ shǔ nǐ, ēn zhǔ! wǒ wén nǐ yán yǔ, yán míng nǐ ài wǒ quán bèi;" },
+          { cn: "我切望兴起，有信心、勇气，被吸引更亲近祢。", py: "wǒ qiē wàng xìng qǐ, yǒu xìn xīn, yǒng qì, bèi xī yǐn gèng qīn jìn nǐ。" },
+          { cn: "引我亲近，亲近我恩主，到主施恩宝座前；", py: "yǐn wǒ qīn jìn, qīn jìn wǒ ēn zhǔ, dào zhǔ shī ēn bǎo zuò qián;" },
+          { cn: "引我亲近，亲近，更亲近恩主，终日倚在主身边。", py: "yǐn wǒ qīn jìn, qīn jìn, gèng qīn jìn ēn zhǔ, zhōng rì yǐ zài zhǔ shēn biān。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "分别我为圣，专为主所用，依靠主大能恩宠；", py: "fēn bié wǒ wéi shèng, zhuān wéi zhǔ suǒ yòng, yī kào zhǔ dà néng ēn chǒng;" },
+          { cn: "助我向上看，有坚固盼望，心灵尊主为至上。", py: "zhù wǒ xiàng shàng kàn, yǒu jiān gù pàn wàng, xīn líng zūn zhǔ wéi zhì shàng。" },
+          { cn: "引我亲近，亲近我恩主，到主施恩宝座前；", py: "yǐn wǒ qīn jìn, qīn jìn wǒ ēn zhǔ, dào zhǔ shī ēn bǎo zuò qián;" },
+          { cn: "引我亲近，亲近，更亲近恩主，终日倚在主身边。", py: "yǐn wǒ qīn jìn, qīn jìn, gèng qīn jìn ēn zhǔ, zhōng rì yǐ zài zhǔ shēn biān。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "多利用时间，跪在恩主前，属灵喜乐难尽言！", py: "duō lì yòng shí jiān, guì zài ēn zhǔ qián, shǔ líng xǐ lè nán jìn yán!" },
+          { cn: "灵与灵相亲，心与心相印，与主相交在乐园。", py: "líng yǔ líng xiāng qīn, xīn yǔ xīn xiāng yìn, yǔ zhǔ xiāng jiāo zài lè yuán。" },
+          { cn: "引我亲近，亲近我恩主，到主施恩宝座前；", py: "yǐn wǒ qīn jìn, qīn jìn wǒ ēn zhǔ, dào zhǔ shī ēn bǎo zuò qián;" },
+          { cn: "引我亲近，亲近，更亲近恩主，终日倚在主身边。", py: "yǐn wǒ qīn jìn, qīn jìn, gèng qīn jìn ēn zhǔ, zhōng rì yǐ zài zhǔ shēn biān。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "主爱何等深，我今难尽明，要等我度完今生；", py: "zhǔ ài hé děng shēn, wǒ jīn nán jìn míng, yào děng wǒ dù wán jīn shēng;" },
+          { cn: "永乐何等大，我今未知情，要等我回到天庭。", py: "yǒng lè hé děng dà, wǒ jīn wèi zhī qíng, yào děng wǒ huí dào tiān tíng。" },
+          { cn: "引我亲近，亲近我恩主，到主施恩宝座前；", py: "yǐn wǒ qīn jìn, qīn jìn wǒ ēn zhǔ, dào zhǔ shī ēn bǎo zuò qián;" },
+          { cn: "引我亲近，亲近，更亲近恩主，终日倚在主身边。", py: "yǐn wǒ qīn jìn, qīn jìn, gèng qīn jìn ēn zhǔ, zhōng rì yǐ zài zhǔ shēn biān。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 244,
+    title: "主，我愿像祢！",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "荣耀的救主，我深愿像祢！这是我盼望，", py: "róng yào de jiù zhǔ, wǒ shēn yuàn xiàng nǐ! zhè shì wǒ pàn wàng," },
+          { cn: "是我祷告；我甘愿舍弃世上的财宝，", py: "shì wǒ dǎo gào; wǒ gān yuàn shě qì shì shàng de cái bǎo," },
+          { cn: "披戴主基督，守主圣道。", py: "pī dài zhǔ jī dū, shǒu zhǔ shèng dào。" },
+          { cn: "主，我愿像祢！", py: "zhǔ, wǒ yuàn xiàng nǐ!" },
+          { cn: "主，我愿像祢！荣耀的救主，像祢圣洁！靠主的", py: "zhǔ, wǒ yuàn xiàng nǐ! róng yào de jiù zhǔ, xiàng nǐ shèng jié! kào zhǔ de" },
+          { cn: "圣灵，行主的真理，愿基督成形在我心里。", py: "shèng líng, xíng zhǔ de zhēn lǐ, yuàn jī dū chéng xíng zài wǒ xīn lǐ。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "主，我愿像祢！有怜悯心肠、温柔和谦卑，", py: "zhǔ, wǒ yuàn xiàng nǐ! yǒu lián mǐn xīn cháng, wēn róu hé qiān bēi," },
+          { cn: "慈爱、善良；帮助软弱者，慰痛苦忧伤，", py: "cí ài, shàn liáng; bāng zhù ruǎn ruò zhě, wèi tòng kǔ yōu shāng," },
+          { cn: "领人得永生，寻找亡羊。", py: "lǐng rén dé yǒng shēng, xún zhǎo wáng yáng。" },
+          { cn: "主，我愿像祢！", py: "zhǔ, wǒ yuàn xiàng nǐ!" },
+          { cn: "主，我愿像祢！荣耀的救主，像祢圣洁！靠主的", py: "zhǔ, wǒ yuàn xiàng nǐ! róng yào de jiù zhǔ, xiàng nǐ shèng jié! kào zhǔ de" },
+          { cn: "圣灵，行主的真理，愿基督成形在我心里。", py: "shèng líng, xíng zhǔ de zhēn lǐ, yuàn jī dū chéng xíng zài wǒ xīn lǐ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 245,
+    title: "求主密相契",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "红日沉西夜色铺，", py: "hóng rì chén xī yè sè pù," },
+          { cn: "一天容易又稳度；", py: "yī tiān róng yì yòu wěn dù;" },
+          { cn: "抛去忧虑与劳苦，", py: "pāo qù yōu lǜ yǔ láo kǔ," },
+          { cn: "求主今夜再保护。", py: "qiú zhǔ jīn yè zài bǎo hù。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "圣目洞察朝与暮，", py: "shèng mù dòng chá zhāo yǔ mù," },
+          { cn: "一切隐情尽显露；", py: "yī qiē yǐn qíng jìn xiǎn lù;" },
+          { cn: "求主向我施怜悯，", py: "qiú zhǔ xiàng wǒ shī lián mǐn," },
+          { cn: "赦免罪过息圣怒。", py: "shè miǎn zuì guò xī shèng nù。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "地上岁月流不住，", py: "dì shàng suì yuè liú bú zhù," },
+          { cn: "人生在世如云雾；", py: "rén shēng zài shì rú yún wù;" },
+          { cn: "但我蒙主赐永生，", py: "dàn wǒ méng zhǔ cì yǒng shēng," },
+          { cn: "欢然奔走天国路。", py: "huān rán bēn zǒu tiān guó lù。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "在世帐棚原过渡，", py: "zài shì zhàng péng yuán guò dù," },
+          { cn: "天上房屋我羡慕；", py: "tiān shàng fáng wū wǒ xiàn mù;" },
+          { cn: "深愿与主密相契，", py: "shēn yuàn yǔ zhǔ mì xiāng qì," },
+          { cn: "好得无比主同住。", py: "hǎo dé wú bǐ zhǔ tóng zhù。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 251,
+    title: "圣灵的洗",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "圣灵如油倒在人身，方言、灵歌是真；", py: "shèng líng rú yóu dǎo zài rén shēn, fāng yán, líng gē shì zhēn;" },
+          { cn: "圣灵如雨浇在人身，清新、凉爽是真；", py: "shèng líng rú yǔ jiāo zài rén shēn, qīng xīn, liáng shuǎng shì zhēn;" },
+          { cn: "圣灵如风吹在人身，震动、跳舞是真。", py: "shèng líng rú fēng chuī zài rén shēn, zhèn dòng, tiào wǔ shì zhēn。" },
+          { cn: "我真羡慕，我必祈求，更愿灵恩普临。", py: "wǒ zhēn xiàn mù, wǒ bì qí qiú, gèng yuàn líng ēn pǔ lín。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "圣灵如火落在人身，使人火热是真；", py: "shèng líng rú huǒ luò zài rén shēn, shǐ rén huǒ rè shì zhēn;" },
+          { cn: "圣灵如鸽降在人身，驯良、温柔是真；", py: "shèng líng rú gē jiàng zài rén shēn, xùn liáng, wēn róu shì zhēn;" },
+          { cn: "圣灵如膏膏在人身，教训、引导是真。", py: "shèng líng rú gāo gāo zài rén shēn, jiāo xùn, yǐn dǎo shì zhēn。" },
+          { cn: "我真羡慕，我必祈求，更愿灵恩普临。", py: "wǒ zhēn xiàn mù, wǒ bì qí qiú, gèng yuàn líng ēn pǔ lín。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 255,
+    title: "灵恩大会",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "灵恩大会今开了，弟兄、姊妹全来到，", py: "líng ēn dà huì jīn kāi le, dì xiōng, jiě mèi quán lái dào," },
+          { cn: "静听真道，专心、诚实做祷告；", py: "jìng tīng zhēn dào, zhuān xīn, chéng shí zuò dǎo gào;" },
+          { cn: "各样俗事全抛弃，一切杂念都丢掉，", py: "gè yàng sú shì quán pāo qì, yī qiè zá niàn dōu diū diào," },
+          { cn: "虚心、迫切祈求圣灵快临到。", py: "xū xīn, pò qiè qí qiú shèng líng kuài lín dào。" },
+          { cn: "圣灵乃是无价宝，世界上无处可找；", py: "shèng líng nǎi shì wú jià bǎo, shì jiè shàng wú chù kě zhǎo;" },
+          { cn: "得了圣灵真快乐，可到天堂真美好；", py: "dé le shèng líng zhēn kuài lè, kě dào tiān táng zhēn měi hǎo;" },
+          { cn: "我们大家都要求这真至宝。", py: "wǒ men dà jiā dōu yào qiú zhè zhēn zhì bǎo。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "圣灵降临真奇妙，各样恩赐都显照，", py: "shèng líng jiàng lín zhēn qí miào, gè yàng ēn cì dōu xiǎn zhào," },
+          { cn: "方言、灵歌、灵笑、灵哭、灵舞蹈；", py: "fāng yán, líng gē, líng xiào, líng kū, líng wǔ dǎo;" },
+          { cn: "如鸽、如风、如火舌，又如江河水滔滔，", py: "rú gē, rú fēng, rú huǒ shé, yòu rú jiāng hé shuǐ tāo tāo," },
+          { cn: "赏赐力量，医病、赶鬼传真道。", py: "shǎng cì lì liàng, yī bìng, gǎn guǐ chuán zhēn dào。" },
+          { cn: "圣灵乃是无价宝，世界上无处可找；", py: "shèng líng nǎi shì wú jià bǎo, shì jiè shàng wú chù kě zhǎo;" },
+          { cn: "得了圣灵真快乐，可到天堂真美好；", py: "dé le shèng líng zhēn kuài lè, kě dào tiān táng zhēn měi hǎo;" },
+          { cn: "我们大家都要求这真至宝。", py: "wǒ men dà jiā dōu yào qiú zhè zhēn zhì bǎo。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "圣灵功能像火烧，能把我们重改造，", py: "shèng líng gōng néng xiàng huǒ shāo, néng bǎ wǒ men zhòng gǎi zào," },
+          { cn: "除去污秽，洗去杂质，成美好；", py: "chú qù wū huì, xǐ qù zá zhì, chéng měi hǎo;" },
+          { cn: "启迪我们明真道，代替我们做祷告，", py: "qǐ dí wǒ men míng zhēn dào, dài tì wǒ men zuò dǎo gào," },
+          { cn: "加添力量，帮助我们行天道。", py: "jiā tiān lì liàng, bāng zhù wǒ men xíng tiān dào。" },
+          { cn: "圣灵乃是无价宝，世界上无处可找；", py: "shèng líng nǎi shì wú jià bǎo, shì jiè shàng wú chù kě zhǎo;" },
+          { cn: "得了圣灵真快乐，可到天堂真美好；", py: "dé le shèng líng zhēn kuài lè, kě dào tiān táng zhēn měi hǎo;" },
+          { cn: "我们大家都要求这真至宝。", py: "wǒ men dà jiā dōu yào qiú zhè zhēn zhì bǎo。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 258,
+    title: "禁食祈祷",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "禁食能力胜过肉体，", py: "jìn shí néng lì shèng guò ròu tǐ," },
+          { cn: "耶稣圣灵在我心里；", py: "yē sū shèng líng zài wǒ xīn lǐ;" },
+          { cn: "制服情欲，治死罪行，", py: "zhì fú qíng yù, zhì sǐ zuì xíng," },
+          { cn: "坚持信心，忍耐到底。", py: "jiān chí xìn xīn, rěn nài dào dǐ。" },
+          { cn: "我靠圣灵必定得胜，", py: "wǒ kào shèng líng bì dìng dé shèng," },
+          { cn: "耶稣帮助，使我得胜。", py: "yē sū bāng zhù, shǐ wǒ dé shèng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "禁食能力胜过世界，", py: "jìn shí néng lì shèng guò shì jiè," },
+          { cn: "魔鬼试探被我打败；", py: "mó guǐ shì tàn bèi wǒ dǎ bài;" },
+          { cn: "人要活着，须靠主话，", py: "rén yào huó zhe, xū kào zhǔ huà," },
+          { cn: "万国荣华，视同草芥。", py: "wàn guó róng huá, shì tóng cǎo jiè。" },
+          { cn: "我靠圣灵必定得胜，", py: "wǒ kào shèng líng bì dìng dé shèng," },
+          { cn: "耶稣帮助，使我得胜。", py: "yē sū bāng zhù, shǐ wǒ dé shèng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "禁食能力胜过邪灵，", py: "jìn shí néng lì shèng guò xié líng," },
+          { cn: "靠着圣灵宣传福音；", py: "kào zhe shèng líng xuān chuán fú yīn;" },
+          { cn: "医病、赶鬼，救人灵魂，", py: "yī bìng, gǎn guǐ, jiù rén líng hún," },
+          { cn: "齐心努力，引人归真。", py: "qí xīn nǔ lì, yǐn rén guī zhēn。" },
+          { cn: "我靠圣灵必定得胜，", py: "wǒ kào shèng líng bì dìng dé shèng," },
+          { cn: "耶稣帮助，使我得胜。", py: "yē sū bāng zhù, shǐ wǒ dé shèng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 261,
+    title: "晚祷感恩",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "今天又是一日过去，我们大家相会；", py: "jīn tiān yòu shì yī rì guò qù, wǒ men dà jiā xiàng huì;" },
+          { cn: "都在天父面前跪拜，感谢保佑恩惠。", py: "dōu zài tiān fù miàn qián guì bài, gǎn xiè bǎo yòu ēn huì。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "多蒙天父今日保护，阖家喜乐、平安；", py: "duō méng tiān fù jīn rì bǎo hù, hé jiā xǐ lè, píng ān;" },
+          { cn: "今日夜间恳求天父，再保护到天亮。", py: "jīn rì yè jiān kěn qiú tiān fù, zài bǎo hù dào tiān liàng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "加我敬爱，使我深信，德行都能全备；", py: "jiā wǒ jìng ài, shǐ wǒ shēn xìn, dé xíng dōu néng quán bèi;" },
+          { cn: "儆醒预备，日日前进，将来同住福地。", py: "jǐng xǐng yù bèi, rì rì qián jìn, jiāng lái tóng zhù fú dì。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 262,
+    title: "与神灵交",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "神子跪祷捶胸愁脸，忽升第三层天，圣父慈声召", py: "shén zǐ guì dǎo chuí xiōng chóu liǎn, hū shēng dì sān céng tiān, shèng fù cí shēng zhào" },
+          { cn: "我进前，问我所求哪件？我说：今生思虑累住，我", py: "wǒ jìn qián, wèn wǒ: suǒ qiú nà jiàn? wǒ shuō: jīn shēng sī lǜ lèi zhù, wǒ" },
+          { cn: "父！求祢垂怜！但愿先求神国神义，衣食必赐完全。", py: "fù! qiú nǐ chuí lián! dàn yuàn xiān qiú shén guó shén yì, yī shí bì cì wán quán。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "神子跪祷身洁衣整，忽升第三层天，圣父慈手按", py: "shén zǐ guì dǎo shēn jié yī zhěng, hū shēng dì sān céng tiān, shèng fù cí shǒu àn" },
+          { cn: "我两肩，问我所求哪件？我说：世界罪恶污秽，我", py: "wǒ liǎng jiān, wèn wǒ: suǒ qiú nà jiàn? wǒ shuō: shì jiè zuì è wū huì, wǒ" },
+          { cn: "父！求祢垂怜！但愿守道不沾恶俗，赐我圣洁完全。", py: "fù! qiú nǐ chuí lián! dàn yuàn shǒu dào bú zhān è sú, cì wǒ shèng jié wán quán。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "神子跪祷心诚意真，忽升第三层天，圣父慈颜就", py: "shén zǐ guì dǎo xīn chéng yì zhēn, hū shēng dì sān céng tiān, shèng fù cí yán jiù" },
+          { cn: "我身边，问我所求哪件？我说：肉体情欲辖制，我", py: "wǒ shēn biān, wèn wǒ: suǒ qiú nà jiàn? wǒ shuō: ròu tǐ qíng yù xiá zhì, wǒ" },
+          { cn: "父！求祢垂怜！但愿日日攻克己身，灵果结出完全。", py: "fù! qiú nǐ chuí lián! dàn yuàn rì rì gōng kè jǐ shēn, líng guǒ jié chū wán quán。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "神子跪祷神清气爽，忽升第三层天，圣父慈臂向", py: "shén zǐ guì dǎo shén qīng qì shuǎng, hū shēng dì sān céng tiān, shèng fù cí bì xiàng" },
+          { cn: "我拥抱，问我所求哪件？我说：教会嫉妒纷争，我", py: "wǒ yōng bào, wèn wǒ: suǒ qiú nà jiàn? wǒ shuō: jiāo huì jí dù fèn zhēng, wǒ" },
+          { cn: "父！求祢垂怜！但愿彼此谦卑相爱，主里合一完全。", py: "fù! qiú nǐ chuí lián! dàn yuàn bǐ cǐ qiān bēi xiāng ài, zhǔ lǐ hé yī wán quán。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 265,
+    title: "快告诉耶稣",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "你心若有什么疑虑、痛苦，你当告诉耶稣，你当告诉耶稣；", py: "nǐ xīn ruò yǒu shí me yí lǜ, tòng kǔ, nǐ dāng gào sù yē sū, nǐ dāng gào sù yē sū;" },
+          { cn: "祂必时时安慰，处处匡扶，故当快告诉耶稣。", py: "tā bì shí shí ān wèi, chù chù kuāng fú, gù dāng kuài gào sù yē sū。" },
+          { cn: "你当告诉耶稣，你当告诉耶稣，最慈爱的主耶稣；", py: "nǐ dāng gào sù yē sū, nǐ dāng gào sù yē sū, zuì cí ài de zhǔ yē sū;" },
+          { cn: "祂是你救主，必允许你所求，必做你随时帮助。", py: "tā shì nǐ jiù zhǔ, bì yǔn xǔ nǐ suǒ qiú, bì zuò nǐ suí shí bāng zhù。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "你心若有什么积怨、含怒，你当告诉耶稣，你当告诉耶稣；", py: "nǐ xīn ruò yǒu shí me jī yuàn, hán nù, nǐ dāng gào sù yē sū, nǐ dāng gào sù yē sū;" },
+          { cn: "祂必时时开导，处处提醒，故当快告诉耶稣。", py: "tā bì shí shí kāi dǎo, chù chù tí xǐng, gù dāng kuài gào sù yē sū。" },
+          { cn: "你当告诉耶稣，你当告诉耶稣，最慈爱的主耶稣；", py: "nǐ dāng gào sù yē sū, nǐ dāng gào sù yē sū, zuì cí ài de zhǔ yē sū;" },
+          { cn: "祂是你救主，必允许你所求，必做你随时帮助。", py: "tā shì nǐ jiù zhǔ, bì yǔn xǔ nǐ suǒ qiú, bì zuò nǐ suí shí bāng zhù。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "你心若有什么软弱、胆怯，你当告诉耶稣，你当告诉耶稣；", py: "nǐ xīn ruò yǒu shí me ruǎn ruò, dǎn qiè, nǐ dāng gào sù yē sū, nǐ dāng gào sù yē sū;" },
+          { cn: "祂必时时帮助，处处看顾，故当快告诉耶稣。", py: "tā bì shí shí bāng zhù, chù chù kàn gù, gù dāng kuài gào sù yē sū。" },
+          { cn: "你当告诉耶稣，你当告诉耶稣，最慈爱的主耶稣；", py: "nǐ dāng gào sù yē sū, nǐ dāng gào sù yē sū, zuì cí ài de zhǔ yē sū;" },
+          { cn: "祂是你救主，必允许你所求，必做你随时帮助。", py: "tā shì nǐ jiù zhǔ, bì yǔn xǔ nǐ suǒ qiú, bì zuò nǐ suí shí bāng zhù。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 267,
+    title: "听主差遣",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我曾听见主的声音：“谁肯听我差遣？”", py: "wǒ céng tīng jiàn zhǔ de shēng yīn: “shuí kěn tīng wǒ chāi qiǎn?”" },
+          { cn: "我对主说：“我在这里，愿主现在差遣！”", py: "wǒ duì zhǔ shuō: “wǒ zài zhè lǐ, yuàn zhǔ xiàn zài chāi qiǎn!”" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "差我何往，我必前往；要我何言，必言；", py: "chāi wǒ hé wǎng, wǒ bì qián wǎng; yào wǒ hé yán, bì yán;" },
+          { cn: "派我何事，我都乐做。身心甘献主前。", py: "pài wǒ hé shì, wǒ dōu lè zuò。 shēn xīn gān xiàn zhǔ qián。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "传扬真道，虽遭艰险，圣灵助我得胜；", py: "chuán yáng zhēn dào, suī zāo jiān xiǎn, shèng líng zhù wǒ dé shèng;" },
+          { cn: "圣工完毕，得立主前，主必亲赠冠冕。", py: "shèng gōng wán bì, dé lì zhǔ qián, zhǔ bì qīn zèng guàn miǎn。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 268,
+    title: "听从主呼召",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "主在叫我，岂可不听？我的灵魂应当儆醒；", py: "zhǔ zài jiào wǒ, qǐ kě bú tīng? wǒ de líng hún yīng dāng jǐng xǐng;" },
+          { cn: "地上荣华，快乐享受，如同浮云，转眼消形。", py: "dì shàng róng huá, kuài lè xiǎng shòu, rú tóng fú yún, zhuǎn yǎn xiāo xíng。" },
+          { cn: "恩主叫，要听祂，恩主叫，要听祂；恩主叫我，我要听祂，我要听祂。", py: "ēn zhǔ jiào, yào tīng tā, ēn zhǔ jiào, yào tīng tā; ēn zhǔ jiào wǒ, wǒ yào tīng tā, wǒ yào tīng tā。" },
+          { cn: "恩主叫，要听祂，恩主叫，要听祂；恩主叫我，我要赶紧听从祂。", py: "ēn zhǔ jiào, yào tīng tā, ēn zhǔ jiào, yào tīng tā; ēn zhǔ jiào wǒ, wǒ yào gǎn jǐn tīng cóng tā。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "主在叫我，要快起来，岂可忽视祂的慈爱？", py: "zhǔ zài jiào wǒ, yào kuài qǐ lái, qǐ kě hū shì tā de cí ài?" },
+          { cn: "赶快起来，为祂工作，不可将我责任推开。", py: "gǎn kuài qǐ lái, wéi tā gōng zuò, bú kě jiāng wǒ zé rèn tuī kāi。" },
+          { cn: "恩主叫，要听祂，恩主叫，要听祂；恩主叫我，我要听祂，我要听祂。", py: "ēn zhǔ jiào, yào tīng tā, ēn zhǔ jiào, yào tīng tā; ēn zhǔ jiào wǒ, wǒ yào tīng tā, wǒ yào tīng tā。" },
+          { cn: "恩主叫，要听祂，恩主叫，要听祂；恩主叫我，我要赶紧听从祂。", py: "ēn zhǔ jiào, yào tīng tā, ēn zhǔ jiào, yào tīng tā; ēn zhǔ jiào wǒ, wǒ yào gǎn jǐn tīng cóng tā。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "主在叫我，打开心门，岂可紧闭，令祂愁烦？", py: "zhǔ zài jiào wǒ, dǎ kāi xīn mén, qǐ kě jǐn bì, lìng tā chóu fán?" },
+          { cn: "听祂呼召，去传福音，努力拯救罪中灵魂。", py: "tīng tā hū zhào, qù chuán fú yīn, nǔ lì zhěng jiù zuì zhōng líng hún。" },
+          { cn: "恩主叫，要听祂，恩主叫，要听祂；恩主叫我，我要听祂，我要听祂。", py: "ēn zhǔ jiào, yào tīng tā, ēn zhǔ jiào, yào tīng tā; ēn zhǔ jiào wǒ, wǒ yào tīng tā, wǒ yào tīng tā。" },
+          { cn: "恩主叫，要听祂，恩主叫，要听祂；恩主叫我，我要赶紧听从祂。", py: "ēn zhǔ jiào, yào tīng tā, ēn zhǔ jiào, yào tīng tā; ēn zhǔ jiào wǒ, wǒ yào gǎn jǐn tīng cóng tā。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 269,
+    title: "闻主呼召我",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "听见救主出声叫我：“什么人要去工作？", py: "tīng jiàn jiù zhǔ chū shēng jiào wǒ: “shén me rén yào qù gōng zuò?" },
+          { cn: "观看田畴，庄稼已熟，什么人要去收获？”", py: "guān kàn tián chóu, zhuāng jià yǐ shú, shén me rén yào qù shōu huò?”" },
+          { cn: "救主很久就在呼叫，祂奖赏实在美好，", py: "jiù zhǔ hěn jiǔ jiù zài hū jiào, tā jiǎng shǎng shí zài měi hǎo," },
+          { cn: "有谁甘心即时应召？“我在此，差我，差我！”", py: "yǒu shuí gān xīn jí shí yìng zhào? “wǒ zài cǐ, chāi wǒ, chāi wǒ!”" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "假使不能前往远处，去播扬得救福音，", py: "jiǎ shǐ bú néng qián wǎng yuǎn chù, qù bō yáng dé jiù fú yīn," },
+          { cn: "你之邻居周围有人，未曾归入主圣名；", py: "nǐ zhī lín jū zhōu wéi yǒu rén, wèi céng guī rù zhǔ shèng míng;" },
+          { cn: "当向他们劝告、引领，来信耶稣得永生，", py: "dāng xiàng tā men quàn gào, yǐn lǐng, lái xìn yē sū dé yǒng shēng," },
+          { cn: "争取时机，为主工作，祂必纪念你热诚。", py: "zhēng qǔ shí jī, wéi zhǔ gōng zuò, tā bì jì niàn nǐ rè chéng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "不可偷懒，故意推辞，说你无力量做工，", py: "bú kě tōu lǎn, gù yì tuī cí, shuō nǐ wú lì liàng zuò gōng," },
+          { cn: "世间众人正在沉沦，你岂可无动于衷？", py: "shì jiān zhòng rén zhèng zài chén lún, nǐ qǐ kě wú dòng yú zhōng?" },
+          { cn: "当速听从救主命令，尽力做工福无穷，", py: "dāng sù tīng cóng jiù zhǔ mìng lìng, jìn lì zuò gōng fú wú qióng," },
+          { cn: "主在呼召，赶紧回答：“我在此，差我，差我！”", py: "zhǔ zài hū zhào, gǎn jǐn huí dá: “wǒ zài cǐ, chāi wǒ, chāi wǒ!”" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 273,
+    title: "大喜信息",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "听之，听之，马其顿人求而呼曰：“过来以主之福音助吾，", py: "tīng zhī, tīng zhī, mǎ qí dùn rén qiú ér hū yuē: “guò lái yǐ zhǔ zhī fú yīn zhù wú," },
+          { cn: "使吾听见，免去罪孽；大喜信息，以主之活泉润心。", py: "shǐ wú tīng jiàn, miǎn qù zuì niè; dà xǐ xìn xī, yǐ zhǔ zhī huó quán rùn xīn。" },
+          { cn: "宣扬基督救赎主者，何不兴起？须遵主之命，去传福音，", py: "xuān yáng jī dū jiù shú zhǔ zhě, hé bú xīng qǐ? xū zūn zhǔ zhī mìng, qù chuán fú yīn," },
+          { cn: "发出光辉，烛于幽暗，照于内心，传遍于各地、各城；", py: "fā chū guāng huī, zhú yú yōu àn, zhào yú nèi xīn, chuán biàn yú gè dì, gè chéng;" },
+          { cn: "东而来者密如云，西而来者复有人，皆至主前颂尊名。", py: "dōng ér lái zhě mì rú yún, xī ér lái zhě fù yǒu rén, jiē zhì zhǔ qián sòng zūn míng。" },
+          { cn: "蒙主救赎古圣民，首戴华冠得尊荣，同在天国享永生。", py: "méng zhǔ jiù shú gǔ shèng mín, shǒu dài huá guān dé zūn róng, tóng zài tiān guó xiǎng yǒng shēng。" },
+          { cn: "听之，听之，马其顿人求而呼曰：“过来以主之福音助吾，", py: "tīng zhī, tīng zhī, mǎ qí dùn rén qiú ér hū yuē: “guò lái yǐ zhǔ zhī fú yīn zhù wú," },
+          { cn: "使吾听见，免去罪孽；大喜信息，以主之活泉润心。", py: "shǐ wú tīng jiàn, miǎn qù zuì niè; dà xǐ xìn xī, yǐ zhǔ zhī huó quán rùn xīn。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "传之，传之，速传平安大喜信息，将主之救恩宣告万民，", py: "chuán zhī, chuán zhī, sù chuán píng ān dà xǐ xìn xī, jiāng zhǔ zhī jiù ēn xuān gào wàn mín," },
+          { cn: "走遍万方，登山渡海，为道作证，脚踪佳美而和平。", py: "zǒu biàn wàn fāng, dēng shān dù hǎi, wéi dào zuò zhèng, jiǎo zōng jiā měi ér hé píng。" },
+          { cn: "宣扬基督救赎主者，何不兴起？须遵主之命，去传福音，", py: "xuān yáng jī dū jiù shú zhǔ zhě, hé bú xīng qǐ? xū zūn zhǔ zhī mìng, qù chuán fú yīn," },
+          { cn: "吹起号筒，传播警告，引人归真，高举救恩的圣旗；", py: "chuī qǐ hào tǒng, chuán bō jǐng gào, yǐn rén guī zhēn, gāo jǔ jiù ēn de shèng qí;" },
+          { cn: "至终地上远近邦，无不听见主佳音，信者蒙恩何丰盛！", py: "zhì zhōng dì shàng yuǎn jìn bāng, wú bú tīng jiàn zhǔ jiā yīn, xìn zhě méng ēn hé fēng shèng!" },
+          { cn: "末日来到主降临，迎接信徒进天城，同享永远大尊荣。", py: "mò rì lái dào zhǔ jiàng lín, yíng jiē xìn tú jìn tiān chéng, tóng xiǎng yǒng yuǎn dà zūn róng。" },
+          { cn: "听之，听之，马其顿人求而呼曰：“过来以主之福音助吾，", py: "tīng zhī, tīng zhī, mǎ qí dùn rén qiú ér hū yuē: “guò lái yǐ zhǔ zhī fú yīn zhù wú," },
+          { cn: "使吾听见，免去罪孽；大喜信息，以主之活泉润心。", py: "shǐ wú tīng jiàn, miǎn qù zuì niè; dà xǐ xìn xī, yǐ zhǔ zhī huó quán rùn xīn。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 276,
+    title: "来听福音",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "亲友们！来听福音，是非要认真，", py: "qīn yǒu men! lái tīng fú yīn, shì fēi yào rèn zhēn," },
+          { cn: "救世大道理最明，真神施怜悯，", py: "jiù shì dà dào lǐ zuì míng, zhēn shén shī lián mǐn," },
+          { cn: "拯救人灵魂；信者脱罪免沉沦，", py: "zhěng jiù rén líng hún; xìn zhě tuō zuì miǎn chén lún," },
+          { cn: "无论士、农、工、商，男、女、老、幼，亿兆民。", py: "wú lùn shì, nóng, gōng, shāng, nán, nǚ, lǎo, yòu, yì zhào mín。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "亲友们！来听天道，是非要查考，", py: "qīn yǒu men! lái tīng tiān dào, shì fēi yào chá kǎo," },
+          { cn: "神圣大道理最好，耶稣做中保，", py: "shén shèng dà dào lǐ zuì hǎo, yē sū zuò zhōng bǎo," },
+          { cn: "钉死十字架；信者离俗出苦恼，", py: "dìng sǐ shí zì jià; xìn zhě lí sú chū kǔ nǎo," },
+          { cn: "无论亚、非、欧、美、澳洲，小屿与大岛。", py: "wú lùn yà, fēi, ōu, měi, ào zhōu, xiǎo yǔ yǔ dà dǎo。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "亲友们！来听真理，是非要知悉，", py: "qīn yǒu men! lái tīng zhēn lǐ, shì fēi yào zhī xī," },
+          { cn: "永生大道理最奇，圣灵指教你，", py: "yǒng shēng dà dào lǐ zuì qí, shèng líng zhǐ jiào nǐ," },
+          { cn: "启发你灵智；信者受洗归主里，", py: "qǐ fā nǐ líng zhì; xìn zhě shòu xǐ guī zhǔ lǐ," },
+          { cn: "无论南、北、东、西四方，天涯与地极。", py: "wú lùn nán, běi, dōng, xī sì fāng, tiān yá yǔ dì jí。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "亲友们！来听良箴，是非要认清，", py: "qīn yǒu men! lái tīng liáng zhēn, shì fēi yào rèn qīng," },
+          { cn: "天国大道理最真，使你得永生，", py: "tiān guó dà dào lǐ zuì zhēn, shǐ nǐ dé yǒng shēng," },
+          { cn: "真神显大爱；信者归真进天城，", py: "zhēn shén xiǎn dà ài; xìn zhě guī zhēn jìn tiān chéng," },
+          { cn: "无论智、愚、贫、富、贵、贱，化外与文明。", py: "wú lùn zhì, yú, pín, fù, guì, jiàn, huà wài yǔ wén míng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 277,
+    title: "喜传福音",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我传福音喜不胜，所讲耶稣救人，", py: "wǒ chuán fú yīn xǐ bú shèng, suǒ jiǎng yē sū jiù rén," },
+          { cn: "如何自天而降临？如何在地受刑？", py: "rú hé zì tiān ér jiàng lín? rú hé zài dì shòu xíng?" },
+          { cn: "我要宣传主福音，因为恩道是真，", py: "wǒ yào xuān chuán zhǔ fú yīn, yīn wéi ēn dào shì zhēn," },
+          { cn: "胜过世上多黄金，使我喜乐满心。", py: "shèng guò shì shàng duō huáng jīn, shǐ wǒ xǐ lè mǎn xīn。" },
+          { cn: "我传福音喜不胜，得与救主日相亲；", py: "wǒ chuán fú yīn xǐ bú shèng, dé yǔ jiù zhǔ rì xiāng qīn;" },
+          { cn: "宣扬得救之福音，颂赞耶稣慈仁。", py: "xuān yáng dé jiù zhī fú yīn, sòng zàn yē sū cí rén。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我传福音喜不胜，所讲除罪更新，", py: "wǒ chuán fú yīn xǐ bú shèng, suǒ jiǎng chú zuì gèng xīn," },
+          { cn: "如何受洗做新人？如何恳求圣灵？", py: "rú hé shòu xǐ zuò xīn rén? rú hé kěn qiú shèng líng?" },
+          { cn: "我要宣传主福音，因为应许是真，", py: "wǒ yào xuān chuán zhǔ fú yīn, yīn wéi yīng xǔ shì zhēn," },
+          { cn: "奉命见证对万民，不怕许多艰辛。", py: "fèng mìng jiàn zhèng duì wàn mín, bú pà xǔ duō jiān xīn。" },
+          { cn: "我传福音喜不胜，得与救主日相亲；", py: "wǒ chuán fú yīn xǐ bú shèng, dé yǔ jiù zhǔ rì xiāng qīn;" },
+          { cn: "宣扬得救之福音，颂赞耶稣慈仁。", py: "xuān yáng dé jiù zhī fú yīn, sòng zàn yē sū cí rén。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我传福音喜不胜，所讲耶稣再临，", py: "wǒ chuán fú yīn xǐ bú shèng, suǒ jiǎng yē sū zài lín," },
+          { cn: "如何预备迎主心？如何进入天城？", py: "rú hé yù bèi yíng zhǔ xīn? rú hé jìn rù tiān chéng?" },
+          { cn: "我要宣传主福音，因为赏赐是真，", py: "wǒ yào xuān chuán zhǔ fú yīn, yīn wéi shǎng cì shì zhēn," },
+          { cn: "竭力跑尽我路程，见主大显光荣。", py: "jié lì pǎo jìn wǒ lù chéng, jiàn zhǔ dà xiǎn guāng róng。" },
+          { cn: "我传福音喜不胜，得与救主日相亲；", py: "wǒ chuán fú yīn xǐ bú shèng, dé yǔ jiù zhǔ rì xiāng qīn;" },
+          { cn: "宣扬得救之福音，颂赞耶稣慈仁。", py: "xuān yáng dé jiù zhī fú yīn, sòng zàn yē sū cí rén。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 278,
+    title: "主拯救",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我听见喜乐之声，主拯救，主拯救，", py: "wǒ tīng jiàn xǐ lè zhī shēng, zhǔ zhěng jiù, zhǔ zhěng jiù," },
+          { cn: "在各处传扬福音，主拯救，主拯救；", py: "zài gè chù chuán yáng fú yīn, zhǔ zhěng jiù, zhǔ zhěng jiù;" },
+          { cn: "主命令应当遵行，上山头，又过海面，", py: "zhǔ mìng lìng yīng dāng zūn xíng, shàng shān tóu, yòu guò hǎi miàn," },
+          { cn: "至各处当报此信，主拯救，主拯救。", py: "zhì gè chù dāng bào cǐ xìn, zhǔ zhěng jiù, zhǔ zhěng jiù。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "圣灵降，真道显明，主拯救，主拯救，", py: "shèng líng jiàng, zhēn dào xiǎn míng, zhǔ zhěng jiù, zhǔ zhěng jiù," },
+          { cn: "传普世远近罪人，主拯救，主拯救；", py: "chuán pǔ shì yuǎn jìn zuì rén, zhǔ zhěng jiù, zhǔ zhěng jiù;" },
+          { cn: "各海岛蒙恩绵延，各山岭传遍相连，", py: "gè hǎi dǎo méng ēn mián yán, gè shān lǐng chuán biàn xiāng lián," },
+          { cn: "满地球都享禧年，主拯救，主拯救。", py: "mǎn dì qiú dōu xiǎng xǐ nián, zhǔ zhěng jiù, zhǔ zhěng jiù。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "主舍命，三日复活，主拯救，主拯救，", py: "zhǔ shě mìng, sān rì fù huó, zhǔ zhěng jiù, zhǔ zhěng jiù," },
+          { cn: "此福音传扬广阔，主拯救，主拯救；", py: "cǐ fú yīn chuán yáng guǎng kuò, zhǔ zhěng jiù, zhǔ zhěng jiù;" },
+          { cn: "遭苦难，跟主路程，行神迹，奉主尊名，", py: "zāo kǔ nán, gēn zhǔ lù chéng, xíng shén jì, fèng zhǔ zūn míng," },
+          { cn: "大声唱：“因信得赢，主拯救，主拯救！”", py: "dà shēng chàng: “yīn xìn dé yíng, zhǔ zhěng jiù, zhǔ zhěng jiù!”" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "号筒声吹遍地上，主拯救，主拯救，", py: "hào tǒng shēng chuī biàn dì shàng, zhǔ zhěng jiù, zhǔ zhěng jiù," },
+          { cn: "愿万邦一齐归主，主拯救，主拯救；", py: "yuàn wàn bāng yī qí guī zhǔ, zhǔ zhěng jiù, zhǔ zhěng jiù;" },
+          { cn: "由海岛至诸山冈，皆传递救世大恩，", py: "yóu hǎi dǎo zhì zhū shān gāng, jiē chuán dì jiù shì dà ēn," },
+          { cn: "唱凯歌，得胜安康，主拯救，主拯救。", py: "chàng kǎi gē, dé shèng ān kāng, zhǔ zhěng jiù, zhǔ zhěng jiù。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 280,
+    title: "广传福音",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "快到天下各处传报真耶稣教会，日日传，高声传；", py: "kuài dào tiān xià gè chù chuán bào zhēn yē sū jiào huì, rì rì chuán, gāo shēng chuán;" },
+          { cn: "远处、近处、国内、国外，当急速宣扬，日日传，高声传。", py: "yuǎn chù, jìn chù, guó nèi, guó wài, dāng jí sù xuān yáng, rì rì chuán, gāo shēng chuán。" },
+          { cn: "效法耶稣在十二岁以父事为念，", py: "xiào fǎ yē sū zài shí èr suì yǐ fù shì wéi niàn," },
+          { cn: "效法耶稣受尽万苦，报告神禧年；", py: "xiào fǎ yē sū shòu jìn wàn kǔ, bào gào shén xǐ nián;" },
+          { cn: "当做好树多结善果，必永存在天，日日传，高声传。", py: "dāng zuò hǎo shù duō jié shàn guǒ, bì yǒng cún zài tiān, rì rì chuán, gāo shēng chuán。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "快到天下各处传报真耶稣教会，日日传，高声传；", py: "kuài dào tiān xià gè chù chuán bào zhēn yē sū jiào huì, rì rì chuán, gāo shēng chuán;" },
+          { cn: "亲戚、朋友、邻里、家属，当急速宣扬，日日传，高声传。", py: "qīn qī, péng yǒu, lín lǐ, jiā shǔ, dāng jí sù xuān yáng, rì rì chuán, gāo shēng chuán。" },
+          { cn: "效法彼得在五旬节收门徒三千，", py: "xiào fǎ bǐ dé zài wǔ xún jié shōu mén tú sān qiān," },
+          { cn: "效法彼得站在圣殿，和官府面前；", py: "xiào fǎ bǐ dé zhàn zài shèng diàn, hé guān fǔ miàn qián;" },
+          { cn: "当做磐石多立教会，敞开主恩门，日日传，高声传。", py: "dāng zuò pán shí duō lì jiào huì, chǎng kāi zhǔ ēn mén, rì rì chuán, gāo shēng chuán。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "快到天下各处传报真耶稣教会，日日传，高声传；", py: "kuài dào tiān xià gè chù chuán bào zhēn yē sū jiào huì, rì rì chuán, gāo shēng chuán;" },
+          { cn: "大陆、海岛、大街、小巷，当急速宣扬，日日传，高声传。", py: "dà lù, hǎi dǎo, dà jiē, xiǎo xiàng, dāng jí sù xuān yáng, rì rì chuán, gāo shēng chuán。" },
+          { cn: "效法保罗会堂辩道，又站在雅典，", py: "xiào fǎ bǎo luó huì táng biàn dào, yòu zhàn zài yǎ diǎn," },
+          { cn: "效法保罗传道外邦，劳苦不徒然；", py: "xiào fǎ bǎo luó chuán dào wài bāng, láo kǔ bù tú rán;" },
+          { cn: "当做工头多造灵宫，用金、银、宝石，日日传，高声传。", py: "dāng zuò gōng tóu duō zào líng gōng, yòng jīn, yín, bǎo shí, rì rì chuán, gāo shēng chuán。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 282,
+    title: "努力工作",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "来做工，来做工，做主仆要尽忠，", py: "lái zuò gōng, lái zuò gōng, zuò zhǔ pú yào jìn zhōng," },
+          { cn: "要努力；发热心，紧跟从主脚踪。", py: "yào nǔ lì; fā rè xīn, jǐn gēn cóng zhǔ jiǎo zōng。" },
+          { cn: "既有祂肯指点，不怕你力不足；", py: "jì yǒu tā kěn zhǐ diǎn, bú pà nǐ lì bú zú;" },
+          { cn: "只要你不怕苦，主耶稣必帮助。", py: "zhǐ yào nǐ bú pà kǔ, zhǔ yē sū bì bāng zhù。" },
+          { cn: "当勤劳，当勤劳，当勤劳，当勤劳；", py: "dāng qín láo, dāng qín láo, dāng qín láo, dāng qín láo;" },
+          { cn: "常盼望，多祷告，恒心做工，等主来到。", py: "cháng pàn wàng, duō dǎo gào, héng xīn zuò gōng, děng zhǔ lái dào。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "来做工，来做工，来做主好精兵，", py: "lái zuò gōng, lái zuò gōng, lái zuò zhǔ hǎo jīng bīng," },
+          { cn: "要奋勇；攻魔灵，破其寨，捣其营。", py: "yào fèn yǒng; gōng mó líng, pò qí zhài, dǎo qí yíng。" },
+          { cn: "主耶稣我元帅，发号令要倾听；", py: "zhǔ yē sū wǒ yuán shuài, fā hào lìng yào qīng tīng;" },
+          { cn: "赶快去普天下，传福音给万民。", py: "gǎn kuài qù pǔ tiān xià, chuán fú yīn gěi wàn mín。" },
+          { cn: "当勤劳，当勤劳，当勤劳，当勤劳；", py: "dāng qín láo, dāng qín láo, dāng qín láo, dāng qín láo;" },
+          { cn: "常盼望，多祷告，恒心做工，等主来到。", py: "cháng pàn wàng, duō dǎo gào, héng xīn zuò gōng, děng zhǔ lái dào。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "来做工，来做工，做主工不落空；", py: "lái zuò gōng, lái zuò gōng, zuò zhǔ gōng bú luò kōng;" },
+          { cn: "一等到工完毕，迎救主在空中。", py: "yī děng dào gōng wán bì, yíng jiù zhǔ zài kōng zhōng。" },
+          { cn: "我们要耐到底，不争名，不夸功；", py: "wǒ men yào nài dào dǐ, bú zhēng míng, bú kuā gōng;" },
+          { cn: "同众人赞美主，施大恩救灵魂。", py: "tóng zhòng rén zàn měi zhǔ, shī dà ēn jiù líng hún。" },
+          { cn: "当勤劳，当勤劳，当勤劳，当勤劳；", py: "dāng qín láo, dāng qín láo, dāng qín láo, dāng qín láo;" },
+          { cn: "常盼望，多祷告，恒心做工，等主来到。", py: "cháng pàn wàng, duō dǎo gào, héng xīn zuò gōng, děng zhǔ lái dào。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 283,
+    title: "为主收庄稼",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "举目观看天下各处，庄稼长成满良田；", py: "jǔ mù guān kàn tiān xià gè chù, zhuāng jià zhǎng chéng mǎn liáng tián;" },
+          { cn: "稻、麦成熟，收割届时，阳光照下美无边。", py: "dào, mài chéng shóu, shōu gē jiè shí, yáng guāng zhào xià měi wú biān。" },
+          { cn: "谨遵主命，工作努力，为主收割趁时机；", py: "jǐn zūn zhǔ mìng, gōng zuò nǔ lì, wéi zhǔ shōu gē chèn shí jī;" },
+          { cn: "伸出镰刀收回庄稼，纳入天仓主欢喜。", py: "shēn chū lián dāo shōu huí zhuāng jià, nà rù tiān cāng zhǔ huān xǐ。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "已熟庄稼遍满田面，收割工人尚缺欠；", py: "yǐ shóu zhuāng jià biàn mǎn tián miàn, shōu gē gōng rén shàng quē qiàn;" },
+          { cn: "恳求田主命令众仆，速去收割莫迟延。", py: "kěn qiú tián zhǔ mìng lìng zhòng pú, sù qù shōu gē mò chí yán。" },
+          { cn: "谨遵主命，工作努力，为主收割趁时机；", py: "jǐn zūn zhǔ mìng, gōng zuò nǔ lì, wéi zhǔ shōu gē chèn shí jī;" },
+          { cn: "伸出镰刀收回庄稼，纳入天仓主欢喜。", py: "shēn chū lián dāo shōu huí zhuāng jià, nà rù tiān cāng zhǔ huān xǐ。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "自天黎明工作到晚，收割完毕心欢欣；", py: "zì tiān lí míng gōng zuò dào wǎn, shōu gē wán bì xīn huān xīn;" },
+          { cn: "所收庄稼带到主前，蒙主赏赐大福分。", py: "suǒ shōu zhuāng jià dài dào zhǔ qián, méng zhǔ shǎng cì dà fú fèn。" },
+          { cn: "谨遵主命，工作努力，为主收割趁时机；", py: "jǐn zūn zhǔ mìng, gōng zuò nǔ lì, wéi zhǔ shōu gē chèn shí jī;" },
+          { cn: "伸出镰刀收回庄稼，纳入天仓主欢喜。", py: "shēn chū lián dāo shōu huí zhuāng jià, nà rù tiān cāng zhǔ huān xǐ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 284,
+    title: "发出福音真光",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "人生苦海呼救声音频传来，发出光！发出光！", py: "rén shēng kǔ hǎi hū jiù shēng yīn pín chuán lái, fā chū guāng! fā chū guāng!" },
+          { cn: "许多灵魂等候救主施恩爱，发出光！发出光！", py: "xǔ duō líng hún děng hòu jiù zhǔ shī ēn ài, fā chū guāng! fā chū guāng!" },
+          { cn: "发出光，主福音的真光！照近处，又照远方！", py: "fā chū guāng, zhǔ fú yīn de zhēn guāng! zhào jìn chù, yòu zhào yuǎn fāng!" },
+          { cn: "发出光，主荣耀的真光！照全地，永远辉煌！", py: "fā chū guāng, zhǔ róng yào de zhēn guāng! zhào quán dì, yǒng yuǎn huī huáng!" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "耳中听见马其顿人呼求声，发出光！发出光！", py: "ěr zhōng tīng jiàn mǎ qí dùn rén hū qiú shēng, fā chū guāng! fā chū guāng!" },
+          { cn: "我们努力为了主的真福音，发出光！发出光！", py: "wǒ men nǔ lì wèi le zhǔ de zhēn fú yīn, fā chū guāng! fā chū guāng!" },
+          { cn: "发出光，主福音的真光！照近处，又照远方！", py: "fā chū guāng, zhǔ fú yīn de zhēn guāng! zhào jìn chù, yòu zhào yuǎn fāng!" },
+          { cn: "发出光，主荣耀的真光！照全地，永远辉煌！", py: "fā chū guāng, zhǔ róng yào de zhēn guāng! zhào quán dì, yǒng yuǎn huī huáng!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我们为主所做圣工不徒然，发出光！发出光！", py: "wǒ men wéi zhǔ suǒ zuò shèng gōng bù tú rán, fā chū guāng! fā chū guāng!" },
+          { cn: "等主再临必有赏赐存在天，发出光！发出光！", py: "děng zhǔ zài lín bì yǒu shǎng cì cún zài tiān, fā chū guāng! fā chū guāng!" },
+          { cn: "发出光，主福音的真光！照近处，又照远方！", py: "fā chū guāng, zhǔ fú yīn de zhēn guāng! zhào jìn chù, yòu zhào yuǎn fāng!" },
+          { cn: "发出光，主荣耀的真光！照全地，永远辉煌！", py: "fā chū guāng, zhǔ róng yào de zhēn guāng! zhào quán dì, yǒng yuǎn huī huáng!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 285,
+    title: "开船入深海",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "颂赞我天父极恩爱，多慈怜，如海洋深瀚、广无边；", py: "sòng zàn wǒ tiān fù jí ēn ài, duō cí lián, rú hǎi yáng shēn hàn, guǎng wú biān;" },
+          { cn: "缆索快切断，向深处速进展，丰盛必多求于主前。", py: "lǎn suǒ kuài qiē duàn, xiàng shēn chù sù jìn zhǎn, fēng shèng bì duō qiú yú zhǔ qián。" },
+          { cn: "开船入深海洋，冲破一切波浪！", py: "kāi chuán rù shēn hǎi yáng, chōng pò yī qiè bō làng!" },
+          { cn: "深入汪洋中必收获大鱼量，为道工作，乐无疆。", py: "shēn rù wāng yáng zhōng bì shōu huò dà yú liàng, wéi dào gōng zuò, lè wú jiāng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "可惜，有些人只望洋而兴叹，永站在岸边做旁观；", py: "kě xī, yǒu xiē rén zhǐ wàng yáng ér xīng tàn, yǒng zhàn zài àn biān zuò páng guān;" },
+          { cn: "奉劝这些人当勇敢大壮胆，下船进海洋莫畏难。", py: "fèng quàn zhè xiē rén dāng yǒng gǎn dà zhuàng dǎn, xià chuán jìn hǎi yáng mò wèi nán。" },
+          { cn: "开船入深海洋，冲破一切波浪！", py: "kāi chuán rù shēn hǎi yáng, chōng pò yī qiè bō làng!" },
+          { cn: "深入汪洋中必收获大鱼量，为道工作，乐无疆。", py: "shēn rù wāng yáng zhōng bì shōu huò dà yú liàng, wéi dào gōng zuò, lè wú jiāng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "另有一般人虽勉强来试尝，却靠那岸边慢慢航；", py: "lìng yǒu yī bān rén suī miǎn qiáng lái shì cháng, què kào nà àn biān màn màn háng;" },
+          { cn: "胆怯不敢前，怕冲击大风浪，至终无所得而失望。", py: "dǎn qiè bù gǎn qián, pà chōng jī dà fēng làng, zhì zhōng wú suǒ dé ér shī wàng。" },
+          { cn: "开船入深海洋，冲破一切波浪！", py: "kāi chuán rù shēn hǎi yáng, chōng pò yī qiè bō làng!" },
+          { cn: "深入汪洋中必收获大鱼量，为道工作，乐无疆。", py: "shēn rù wāng yáng zhōng bì shōu huò dà yú liàng, wéi dào gōng zuò, lè wú jiāng。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "弟兄！要奋勇去得人如得鱼，开船进深海不空虚；", py: "dì xiōng! yào fèn yǒng qù dé rén rú dé yú, kāi chuán jìn shēn hǎi bù kōng xū;" },
+          { cn: "同心靠救主，祂必指示、帮助，收获必满载，乐欢呼。", py: "tóng xīn kào jiù zhǔ, tā bì zhǐ shì, bāng zhù, shōu huò bì mǎn zài, lè huān hū。" },
+          { cn: "开船入深海洋，冲破一切波浪！", py: "kāi chuán rù shēn hǎi yáng, chōng pò yī qiè bō làng!" },
+          { cn: "深入汪洋中必收获大鱼量，为道工作，乐无疆。", py: "shēn rù wāng yáng zhōng bì shōu huò dà yú liàng, wéi dào gōng zuò, lè wú jiāng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 286,
+    title: "传布救恩",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "同胞呼救声殷殷，基督门徒当奋兴，从主引导一齐", py: "tóng bāo hū jiù shēng yīn yīn, jī dū mén tú dāng fèn xīng, cóng zhǔ yǐn dǎo yī qí" },
+          { cn: "向前，往普天下传福音；收割时期来临，因金", py: "xiàng qián, wǎng pǔ tiān xià chuán fú yīn; shōu gē shí qī lái lín, yīn jīn" },
+          { cn: "谷已届收成，穑多工少，努力奋进，载捆运归天家庭。", py: "gǔ yǐ jiè shōu chéng, sè duō gōng shǎo, nǔ lì fèn jìn, zǎi kǔn yùn guī tiān jiā tíng。" },
+          { cn: "传福音，引归真，传扬圣灵已降临；", py: "chuán fú yīn, yǐn guī zhēn, chuán yáng shèng líng yǐ jiàng lín;" },
+          { cn: "传福音，引归真，普救天下万族人！", py: "chuán fú yīn, yǐn guī zhēn, pǔ jiù tiān xià wàn zú rén!" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "无论市镇与城、乡，许多罪人多忧伤，如同群羊无人", py: "wú lùn shì zhèn yǔ chéng, xiāng, xǔ duō zuì rén duō yōu shāng, rú tóng qún yáng wú rén" },
+          { cn: "牧养，遍在洲岛并海洋；群众被罪捆绑，等待", py: "mù yǎng, biàn zài zhōu dǎo bìng hǎi yáng; qún zhòng bèi zuì kǔn bǎng, děng dài" },
+          { cn: "救恩来释放，信徒莫再虚度时光，速起传道救亡羊。", py: "jiù ēn lái shì fàng, xìn tú mò zài xū dù shí guāng, sù qǐ chuán dào jiù wáng yáng。" },
+          { cn: "传福音，引归真，传扬圣灵已降临；", py: "chuán fú yīn, yǐn guī zhēn, chuán yáng shèng líng yǐ jiàng lín;" },
+          { cn: "传福音，引归真，普救天下万族人！", py: "chuán fú yīn, yǐn guī zhēn, pǔ jiù tiān xià wàn zú rén!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "风啊，愿你快吹扬！水啊愿你快流畅！直到福音传到", py: "fēng ā, yuàn nǐ kuài chuī yáng! shuǐ ā yuàn nǐ kuài liú chàng! zhí dào fú yīn chuán dào" },
+          { cn: "四方，如江河、大海汪洋；等救赎主君王，即得", py: "sì fāng, rú jiāng hé, dà hǎi wāng yáng; děng jiù shú zhǔ jūn wáng, jí dé" },
+          { cn: "胜被杀羔羊，由天降临，大放荣光，接进天国乐无疆。", py: "shèng bèi shā gāo yáng, yóu tiān jiàng lín, dà fàng róng guāng, jiē jìn tiān guó lè wú jiāng。" },
+          { cn: "传福音，引归真，传扬圣灵已降临；", py: "chuán fú yīn, yǐn guī zhēn, chuán yáng shèng líng yǐ jiàng lín;" },
+          { cn: "传福音，引归真，普救天下万族人！", py: "chuán fú yīn, yǐn guī zhēn, pǔ jiù tiān xià wàn zú rén!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 287,
+    title: "为耶稣劳力",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "甘心，甘心，为主耶稣劳力，做祂圣工，劳苦也乐意；", py: "gān xīn, gān xīn, wéi zhǔ yē sū láo lì, zuò tā shèng gōng, láo kǔ yě lè yì;" },
+          { cn: "无论何事，祂若分派我们，都要欢欣去做，无难色。", py: "wú lùn hé shì, tā ruò fēn pài wǒ men, dōu yào huān xīn qù zuò, wú nán sè。" },
+          { cn: "为耶稣劳力，我们欢欣去，我们欢欣去；", py: "wéi yē sū láo lì, wǒ men huān xīn qù, wǒ men huān xīn qù;" },
+          { cn: "为耶稣劳力，此世乃做工之地。", py: "wéi yē sū láo lì, cǐ shì nǎi zuò gōng zhī dì。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "欢欣，欢欣，我们宣传福音，论主怎样爱我们世人；", py: "huān xīn, huān xīn, wǒ men xuān chuán fú yīn, lùn zhǔ zěn yàng ài wǒ men shì rén;" },
+          { cn: "基督耶稣舍身在十架上，救赎罪人恩典何等深！", py: "jī dū yē sū shě shēn zài shí jià shàng, jiù shú zuì rén ēn diǎn hé děng shēn!" },
+          { cn: "为耶稣劳力，我们欢欣去，我们欢欣去；", py: "wéi yē sū láo lì, wǒ men huān xīn qù, wǒ men huān xīn qù;" },
+          { cn: "为耶稣劳力，此世乃做工之地。", py: "wéi yē sū láo lì, cǐ shì nǎi zuò gōng zhī dì。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "温柔，温柔，服从耶稣命令，忠心跟从祂的脚踪行；", py: "wēn róu, wēn róu, fú cóng yē sū mìng lìng, zhōng xīn gēn cóng tā de jiǎo zōng xíng;" },
+          { cn: "引导世人来就神的羔羊，靠祂除去罪孽得永生。", py: "yǐn dǎo shì rén lái jiù shén de gāo yáng, kào tā chú qù zuì niè dé yǒng shēng。" },
+          { cn: "为耶稣劳力，我们欢欣去，我们欢欣去；", py: "wéi yē sū láo lì, wǒ men huān xīn qù, wǒ men huān xīn qù;" },
+          { cn: "为耶稣劳力，此世乃做工之地。", py: "wéi yē sū láo lì, cǐ shì nǎi zuò gōng zhī dì。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 288,
+    title: "赶快工作",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "赶快工作，夜来临！趁着早晨清醒，", py: "gǎn kuài gōng zuò, yè lái lín! chèn zhe zǎo chén qīng xǐng," },
+          { cn: "露珠耀眼花笑时，工作要辛勤；", py: "lù zhū yào yǎn huā xiào shí, gōng zuò yào xīn qín;" },
+          { cn: "阳光越照越明亮，我要加倍奋兴，", py: "yáng guāng yuè zhào yuè míng liàng, wǒ yào jiā bèi fèn xīng," },
+          { cn: "赶快工作，夜来临！夜临，工当成！", py: "gǎn kuài gōng zuò, yè lái lín! yè lín, gōng dāng chéng!" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "赶快工作，夜来临！趁着白昼光明，", py: "gǎn kuài gōng zuò, yè lái lín! chèn zhe bái zhòu guāng míng," },
+          { cn: "尽心尽性尽力量，勉励惜分阴；", py: "jìn xīn jìn xìng jìn lì liàng, miǎn lì xī fēn yīn;" },
+          { cn: "分阴飞逝难留住，应当力传福音，", py: "fēn yīn fēi shì nán liú zhù, yīng dāng lì chuán fú yīn," },
+          { cn: "赶快工作，夜来临！夜临，工必停！", py: "gǎn kuài gōng zuò, yè lái lín! yè lín, gōng bì tíng!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "赶快工作，夜来临！趁着暮色未深，", py: "gǎn kuài gōng zuò, yè lái lín! chèn zhe mù sè wèi shēn," },
+          { cn: "红霞映照群山顶，落日正西沉；", py: "hóng xiá yìng zhào qún shān dǐng, luò rì zhèng xī chén;" },
+          { cn: "一篑功成看此时，虽劳切莫暂停，", py: "yī kuì gōng chéng kàn cǐ shí, suī láo qiè mò zàn tíng," },
+          { cn: "赶快工作，夜来临！夜临，工完成！", py: "gǎn kuài gōng zuò, yè lái lín! yè lín, gōng wán chéng!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 290,
+    title: "按立礼",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "今日我们在圣会里，恭行祷告按手之礼，", py: "jīn rì wǒ men zài shèng huì lǐ, gōng xíng dǎo gào àn shǒu zhī lǐ," },
+          { cn: "遵守圣训，奉主的圣名，按立圣职。", py: "zūn shǒu shèng xùn, fèng zhǔ de shèng míng, àn lì shèng zhí。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "凡所按立教会职事，是主拣选，合主旨意，", py: "fán suǒ àn lì jiào huì zhí shì, shì zhǔ jiǎn xuǎn, hé zhǔ zhǐ yì," },
+          { cn: "殷勤工作，照所得恩赐，事主到底。", py: "yīn qín gōng zuò, zhào suǒ dé ēn cì, shì zhǔ dào dǐ。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "愿主多赐智慧、能力，谦卑、忍耐，学主样式，", py: "yuàn zhǔ duō cì zhì huì, néng lì, qiān bēi, rěn nài, xué zhǔ yàng shì," },
+          { cn: "谨慎自己，牧养神教会，以身作则。", py: "jǐn shèn zì jǐ, mù yǎng shén jiào huì, yǐ shēn zuò zé。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "本着圣经传扬真理，忠心顺服，讨主欢喜，", py: "běn zhe shèng jīng chuán yáng zhēn lǐ, zhōng xīn shùn fú, tǎo zhǔ huān xǐ," },
+          { cn: "甘背十架，为主道舍己，赏赐无比。", py: "gān bēi shí jià, wèi zhǔ dào shě jǐ, shǎng cì wú bǐ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 291,
+    title: "洗罪泉源",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "在十字架上，我主捨命，今日求主把我罪洗净；", py: "zài shí zì jià shàng, wǒ zhǔ shě mìng, jīn rì qiú zhǔ bǎ wǒ zuì xǐ jìng;" },
+          { cn: "更求恩主改变我罪性，荣耀归主名。", py: "gèng qiú ēn zhǔ gǎi biàn wǒ zuì xìng, róng yào guī zhǔ míng。" },
+          { cn: "荣耀归主名，荣耀归主名；", py: "róng yào guī zhǔ míng, róng yào guī zhǔ míng;" },
+          { cn: "在苦架下救主收纳我，荣耀归主名。", py: "zài kǔ jià xià jiù zhǔ shōu nà wǒ, róng yào guī zhǔ míng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "希奇哉，靠主能离开罪！耶稣时常住在我心内；", py: "xī qí zāi, kào zhǔ néng lí kāi zuì! yē sū shí cháng zhù zài wǒ xīn nèi;" },
+          { cn: "我这样得恩实在不配，荣耀归主名。", py: "wǒ zhè yàng dé ēn shí zài bú pèi, róng yào guī zhǔ míng。" },
+          { cn: "荣耀归主名，荣耀归主名；", py: "róng yào guī zhǔ míng, róng yào guī zhǔ míng;" },
+          { cn: "在苦架下救主收纳我，荣耀归主名。", py: "zài kǔ jià xià jiù zhǔ shōu nà wǒ, róng yào guī zhǔ míng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "主血如泉源，最妙，最灵，我见这泉便满心高兴；", py: "zhǔ xuè rú quán yuán, zuì miào, zuì líng, wǒ jiàn zhè quán biàn mǎn xīn gāo xìng;" },
+          { cn: "在此救主把我洗洁净，感谢主鸿恩。", py: "zài cǐ jiù zhǔ bǎ wǒ xǐ jié jìng, gǎn xiè zhǔ hóng ēn。" },
+          { cn: "感谢主鸿恩，感谢主鸿恩；", py: "gǎn xiè zhǔ hóng ēn, gǎn xiè zhǔ hóng ēn;" },
+          { cn: "主这样爱我，实在顶深，感谢主鸿恩。", py: "zhǔ zhè yàng ài wǒ, shí zài dǐng shēn, gǎn xiè zhǔ hóng ēn。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 292,
+    title: "赎罪妙恩",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "今有一处流血之泉，从耶稣身发源；", py: "jīn yǒu yī chù liú xuè zhī quán, cóng yē sū shēn fā yuán;" },
+          { cn: "罪人只用在此一洗，能去全身罪愆。", py: "zuì rén zhǐ yòng zài cǐ yī xǐ, néng qù quán shēn zuì qiān。" },
+          { cn: "我真相信我定相信，耶稣替我受害；", py: "wǒ zhēn xiāng xìn wǒ dìng xiāng xìn, yē sū tì wǒ shòu hài;" },
+          { cn: "天父爱子这样钉死，真是难报的爱。", py: "tiān fù ài zǐ zhè yàng dìng sǐ, zhēn shì nán bào de ài。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "盗贼临死切心求救，得见此泉欢喜；", py: "dào zéi lín sǐ qiè xīn qiú jiù, dé jiàn cǐ quán huān xǐ;" },
+          { cn: "我罪虽然像他沉重，也能洗得洁净。", py: "wǒ zuì suī rán xiàng tā chén zhòng, yě néng xǐ dé jié jìng。" },
+          { cn: "我真相信我定相信，耶稣替我受害；", py: "wǒ zhēn xiāng xìn wǒ dìng xiāng xìn, yē sū tì wǒ shòu hài;" },
+          { cn: "天父爱子这样钉死，真是难报的爱。", py: "tiān fù ài zǐ zhè yàng dìng sǐ, zhēn shì nán bào de ài。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "慈悲救主祢的宝血永世得胜死权；", py: "cí bēi jiù zhǔ nǐ de bǎo xuè yǒng shì dé shèng sǐ quán;" },
+          { cn: "赎罪妙恩我当宣扬；至终仍然要传。", py: "shú zuì miào ēn wǒ dāng xuān yáng; zhì zhōng réng rán yào chuán。" },
+          { cn: "我真相信我定相信，耶稣替我受害；", py: "wǒ zhēn xiāng xìn wǒ dìng xiāng xìn, yē sū tì wǒ shòu hài;" },
+          { cn: "天父爱子这样钉死，真是难报的爱。", py: "tiān fù ài zǐ zhè yàng dìng sǐ, zhēn shì nán bào de ài。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "等到末了耶稣再来，被接在于云中；", py: "děng dào mò le yē sū zài lái, bèi jiē zài yú yún zhōng;" },
+          { cn: "那时还要放声赞美，永远颂主大功。", py: "nà shí hái yào fàng shēng zàn měi, yǒng yuǎn sòng zhǔ dà gōng。" },
+          { cn: "我真相信我定相信，耶稣替我受害；", py: "wǒ zhēn xiāng xìn wǒ dìng xiāng xìn, yē sū tì wǒ shòu hài;" },
+          { cn: "天父爱子这样钉死，真是难报的爱。", py: "tiān fù ài zǐ zhè yàng dìng sǐ, zhēn shì nán bào de ài。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 293,
+    title: "洗净罪愆",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我主，我救主，我切愿得完全！望主至永远常居住我心间；", py: "wǒ zhǔ, wǒ jiù zhǔ, wǒ qiè yuàn dé wán quán! wàng zhǔ zhì yǒng yuǎn cháng jū zhù wǒ xīn jiān;" },
+          { cn: "使敌全败坏，使邪情都消灭。求主将我洗使我白超乎雪！", py: "shǐ dí quán bài huài, shǐ xié qíng dōu xiāo miè。 qiú zhǔ jiāng wǒ xǐ shǐ wǒ bái chāo hū xuě!" },
+          { cn: "白超乎雪，皎白超乎雪；因主给我洗，使我白超乎雪！", py: "bái chāo hū xuě, jiǎo bái chāo hū xuě; yīn zhǔ gěi wǒ xǐ, shǐ wǒ bái chāo hū xuě!" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我主，我救主，无稍留我点污，求主用宝血将旧染全洗除；", py: "wǒ zhǔ, wǒ jiù zhǔ, wú shāo liú wǒ diǎn wū, qiú zhǔ yòng bǎo xuè jiāng jiù rǎn quán xǐ chú;" },
+          { cn: "我为得洁净今甘愿撇一切。求主将我洗使我白超乎雪！", py: "wǒ wèi dé jié jìng jīn gān yuàn piě yī qiè。 qiú zhǔ jiāng wǒ xǐ shǐ wǒ bái chāo hū xuě!" },
+          { cn: "白超乎雪，皎白超乎雪；因主给我洗，使我白超乎雪！", py: "bái chāo hū xuě, jiǎo bái chāo hū xuě; yīn zhǔ gěi wǒ xǐ, shǐ wǒ bái chāo hū xuě!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "我主，我救主，看得明我内心，如今重生我把灵魂全更新；", py: "wǒ zhǔ, wǒ jiù zhǔ, kàn dé míng wǒ nèi xīn, rú jīn zhòng shēng wǒ bǎ líng hún quán gèng xīn;" },
+          { cn: "未闻人求主反而被主拒绝。求主将我洗使我白超乎雪！", py: "wèi wén rén qiú zhǔ fǎn ér bèi zhǔ jù jué。 qiú zhǔ jiāng wǒ xǐ shǐ wǒ bái chāo hū xuě!" },
+          { cn: "白超乎雪，皎白超乎雪；因主给我洗，使我白超乎雪！", py: "bái chāo hū xuě, jiǎo bái chāo hū xuě; yīn zhǔ gěi wǒ xǐ, shǐ wǒ bái chāo hū xuě!" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "我主，我救主，今由天而垂怜，使我能诚心献全身于主前；", py: "wǒ zhǔ, wǒ jiù zhǔ, jīn yóu tiān ér chuí lián, shǐ wǒ néng chéng xīn xiàn quán shēn yú zhǔ qián;" },
+          { cn: "我愿奉给主我所有我所悦。求主将我洗使我白超乎雪！", py: "wǒ yuàn fèng gěi zhǔ wǒ suǒ yǒu wǒ suǒ yuè。 qiú zhǔ jiāng wǒ xǐ shǐ wǒ bái chāo hū xuě!" },
+          { cn: "白超乎雪，皎白超乎雪；因主给我洗，使我白超乎雪！", py: "bái chāo hū xuě, jiǎo bái chāo hū xuě; yīn zhǔ gěi wǒ xǐ, shǐ wǒ bái chāo hū xuě!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 295,
+    title: "洗脚礼",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "救主要我全身圣洁，愿做人所不屑；", py: "jiù zhǔ yào wǒ quán shēn shèng jié, yuàn zuò rén suǒ bú xiè;" },
+          { cn: "将水倒在盆中盈盈，卑微如仆而行。", py: "jiāng shuǐ dǎo zài pén zhōng yíng yíng, bēi wēi rú pú ér xíng。" },
+          { cn: "天堂福地，至圣、至洁，要去要离罪孽；", py: "tiān táng fú dì, zhì shèng, zhì jié, yào qù yào lí zuì niè;" },
+          { cn: "若不洗脚，违主命令，就与救主无分。", py: "ruò bù xǐ jiǎo, wéi zhǔ mìng lìng, jiù yǔ jiù zhǔ wú fèn。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "救主要我全身圣洁，洗去旧染一新；", py: "jiù zhǔ yào wǒ quán shēn shèng jié, xǐ qù jiù rǎn yī xīn;" },
+          { cn: "将手掬水，洗净信徒，谦卑、和蔼可亲。", py: "jiāng shǒu jū shuǐ, xǐ jìng xìn tú, qiān bēi, hé ǎi kě qīn。" },
+          { cn: "天堂福地，至圣、至洁，要去要离罪孽；", py: "tiān táng fú dì, zhì shèng, zhì jié, yào qù yào lí zuì niè;" },
+          { cn: "若不洗脚，违主命令，就与救主无分。", py: "ruò bù xǐ jiǎo, wéi zhǔ mìng lìng, jiù yǔ jiù zhǔ wú fèn。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "救主要我全身圣洁，如同白璧无瑕；", py: "jiù zhǔ yào wǒ quán shēn shèng jié, rú tóng bái bì wú xiá;" },
+          { cn: "手巾束腰，洗净、擦干，照此而行有福。", py: "shǒu jīn shù yāo, xǐ jìng, cā gān, zhào cǐ ér xíng yǒu fú。" },
+          { cn: "天堂福地，至圣、至洁，要去要离罪孽；", py: "tiān táng fú dì, zhì shèng, zhì jié, yào qù yào lí zuì niè;" },
+          { cn: "若不洗脚，违主命令，就与救主无分。", py: "ruò bù xǐ jiǎo, wéi zhǔ mìng lìng, jiù yǔ jiù zhǔ wú fèn。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "救主要我全身圣洁，毫无污点、指摘；", py: "jiù zhǔ yào wǒ quán shēn shèng jié, háo wú wū diǎn, zhǐ zhāi;" },
+          { cn: "双足一洗，全身干净，成为完全新人。", py: "shuāng zú yī xǐ, quán shēn gān jìng, chéng wéi wán quán xīn rén。" },
+          { cn: "天堂福地，至圣、至洁，要去要离罪孽；", py: "tiān táng fú dì, zhì shèng, zhì jié, yào qù yào lí zuì niè;" },
+          { cn: "若不洗脚，违主命令，就与救主无分。", py: "ruò bù xǐ jiǎo, wéi zhǔ mìng lìng, jiù yǔ jiù zhǔ wú fèn。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 297,
+    title: "为主我立何志？",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "主为我舍祂命，疼痛流出宝血！", py: "zhǔ wèi wǒ shě tā mìng, téng tòng liú chū bǎo xuè!" },
+          { cn: "要将我罪洗净，使我得成圣洁，", py: "yào jiāng wǒ zuì xǐ jìng, shǐ wǒ dé chéng shèng jié," },
+          { cn: "为我之罪主血流了，我献给主多少？", py: "wèi wǒ zhī zuì zhǔ xuè liú liǎo, wǒ xiàn gěi zhǔ duō shǎo?" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "主为我被鞭打，肋旁又受枪扎！", py: "zhǔ wèi wǒ bèi biān dǎ, lèi páng yòu shòu qiāng zhā!" },
+          { cn: "要将灵恩赐我，舍己做我赎价，", py: "yào jiāng líng ēn cì wǒ, shě jǐ zuò wǒ shú jià," },
+          { cn: "为我之罪被打被骂，我用何法报答？", py: "wèi wǒ zhī zuì bèi dǎ bèi mà, wǒ yòng hé fǎ bào dá?" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "主为我戴荆棘，天上华冕舍弃！", py: "zhǔ wèi wǒ dài jīng jí, tiān shàng huá miǎn shě qì!" },
+          { cn: "离去光明宝座，受苦受害至极，", py: "lí qù guāng míng bǎo zuò, shòu kǔ shòu hài zhì jí," },
+          { cn: "主既为我丢弃一切，为主我何舍弃？", py: "zhǔ jì wèi wǒ diū qì yī qiè, wèi zhǔ wǒ hé shě qì?" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "主为我钉十架，方有这肉与血！", py: "zhǔ wèi wǒ dìng shí jià, fāng yǒu zhè ròu yǔ xuè!" },
+          { cn: "要将永生赐我，救我进入福地，", py: "yào jiāng yǒng shēng cì wǒ, jiù wǒ jìn rù fú dì," },
+          { cn: "主既立志为我舍命，为主我立何志？", py: "zhǔ jì lì zhì wèi wǒ shě mìng, wèi zhǔ wǒ lì hé zhì?" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 298,
+    title: "圣徒婚礼",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "今日聚集，大家欢喜，", py: "jīn rì jù jí, dà jiā huān xǐ," },
+          { cn: "照主圣旨恭行婚礼；", py: "zhào zhǔ shèng zhǐ gōng xíng hūn lǐ;" },
+          { cn: "新郎、新妇，二人合一，", py: "xīn láng, xīn fù, èr rén hé yī," },
+          { cn: "一家、一体、一心、一意。", py: "yī jiā, yī tǐ, yī xīn, yī yì。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "自此一生同走天路，", py: "zì cǐ yī shēng tóng zǒu tiān lù," },
+          { cn: "相敬、相信、相爱、相助；", py: "xiāng jìng, xiāng xìn, xiāng ài, xiāng zhù;" },
+          { cn: "天父时常保佑，平安，", py: "tiān fù shí cháng bǎo yòu, píng ān," },
+          { cn: "无有灾害、困苦、艰难。", py: "wú yǒu zāi hài, kùn kǔ, jiān nán。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "恳求天父赐福临门，", py: "kěn qiú tiān fù cì fú lín mén," },
+          { cn: "使他夫妇均沾鸿恩；", py: "shǐ tā fū fù jūn zhān hóng ēn;" },
+          { cn: "靠着圣灵敬畏天父，", py: "kào zhe shèng líng jìng wèi tiān fù," },
+          { cn: "福泽恩惠，延及子孙。", py: "fú zé ēn huì, yán jí zǐ sūn。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "但愿天父听我祷告，", py: "dàn yuàn tiān fù tīng wǒ dǎo gào," },
+          { cn: "加恩使他夫妻偕老；", py: "jiā ēn shǐ tā fū qī xié lǎo;" },
+          { cn: "快乐同享，苦难同当，", py: "kuài lè tóng xiǎng, kǔ nán tóng dāng," },
+          { cn: "以后二人同在天堂。", py: "yǐ hòu èr rén tóng zài tiān táng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 299,
+    title: "婚礼祝歌",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "今日大家欢喜聚集，赞美天父歌声四起；", py: "jīn rì dà jiā huān xǐ jù jí, zàn měi tiān fù gē shēng sì qǐ;" },
+          { cn: "因我所爱弟兄姊妹，蒙主配合，举行婚礼。", py: "yīn wǒ suǒ ài dì xiōng jiě mèi, méng zhǔ pèi hé, jǔ xíng hūn lǐ。" },
+          { cn: "求主赐福气，求主赐福气，使他能遵守主真理；", py: "qiú zhǔ cì fú qì, qiú zhǔ cì fú qì, shǐ tā néng zūn shǒu zhǔ zhēn lǐ;" },
+          { cn: "求主赐福气，求主赐福气，使他得平安大欢喜。", py: "qiú zhǔ cì fú qì, qiú zhǔ cì fú qì, shǐ tā dé píng ān dà huān xǐ。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "恳求天父帮助、扶持，使他二人同心一意；", py: "kěn qiú tiān fù bāng zhù, fú chí, shǐ tā èr rén tóng xīn yī yì;" },
+          { cn: "相敬相爱，快乐无比，同苦、同甘，永不相离。", py: "xiāng jìng xiāng ài, kuài lè wú bǐ, tóng kǔ, tóng gān, yǒng bù xiāng lí。" },
+          { cn: "求主赐福气，求主赐福气，使他能遵守主真理；", py: "qiú zhǔ cì fú qì, qiú zhǔ cì fú qì, shǐ tā néng zūn shǒu zhǔ zhēn lǐ;" },
+          { cn: "求主赐福气，求主赐福气，使他得平安大欢喜。", py: "qiú zhǔ cì fú qì, qiú zhǔ cì fú qì, shǐ tā dé píng ān dà huān xǐ。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "从今以后言行举止，都能依照真神指示；", py: "cóng jīn yǐ hòu yán xíng jǔ zhǐ, dōu néng yī zhào zhēn shén zhǐ shì;" },
+          { cn: "敬大爱小，家室相宜，齐来荣耀救主名字。", py: "jìng dà ài xiǎo, jiā shì xiāng yí, qí lái róng yào jiù zhǔ míng zì。" },
+          { cn: "求主赐福气，求主赐福气，使他能遵守主真理；", py: "qiú zhǔ cì fú qì, qiú zhǔ cì fú qì, shǐ tā néng zūn shǒu zhǔ zhēn lǐ;" },
+          { cn: "求主赐福气，求主赐福气，使他得平安大欢喜。", py: "qiú zhǔ cì fú qì, qiú zhǔ cì fú qì, shǐ tā dé píng ān dà huān xǐ。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "恳求圣灵助他夫妻，诚心结合直到末期；", py: "kěn qiú shèng líng zhù tā fū qī, chéng xīn jié hé zhí dào mò qī;" },
+          { cn: "热心爱主，常在主里，后来同享天国福气。", py: "rè xīn ài zhǔ, cháng zài zhǔ lǐ, hòu lái tóng xiǎng tiān guó fú qì。" },
+          { cn: "求主赐福气，求主赐福气，使他能遵守主真理；", py: "qiú zhǔ cì fú qì, qiú zhǔ cì fú qì, shǐ tā néng zūn shǒu zhǔ zhēn lǐ;" },
+          { cn: "求主赐福气，求主赐福气，使他得平安大欢喜。", py: "qiú zhǔ cì fú qì, qiú zhǔ cì fú qì, shǐ tā dé píng ān dà huān xǐ。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 300,
+    title: "祝新婚之乐",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "我们在此圣所里，祝结婚礼仪，", py: "wǒ men zài cǐ shèng suǒ lǐ, zhù jié hūn lǐ yí," },
+          { cn: "所行都从主旨意，合圣经真理；", py: "suǒ xíng dōu cóng zhǔ zhǐ yì, hé shèng jīng zhēn lǐ;" },
+          { cn: "神所配合之良缘，遵主旨意而成全，", py: "shén suǒ pèi hé zhī liáng yuán, zūn zhǔ zhǐ yì ér chéng quán," },
+          { cn: "恳求天父大慈爱，赐福到后代。", py: "kěn qiú tiān fù dà cí ài, cì fú dào hòu dài。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "今日二人蒙主恩，结一体之亲，", py: "jīn rì èr rén méng zhǔ ēn, jié yī tǐ zhī qīn," },
+          { cn: "夫妻同守主命令，相爱尽一生；", py: "fū qī tóng shǒu zhǔ mìng lìng, xiāng ài jìn yī shēng;" },
+          { cn: "同甘、同苦、同起居，相敬、相信、相扶持，", py: "tóng gān, tóng kǔ, tóng qǐ jū, xiāng jìng, xiāng xìn, xiāng fú chí," },
+          { cn: "齐心顺从真道理，得主的欢喜。", py: "qí xīn shùn cóng zhēn dào lǐ, dé zhǔ de huān xǐ。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "从今一对新夫妇，凡事敬畏主，", py: "cóng jīn yī duì xīn fū fù, fán shì jìng wèi zhǔ," },
+          { cn: "建设美满之家庭，恩爱永无停；", py: "jiàn shè měi mǎn zhī jiā tíng, ēn ài yǒng wú tíng;" },
+          { cn: "事奉天父多殷勤，百年偕老常欢欣，", py: "shì fèng tiān fù duō yīn qín, bǎi nián xié lǎo cháng huān xīn," },
+          { cn: "相亲、相助无限乐，直到回天国。", py: "xiāng qīn, xiāng zhù wú xiàn lè, zhí dào huí tiān guó。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 301,
+    title: "人生不长",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "可叹人生，空梦一场，", py: "kě tàn rén shēng, kōng mèng yī chǎng," },
+          { cn: "过眼荣华，如云不长；", py: "guò yǎn róng huá, rú yún bù cháng;" },
+          { cn: "今生好处，切莫流连，", py: "jīn shēng hǎo chù, qiè mò liú lián," },
+          { cn: "鲜花开过，不能再妍。", py: "xiān huā kāi guò, bù néng zài yán。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "清晨看见轻霜、薄雪，", py: "qīng chén kàn jiàn qīng shuāng, báo xuě," },
+          { cn: "阳光一照，即时消灭；", py: "yáng guāng yī zhào, jí shí xiāo miè;" },
+          { cn: "花开满树，眼前富贵，", py: "huā kāi mǎn shù, yǎn qián fù guì," },
+          { cn: "狂风吹到，忽然落下。", py: "kuáng fēng chuī dào, hū rán luò xià。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "静观万物，变幻无常，", py: "jìng guān wàn wù, biàn huàn wú cháng," },
+          { cn: "只有天国永生可享；", py: "zhǐ yǒu tiān guó yǒng shēng kě xiǎng;" },
+          { cn: "灵体长存，恩光常亮，", py: "líng tǐ cháng cún, ēn guāng cháng liàng," },
+          { cn: "乐无终止，福无限量。", py: "lè wú zhōng zhǐ, fú wú xiàn liàng。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "仰望天国，一心奋往，", py: "yǎng wàng tiān guó, yī xīn fèn wǎng," },
+          { cn: "防备四方魔鬼罗网；", py: "fáng bèi sì fāng mó guǐ luó wǎng;" },
+          { cn: "天父望你述归家乡，", py: "tiān fù wàng nǐ shù guī jiā xiāng," },
+          { cn: "同声赞美快乐无疆。", py: "tóng shēng zàn měi kuài lè wú jiāng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 302,
+    title: "安葬",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "灵胞去世，暂时离别，不用失望、心伤；", py: "líng bāo qù shì, zàn shí lí bié, bú yòng shī wàng, xīn shāng;" },
+          { cn: "无非是主召他安息，等候同住天乡。", py: "wú fēi shì zhǔ zhào tā ān xī, děng hòu tóng zhù tiān xiāng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "我等送他进入坟墓，肉身归土安眠；", py: "wǒ děng sòng tā jìn rù fén mù, ròu shēn guī tǔ ān mián;" },
+          { cn: "耶稣已从死里复活，幽暗变做光明。", py: "yē sū yǐ cóng sǐ lǐ fù huó, yōu àn biàn zuò guāng míng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "主即出墓升到天上，为我开辟新路；", py: "zhǔ jí chū mù shēng dào tiān shàng, wèi wǒ kāi pì xīn lù;" },
+          { cn: "末日我必复活、改变，飞升见主耶稣。", py: "mò rì wǒ bì fù huó, gǎi biàn, fēi shēng jiàn zhǔ yē sū。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "号筒大响，我主发令，吩咐死人复生；", py: "hào tǒng dà xiǎng, wǒ zhǔ fā lìng, fēn fù sǐ rén fù shēng;" },
+          { cn: "墓里圣徒立时苏醒，被提与主同荣。", py: "mù lǐ shèng tú lì shí sū xǐng, bèi tí yǔ zhǔ tóng róng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 304,
+    title: "浪子回家",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "世上众人都犯罪，远离天父神，", py: "shì shàng zhòng rén dōu fàn zuì, yuǎn lí tiān fù shén," },
+          { cn: "任意放荡走己路，寻乐溺迷津；", py: "rèn yì fàng dàng zǒu jǐ lù, xún lè nì mí jīn;" },
+          { cn: "终日心灵枉虚耗，浪费到困贫，", py: "zhōng rì xīn líng wǎng xū hào, làng fèi dào kùn pín," },
+          { cn: "乐尽悲来友朋散，孤单剩一身。", py: "lè jìn bēi lái yǒu péng sàn, gū dān shèng yī shēn。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "异地做客永无助，沦落成流民，", py: "yì dì zuò kè yǒng wú zhù, lún luò chéng liú mín," },
+          { cn: "饥荒相迫世境苦，篱下依何人？", py: "jī huāng xiāng pò shì jìng kǔ, lí xià yī hé rén?" },
+          { cn: "投靠农家求糊口，豆荚如山珍，", py: "tóu kào nóng jiā qiú hú kǒu, dòu jiá rú shān zhēn," },
+          { cn: "心灵饥饿无救助，待毙有谁怜！", py: "xīn líng jī è wú jiù zhù, dài bì yǒu shuí lián!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "浪子此时忽醒悟，家里有父亲，", py: "làng zǐ cǐ shí hū xǐng wù, jiā lǐ yǒu fù qīn," },
+          { cn: "为何在外受痛苦，自绝甘沉沦？", py: "wèi hé zài wài shòu tòng kǔ, zì jué gān chén lún?" },
+          { cn: "我要起来回家去，向父跪哀陈，", py: "wǒ yào qǐ lái huí jiā qù, xiàng fù guì āi chén," },
+          { cn: "从前得罪今悔改，求宥做新人。", py: "cóng qián dé zuì jīn huǐ gǎi, qiú yòu zuò xīn rén。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "天上父神真慈爱，恩典永丰盈，", py: "tiān shàng fù shén zhēn cí ài, ēn diǎn yǒng fēng yíng," },
+          { cn: "浪子醒悟今回头，归家父欢迎；", py: "làng zǐ xǐng wù jīn huí tóu, guī jiā fù huān yíng;" },
+          { cn: "厚赐丰衣与美食，怀抱表亲情，", py: "hòu cì fēng yī yǔ měi shí, huái bào biǎo qīn qíng," },
+          { cn: "因死复活失又得，欢乐满天庭。", py: "yīn sǐ fù huó shī yòu dé, huān lè mǎn tiān tíng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 305,
+    title: "儆醒自责",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "惟真神是我父，不多敬爱；", py: "wéi zhēn shén shì wǒ fù, bú duō jìng ài;" },
+          { cn: "贪爱世界宴乐，难得神悦。", py: "tān ài shì jiè yàn lè, nán dé shén yuè。" },
+          { cn: "求圣灵全更新，使我变为新人；", py: "qiú shèng líng quán gèng xīn, shǐ wǒ biàn wéi xīn rén;" },
+          { cn: "效法主耶稣榜样，荣耀真神。", py: "xiào fǎ zhǔ yē sū bǎng yàng, róng yào zhēn shén。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "惟教会是我家，不多关心；", py: "wéi jiào huì shì wǒ jiā, bú duō guān xīn;" },
+          { cn: "醉心名利、虚华，难得神悦。", py: "zuì xīn míng lì, xū huá, nán dé shén yuè。" },
+          { cn: "求圣灵全更新，使我变为新人；", py: "qiú shèng líng quán gèng xīn, shǐ wǒ biàn wéi xīn rén;" },
+          { cn: "效法主耶稣榜样，荣耀真神。", py: "xiào fǎ zhǔ yē sū bǎng yàng, róng yào zhēn shén。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "惟圣灵是我宝，不多祷告；", py: "wéi shèng líng shì wǒ bǎo, bú duō dǎo gào;" },
+          { cn: "未能多结善果，难得神悦。", py: "wèi néng duō jié shàn guǒ, nán dé shén yuè。" },
+          { cn: "求圣灵全更新，使我变为新人；", py: "qiú shèng líng quán gèng xīn, shǐ wǒ biàn wéi xīn rén;" },
+          { cn: "效法主耶稣榜样，荣耀真神。", py: "xiào fǎ zhǔ yē sū bǎng yàng, róng yào zhēn shén。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "惟传道是我职，不多出力；", py: "wéi chuán dào shì wǒ zhí, bú duō chū lì;" },
+          { cn: "信德有名无实，难得神悦。", py: "xìn dé yǒu míng wú shí, nán dé shén yuè。" },
+          { cn: "求圣灵全更新，使我变为新人；", py: "qiú shèng líng quán gèng xīn, shǐ wǒ biàn wéi xīn rén;" },
+          { cn: "效法主耶稣榜样，荣耀真神。", py: "xiào fǎ zhǔ yē sū bǎng yàng, róng yào zhēn shén。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 306,
+    title: "悔改重生",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "救主使我重生，感激泪盈，", py: "jiù zhǔ shǐ wǒ zhòng shēng, gǎn jī lèi yíng," },
+          { cn: "救我该死罪人，主爱显明；", py: "jiù wǒ gāi sǐ zuì rén, zhǔ ài xiǎn míng;" },
+          { cn: "回想从前各罪，如海沙数不清，", py: "huí xiǎng cóng qián gè zuì, rú hǎi shā shù bú qīng," },
+          { cn: "身心被它捆绑，痛苦莫名。", py: "shēn xīn bèi tā kǔn bǎng, tòng kǔ mò míng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "救主使我重生，赐我圣灵，", py: "jiù zhǔ shǐ wǒ zhòng shēng, cì wǒ shèng líng," },
+          { cn: "方言恩赐明显，造就更新；", py: "fāng yán ēn cì míng xiǎn, zào jiù gèng xīn;" },
+          { cn: "求主助我悔改，使我永做新人，", py: "qiú zhǔ zhù wǒ huǐ gǎi, shǐ wǒ yǒng zuò xīn rén," },
+          { cn: "凡事听从主命，荣耀主名。", py: "fán shì tīng cóng zhǔ mìng, róng yào zhǔ míng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "救主使我重生，我愿献身，", py: "jiù zhǔ shǐ wǒ zhòng shēng, wǒ yuàn xiàn shēn," },
+          { cn: "专心做主圣工，不贪虚荣；", py: "zhuān xīn zuò zhǔ shèng gōng, bù tān xū róng;" },
+          { cn: "主必引我路程，使我做主精兵，", py: "zhǔ bì yǐn wǒ lù chéng, shǐ wǒ zuò zhǔ jīng bīng," },
+          { cn: "向世人做见证，引他归真。", py: "xiàng shì rén zuò jiàn zhèng, yǐn tā guī zhēn。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "救主使我重生，为我牺牲，", py: "jiù zhǔ shǐ wǒ zhòng shēng, wèi wǒ xī shēng," },
+          { cn: "从死复活上升，永不变更；", py: "cóng sǐ fù huó shàng shēng, yǒng bú biàn gēng;" },
+          { cn: "求主使我圣洁，助我灵修完成，", py: "qiú zhǔ shǐ wǒ shèng jié, zhù wǒ líng xiū wán chéng," },
+          { cn: "末日被接见主，永住天城。", py: "mò rì bèi jiē jiàn zhǔ, yǒng zhù tiān chéng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 307,
+    title: "回来吧",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "从前失迷，远离天父，现在要回来；", py: "cóng qián shī mí, yuǎn lí tiān fù, xiàn zài yào huí lái;" },
+          { cn: "长年奔走罪恶道路，主，我要回来！", py: "cháng nián bēn zǒu zuì è dào lù, zhǔ, wǒ yào huí lái!" },
+          { cn: "回来吧！回来吧！不要再放荡；", py: "huí lái ba! huí lái ba! bú yào zài fàng dàng;" },
+          { cn: "慈爱天父伸手接我，我今要回来！", py: "cí ài tiān fù shēn shǒu jiē wǒ, wǒ jīn yào huí lái!" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "从前枉费光阴游荡，现在要回来；", py: "cóng qián wǎng fèi guāng yīn yóu dàng, xiàn zài yào huí lái;" },
+          { cn: "回想忧伤痛悔满心，主，我要回来！", py: "huí xiǎng yōu shāng tòng huǐ mǎn xīn, zhǔ, wǒ yào huí lái!" },
+          { cn: "回来吧！回来吧！不要再放荡；", py: "huí lái ba! huí lái ba! bú yào zài fàng dàng;" },
+          { cn: "慈爱天父伸手接我，我今要回来！", py: "cí ài tiān fù shēn shǒu jiē wǒ, wǒ jīn yào huí lái!" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "从前所行多属不义，现在要回来；", py: "cóng qián suǒ xíng duō shǔ bú yì, xiàn zài yào huí lái;" },
+          { cn: "恳求救主怜悯、医治，主，我要回来！", py: "kěn qiú jiù zhǔ lián mǐn, yī zhì, zhǔ, wǒ yào huí lái!" },
+          { cn: "回来吧！回来吧！不要再放荡；", py: "huí lái ba! huí lái ba! bú yào zài fàng dàng;" },
+          { cn: "慈爱天父伸手接我，我今要回来！", py: "cí ài tiān fù shēn shǒu jiē wǒ, wǒ jīn yào huí lái!" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "从前邪僻、狂傲、自义，现在要回来；", py: "cóng qián xié pì, kuáng ào, zì yì, xiàn zài yào huí lái;" },
+          { cn: "今后愿听圣经真理，主，我要回来！", py: "jīn hòu yuàn tīng shèng jīng zhēn lǐ, zhǔ, wǒ yào huí lái!" },
+          { cn: "回来吧！回来吧！不要再放荡；", py: "huí lái ba! huí lái ba! bú yào zài fàng dàng;" },
+          { cn: "慈爱天父伸手接我，我今要回来！", py: "cí ài tiān fù shēn shǒu jiē wǒ, wǒ jīn yào huí lái!" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 308,
+    title: "主是罪人的朋友",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "让我向你述说主耶稣的慈爱：祂曾离弃天上荣耀大宝座，", py: "ràng wǒ xiàng nǐ shù shuō zhǔ yē sū de cí ài: tā céng lí qì tiān shàng róng yào dà bǎo zuò," },
+          { cn: "祂曾被钉在十架上流血舍命；为要拯救众罪人出死入生。", py: "tā céng bèi dìng zài shí jià shàng liú xuè shě mìng; wèi yào zhěng jiù zhòng zuì rén chū sǐ rù shēng。" },
+          { cn: "无人像耶稣这样爱罪人，无人像主这样怜悯我；", py: "wú rén xiàng yē sū zhè yàng ài zuì rén, wú rén xiàng zhǔ zhè yàng lián mǐn wǒ;" },
+          { cn: "主是罪人的朋友、永远不改变，只要你切实悔改。", py: "zhǔ shì zuì rén de péng yǒu, yǒng yuǎn bù gǎi biàn, zhǐ yào nǐ qiè shí huǐ gǎi。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "让我向你述说主如何怜悯我：祂曾来寻找我失丧的灵魂，", py: "ràng wǒ xiàng nǐ shù shuō zhǔ rú hé lián mǐn wǒ: tā céng lái xún zhǎo wǒ shī sàng de líng hún," },
+          { cn: "祂曾洗净我众罪污在祂血里；为要使我完全成圣进神国。", py: "tā céng xǐ jìng wǒ zhòng zuì wū zài tā xuè lǐ; wèi yào shǐ wǒ wán quán chéng shèng jìn shén guó。" },
+          { cn: "无人像耶稣这样爱罪人，无人像主这样怜悯我；", py: "wú rén xiàng yē sū zhè yàng ài zuì rén, wú rén xiàng zhǔ zhè yàng lián mǐn wǒ;" },
+          { cn: "主是罪人的朋友、永远不改变，只要你切实悔改。", py: "zhǔ shì zuì rén de péng yǒu, yǒng yuǎn bù gǎi biàn, zhǐ yào nǐ qiè shí huǐ gǎi。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 309,
+    title: "新年祈望",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "光阴荏苒又到新年，", py: "guāng yīn rěn rǎn yòu dào xīn nián," },
+          { cn: "圣徒齐集天父座前；", py: "shèng tú qí jí tiān fù zuò qián;" },
+          { cn: "虔诚敬拜，感谢颂赞，", py: "qián chéng jìng bài, gǎn xiè sòng zàn," },
+          { cn: "歌声洋洋上达高天。", py: "gē shēng yáng yáng shàng dá gāo tiān。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "感谢天父护卫一年，", py: "gǎn xiè tiān fù hù wèi yī nián," },
+          { cn: "赐福、养育、引导、保全；", py: "cì fú, yǎng yù, yǐn dǎo, bǎo quán;" },
+          { cn: "今岁路程愿再交托，", py: "jīn suì lù chéng yuàn zài jiāo tuō," },
+          { cn: "求父保守，勿使走偏。", py: "qiú fù bǎo shǒu, wù shǐ zǒu piān。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "恳求天父保我身心，", py: "kěn qiú tiān fù bǎo wǒ shēn xīn," },
+          { cn: "及时事奉，荣主益人；", py: "jí shí shì fèng, róng zhǔ yì rén;" },
+          { cn: "更求赐我智慧、能力，", py: "gèng qiú cì wǒ zhì huì, néng lì," },
+          { cn: "遵行父旨，与主相亲。", py: "zūn xíng fù zhǐ, yǔ zhǔ xiāng qīn。" }
+        ]
+      },
+      {
+        verse: 4,
+        content: [
+          { cn: "求主使我信德日增，", py: "qiú zhǔ shǐ wǒ xìn dé rì zēng," },
+          { cn: "属灵生活步步上升；", py: "shǔ líng shēng huó bù bù shàng shēng;" },
+          { cn: "一年事工托主手中，", py: "yī nián shì gōng tuō zhǔ shǒu zhōng," },
+          { cn: "求主赐予平安、复兴。", py: "qiú zhǔ cì yǔ píng ān, fù xīng。" }
+        ]
+      }
+    ]
+  },
+  {
+    id: 310,
+    title: "年终感颂",
+    sections: [
+      {
+        verse: 1,
+        content: [
+          { cn: "光阴消逝如飞箭，转瞬一年又告终，", py: "guāng yīn xiāo shì rú fēi jiàn, zhuǎn shùn yī nián yòu gào zhōng," },
+          { cn: "寒来暑往相交替，新春、盛夏，复秋冬；", py: "hán lái shǔ wǎng xiāng jiāo tì, xīn chūn, shèng xià, fù qiū dōng;" },
+          { cn: "总计循环一岁毕，如今回顾省吾躬，", py: "zǒng jì xún huán yī suì bì, rú jīn huí gù xǐng wú gōng," },
+          { cn: "深愧虚度好年月，成就无多主圣工。", py: "shēn kuì xū dù hǎo nián yuè, chéng jiù wú duō zhǔ shèng gōng。" }
+        ]
+      },
+      {
+        verse: 2,
+        content: [
+          { cn: "人生万事如捕风，劳苦、叹息虚空中，", py: "rén shēng wàn shì rú bǔ fēng, láo kǔ, tàn xī xū kōng zhōng," },
+          { cn: "感谢主恩赐灵命，脱离罪恶跟主踪；", py: "gǎn xiè zhǔ ēn cì líng mìng, tuō lí zuì è gēn zhǔ zōng;" },
+          { cn: "回想年年蒙福乐，主恩赐我永无穷，", py: "huí xiǎng nián nián méng fú lè, zhǔ ēn cì wǒ yǒng wú qióng," },
+          { cn: "求主厚赐我力量，多为主工尽精忠。", py: "qiú zhǔ hòu cì wǒ lì liàng, duō wéi zhǔ gōng jìn jīng zhōng。" }
+        ]
+      },
+      {
+        verse: 3,
+        content: [
+          { cn: "感谢所受诸恩典，更祈赦免旧罪愆，", py: "gǎn xiè suǒ shòu zhū ēn diǎn, gèng qí shè miǎn jiù zuì qiān," },
+          { cn: "今后勤奋应加倍，进德修道胜往年；", py: "jīn hòu qín fèn yīng jiā bèi, jìn dé xiū dào shèng wǎng nián;" },
+          { cn: "谨守真道深爱主，盼望更大，信更坚，", py: "jǐn shǒu zhēn dào shēn ài zhǔ, pàn wàng gèng dà, xìn gèng jiān," },
+          { cn: "年复一年无虚度，主工完毕享圣筵。", py: "nián fù yī nián wú xū dù, zhǔ gōng wán bì xiǎng shèng yàn。" }
+        ]
+      }
+    ]
   }
         ];
