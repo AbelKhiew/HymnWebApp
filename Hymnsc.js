@@ -4155,34 +4155,34 @@ const hymns_cn = [
       {
         verse: 1,
         content: [
-          { cn: "众兄弟!都撒醒,起身走你路程,", py: "zhòng xiōng dì! dōu sǎ xǐng, qǐ shēn zǒu nǐ lù chéng," },
-          { cn: "服事主要尽忠,总不要暂停工,", py: "fú shì zhǔ yào jìn zhōng, zǒng bù yào zàn tíng gōng," },
-          { cn: "到救主临空中,主圣名要尊敬,", py: "dào jiù zhǔ lín kōng zhōng, zhǔ shèng míng yào zūn jìng," },
-          { cn: "主旨意要遵行,望各人守本分。", py: "zhǔ zhǐ yì yào zūn xíng, wàng gè rén shǒu běn fèn。" },
-          { cn: "存敬畏事奉神,以和平亲爱人,", py: "cún jìng wèi shì fèng shén, yǐ hé píng qīn ài rén," },
-          { cn: "存敬畏事奉神,以和平亲爱人。", py: "cún jìng wèi shì fèng shén, yǐ hé píng qīn ài rén。" }
+          { cn: "众兄弟!都撒醒, 起身走你路程,", py: "zhòng xiōng dì! dōu sǎ xǐng, qǐ shēn zǒu nǐ lù chéng," },
+          { cn: "服事主要尽忠, 总不要暂停工,", py: "fú shì zhǔ yào jìn zhōng, zǒng bù yào zàn tíng gōng," },
+          { cn: "到救主临空中, 主圣名要尊敬,", py: "dào jiù zhǔ lín kōng zhōng, zhǔ shèng míng yào zūn jìng," },
+          { cn: "主旨意要遵行, 望各人守本分。", py: "zhǔ zhǐ yì yào zūn xíng, wàng gè rén shǒu běn fèn。" },
+          { cn: "存敬畏事奉神, 以和平亲爱人,", py: "cún jìng wèi shì fèng shén, yǐ hé píng qīn ài rén," },
+          { cn: "存敬畏事奉神, 以和平亲爱人。", py: "cún jìng wèi shì fèng shén, yǐ hé píng qīn ài rén." }
         ]
       },
       {
         verse: 2,
         content: [
-          { cn: "这世界不长久,一切事如水流,", py: "zhè shì jiè bù cháng jiǔ, yī qiè shì rú shuǐ liú," },
-          { cn: "虽时刻不止住,如梭穿如电闪,", py: "suī shí kè bù zhǐ zhù, rú suō chuān rú diàn shǎn," },
-          { cn: "一转眼就过去,昼将晚往后退,", py: "yī zhuǎn yǎn jiù guò qù, zhòu jiāng wǎn wǎng hòu tuì," },
-          { cn: "夜又起向前追,当趁早易消磨!", py: "yè yòu qǐ xiàng qián zhuī, dāng chèn zǎo yì xiāo mó!" },
-          { cn: "这世代如转轮,新天地已近边,", py: "zhè shì dài rú zhuǎn lún, xīn tiān dì yǐ jìn biān," },
-          { cn: "这世代如转轮,新天地已近边。", py: "zhè shì dài rú zhuǎn lún, xīn tiān dì yǐ jìn biān。" }
+          { cn: "这世界不长久, 一切事如水流,", py: "zhè shì jiè bù cháng jiǔ, yī qiè shì rú shuǐ liú," },
+          { cn: "虽时刻不止住, 如梭穿如电闪,", py: "suī shí kè bù zhǐ zhù, rú suō chuān rú diàn shǎn," },
+          { cn: "一转眼就过去, 昼将晚往后退,", py: "yī zhuǎn yǎn jiù guò qù, zhòu jiāng wǎn wǎng hòu tuì," },
+          { cn: "夜又起向前追, 当趁早易消磨!", py: "yè yòu qǐ xiàng qián zhuī, dāng chèn zǎo yì xiāo mó!" },
+          { cn: "这世代如转轮, 新天地已近边,", py: "zhè shì dài rú zhuǎn lún, xīn tiān dì yǐ jìn biān," },
+          { cn: "这世代如转轮, 新天地已近边。", py: "zhè shì dài rú zhuǎn lún, xīn tiān dì yǐ jìn biān." }
         ]
       },
       {
         verse: 3,
         content: [
-          { cn: "愿大家在那日,能向前对主说:", py: "yuàn dà jiā zài nà rì, néng xiàng qián duì zhǔ shuō:" },
-          { cn: "我一路打胜仗,称托我那些事,", py: "wǒ yī lù dǎ shèng zhàng, chēng tuō wǒ nà xiē shì," },
-          { cn: "都成功、都停当,愿各人从救主,", py: "dōu chéng gōng, dōu tíng dàng, yuàn gè rén cóng jiù zhǔ," },
-          { cn: "能听见这言语:“真善战,我良仆!”", py: "néng tīng jiàn zhè yán yǔ: “zhēn shàn zhàn, wǒ liáng pú!”" },
-          { cn: "你所为忠且义,可进来享我福!", py: "nǐ suǒ wéi zhōng qiě yì, kě jìn lái xiǎng wǒ fú!" },
-          { cn: "你所为忠且义,可进来享我福!", py: "nǐ suǒ wéi zhōng qiě yì, kě jìn lái xiǎng wǒ fú!" }
+          { cn: "愿大家在那日, 能向前对主说:", py: "yuàn dà jiā zài nà rì, néng xiàng qián duì zhǔ shuō:" },
+          { cn: "我一路打胜仗, 称托我那些事,", py: "wǒ yī lù dǎ shèng zhàng, chēng tuō wǒ nà xiē shì," },
+          { cn: "都成功、都停当, 愿各人从救主,", py: "dōu chéng gōng, dōu tíng dàng, yuàn gè rén cóng jiù zhǔ," },
+          { cn: "能听见这言语: “真善战,我良仆!”", py: "néng tīng jiàn zhè yán yǔ: “zhēn shàn zhàn, wǒ liáng pú!”" },
+          { cn: "你所为忠且义, 可进来享我福!", py: "nǐ suǒ wéi zhōng qiě yì, kě jìn lái xiǎng wǒ fú!" },
+          { cn: "你所为忠且义, 可进来享我福!", py: "nǐ suǒ wéi zhōng qiě yì, kě jìn lái xiǎng wǒ fú!" }
         ]
       }
     ]
@@ -4197,7 +4197,7 @@ const hymns_cn = [
           { cn: "圣哉, 圣哉, 圣哉, 全能大主宰", py: "shèng zāi, shèng zāi, shèng zāi, quán néng dà zhǔ zǎi! " },
           { cn: "天上、地下、海中万物, 颂主高名", py: "tiān shàng, dì xià, hǎi zhōng wàn wù, sòng zhǔ gāo míng; " },
           { cn: "圣善、恩慈、诚实, 自古永无更改", py: "shèng shàn, ēn cí, chéng shí, zì gǔ yǒng wú gèng gǎi. " },
-          { cn: "独一的真神, 应当受赞美。test", py: "dú yī de zhēn shén, yīng dāng shòu zàn měi. " }
+          { cn: "独一的真神, 应当受赞美。", py: "dú yī de zhēn shén, yīng dāng shòu zàn měi." }
         ]
       },
       {
